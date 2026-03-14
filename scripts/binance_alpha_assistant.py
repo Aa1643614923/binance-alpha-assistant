@@ -353,6 +353,8 @@ class AlphaAssistantBuilder:
                 "percent_change_24h": to_float(token.get("percentChange24h")),
                 "volume24h": token_list_volume24h,
                 "token_list_volume24h": token_list_volume24h,
+                "display_volume24h": alpha_trade_quote_volume24h,
+                "display_volume_method": "alpha_trade_quote_volume",
                 "alpha_trade_quote_volume24h": alpha_trade_quote_volume24h,
                 "alpha_trade_base_volume24h": alpha_trade_base_volume24h,
                 "liquidity": to_float(token.get("liquidity")) or 0.0,
@@ -415,7 +417,16 @@ class AlphaAssistantBuilder:
         return clamp(risk_factor - clamp((buy_tax + sell_tax) / 20.0, 0.0, 0.25), 0.0, 1.0)
 
     def build_stable_reasons(self, token: Dict[str, Any]) -> List[str]:
-        reasons = [f"24h 成交额 {token['volume24h']:,.0f}，流动性 {token['liquidity']:,.0f}"]
+        alpha_trade_volume24h = to_float(token.get("stable_volume24h"))
+        if alpha_trade_volume24h is None:
+            alpha_trade_volume24h = to_float(token.get("alpha_trade_quote_volume24h"))
+        if alpha_trade_volume24h is None:
+            alpha_trade_volume24h = to_float(token.get("display_volume24h"))
+        alpha_trade_volume24h = alpha_trade_volume24h or 0.0
+        token_list_volume24h = to_float(token.get("token_list_volume24h")) or 0.0
+        reasons = [f"Alpha Trade 24h 成交额 {alpha_trade_volume24h:,.0f}，流动性 {token['liquidity']:,.0f}"]
+        if token_list_volume24h > 0:
+            reasons.append(f"Alpha 列表口径 24h 成交额 {token_list_volume24h:,.0f}")
         if token.get("realized_volatility_pct") is not None:
             reasons.append(f"短周期波动 {token['realized_volatility_pct']:.2f}%")
         if token.get("amplitude_4h_pct") is not None:
@@ -431,22 +442,27 @@ class AlphaAssistantBuilder:
         interval = str(self.config.get("alpha_kline_interval") or "5m")
         limit = to_int(self.config.get("alpha_kline_limit")) or 48
         for token in quadruple_tokens:
-            if (token.get("volume24h") or 0) < min_volume24h or (token.get("liquidity") or 0) < min_liquidity or not token.get("alpha_trade_symbol"):
+            alpha_trade_volume24h = to_float(token.get("alpha_trade_quote_volume24h"))
+            if alpha_trade_volume24h is None:
+                alpha_trade_volume24h = to_float(token.get("display_volume24h"))
+            alpha_trade_volume24h = alpha_trade_volume24h or 0.0
+            if alpha_trade_volume24h < min_volume24h or (token.get("liquidity") or 0) < min_liquidity or not token.get("alpha_trade_symbol"):
                 continue
             klines = self.safe_call(f"alpha_klines:{token['alpha_trade_symbol']}", self.client.get_alpha_klines, token["alpha_trade_symbol"], interval, limit, fallback=[])
             audit = self.safe_call(f"token_audit:{token['symbol']}", self.client.audit_token, token.get("chain_id"), token.get("contract_address"), fallback={})
             item = {**token, **self.compute_kline_stats(klines)}
+            item["stable_volume24h"] = alpha_trade_volume24h
             item["audit_risk"] = audit.get("riskLevelEnum")
             item["audit_factor"] = self.compute_audit_factor(audit)
             analyzed.append(item)
-        volume_values = [to_float(item.get("volume24h")) for item in analyzed]
+        volume_values = [to_float(item.get("stable_volume24h")) for item in analyzed]
         liquidity_values = [to_float(item.get("liquidity")) for item in analyzed]
         holder_values = [to_float(item.get("holders")) for item in analyzed]
         volatility_values = [to_float(item.get("realized_volatility_pct")) for item in analyzed]
         amplitude_values = [to_float(item.get("amplitude_4h_pct")) for item in analyzed]
         for item in analyzed:
             score = (
-                min_max_scale(volume_values, to_float(item.get("volume24h"))) * 25
+                min_max_scale(volume_values, to_float(item.get("stable_volume24h"))) * 25
                 + min_max_scale(liquidity_values, to_float(item.get("liquidity"))) * 20
                 + min_max_scale(holder_values, to_float(item.get("holders"))) * 15
                 + (1.0 - min_max_scale(volatility_values, to_float(item.get("realized_volatility_pct")))) * 20
@@ -457,9 +473,9 @@ class AlphaAssistantBuilder:
             item["reason"] = self.build_stable_reasons(item)
         analyzed.sort(key=lambda item: item.get("stability_score") or 0.0, reverse=True)
         top_items = analyzed[: (to_int(self.config.get("stable_limit")) or 5)]
-        summary = ["稳定刷分分数综合考虑成交额、流动性、持有人、短周期波动、4h 振幅与审计风险。"]
+        summary = ["稳定刷分分数综合考虑 Alpha Trade 24h 成交额、流动性、持有人、短周期波动、4h 振幅与审计风险。"]
         if top_items:
-            summary.insert(0, f"当前最适合稳定刷分的首选是 {top_items[0]['symbol']}，因为流动性与成交额更高，短周期波动更可控。")
+            summary.insert(0, f"当前最适合稳定刷分的首选是 {top_items[0]['symbol']}，因为 Alpha Trade 成交额与流动性更高，短周期波动更可控。")
         return {"analyzed_count": len(analyzed), "recommendations": top_items, "summary": summary}
 
     def compute_open_interest_change(self, history: List[Dict[str, Any]]) -> Optional[float]:
@@ -568,16 +584,27 @@ def render_markdown(report: Dict[str, Any]) -> str:
         f"- 生成时间：{report['generated_at']}",
         f"- 四倍分代币数：{report['quadruple_points']['token_count']}",
         f"- 四倍分 24h 总成交额：{report['quadruple_points']['total_volume_24h']:.2f}",
+        f"- 成交额口径：{report['quadruple_points'].get('volume_method') or 'alpha_trade_quote_volume_sum'}",
         f"- 估算参与人数：{(report['quadruple_points']['estimated_participants'] or 0):.0f}（按 {report['assumptions']['participant_volume_standard']} / 人）",
         "",
         "## 四倍分代币",
         "",
     ])
     for item in report["quadruple_points"]["tokens"]:
-        lines.append(f"- {item['symbol']} | 成交额 {item['volume24h']:.2f} | 涨跌 {item['percent_change_24h'] or 0:.2f}% | 振幅 {item['amplitude_24h_pct'] or 0:.2f}% | 估算人数 {(item['estimated_participants'] or 0):.0f}")
+        lines.append(
+            f"- {item['symbol']} | Alpha Trade 成交额 {(item.get('alpha_trade_quote_volume24h') or 0):.2f}"
+            f" | 列表口径 {(item.get('token_list_volume24h') or 0):.2f}"
+            f" | 涨跌 {item['percent_change_24h'] or 0:.2f}% | 振幅 {item['amplitude_24h_pct'] or 0:.2f}%"
+            f" | 估算人数 {(item['estimated_participants'] or 0):.0f}"
+        )
     lines.extend(["", "## 稳定刷分推荐", ""])
     for item in report["stable_candidates"]["recommendations"]:
-        lines.append(f"- {item['symbol']} | 分数 {item['stability_score']:.2f} | 波动 {item.get('realized_volatility_pct') or 0:.2f}% | 4h 振幅 {item.get('amplitude_4h_pct') or 0:.2f}% | 审计 {item.get('audit_risk') or '-'}")
+        lines.append(
+            f"- {item['symbol']} | 分数 {item['stability_score']:.2f}"
+            f" | Alpha Trade 成交额 {(item.get('stable_volume24h') or item.get('alpha_trade_quote_volume24h') or 0):.2f}"
+            f" | 波动 {item.get('realized_volatility_pct') or 0:.2f}%"
+            f" | 4h 振幅 {item.get('amplitude_4h_pct') or 0:.2f}% | 审计 {item.get('audit_risk') or '-'}"
+        )
         for reason in item.get("reason") or []:
             lines.append(f"  - {reason}")
     lines.extend(["", "## Alpha 合约异动", "", f"- 可映射 U 本位合约数：{report['futures_alerts']['matched_contract_count']}"])

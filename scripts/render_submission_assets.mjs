@@ -1,8 +1,10 @@
 import { chromium } from 'playwright';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
+import { fileURLToPath } from 'node:url';
 
-const baseDir = 'c:/X/skills/binance-alpha-assistant';
+const scriptDir = path.dirname(fileURLToPath(import.meta.url));
+const baseDir = path.resolve(scriptDir, '..');
 const demoPath = path.join(baseDir, 'demo', 'index.html');
 const submissionPath = path.join(baseDir, 'submission', 'submission_brief.html');
 const assetsDir = path.join(baseDir, 'submission', 'assets');
