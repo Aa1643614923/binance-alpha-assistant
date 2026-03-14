@@ -1,0 +1,23 @@
+{
+  "participant_volume_standard": 8200,
+  "request_timeout_seconds": 20,
+  "request_interval_seconds": 0.08,
+  "alpha_kline_interval": "5m",
+  "alpha_kline_limit": 48,
+  "stable_limit": 5,
+  "futures_probe_limit": 12,
+  "futures_alert_limit": 8,
+  "announcement_limit_per_catalog": 3,
+  "recent_listing_hours": 72,
+  "announcement_catalog_ids": [48, 49, 93],
+  "stable_thresholds": {
+    "min_volume24h": 500000,
+    "min_liquidity": 150000
+  },
+  "futures_thresholds": {
+    "min_abs_price_change_pct": 8,
+    "min_quote_volume": 5000000,
+    "min_abs_oi_change_pct": 0.5,
+    "min_abs_funding_bps": 1.0
+  }
+}

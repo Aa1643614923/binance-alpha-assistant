@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang='zh-CN'>
+<head>
+  <meta charset='utf-8'>
+  <title>币安 Alpha 助手 - 提交说明</title>
+  <style>
+    body{font-family:Arial,'Microsoft YaHei',sans-serif;background:#fff;color:#111;line-height:1.6;margin:0}
+    .wrap{max-width:980px;margin:0 auto;padding:32px}
+    h1,h2{margin:0 0 12px} .muted{color:#666} .card{border:1px solid #ddd;border-radius:14px;padding:16px;margin:14px 0}
+    .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px} .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+    .kpi{border:1px solid #ddd;border-radius:12px;padding:14px} .v{font-size:28px;font-weight:700}
+    img{width:100%;border:1px solid #ddd;border-radius:12px} ul{margin:8px 0 0}
+  </style>
+</head>
+<body>
+<div class='wrap'>
+  <h1>币安 Alpha 助手</h1>
+  <div class='muted'>Binance Alpha 赛道的 AI Agent：四倍分跟踪 / 稳定刷分推荐 / 合约异动 / 官方日报</div>
+
+  <div class='kpis'>
+    <div class='kpi'><div class='muted'>四倍分代币数</div><div class='v'>8</div></div>
+    <div class='kpi'><div class='muted'>四倍分 24h 总成交额</div><div class='v'>$1.34B</div></div>
+    <div class='kpi'><div class='muted'>估算参与人数</div><div class='v'>163130</div></div>
+    <div class='kpi'><div class='muted'>Alpha 对应合约数</div><div class='v'>214</div></div>
+  </div>
+
+  <div class='card'>
+    <h2>产品要解决的问题</h2>
+    <p>币安 Alpha 用户往往要在多个页面之间来回切换，才能知道哪些是四倍分、当前竞争强度如何、哪些币更适合稳定刷分、哪些 Alpha 相关合约正在异动，以及最近币安官方又有哪些上新和活动。币安 Alpha 助手把这些数据自动整合成一套可直接执行的日报和看板。</p>
+  </div>
+
+  <div class='card'>
+    <h2>核心能力</h2>
+    <ul>
+      <li>自动识别 Binance Alpha 官方四倍分代币，并统计总成交额</li>
+      <li>按 8200 / 人标准估算参与人数，帮助判断竞争强度</li>
+      <li>结合成交额、流动性、持有人、波动和审计结果，推荐更适合稳定刷分的代币</li>
+      <li>联动 Binance U 本位合约，筛出需要提醒的异动标的</li>
+      <li>自动生成包含官方上新、官方新闻和官方活动的 Alpha 日报</li>
+    </ul>
+  </div>
+
+  <div class='card'>
+    <h2>当前演示结论</h2>
+    <ul>
+      <li>稳定刷分首选：BSB</li>
+      <li>重点合约异动：DOOD / DOODUSDT</li>
+      <li>过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。</li><li>官方最新上新关注：Binance Will List Katana (KAT) with Seed Tag Applied</li><li>Latest Binance News：Binance Will Extend the Monitoring Tag to Include ATA, A2Z, FIO, GTC, NTRN, PHB, QI & RDNT on 2026-03-13</li><li>Latest Activities：Velvet Trading Competition: Trade Velvet (VELVET) and Share $200K Worth of Rewards</li>
+    </ul>
+  </div>
+
+  <div class='grid'>
+    <div><img src='./assets/demo-overview.png'><div class='muted'>四倍分总览</div></div>
+    <div><img src='./assets/demo-stable.png'><div class='muted'>稳定刷分推荐</div></div>
+    <div><img src='./assets/demo-futures.png'><div class='muted'>合约异动</div></div>
+    <div><img src='./assets/demo-daily.png'><div class='muted'>Alpha 日报</div></div>
+  </div>
+
+  <div class='card'>
+    <h2>OpenClaw / GitHub 复用方式</h2>
+    <p>项目支持一键生成 JSON、Markdown 和 HTML 三种输出。其他 OpenClaw 或 Agent 可以直接消费 JSON 结果；GitHub 用户可以直接展示 HTML demo 或接入 GitHub Pages。</p>
+  </div>
+</div>
+</body>
+</html>

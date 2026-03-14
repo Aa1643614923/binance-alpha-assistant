@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>币安 Alpha 助手</title>
+  <style>
+    body{margin:0;background:#0b1020;color:#edf2ff;font-family:system-ui,sans-serif} .wrap{max-width:1200px;margin:0 auto;padding:24px}
+    .hero,.cards,.tabs,.grid{display:grid;gap:12px}.hero{grid-template-columns:1fr auto}.cards{grid-template-columns:repeat(auto-fit,minmax(220px,1fr));margin:18px 0}
+    .card,.panel{background:#121a36;border:1px solid #25325f;border-radius:16px;padding:16px}.label{color:#95a2c6;font-size:13px}.value{font-size:28px;font-weight:700;margin-top:8px}
+    .tabs{grid-template-columns:repeat(4,1fr);margin-bottom:12px}.tab{padding:10px 12px;border-radius:999px;border:1px solid #2b3a67;background:#101734;color:#edf2ff;cursor:pointer}.tab.active{border-color:#f3ba2f;color:#f3ba2f}
+    .panel{display:none}.panel.active{display:block} table{width:100%;border-collapse:collapse;font-size:14px} th,td{padding:10px;border-bottom:1px solid rgba(255,255,255,.08);text-align:left;vertical-align:top}
+    .muted{color:#95a2c6}.good{color:#31d0aa}.bad{color:#ff6b81}.warn{color:#ffb454} .grid{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))} a{color:#8cc4ff;text-decoration:none}
+    ul{padding-left:20px} .small{font-size:12px} .pill{display:inline-block;border:1px solid #2b3a67;border-radius:999px;padding:3px 8px}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero"><div><h1>币安 Alpha 助手</h1><div class="muted">四倍分 / 稳定刷分 / 合约异动 / 官方日报</div></div><div class="small muted" id="generatedAt"></div></div>
+  <div class="cards" id="cards"></div>
+  <div class="tabs">
+    <button class="tab active" data-tab="q">四倍分</button>
+    <button class="tab" data-tab="s">稳定刷分</button>
+    <button class="tab" data-tab="f">合约异动</button>
+    <button class="tab" data-tab="d">日报</button>
+  </div>
+  <section class="panel active" id="panel-q"></section>
+  <section class="panel" id="panel-s"></section>
+  <section class="panel" id="panel-f"></section>
+  <section class="panel" id="panel-d"></section>
+  <div class="small muted" id="warnings"></div>
+</div>
+<script>
+const report=__REPORT_JSON__;
+const num=(v,d=2)=>v===null||v===undefined||Number.isNaN(Number(v))?'-':Number(v).toLocaleString('en-US',{maximumFractionDigits:d});
+const pct=(v,d=2)=>v===null||v===undefined||Number.isNaN(Number(v))?'-':`${Number(v)>0?'+':''}${Number(v).toFixed(d)}%`;
+const money=v=>v===null||v===undefined||Number.isNaN(Number(v))?'-':(Math.abs(v)>=1e9?`$${(v/1e9).toFixed(2)}B`:Math.abs(v)>=1e6?`$${(v/1e6).toFixed(2)}M`:Math.abs(v)>=1e3?`$${(v/1e3).toFixed(2)}K`:`$${Number(v).toFixed(2)}`);
+const klass=v=>Number(v)>0?'good':Number(v)<0?'bad':'warn';
+document.getElementById('generatedAt').textContent=`生成时间：${report.generated_at}`;
+document.getElementById('cards').innerHTML=[
+  ['四倍分代币数',report.quadruple_points.token_count],
+  ['四倍分 24h 总成交额',money(report.quadruple_points.total_volume_24h)],
+  ['估算参与人数',num(report.quadruple_points.estimated_participants,0)],
+  ['Alpha 对应合约数',report.futures_alerts.matched_contract_count]
+].map(i=>`<div class="card"><div class="label">${i[0]}</div><div class="value">${i[1]}</div></div>`).join('');
+document.getElementById('panel-q').innerHTML=`<h2>四倍分概览</h2><ul><li>默认按 ${num(report.assumptions.participant_volume_standard,0)} / 人估算参与人数。</li><li>仅把官方 Alpha 列表中的 mulPoint = 4 识别为四倍分。</li></ul><table><thead><tr><th>代币</th><th>倍数</th><th>24h 成交额</th><th>24h 涨跌</th><th>24h 振幅</th><th>流动性</th><th>持有人</th><th>估算人数</th></tr></thead><tbody>${report.quadruple_points.tokens.map(i=>`<tr><td><strong>${i.symbol}</strong><div class="small muted">${i.alpha_trade_symbol||'-'}</div></td><td>${i.mul_point}x</td><td>${money(i.volume24h)}</td><td class="${klass(i.percent_change_24h)}">${pct(i.percent_change_24h)}</td><td>${pct(i.amplitude_24h_pct)}</td><td>${money(i.liquidity)}</td><td>${num(i.holders,0)}</td><td>${num(i.estimated_participants,0)}</td></tr>`).join('')}</tbody></table>`;
+document.getElementById('panel-s').innerHTML=`<h2>稳定刷分推荐</h2><ul>${report.stable_candidates.summary.map(i=>`<li>${i}</li>`).join('')}</ul><table><thead><tr><th>代币</th><th>分数</th><th>24h 成交额</th><th>流动性</th><th>短周期波动</th><th>4h 振幅</th><th>审计</th><th>原因</th></tr></thead><tbody>${report.stable_candidates.recommendations.map(i=>`<tr><td><strong>${i.symbol}</strong></td><td>${num(i.stability_score)}</td><td>${money(i.volume24h)}</td><td>${money(i.liquidity)}</td><td>${pct(i.realized_volatility_pct)}</td><td>${pct(i.amplitude_4h_pct)}</td><td>${i.audit_risk||'-'}</td><td>${(i.reason||[]).join('<br>')}</td></tr>`).join('')}</tbody></table>`;
+document.getElementById('panel-f').innerHTML=`<h2>Alpha 合约异动</h2><table><thead><tr><th>Alpha / 合约</th><th>24h 涨跌</th><th>24h 成交额</th><th>资金费率</th><th>5m 持仓变化</th><th>分数</th><th>通知</th><th>原因</th></tr></thead><tbody>${report.futures_alerts.alerts.map(i=>`<tr><td><strong>${i.alpha_symbol}</strong><div class="small muted">${i.futures_symbol}</div></td><td class="${klass(i.price_change_percent_24h)}">${pct(i.price_change_percent_24h)}</td><td>${money(i.quote_volume_24h)}</td><td>${pct(i.funding_bps,2).replace('%',' bps')}</td><td>${pct(i.open_interest_change_5m_pct)}</td><td>${num(i.alert_score)}</td><td>${i.should_notify?'<span class="pill bad">建议通知</span>':'<span class="pill">观察</span>'}</td><td>${(i.reasons||[]).join('<br>')}</td></tr>`).join('')}</tbody></table>`;
+document.getElementById('panel-d').innerHTML=`<h2>Alpha 日报</h2><ul>${report.daily_brief.summary.map(i=>`<li>${i}</li>`).join('')}</ul><div class="grid"><div class="card"><h3>最近 Alpha 上线</h3><ul>${report.daily_brief.recent_alpha_listings.map(i=>`<li><strong>${i.symbol}</strong> · ${i.mul_point}x · ${i.listing_time||'-'} · ${money(i.volume24h)}</li>`).join('')}</ul></div>${report.daily_brief.official_updates.map(c=>`<div class="card"><h3>${c.catalog_name}</h3><ul>${c.articles.map(a=>`<li><a href="${a.support_url}" target="_blank" rel="noreferrer">${a.title}</a><div class="small muted">${a.publish_time||'-'} · <a href="${a.api_url}" target="_blank">API</a></div><div class="small">${a.summary||''}</div></li>`).join('')}</ul></div>`).join('')}</div>`;
+document.getElementById('warnings').innerHTML=report.warnings.length?`Warnings：<br>${report.warnings.map(i=>`- ${i}`).join('<br>')}`:'Warnings：无';
+document.querySelectorAll('.tab').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('.tab').forEach(n=>n.classList.remove('active'));document.querySelectorAll('.panel').forEach(n=>n.classList.remove('active'));btn.classList.add('active');document.getElementById(`panel-${btn.dataset.tab}`).classList.add('active')}));
+</script>
+</body>
+</html>

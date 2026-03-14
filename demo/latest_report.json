@@ -1,0 +1,870 @@
+{
+  "skill": "binance-alpha-assistant",
+  "generated_at": "2026-03-14T03:47:27.208888+00:00",
+  "assumptions": {
+    "participant_volume_standard": 8200,
+    "alpha_kline_interval": "5m",
+    "alpha_kline_limit": 48,
+    "recent_listing_hours": 72
+  },
+  "quadruple_points": {
+    "token_count": 8,
+    "total_volume_24h": 1340805510.6769366,
+    "total_alpha_trade_quote_volume_24h": 1340805510.6769366,
+    "total_alpha_trade_base_volume_24h": 7121188351.28,
+    "total_token_list_volume24h": 110697053.15121503,
+    "estimated_participants": 163512.86715572397,
+    "volume_method": "alpha_trade_quote_volume_sum",
+    "tokens": [
+      {
+        "symbol": "GUA",
+        "name": "SUPERFORTUNE",
+        "chain_id": "56",
+        "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
+        "alpha_id": "ALPHA_483",
+        "alpha_trade_symbol": "ALPHA_483USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_483USDT",
+          "ALPHA_483USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_483USDT",
+            "quote_volume24h": 1232110090.0501347,
+            "base_volume24h": 4374631424.36,
+            "last_price": 0.28385
+          },
+          {
+            "symbol": "ALPHA_483USDC",
+            "quote_volume24h": 2948720.05479323,
+            "base_volume24h": 10469982.35,
+            "last_price": 0.28388
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.284422127910627,
+        "percent_change_24h": 0.87,
+        "volume24h": 4548370.359288142,
+        "token_list_volume24h": 4548370.359288142,
+        "alpha_trade_quote_volume24h": 1235058810.1049278,
+        "alpha_trade_base_volume24h": 4385101406.71,
+        "liquidity": 2207976.5052938014,
+        "holders": 14386,
+        "count24h": 16747,
+        "listing_time": "2026-02-24T10:00:00+00:00",
+        "listing_time_ms": 1771927200000,
+        "amplitude_24h_pct": 4.31953348182269,
+        "estimated_participants": 150616.92806157656
+      },
+      {
+        "symbol": "BTW",
+        "name": "Bitway",
+        "chain_id": "56",
+        "contract_address": "0x444045b0ee1ee319a660a5e3d604ca0ffa35acaa",
+        "alpha_id": "ALPHA_778",
+        "alpha_trade_symbol": "ALPHA_778USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_778USDT",
+          "ALPHA_778USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_778USDT",
+            "quote_volume24h": 50042752.34694729,
+            "base_volume24h": 2155215216.55,
+            "last_price": 0.02312184
+          },
+          {
+            "symbol": "ALPHA_778USDC",
+            "quote_volume24h": 344439.01966337,
+            "base_volume24h": 14883394.94,
+            "last_price": 0.02309941
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.023121876637249766,
+        "percent_change_24h": -2.63,
+        "volume24h": 5732203.898918341,
+        "token_list_volume24h": 5732203.898918341,
+        "alpha_trade_quote_volume24h": 50387191.36661066,
+        "alpha_trade_base_volume24h": 2170098611.4900002,
+        "liquidity": 1134071.2454795768,
+        "holders": 9676,
+        "count24h": 31525,
+        "listing_time": "2026-03-02T08:00:00+00:00",
+        "listing_time_ms": 1772438400000,
+        "amplitude_24h_pct": 20.184900319656105,
+        "estimated_participants": 6144.779434952519
+      },
+      {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "chain_id": "56",
+        "contract_address": "0x595deaad1eb5476ff1e649fdb7efc36f1e4679cc",
+        "alpha_id": "ALPHA_790",
+        "alpha_trade_symbol": "ALPHA_790USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_790USDT",
+          "ALPHA_790USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_790USDT",
+            "quote_volume24h": 47661045.19454383,
+            "base_volume24h": 297430618.45,
+            "last_price": 0.1495023
+          },
+          {
+            "symbol": "ALPHA_790USDC",
+            "quote_volume24h": 604564.01375508,
+            "base_volume24h": 3760789.2,
+            "last_price": 0.14941302
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.14939242821446827,
+        "percent_change_24h": -5.25,
+        "volume24h": 31333263.57559861,
+        "token_list_volume24h": 31333263.57559861,
+        "alpha_trade_quote_volume24h": 48265609.208298914,
+        "alpha_trade_base_volume24h": 301191407.65,
+        "liquidity": 1400391.1874185654,
+        "holders": 52322,
+        "count24h": 68413,
+        "listing_time": "2026-03-04T10:00:00+00:00",
+        "listing_time_ms": 1772618400000,
+        "amplitude_24h_pct": 43.754768496902805,
+        "estimated_participants": 5886.049903451087
+      },
+      {
+        "symbol": "UP",
+        "name": "Unitas",
+        "chain_id": "56",
+        "contract_address": "0x000008d2175f9aeaddb2430c26f8a6f73c5a0000",
+        "alpha_id": "ALPHA_804",
+        "alpha_trade_symbol": "ALPHA_804USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_804USDT",
+          "ALPHA_804USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_804USDT",
+            "quote_volume24h": 3692577.003854,
+            "base_volume24h": 56068509.1,
+            "last_price": 0.0798
+          },
+          {
+            "symbol": "ALPHA_804USDC",
+            "quote_volume24h": 296440.39855666,
+            "base_volume24h": 4481643.61,
+            "last_price": 0.0792008
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.07841115184684493,
+        "percent_change_24h": 218.82,
+        "volume24h": 49272138.3929752,
+        "token_list_volume24h": 49272138.3929752,
+        "alpha_trade_quote_volume24h": 3989017.40241066,
+        "alpha_trade_base_volume24h": 60550152.71,
+        "liquidity": 1660240.3685111431,
+        "holders": 23312,
+        "count24h": 134580,
+        "listing_time": "2026-03-13T10:00:00+00:00",
+        "listing_time_ms": 1773396000000,
+        "amplitude_24h_pct": 320.5797212078156,
+        "estimated_participants": 486.46553687934875
+      },
+      {
+        "symbol": "SN3",
+        "name": "Nebula3",
+        "chain_id": "56",
+        "contract_address": "0xf758cfb1467a227516d73d87da7d36e7cb6f71f1",
+        "alpha_id": "ALPHA_798",
+        "alpha_trade_symbol": "ALPHA_798USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_798USDT",
+          "ALPHA_798USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_798USDT",
+            "quote_volume24h": 924583.6009833,
+            "base_volume24h": 159055082.03,
+            "last_price": 0.005135
+          },
+          {
+            "symbol": "ALPHA_798USDC",
+            "quote_volume24h": 181112.7319877,
+            "base_volume24h": 31437691.22,
+            "last_price": 0.00517437
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.005146193850544046,
+        "percent_change_24h": -27.61,
+        "volume24h": 2983103.00069691,
+        "token_list_volume24h": 2983103.00069691,
+        "alpha_trade_quote_volume24h": 1105696.332971,
+        "alpha_trade_base_volume24h": 190492773.25,
+        "liquidity": 369408.73234896525,
+        "holders": 1191,
+        "count24h": 18508,
+        "listing_time": "2026-03-11T08:00:00+00:00",
+        "listing_time_ms": 1773216000000,
+        "amplitude_24h_pct": 184.5830703212585,
+        "estimated_participants": 134.84101621597563
+      },
+      {
+        "symbol": "LYN",
+        "name": "Everlyn AI",
+        "chain_id": "56",
+        "contract_address": "0x302dfaf2cdbe51a18d97186a7384e87cf599877d",
+        "alpha_id": "ALPHA_412",
+        "alpha_trade_symbol": "ALPHA_412USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_412USDT",
+          "ALPHA_412USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_412USDT",
+            "quote_volume24h": 850483.7777302,
+            "base_volume24h": 3060370.56,
+            "last_price": 0.19503624
+          },
+          {
+            "symbol": "ALPHA_412USDC",
+            "quote_volume24h": 159367.68904215,
+            "base_volume24h": 581278.01,
+            "last_price": 0.19428631
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.19451037912663374,
+        "percent_change_24h": -29.9,
+        "volume24h": 11210244.0047732,
+        "token_list_volume24h": 11210244.0047732,
+        "alpha_trade_quote_volume24h": 1009851.46677235,
+        "alpha_trade_base_volume24h": 3641648.5700000003,
+        "liquidity": 562535.7826323614,
+        "holders": 22728,
+        "count24h": 67395,
+        "listing_time": "2026-02-25T10:00:00+00:00",
+        "listing_time_ms": 1772013600000,
+        "amplitude_24h_pct": 127.37450207802188,
+        "estimated_participants": 123.15261789906708
+      },
+      {
+        "symbol": "VELVET",
+        "name": "Velvet",
+        "chain_id": "56",
+        "contract_address": "0x8b194370825e37b33373e74a41009161808c1488",
+        "alpha_id": "ALPHA_267",
+        "alpha_trade_symbol": "ALPHA_267USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_267USDT",
+          "ALPHA_267USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_267USDT",
+            "quote_volume24h": 637117.60789696,
+            "base_volume24h": 8034939.33,
+            "last_price": 0.079752
+          },
+          {
+            "symbol": "ALPHA_267USDC",
+            "quote_volume24h": 444.27964225,
+            "base_volume24h": 5608.03,
+            "last_price": 0.07921982
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.07932793466764036,
+        "percent_change_24h": 1.98,
+        "volume24h": 36498.37833510137,
+        "token_list_volume24h": 36498.37833510137,
+        "alpha_trade_quote_volume24h": 637561.88753921,
+        "alpha_trade_base_volume24h": 8040547.36,
+        "liquidity": 1118559.938397405,
+        "holders": 34405,
+        "count24h": 2925,
+        "listing_time": "2026-02-18T10:00:00+00:00",
+        "listing_time_ms": 1771408800000,
+        "amplitude_24h_pct": 10.762462600127861,
+        "estimated_participants": 77.75144969990366
+      },
+      {
+        "symbol": "LAB",
+        "name": "LAB",
+        "chain_id": "56",
+        "contract_address": "0x7ec43cf65f1663f820427c62a5780b8f2e25593a",
+        "alpha_id": "ALPHA_428",
+        "alpha_trade_symbol": "ALPHA_428USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_428USDT",
+          "ALPHA_428USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_428USDT",
+            "quote_volume24h": 346524.82584016,
+            "base_volume24h": 2040435.96,
+            "last_price": 0.175718
+          },
+          {
+            "symbol": "ALPHA_428USDC",
+            "quote_volume24h": 5248.08156605,
+            "base_volume24h": 31367.58,
+            "last_price": 0.17487728
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.1752725411563965,
+        "percent_change_24h": 11.64,
+        "volume24h": 5581231.540629519,
+        "token_list_volume24h": 5581231.540629519,
+        "alpha_trade_quote_volume24h": 351772.90740621,
+        "alpha_trade_base_volume24h": 2071803.54,
+        "liquidity": 1711106.7770588112,
+        "holders": 16950,
+        "count24h": 41248,
+        "listing_time": "2026-03-10T10:00:00+00:00",
+        "listing_time_ms": 1773136800000,
+        "amplitude_24h_pct": 12.512263497598372,
+        "estimated_participants": 42.89913504953781
+      }
+    ]
+  },
+  "stable_candidates": {
+    "analyzed_count": 7,
+    "recommendations": [
+      {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "chain_id": "56",
+        "contract_address": "0x595deaad1eb5476ff1e649fdb7efc36f1e4679cc",
+        "alpha_id": "ALPHA_790",
+        "alpha_trade_symbol": "ALPHA_790USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_790USDT",
+          "ALPHA_790USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_790USDT",
+            "quote_volume24h": 47661045.19454383,
+            "base_volume24h": 297430618.45,
+            "last_price": 0.1495023
+          },
+          {
+            "symbol": "ALPHA_790USDC",
+            "quote_volume24h": 604564.01375508,
+            "base_volume24h": 3760789.2,
+            "last_price": 0.14941302
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.14939242821446827,
+        "percent_change_24h": -5.25,
+        "volume24h": 31333263.57559861,
+        "token_list_volume24h": 31333263.57559861,
+        "alpha_trade_quote_volume24h": 48265609.208298914,
+        "alpha_trade_base_volume24h": 301191407.65,
+        "liquidity": 1400391.1874185654,
+        "holders": 52322,
+        "count24h": 68413,
+        "listing_time": "2026-03-04T10:00:00+00:00",
+        "listing_time_ms": 1772618400000,
+        "amplitude_24h_pct": 43.754768496902805,
+        "estimated_participants": 5886.049903451087,
+        "realized_volatility_pct": 0.2502147722653351,
+        "amplitude_4h_pct": 3.218598858408086,
+        "trend_4h_pct": 1.6971769862025088,
+        "audit_risk": "LOW",
+        "audit_factor": 1.0,
+        "stability_score": 79.75,
+        "reason": [
+          "24h 成交额 31,333,264，流动性 1,400,391",
+          "短周期波动 0.25%",
+          "4h 振幅 3.22%",
+          "审计风险 LOW"
+        ]
+      },
+      {
+        "symbol": "GUA",
+        "name": "SUPERFORTUNE",
+        "chain_id": "56",
+        "contract_address": "0xa5c8e1513b6a08334b479fe4d71f1253259469be",
+        "alpha_id": "ALPHA_483",
+        "alpha_trade_symbol": "ALPHA_483USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_483USDT",
+          "ALPHA_483USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_483USDT",
+            "quote_volume24h": 1232110090.0501347,
+            "base_volume24h": 4374631424.36,
+            "last_price": 0.28385
+          },
+          {
+            "symbol": "ALPHA_483USDC",
+            "quote_volume24h": 2948720.05479323,
+            "base_volume24h": 10469982.35,
+            "last_price": 0.28388
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.284422127910627,
+        "percent_change_24h": 0.87,
+        "volume24h": 4548370.359288142,
+        "token_list_volume24h": 4548370.359288142,
+        "alpha_trade_quote_volume24h": 1235058810.1049278,
+        "alpha_trade_base_volume24h": 4385101406.71,
+        "liquidity": 2207976.5052938014,
+        "holders": 14386,
+        "count24h": 16747,
+        "listing_time": "2026-02-24T10:00:00+00:00",
+        "listing_time_ms": 1771927200000,
+        "amplitude_24h_pct": 4.31953348182269,
+        "estimated_participants": 150616.92806157656,
+        "realized_volatility_pct": 0.11373573907749769,
+        "amplitude_4h_pct": 1.2014264806456314,
+        "trend_4h_pct": 0.28991860360854105,
+        "audit_risk": "LOW",
+        "audit_factor": 1.0,
+        "stability_score": 64.72,
+        "reason": [
+          "24h 成交额 4,548,370，流动性 2,207,977",
+          "短周期波动 0.11%",
+          "4h 振幅 1.20%",
+          "审计风险 LOW"
+        ]
+      },
+      {
+        "symbol": "LAB",
+        "name": "LAB",
+        "chain_id": "56",
+        "contract_address": "0x7ec43cf65f1663f820427c62a5780b8f2e25593a",
+        "alpha_id": "ALPHA_428",
+        "alpha_trade_symbol": "ALPHA_428USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_428USDT",
+          "ALPHA_428USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_428USDT",
+            "quote_volume24h": 346524.82584016,
+            "base_volume24h": 2040435.96,
+            "last_price": 0.175718
+          },
+          {
+            "symbol": "ALPHA_428USDC",
+            "quote_volume24h": 5248.08156605,
+            "base_volume24h": 31367.58,
+            "last_price": 0.17487728
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.1752725411563965,
+        "percent_change_24h": 11.64,
+        "volume24h": 5581231.540629519,
+        "token_list_volume24h": 5581231.540629519,
+        "alpha_trade_quote_volume24h": 351772.90740621,
+        "alpha_trade_base_volume24h": 2071803.54,
+        "liquidity": 1711106.7770588112,
+        "holders": 16950,
+        "count24h": 41248,
+        "listing_time": "2026-03-10T10:00:00+00:00",
+        "listing_time_ms": 1773136800000,
+        "amplitude_24h_pct": 12.512263497598372,
+        "estimated_participants": 42.89913504953781,
+        "realized_volatility_pct": 0.39536299850863815,
+        "amplitude_4h_pct": 3.769368990945593,
+        "trend_4h_pct": 2.514468402875014,
+        "audit_risk": "LOW",
+        "audit_factor": 1.0,
+        "stability_score": 57.44,
+        "reason": [
+          "24h 成交额 5,581,232，流动性 1,711,107",
+          "短周期波动 0.40%",
+          "4h 振幅 3.77%",
+          "审计风险 LOW"
+        ]
+      },
+      {
+        "symbol": "UP",
+        "name": "Unitas",
+        "chain_id": "56",
+        "contract_address": "0x000008d2175f9aeaddb2430c26f8a6f73c5a0000",
+        "alpha_id": "ALPHA_804",
+        "alpha_trade_symbol": "ALPHA_804USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_804USDT",
+          "ALPHA_804USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_804USDT",
+            "quote_volume24h": 3692577.003854,
+            "base_volume24h": 56068509.1,
+            "last_price": 0.0798
+          },
+          {
+            "symbol": "ALPHA_804USDC",
+            "quote_volume24h": 296440.39855666,
+            "base_volume24h": 4481643.61,
+            "last_price": 0.0792008
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.07841115184684493,
+        "percent_change_24h": 218.82,
+        "volume24h": 49272138.3929752,
+        "token_list_volume24h": 49272138.3929752,
+        "alpha_trade_quote_volume24h": 3989017.40241066,
+        "alpha_trade_base_volume24h": 60550152.71,
+        "liquidity": 1660240.3685111431,
+        "holders": 23312,
+        "count24h": 134580,
+        "listing_time": "2026-03-13T10:00:00+00:00",
+        "listing_time_ms": 1773396000000,
+        "amplitude_24h_pct": 320.5797212078156,
+        "estimated_participants": 486.46553687934875,
+        "realized_volatility_pct": 2.3328120479221623,
+        "amplitude_4h_pct": 34.662703724477275,
+        "trend_4h_pct": 25.182129884291715,
+        "audit_risk": "MID",
+        "audit_factor": 0.6,
+        "stability_score": 52.51,
+        "reason": [
+          "24h 成交额 49,272,138，流动性 1,660,240",
+          "短周期波动 2.33%",
+          "4h 振幅 34.66%",
+          "审计风险 MID"
+        ]
+      },
+      {
+        "symbol": "BTW",
+        "name": "Bitway",
+        "chain_id": "56",
+        "contract_address": "0x444045b0ee1ee319a660a5e3d604ca0ffa35acaa",
+        "alpha_id": "ALPHA_778",
+        "alpha_trade_symbol": "ALPHA_778USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_778USDT",
+          "ALPHA_778USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_778USDT",
+            "quote_volume24h": 50042752.34694729,
+            "base_volume24h": 2155215216.55,
+            "last_price": 0.02312184
+          },
+          {
+            "symbol": "ALPHA_778USDC",
+            "quote_volume24h": 344439.01966337,
+            "base_volume24h": 14883394.94,
+            "last_price": 0.02309941
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.023121876637249766,
+        "percent_change_24h": -2.63,
+        "volume24h": 5732203.898918341,
+        "token_list_volume24h": 5732203.898918341,
+        "alpha_trade_quote_volume24h": 50387191.36661066,
+        "alpha_trade_base_volume24h": 2170098611.4900002,
+        "liquidity": 1134071.2454795768,
+        "holders": 9676,
+        "count24h": 31525,
+        "listing_time": "2026-03-02T08:00:00+00:00",
+        "listing_time_ms": 1772438400000,
+        "amplitude_24h_pct": 20.184900319656105,
+        "estimated_participants": 6144.779434952519,
+        "realized_volatility_pct": 0.8445078260308257,
+        "amplitude_4h_pct": 8.455680526177488,
+        "trend_4h_pct": 0.2973797797360289,
+        "audit_risk": "LOW",
+        "audit_factor": 1.0,
+        "stability_score": 43.86,
+        "reason": [
+          "24h 成交额 5,732,204，流动性 1,134,071",
+          "短周期波动 0.84%",
+          "4h 振幅 8.46%",
+          "审计风险 LOW"
+        ]
+      }
+    ],
+    "summary": [
+      "当前最适合稳定刷分的首选是 BSB，因为流动性与成交额更高，短周期波动更可控。",
+      "稳定刷分分数综合考虑成交额、流动性、持有人、短周期波动、4h 振幅与审计风险。"
+    ]
+  },
+  "futures_alerts": {
+    "matched_contract_count": 214,
+    "alerts": [
+      {
+        "alpha_symbol": "DOOD",
+        "futures_symbol": "DOODUSDT",
+        "price_change_percent_24h": 16.523,
+        "quote_volume_24h": 29855750.9507155,
+        "funding_bps": -66.4026,
+        "base_score": 89.42580159846979,
+        "open_interest_change_5m_pct": 1.7842383778405857,
+        "alert_score": 91.57,
+        "should_notify": true,
+        "reasons": [
+          "24h 涨跌 16.52%",
+          "24h 成交额 29,855,751",
+          "资金费率 -66.40 bps",
+          "5m 持仓变化 1.78%"
+        ]
+      },
+      {
+        "alpha_symbol": "KITE",
+        "futures_symbol": "KITEUSDT",
+        "price_change_percent_24h": -8.113,
+        "quote_volume_24h": 88288144.1285,
+        "funding_bps": -60.1327,
+        "base_score": 78.0908152531074,
+        "open_interest_change_5m_pct": 0.09922338621186633,
+        "alert_score": 78.21,
+        "should_notify": true,
+        "reasons": [
+          "24h 涨跌 -8.11%",
+          "24h 成交额 88,288,144",
+          "资金费率 -60.13 bps",
+          "5m 持仓变化 0.10%"
+        ]
+      },
+      {
+        "alpha_symbol": "LYN",
+        "futures_symbol": "LYNUSDT",
+        "price_change_percent_24h": -30.781,
+        "quote_volume_24h": 319949165.87895,
+        "funding_bps": -17.7085,
+        "base_score": 59.27362816102138,
+        "open_interest_change_5m_pct": -0.7090603359806602,
+        "alert_score": 60.12,
+        "should_notify": true,
+        "reasons": [
+          "24h 涨跌 -30.78%",
+          "24h 成交额 319,949,166",
+          "资金费率 -17.71 bps",
+          "5m 持仓变化 -0.71%"
+        ]
+      },
+      {
+        "alpha_symbol": "BANANAS31",
+        "futures_symbol": "BANANAS31USDT",
+        "price_change_percent_24h": 31.678,
+        "quote_volume_24h": 256065094.944369,
+        "funding_bps": 2.5794,
+        "base_score": 46.162230841339536,
+        "open_interest_change_5m_pct": 0.02972316507119377,
+        "alert_score": 46.2,
+        "should_notify": true,
+        "reasons": [
+          "24h 涨跌 31.68%",
+          "24h 成交额 256,065,095",
+          "资金费率 2.58 bps",
+          "5m 持仓变化 0.03%"
+        ]
+      },
+      {
+        "alpha_symbol": "SAHARA",
+        "futures_symbol": "SAHARAUSDT",
+        "price_change_percent_24h": 4.493,
+        "quote_volume_24h": 35683250.29109,
+        "funding_bps": -26.869200000000003,
+        "base_score": 44.39210169368317,
+        "open_interest_change_5m_pct": 0.5664501513201525,
+        "alert_score": 45.07,
+        "should_notify": true,
+        "reasons": [
+          "24h 涨跌 4.49%",
+          "24h 成交额 35,683,250",
+          "资金费率 -26.87 bps",
+          "5m 持仓变化 0.57%"
+        ]
+      },
+      {
+        "alpha_symbol": "SOPH",
+        "futures_symbol": "SOPHUSDT",
+        "price_change_percent_24h": 1.29,
+        "quote_volume_24h": 2439669.831806,
+        "funding_bps": -32.0652,
+        "base_score": 43.942808322929025,
+        "open_interest_change_5m_pct": -0.24042132172752417,
+        "alert_score": 44.23,
+        "should_notify": false,
+        "reasons": [
+          "24h 涨跌 1.29%",
+          "24h 成交额 2,439,670",
+          "资金费率 -32.07 bps",
+          "5m 持仓变化 -0.24%"
+        ]
+      },
+      {
+        "alpha_symbol": "RESOLV",
+        "futures_symbol": "RESOLVUSDT",
+        "price_change_percent_24h": -13.487,
+        "quote_volume_24h": 55260762.31956,
+        "funding_bps": -16.2695,
+        "base_score": 42.465467117725304,
+        "open_interest_change_5m_pct": 0.7872381000301187,
+        "alert_score": 43.41,
+        "should_notify": true,
+        "reasons": [
+          "24h 涨跌 -13.49%",
+          "24h 成交额 55,260,762",
+          "资金费率 -16.27 bps",
+          "5m 持仓变化 0.79%"
+        ]
+      },
+      {
+        "alpha_symbol": "TAG",
+        "futures_symbol": "TAGUSDT",
+        "price_change_percent_24h": 28.708,
+        "quote_volume_24h": 31182372.8013039,
+        "funding_bps": 2.8798000000000004,
+        "base_score": 42.04482015079314,
+        "open_interest_change_5m_pct": 0.035867960944591104,
+        "alert_score": 42.09,
+        "should_notify": true,
+        "reasons": [
+          "24h 涨跌 28.71%",
+          "24h 成交额 31,182,373",
+          "资金费率 2.88 bps",
+          "5m 持仓变化 0.04%"
+        ]
+      }
+    ]
+  },
+  "daily_brief": {
+    "recent_alpha_listings": [
+      {
+        "symbol": "UP",
+        "name": "Unitas",
+        "mul_point": 4,
+        "listing_time": "2026-03-13T10:00:00+00:00",
+        "volume24h": 49272138.3929752,
+        "percent_change_24h": 218.82
+      },
+      {
+        "symbol": "SN3",
+        "name": "Nebula3",
+        "mul_point": 4,
+        "listing_time": "2026-03-11T08:00:00+00:00",
+        "volume24h": 2983103.00069691,
+        "percent_change_24h": -27.61
+      }
+    ],
+    "official_updates": [
+      {
+        "catalog_id": 48,
+        "catalog_name": "New Cryptocurrency Listing",
+        "articles": [
+          {
+            "title": "Binance Will List Katana (KAT) with Seed Tag Applied",
+            "code": "01f1ef18ab314cc78cd3744760e4dc1f",
+            "publish_time": "2026-03-13T01:45:36.337000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/01f1ef18ab314cc78cd3744760e4dc1f",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=01f1ef18ab314cc78cd3744760e4dc1f",
+            "summary": "Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…"
+          },
+          {
+            "title": "Binance Futures Will Launch EWYUSDT USDⓈ-Margined Index Perpetual Contract (2026-03-16)",
+            "code": "ce8f84ad8b6e4307becb06758017cb02",
+            "publish_time": "2026-03-12T14:30:03.959000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/ce8f84ad8b6e4307becb06758017cb02",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=ce8f84ad8b6e4307becb06758017cb02",
+            "summary": "This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…"
+          },
+          {
+            "title": "Binance Will Add Midnight (NIGHT) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
+            "code": "d99bba308e50404b889f677101ed5112",
+            "publish_time": "2026-03-11T15:00:01.739000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/d99bba308e50404b889f677101ed5112",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=d99bba308e50404b889f677101ed5112",
+            "summary": "This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Midnight (…"
+          }
+        ]
+      },
+      {
+        "catalog_id": 49,
+        "catalog_name": "Latest Binance News",
+        "articles": [
+          {
+            "title": "Binance Will Extend the Monitoring Tag to Include ATA, A2Z, FIO, GTC, NTRN, PHB, QI & RDNT on 2026-03-13",
+            "code": "2448b786202948bea67d4cd66f66d208",
+            "publish_time": "2026-03-13T09:00:23.060000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/2448b786202948bea67d4cd66f66d208",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=2448b786202948bea67d4cd66f66d208",
+            "summary": "This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…"
+          },
+          {
+            "title": "Binance Earn: Dual Investment Supports PAXG",
+            "code": "081d43dc3b1145aa86a31748ecf9079b",
+            "publish_time": "2026-03-13T06:00:12.426000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/081d43dc3b1145aa86a31748ecf9079b",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=081d43dc3b1145aa86a31748ecf9079b",
+            "summary": "This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is ex…"
+          },
+          {
+            "title": "Binance Options to Implement Mandatory Self-Trade Prevention (STP) Function For All Users (2026-03-19)",
+            "code": "3e7bde6f41d04801a6e6e5c3e9c8c96a",
+            "publish_time": "2026-03-13T05:00:09.873000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/3e7bde6f41d04801a6e6e5c3e9c8c96a",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=3e7bde6f41d04801a6e6e5c3e9c8c96a",
+            "summary": "This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will be making the Self-Trade Prevention (ST…"
+          }
+        ]
+      },
+      {
+        "catalog_id": 93,
+        "catalog_name": "Latest Activities",
+        "articles": [
+          {
+            "title": "Velvet Trading Competition: Trade Velvet (VELVET) and Share $200K Worth of Rewards",
+            "code": "1a40fb55893c438db6bc117bfc200d88",
+            "publish_time": "2026-03-13T11:00:00+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/1a40fb55893c438db6bc117bfc200d88",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=1a40fb55893c438db6bc117bfc200d88",
+            "summary": "This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…"
+          },
+          {
+            "title": "Balkans Futures Frenzy: Grab a Share of the 17,100 USDC Reward Pool!",
+            "code": "8644afba94b5447883dd2f333d9d716b",
+            "publish_time": "2026-03-13T09:30:03.693000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/8644afba94b5447883dd2f333d9d716b",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=8644afba94b5447883dd2f333d9d716b",
+            "summary": "This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to launch the “Balkans Futures Fr…"
+          },
+          {
+            "title": "Introducing Midnight (NIGHT): Grab a Share of the 90,000,000 NIGHT Token Voucher Prize Pool!",
+            "code": "622b7c207e104e28a94f47afb619e7df",
+            "publish_time": "2026-03-13T07:00:11.676000+00:00",
+            "support_url": "https://www.binance.com/en/support/announcement/detail/622b7c207e104e28a94f47afb619e7df",
+            "api_url": "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query?articleCode=622b7c207e104e28a94f47afb619e7df",
+            "summary": "This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Spot is excited…"
+          }
+        ]
+      }
+    ],
+    "summary": [
+      "过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。",
+      "官方最新上新关注：Binance Will List Katana (KAT) with Seed Tag Applied",
+      "Latest Binance News：Binance Will Extend the Monitoring Tag to Include ATA, A2Z, FIO, GTC, NTRN, PHB, QI & RDNT on 2026-03-13",
+      "Latest Activities：Velvet Trading Competition: Trade Velvet (VELVET) and Share $200K Worth of Rewards"
+    ]
+  },
+  "warnings": []
+}
