@@ -46,7 +46,6 @@
     </div>
     <div class="actions">
       <button class="tab" id="refreshBtn" type="button">刷新最新数据</button>
-      <div class="small muted" id="refreshStatus">数据源：页面内嵌快照</div>
     </div>
   </div>
   <div class="cards" id="cards"></div>
@@ -65,14 +64,18 @@
 <script>
 let report = __REPORT_JSON__;
 
+const BEIJING_TZ = "Asia/Shanghai";
+
 const num = (value, digits = 2) => {
   if (value === null || value === undefined || Number.isNaN(Number(value))) return "-";
   return Number(value).toLocaleString("en-US", { maximumFractionDigits: digits });
 };
+
 const pct = (value, digits = 2) => {
   if (value === null || value === undefined || Number.isNaN(Number(value))) return "-";
   return `${Number(value) > 0 ? "+" : ""}${Number(value).toFixed(digits)}%`;
 };
+
 const money = (value) => {
   if (value === null || value === undefined || Number.isNaN(Number(value))) return "-";
   const v = Number(value);
@@ -81,46 +84,73 @@ const money = (value) => {
   if (Math.abs(v) >= 1e3) return `$${(v / 1e3).toFixed(2)}K`;
   return `$${v.toFixed(2)}`;
 };
+
 const klass = (value) => (Number(value) > 0 ? "good" : Number(value) < 0 ? "bad" : "warn");
 
+function formatBeijingTime(value) {
+  if (!value) return "-";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value);
+  return date.toLocaleString("zh-CN", { timeZone: BEIJING_TZ, hour12: false });
+}
+
+function stableReason(item) {
+  const reasons = [];
+  reasons.push(`24h 成交额 ${money(item.stable_volume24h || item.alpha_trade_quote_volume24h || item.volume24h)}`);
+  reasons.push(`流动性 ${money(item.liquidity)}`);
+  if (item.realized_volatility_pct !== null && item.realized_volatility_pct !== undefined) {
+    reasons.push(`短周期波动 ${pct(item.realized_volatility_pct)}`);
+  }
+  if (item.amplitude_4h_pct !== null && item.amplitude_4h_pct !== undefined) {
+    reasons.push(`4h 振幅 ${pct(item.amplitude_4h_pct)}`);
+  }
+  reasons.push(`审计 ${item.audit_risk || "-"}`);
+  return reasons.join("<br>");
+}
+
 const generatedAtEl = document.getElementById("generatedAt");
-const refreshStatusEl = document.getElementById("refreshStatus");
+const warningsEl = document.getElementById("warnings");
 const refreshBtnEl = document.getElementById("refreshBtn");
 
 function renderReport() {
-  generatedAtEl.textContent = `生成时间：${report.generated_at || "-"}`;
+  generatedAtEl.textContent = `生成时间（北京时间）：${formatBeijingTime(report.generated_at)}`;
 
   document.getElementById("cards").innerHTML = [
     ["四倍分代币数", report.quadruple_points.token_count],
-    ["四倍分 Alpha Trade 24h 总成交额", money(report.quadruple_points.total_volume_24h)],
+    ["四倍分 24h 总成交额", money(report.quadruple_points.total_volume_24h)],
     ["估算参与人数", num(report.quadruple_points.estimated_participants, 0)],
     ["Alpha 对应合约数", report.futures_alerts.matched_contract_count],
   ].map((item) => `<div class="card"><div class="label">${item[0]}</div><div class="value">${item[1]}</div></div>`).join("");
 
-  document.getElementById("panel-q").innerHTML = `<h2>四倍分概览</h2><ul><li>默认按 ${num(report.assumptions.participant_volume_standard, 0)} / 人估算参与人数。</li><li>仅把官方 Alpha 列表中的 mulPoint = 4 识别为四倍分。</li><li>成交额口径统一使用 Alpha Trade 24h quoteVolume；Alpha 列表的 volume24h 仅作参考。</li></ul><table><thead><tr><th>代币</th><th>倍数</th><th>Alpha Trade 24h 成交额</th><th>24h 涨跌</th><th>24h 振幅</th><th>流动性</th><th>持有人</th><th>估算人数</th></tr></thead><tbody>${report.quadruple_points.tokens.map((item) => `<tr><td><strong>${item.symbol}</strong><div class="small muted">${item.alpha_trade_symbol || "-"} · 列表口径 ${money(item.token_list_volume24h)}</div></td><td>${item.mul_point}x</td><td>${money(item.alpha_trade_quote_volume24h)}</td><td class="${klass(item.percent_change_24h)}">${pct(item.percent_change_24h)}</td><td>${pct(item.amplitude_24h_pct)}</td><td>${money(item.liquidity)}</td><td>${num(item.holders, 0)}</td><td>${num(item.estimated_participants, 0)}</td></tr>`).join("")}</tbody></table>`;
+  document.getElementById("panel-q").innerHTML = `<h2>四倍分概览</h2><table><thead><tr><th>代币</th><th>倍数</th><th>24h 成交额</th><th>24h 涨跌</th><th>24h 振幅</th><th>流动性</th><th>持有人</th><th>估算人数</th></tr></thead><tbody>${report.quadruple_points.tokens.map((item) => `<tr><td><strong>${item.symbol}</strong></td><td>${item.mul_point}x</td><td>${money(item.alpha_trade_quote_volume24h)}</td><td class="${klass(item.percent_change_24h)}">${pct(item.percent_change_24h)}</td><td>${pct(item.amplitude_24h_pct)}</td><td>${money(item.liquidity)}</td><td>${num(item.holders, 0)}</td><td>${num(item.estimated_participants, 0)}</td></tr>`).join("")}</tbody></table>`;
 
-  document.getElementById("panel-s").innerHTML = `<h2>稳定刷分推荐</h2><ul>${report.stable_candidates.summary.map((item) => `<li>${item}</li>`).join("")}</ul><table><thead><tr><th>代币</th><th>分数</th><th>Alpha Trade 24h 成交额</th><th>流动性</th><th>短周期波动</th><th>4h 振幅</th><th>审计</th><th>原因</th></tr></thead><tbody>${report.stable_candidates.recommendations.map((item) => `<tr><td><strong>${item.symbol}</strong></td><td>${num(item.stability_score)}</td><td>${money(item.stable_volume24h || item.alpha_trade_quote_volume24h || item.volume24h)}</td><td>${money(item.liquidity)}</td><td>${pct(item.realized_volatility_pct)}</td><td>${pct(item.amplitude_4h_pct)}</td><td>${item.audit_risk || "-"}</td><td>${(item.reason || []).join("<br>")}</td></tr>`).join("")}</tbody></table>`;
+  const topStable = (report.stable_candidates.recommendations || [])[0];
+  const stableSummary = topStable
+    ? [
+        `当前最适合稳定刷分的首选是 ${topStable.symbol}，因为成交额和流动性更高，短周期波动更可控。`,
+        "稳定刷分分数综合考虑成交额、流动性、持有人、短周期波动、4h 振幅与审计。",
+      ]
+    : ["暂无稳定刷分候选数据。"];
 
-  document.getElementById("panel-f").innerHTML = `<h2>Alpha 合约异动</h2><table><thead><tr><th>Alpha / 合约</th><th>24h 涨跌</th><th>24h 成交额</th><th>资金费率</th><th>5m 持仓变化</th><th>分数</th><th>通知</th><th>原因</th></tr></thead><tbody>${report.futures_alerts.alerts.map((item) => `<tr><td><strong>${item.alpha_symbol}</strong><div class="small muted">${item.futures_symbol}</div></td><td class="${klass(item.price_change_percent_24h)}">${pct(item.price_change_percent_24h)}</td><td>${money(item.quote_volume_24h)}</td><td>${pct(item.funding_bps, 2).replace("%", " bps")}</td><td>${pct(item.open_interest_change_5m_pct)}</td><td>${num(item.alert_score)}</td><td>${item.should_notify ? '<span class="pill bad">建议通知</span>' : '<span class="pill">观察</span>'}</td><td>${(item.reasons || []).join("<br>")}</td></tr>`).join("")}</tbody></table>`;
+  document.getElementById("panel-s").innerHTML = `<h2>稳定刷分推荐</h2><ul>${stableSummary.map((item) => `<li>${item}</li>`).join("")}</ul><table><thead><tr><th>代币</th><th>分数</th><th>24h 成交额</th><th>流动性</th><th>短周期波动</th><th>4h 振幅</th><th>审计</th><th>原因</th></tr></thead><tbody>${report.stable_candidates.recommendations.map((item) => `<tr><td><strong>${item.symbol}</strong></td><td>${num(item.stability_score)}</td><td>${money(item.stable_volume24h || item.alpha_trade_quote_volume24h || item.volume24h)}</td><td>${money(item.liquidity)}</td><td>${pct(item.realized_volatility_pct)}</td><td>${pct(item.amplitude_4h_pct)}</td><td>${item.audit_risk || "-"}</td><td>${stableReason(item)}</td></tr>`).join("")}</tbody></table>`;
 
-  document.getElementById("panel-d").innerHTML = `<h2>Alpha 日报</h2><ul>${report.daily_brief.summary.map((item) => `<li>${item}</li>`).join("")}</ul><div class="grid"><div class="card"><h3>最近 Alpha 上线</h3><ul>${report.daily_brief.recent_alpha_listings.map((item) => `<li><strong>${item.symbol}</strong> · ${item.mul_point}x · ${item.listing_time || "-"} · 列表成交额 ${money(item.volume24h)}</li>`).join("")}</ul></div>${report.daily_brief.official_updates.map((catalog) => `<div class="card"><h3>${catalog.catalog_name}</h3><ul>${catalog.articles.map((article) => `<li><a href="${article.support_url}" target="_blank" rel="noreferrer">${article.title}</a><div class="small muted">${article.publish_time || "-"} · <a href="${article.api_url}" target="_blank">API</a></div><div class="small">${article.summary || ""}</div></li>`).join("")}</ul></div>`).join("")}</div>`;
+  document.getElementById("panel-f").innerHTML = `<h2>合约异动</h2><table><thead><tr><th>Alpha / 合约</th><th>24h 涨跌</th><th>24h 成交额</th><th>资金费率</th><th>5m 持仓变化</th><th>分数</th><th>通知</th><th>原因</th></tr></thead><tbody>${report.futures_alerts.alerts.map((item) => `<tr><td><strong>${item.alpha_symbol}</strong><div class="small muted">${item.futures_symbol}</div></td><td class="${klass(item.price_change_percent_24h)}">${pct(item.price_change_percent_24h)}</td><td>${money(item.quote_volume_24h)}</td><td>${pct(item.funding_bps, 2).replace("%", " bps")}</td><td>${pct(item.open_interest_change_5m_pct)}</td><td>${num(item.alert_score)}</td><td>${item.should_notify ? '<span class="pill bad">建议通知</span>' : '<span class="pill">观察</span>'}</td><td>${(item.reasons || []).join("<br>")}</td></tr>`).join("")}</tbody></table>`;
 
-  document.getElementById("warnings").innerHTML = report.warnings.length ? `Warnings:<br>${report.warnings.map((item) => `- ${item}`).join("<br>")}` : "Warnings: none";
+  document.getElementById("panel-d").innerHTML = `<h2>日报</h2><ul>${report.daily_brief.summary.map((item) => `<li>${item}</li>`).join("")}</ul><div class="grid"><div class="card"><h3>最近 Alpha 上线</h3><ul>${report.daily_brief.recent_alpha_listings.map((item) => `<li><strong>${item.symbol}</strong> · ${item.mul_point}x · ${formatBeijingTime(item.listing_time)} · 成交额 ${money(item.volume24h)}</li>`).join("")}</ul></div>${report.daily_brief.official_updates.map((catalog) => `<div class="card"><h3>${catalog.catalog_name}</h3><ul>${catalog.articles.map((article) => `<li><a href="${article.support_url}" target="_blank" rel="noreferrer">${article.title}</a><div class="small muted">${formatBeijingTime(article.publish_time)}</div><div class="small">${article.summary || ""}</div></li>`).join("")}</ul></div>`).join("")}</div>`;
+
+  warningsEl.textContent = (report.warnings || []).length ? "提示：部分数据暂时不可用。" : "";
 }
 
 async function fetchLatestReport() {
   const candidates = ["sample_report.json", "latest_report.json"];
   let lastError = null;
-
   for (const name of candidates) {
     try {
-      const url = `${name}?t=${Date.now()}`;
-      const response = await fetch(url, { cache: "no-store" });
+      const response = await fetch(`${name}?t=${Date.now()}`, { cache: "no-store" });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
       if (!data || !data.generated_at) throw new Error("Invalid report payload");
       report = data;
-      refreshStatusEl.textContent = `数据源：${name} · 刷新于 ${new Date().toLocaleString()}`;
       renderReport();
       return;
     } catch (error) {
@@ -131,15 +161,16 @@ async function fetchLatestReport() {
 }
 
 refreshBtnEl.addEventListener("click", async () => {
+  const originalText = refreshBtnEl.textContent;
   refreshBtnEl.disabled = true;
-  refreshStatusEl.textContent = "正在刷新...";
+  refreshBtnEl.textContent = "刷新中...";
   try {
     await fetchLatestReport();
   } catch (error) {
-    refreshStatusEl.textContent = `刷新失败，仍显示本地快照：${error.message}`;
-    renderReport();
+    warningsEl.textContent = "提示：刷新失败，请稍后再试。";
   } finally {
     refreshBtnEl.disabled = false;
+    refreshBtnEl.textContent = originalText;
   }
 });
 
@@ -154,7 +185,7 @@ document.querySelectorAll(".tab[data-tab]").forEach((button) => {
 
 renderReport();
 fetchLatestReport().catch(() => {
-  refreshStatusEl.textContent = "数据源：页面内嵌快照（尚未拉取到最新 JSON）";
+  warningsEl.textContent = "提示：当前显示的是最近一次可用数据。";
 });
 </script>
 </body>
