@@ -40,11 +40,12 @@
 
 ## 4. Binance USDS-M Futures 公共接口
 
-- Exchange Info: `https://fapi.binance.com/fapi/v1/exchangeInfo`
-- 24h Ticker: `https://fapi.binance.com/fapi/v1/ticker/24hr`
-- Premium Index: `https://fapi.binance.com/fapi/v1/premiumIndex`
-- Open Interest: `https://fapi.binance.com/fapi/v1/openInterest`
-- Open Interest History: `https://fapi.binance.com/futures/data/openInterestHist`
+- Exchange Info (primary): `https://www.binance.com/fapi/v1/exchangeInfo`
+- 24h Ticker (primary): `https://www.binance.com/fapi/v1/ticker/24hr`
+- Premium Index (primary): `https://www.binance.com/fapi/v1/premiumIndex`
+- Open Interest (primary): `https://www.binance.com/fapi/v1/openInterest`
+- Open Interest History (primary): `https://www.binance.com/futures/data/openInterestHist`
+- Fallback host: `https://fapi.binance.com/...` for the same paths
 
 用途：
 

@@ -17,11 +17,26 @@ ALPHA_TOKEN_LIST_URL = "https://www.binance.com/bapi/defi/v1/public/wallet-direc
 ALPHA_EXCHANGE_INFO_URL = "https://www.binance.com/bapi/defi/v1/public/alpha-trade/get-exchange-info"
 ALPHA_KLINES_URL = "https://www.binance.com/bapi/defi/v1/public/alpha-trade/klines"
 TOKEN_AUDIT_URL = "https://web3.binance.com/bapi/defi/v1/public/wallet-direct/security/token/audit"
-FUTURES_EXCHANGE_INFO_URL = "https://fapi.binance.com/fapi/v1/exchangeInfo"
-FUTURES_TICKER_24H_URL = "https://fapi.binance.com/fapi/v1/ticker/24hr"
-FUTURES_PREMIUM_INDEX_URL = "https://fapi.binance.com/fapi/v1/premiumIndex"
-FUTURES_OPEN_INTEREST_URL = "https://fapi.binance.com/fapi/v1/openInterest"
-FUTURES_OPEN_INTEREST_HIST_URL = "https://fapi.binance.com/futures/data/openInterestHist"
+FUTURES_EXCHANGE_INFO_URLS = [
+    "https://www.binance.com/fapi/v1/exchangeInfo",
+    "https://fapi.binance.com/fapi/v1/exchangeInfo",
+]
+FUTURES_TICKER_24H_URLS = [
+    "https://www.binance.com/fapi/v1/ticker/24hr",
+    "https://fapi.binance.com/fapi/v1/ticker/24hr",
+]
+FUTURES_PREMIUM_INDEX_URLS = [
+    "https://www.binance.com/fapi/v1/premiumIndex",
+    "https://fapi.binance.com/fapi/v1/premiumIndex",
+]
+FUTURES_OPEN_INTEREST_URLS = [
+    "https://www.binance.com/fapi/v1/openInterest",
+    "https://fapi.binance.com/fapi/v1/openInterest",
+]
+FUTURES_OPEN_INTEREST_HIST_URLS = [
+    "https://www.binance.com/futures/data/openInterestHist",
+    "https://fapi.binance.com/futures/data/openInterestHist",
+]
 CMS_ARTICLE_LIST_URL = "https://www.binance.com/bapi/composite/v1/public/cms/article/list/query"
 CMS_ARTICLE_DETAIL_URL = "https://www.binance.com/bapi/composite/v1/public/cms/article/detail/query"
 
@@ -202,6 +217,16 @@ class BinanceApiClient:
                 raise RuntimeError(f"request failed success=false url={url}")
         return payload
 
+    def _request_json_with_fallback(self, method: str, urls: List[str], *, params: Dict[str, Any] | None = None, body: Dict[str, Any] | None = None, headers: Dict[str, str] | None = None) -> Any:
+        errors: List[str] = []
+        for url in urls:
+            try:
+                return self._request_json(method, url, params=params, body=body, headers=headers)
+            except Exception as exc:
+                errors.append(f"{url} -> {exc}")
+                continue
+        raise RuntimeError("all fallback endpoints failed: " + " | ".join(errors))
+
     def get_alpha_tokens(self) -> List[Dict[str, Any]]:
         return (self._request_json("GET", ALPHA_TOKEN_LIST_URL).get("data") or [])
 
@@ -221,21 +246,21 @@ class BinanceApiClient:
         return payload.get("data") or {}
 
     def get_futures_exchange_info(self) -> Dict[str, Any]:
-        return self._request_json("GET", FUTURES_EXCHANGE_INFO_URL)
+        return self._request_json_with_fallback("GET", FUTURES_EXCHANGE_INFO_URLS)
 
     def get_futures_tickers(self) -> List[Dict[str, Any]]:
-        payload = self._request_json("GET", FUTURES_TICKER_24H_URL)
+        payload = self._request_json_with_fallback("GET", FUTURES_TICKER_24H_URLS)
         return payload if isinstance(payload, list) else []
 
     def get_futures_premium_index(self) -> List[Dict[str, Any]]:
-        payload = self._request_json("GET", FUTURES_PREMIUM_INDEX_URL)
+        payload = self._request_json_with_fallback("GET", FUTURES_PREMIUM_INDEX_URLS)
         return payload if isinstance(payload, list) else []
 
     def get_open_interest(self, symbol: str) -> Dict[str, Any]:
-        return self._request_json("GET", FUTURES_OPEN_INTEREST_URL, params={"symbol": symbol})
+        return self._request_json_with_fallback("GET", FUTURES_OPEN_INTEREST_URLS, params={"symbol": symbol})
 
     def get_open_interest_hist(self, symbol: str, period: str = "5m", limit: int = 2) -> List[Dict[str, Any]]:
-        payload = self._request_json("GET", FUTURES_OPEN_INTEREST_HIST_URL, params={"symbol": symbol, "period": period, "limit": limit})
+        payload = self._request_json_with_fallback("GET", FUTURES_OPEN_INTEREST_HIST_URLS, params={"symbol": symbol, "period": period, "limit": limit})
         return payload if isinstance(payload, list) else []
 
     def get_announcement_catalogs(self, page_size: int = 50) -> List[Dict[str, Any]]:
