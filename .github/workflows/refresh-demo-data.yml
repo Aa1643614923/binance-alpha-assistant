@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
   schedule:
     # Every 5 minutes (UTC). GitHub Actions does not support schedules under 5 minutes.
     - cron: "*/5 * * * *"
@@ -34,6 +35,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Backup previous report snapshot
+        run: |
+          if [ -f demo/sample_report.json ]; then
+            cp demo/sample_report.json demo/_previous_sample_report.json
+          fi
+
       - name: Generate demo artifacts
         run: |
           python scripts/binance_alpha_assistant.py \
@@ -42,7 +49,44 @@ jobs:
             --markdown-output demo/sample_report.md \
             --html-output demo/index.html
 
-      - name: Validate futures data quality
+      - name: Repair futures snapshot fallback
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          report_path = Path("demo/sample_report.json")
+          previous_path = Path("demo/_previous_sample_report.json")
+          report = json.loads(report_path.read_text(encoding="utf-8"))
+          futures = report.get("futures_alerts") or {}
+          matched = int(futures.get("matched_contract_count") or 0)
+          warnings = [str(item) for item in (report.get("warnings") or [])]
+          has_futures_warning = any("futures_" in item for item in warnings)
+
+          print(f"Current futures matched_contract_count={matched}")
+          print(f"Current futures warning detected={has_futures_warning}")
+
+          if matched > 0 and not has_futures_warning:
+              print("Current futures snapshot is valid.")
+          elif previous_path.exists():
+              previous = json.loads(previous_path.read_text(encoding="utf-8"))
+              previous_futures = previous.get("futures_alerts") or {}
+              previous_matched = int(previous_futures.get("matched_contract_count") or 0)
+              if previous_matched > 0:
+                  report["futures_alerts"] = previous_futures
+                  filtered_warnings = [item for item in warnings if "futures_" not in item]
+                  filtered_warnings.append("futures_fallback: using previous valid futures snapshot")
+                  report["warnings"] = filtered_warnings
+                  print(f"Applied futures fallback with matched_contract_count={previous_matched}")
+              else:
+                  print("Previous snapshot exists but futures data is also invalid.")
+          else:
+              print("No previous snapshot found; keep current futures data.")
+
+          report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+          PY
+
+      - name: Validate final report quality
         run: |
           python - <<'PY'
           import json
@@ -52,16 +96,16 @@ jobs:
           report = json.loads(Path("demo/sample_report.json").read_text(encoding="utf-8"))
           futures = report.get("futures_alerts") or {}
           matched = int(futures.get("matched_contract_count") or 0)
-          warnings = report.get("warnings") or []
-          warning_text = " | ".join(str(item) for item in warnings)
+          warnings = [str(item) for item in (report.get("warnings") or [])]
+          blocking_warnings = [item for item in warnings if "futures_" in item and not item.startswith("futures_fallback:")]
 
           if matched <= 0:
-              print(f"Invalid futures report: matched_contract_count={matched}")
+              print(f"Invalid futures report after fallback: matched_contract_count={matched}")
               sys.exit(1)
-          if "futures_" in warning_text:
-              print(f"Invalid futures report warnings: {warning_text}")
+          if blocking_warnings:
+              print("Invalid futures warnings remain: " + " | ".join(blocking_warnings))
               sys.exit(1)
-          print(f"Report quality OK: matched_contract_count={matched}")
+          print(f"Final report quality OK: matched_contract_count={matched}")
           PY
 
       - name: Commit and push demo updates
