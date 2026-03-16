@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-16T07:47:32.524817+00:00
+- 生成时间：2026-03-16T08:42:09.414722+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1322003006.99
+- 四倍分 24h 总成交额：1324310354.62
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：161220（按 8200 / 人）
+- 估算参与人数：161501（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1183068072.97 | 列表口径 8071372.09 | 涨跌 -1.02% | 振幅 7.20% | 估算人数 144277
-- VELVET | Alpha Trade 成交额 98982198.14 | 列表口径 240129.89 | 涨跌 -4.28% | 振幅 14.69% | 估算人数 12071
-- BTW | Alpha Trade 成交额 20849467.68 | 列表口径 4046467.13 | 涨跌 4.26% | 振幅 21.82% | 估算人数 2543
-- BSB | Alpha Trade 成交额 12147425.25 | 列表口径 6804659.24 | 涨跌 -2.05% | 振幅 6.06% | 估算人数 1481
-- UP | Alpha Trade 成交额 4120970.51 | 列表口径 88129165.84 | 涨跌 34.13% | 振幅 113.92% | 估算人数 503
-- LYN | Alpha Trade 成交额 2345754.37 | 列表口径 7684917.62 | 涨跌 -47.57% | 振幅 114.90% | 估算人数 286
-- SN3 | Alpha Trade 成交额 289232.86 | 列表口径 659781.87 | 涨跌 -31.58% | 振幅 75.73% | 估算人数 35
-- LAB | Alpha Trade 成交额 199885.21 | 列表口径 4745334.52 | 涨跌 -2.43% | 振幅 9.50% | 估算人数 24
+- GUA | Alpha Trade 成交额 1184823709.83 | 列表口径 8125217.59 | 涨跌 -1.06% | 振幅 7.20% | 估算人数 144491
+- VELVET | Alpha Trade 成交额 98483223.36 | 列表口径 240489.19 | 涨跌 -4.33% | 振幅 35.55% | 估算人数 12010
+- BTW | Alpha Trade 成交额 21342366.24 | 列表口径 3992827.53 | 涨跌 0.71% | 振幅 21.82% | 估算人数 2603
+- BSB | Alpha Trade 成交额 12375347.75 | 列表口径 6777229.18 | 涨跌 -1.14% | 振幅 6.06% | 估算人数 1509
+- UP | Alpha Trade 成交额 4303504.52 | 列表口径 88933796.38 | 涨跌 40.72% | 振幅 113.92% | 估算人数 525
+- LYN | Alpha Trade 成交额 2456994.34 | 列表口径 7998871.17 | 涨跌 -45.67% | 振幅 114.90% | 估算人数 300
+- SN3 | Alpha Trade 成交额 305141.60 | 列表口径 664185.97 | 涨跌 -41.43% | 振幅 115.77% | 估算人数 37
+- LAB | Alpha Trade 成交额 220066.99 | 列表口径 4685899.18 | 涨跌 -4.12% | 振幅 9.57% | 估算人数 27
 
 ## 稳定刷分推荐
 
-- GUA | 分数 82.53 | Alpha Trade 成交额 1183068072.97 | 波动 0.48% | 4h 振幅 5.39% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,183,068,073，流动性 2,212,171
-  - Alpha 列表口径 24h 成交额 8,071,372
+- GUA | 分数 83.12 | Alpha Trade 成交额 1184823709.83 | 波动 0.48% | 4h 振幅 4.17% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,184,823,710，流动性 2,211,687
+  - Alpha 列表口径 24h 成交额 8,125,218
   - 短周期波动 0.48%
-  - 4h 振幅 5.39%
+  - 4h 振幅 4.17%
   - 审计风险 LOW
-- BSB | 分数 65.41 | Alpha Trade 成交额 12147425.25 | 波动 0.22% | 4h 振幅 2.24% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,147,425，流动性 1,321,464
-  - Alpha 列表口径 24h 成交额 6,804,659
-  - 短周期波动 0.22%
-  - 4h 振幅 2.24%
+- BSB | 分数 65.59 | Alpha Trade 成交额 12375347.75 | 波动 0.21% | 4h 振幅 2.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,375,348，流动性 1,319,802
+  - Alpha 列表口径 24h 成交额 6,777,229
+  - 短周期波动 0.21%
+  - 4h 振幅 2.05%
   - 审计风险 LOW
-- VELVET | 分数 59.71 | Alpha Trade 成交额 98982198.14 | 波动 0.20% | 4h 振幅 2.27% | 审计 LOW
-  - Alpha Trade 24h 成交额 98,982,198，流动性 1,181,686
-  - Alpha 列表口径 24h 成交额 240,130
-  - 短周期波动 0.20%
-  - 4h 振幅 2.27%
+- VELVET | 分数 57.59 | Alpha Trade 成交额 98483223.36 | 波动 0.28% | 4h 振幅 5.00% | 审计 LOW
+  - Alpha Trade 24h 成交额 98,483,223，流动性 1,168,103
+  - Alpha 列表口径 24h 成交额 240,489
+  - 短周期波动 0.28%
+  - 4h 振幅 5.00%
   - 审计风险 LOW
-- BTW | 分数 42.13 | Alpha Trade 成交额 20849467.68 | 波动 0.63% | 4h 振幅 7.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 20,849,468，流动性 1,154,234
-  - Alpha 列表口径 24h 成交额 4,046,467
-  - 短周期波动 0.63%
-  - 4h 振幅 7.77%
+- BTW | 分数 41.40 | Alpha Trade 成交额 21342366.24 | 波动 0.69% | 4h 振幅 7.94% | 审计 LOW
+  - Alpha Trade 24h 成交额 21,342,366，流动性 1,153,423
+  - Alpha 列表口径 24h 成交额 3,992,828
+  - 短周期波动 0.69%
+  - 4h 振幅 7.94%
   - 审计风险 LOW
-- LYN | 分数 38.90 | Alpha Trade 成交额 2345754.37 | 波动 0.59% | 4h 振幅 6.45% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,345,754，流动性 357,249
-  - Alpha 列表口径 24h 成交额 7,684,918
-  - 短周期波动 0.59%
-  - 4h 振幅 6.45%
+- LYN | 分数 37.02 | Alpha Trade 成交额 2456994.34 | 波动 0.75% | 4h 振幅 6.83% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,456,994，流动性 358,329
+  - Alpha 列表口径 24h 成交额 7,998,871
+  - 短周期波动 0.75%
+  - 4h 振幅 6.83%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,11 +59,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will List Katana (KAT) with Seed Tag Applied
 - Latest Binance News：Binance Will Extend the Monitoring Tag to Include ATA, A2Z, FIO, GTC, NTRN, PHB, QI & RDNT on 2026-03-13
-- Latest Activities：Word of the Day: Test Your Knowledge on “OpenClaw” to Unlock HOME Rewards!
+- Latest Activities：Introducing Midnight (NIGHT) on Binance Super Earn: Share Up to 120M NIGHT Quarterly, Under a Total Rewards Grant of 480M NIGHT
 
 ### 最近 Alpha 上线
 
-- UP | 4x | 上线 2026-03-13T10:00:00+00:00 | 24h 成交额 88129165.84
+- UP | 4x | 上线 2026-03-13T10:00:00+00:00 | 24h 成交额 88933796.38
 
 ### New Cryptocurrency Listing
 
@@ -85,12 +85,12 @@
 
 ### Latest Activities
 
+- [Introducing Midnight (NIGHT) on Binance Super Earn: Share Up to 120M NIGHT Quarterly, Under a Total Rewards Grant of 480M NIGHT](https://www.binance.com/en/support/announcement/detail/322388e719b84851b8bd71ac50c6b34f)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to an…
 - [Word of the Day: Test Your Knowledge on “OpenClaw” to Unlock HOME Rewards!](https://www.binance.com/en/support/announcement/detail/000a4567414b424791a511038c5d855b)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [Pakistan Exclusive: Join the Binance x Islamabad United Referral Challenge and Win Match Access](https://www.binance.com/en/support/announcement/detail/0ce108af7faa444e9787dca6b5c75309)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready to team up with Binance and Islamabad Unit…
-- [Velvet Trading Competition: Trade Velvet (VELVET) and Share $200K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/1a40fb55893c438db6bc117bfc200d88)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 
 ## Warnings
 
