@@ -64,8 +64,6 @@
 <script>
 let report = __REPORT_JSON__;
 
-const BEIJING_TZ = "Asia/Shanghai";
-
 const num = (value, digits = 2) => {
   if (value === null || value === undefined || Number.isNaN(Number(value))) return "-";
   return Number(value).toLocaleString("en-US", { maximumFractionDigits: digits });
@@ -87,11 +85,11 @@ const money = (value) => {
 
 const klass = (value) => (Number(value) > 0 ? "good" : Number(value) < 0 ? "bad" : "warn");
 
-function formatBeijingTime(value) {
+function formatLocalTime(value) {
   if (!value) return "-";
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return String(value);
-  return date.toLocaleString("zh-CN", { timeZone: BEIJING_TZ, hour12: false });
+  return date.toLocaleString("zh-CN", { hour12: false });
 }
 
 function stableReason(item) {
@@ -113,7 +111,7 @@ const warningsEl = document.getElementById("warnings");
 const refreshBtnEl = document.getElementById("refreshBtn");
 
 function renderReport() {
-  generatedAtEl.textContent = `生成时间（北京时间）：${formatBeijingTime(report.generated_at)}`;
+  generatedAtEl.textContent = `生成时间（本地时间）：${formatLocalTime(report.generated_at)}`;
 
   document.getElementById("cards").innerHTML = [
     ["四倍分代币数", report.quadruple_points.token_count],
@@ -136,7 +134,7 @@ function renderReport() {
 
   document.getElementById("panel-f").innerHTML = `<h2>合约异动</h2><table><thead><tr><th>Alpha / 合约</th><th>24h 涨跌</th><th>24h 成交额</th><th>资金费率</th><th>5m 持仓变化</th><th>分数</th><th>通知</th><th>原因</th></tr></thead><tbody>${report.futures_alerts.alerts.map((item) => `<tr><td><strong>${item.alpha_symbol}</strong><div class="small muted">${item.futures_symbol}</div></td><td class="${klass(item.price_change_percent_24h)}">${pct(item.price_change_percent_24h)}</td><td>${money(item.quote_volume_24h)}</td><td>${pct(item.funding_bps, 2).replace("%", " bps")}</td><td>${pct(item.open_interest_change_5m_pct)}</td><td>${num(item.alert_score)}</td><td>${item.should_notify ? '<span class="pill bad">建议通知</span>' : '<span class="pill">观察</span>'}</td><td>${(item.reasons || []).join("<br>")}</td></tr>`).join("")}</tbody></table>`;
 
-  document.getElementById("panel-d").innerHTML = `<h2>日报</h2><ul>${report.daily_brief.summary.map((item) => `<li>${item}</li>`).join("")}</ul><div class="grid"><div class="card"><h3>最近 Alpha 上线</h3><ul>${report.daily_brief.recent_alpha_listings.map((item) => `<li><strong>${item.symbol}</strong> · ${item.mul_point}x · ${formatBeijingTime(item.listing_time)} · 成交额 ${money(item.volume24h)}</li>`).join("")}</ul></div>${report.daily_brief.official_updates.map((catalog) => `<div class="card"><h3>${catalog.catalog_name}</h3><ul>${catalog.articles.map((article) => `<li><a href="${article.support_url}" target="_blank" rel="noreferrer">${article.title}</a><div class="small muted">${formatBeijingTime(article.publish_time)}</div><div class="small">${article.summary || ""}</div></li>`).join("")}</ul></div>`).join("")}</div>`;
+  document.getElementById("panel-d").innerHTML = `<h2>日报</h2><ul>${report.daily_brief.summary.map((item) => `<li>${item}</li>`).join("")}</ul><div class="grid"><div class="card"><h3>最近 Alpha 上线</h3><ul>${report.daily_brief.recent_alpha_listings.map((item) => `<li><strong>${item.symbol}</strong> · ${item.mul_point}x · ${formatLocalTime(item.listing_time)} · 成交额 ${money(item.volume24h)}</li>`).join("")}</ul></div>${report.daily_brief.official_updates.map((catalog) => `<div class="card"><h3>${catalog.catalog_name}</h3><ul>${catalog.articles.map((article) => `<li><a href="${article.support_url}" target="_blank" rel="noreferrer">${article.title}</a><div class="small muted">${formatLocalTime(article.publish_time)}</div><div class="small">${article.summary || ""}</div></li>`).join("")}</ul></div>`).join("")}</div>`;
 
   warningsEl.textContent = (report.warnings || []).length ? "提示：部分数据暂时不可用。" : "";
 }
