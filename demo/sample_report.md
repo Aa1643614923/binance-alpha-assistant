@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-16T09:48:17.491517+00:00
+- 生成时间：2026-03-16T10:41:22.803825+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1348141002.26
+- 四倍分 24h 总成交额：1352087915.88
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：164407（按 8200 / 人）
+- 估算参与人数：164889（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1207918711.37 | 列表口径 7940441.38 | 涨跌 -1.04% | 振幅 7.20% | 估算人数 147307
-- VELVET | Alpha Trade 成交额 100666581.37 | 列表口径 218343.91 | 涨跌 -2.33% | 振幅 35.06% | 估算人数 12276
-- BTW | Alpha Trade 成交额 19396546.00 | 列表口径 3894976.00 | 涨跌 1.87% | 振幅 21.82% | 估算人数 2365
-- BSB | Alpha Trade 成交额 12555696.68 | 列表口径 6833438.18 | 涨跌 1.68% | 振幅 6.06% | 估算人数 1531
-- UP | Alpha Trade 成交额 4508951.76 | 列表口径 89571322.59 | 涨跌 42.87% | 振幅 113.92% | 估算人数 550
-- LYN | Alpha Trade 成交额 2583381.10 | 列表口径 8170218.00 | 涨跌 -49.14% | 振幅 115.94% | 估算人数 315
-- SN3 | Alpha Trade 成交额 306180.88 | 列表口径 648488.97 | 涨跌 -40.41% | 振幅 115.77% | 估算人数 37
-- LAB | Alpha Trade 成交额 204953.10 | 列表口径 4462512.41 | 涨跌 -7.81% | 振幅 11.29% | 估算人数 25
+- GUA | Alpha Trade 成交额 1210427199.12 | 列表口径 7941967.58 | 涨跌 -1.45% | 振幅 7.20% | 估算人数 147613
+- VELVET | Alpha Trade 成交额 102577445.84 | 列表口径 197966.23 | 涨跌 -1.45% | 振幅 35.06% | 估算人数 12509
+- BTW | Alpha Trade 成交额 18617514.67 | 列表口径 3682944.30 | 涨跌 -2.21% | 振幅 19.45% | 估算人数 2270
+- BSB | Alpha Trade 成交额 12727200.30 | 列表口径 7035705.65 | 涨跌 0.87% | 振幅 6.06% | 估算人数 1552
+- UP | Alpha Trade 成交额 4550270.80 | 列表口径 89835766.04 | 涨跌 53.97% | 振幅 113.92% | 估算人数 555
+- LYN | Alpha Trade 成交额 2677229.05 | 列表口径 8206612.90 | 涨跌 -49.11% | 振幅 122.43% | 估算人数 326
+- SN3 | Alpha Trade 成交额 303629.30 | 列表口径 636940.55 | 涨跌 -33.46% | 振幅 115.77% | 估算人数 37
+- LAB | Alpha Trade 成交额 207426.80 | 列表口径 4481190.38 | 涨跌 -7.39% | 振幅 11.74% | 估算人数 25
 
 ## 稳定刷分推荐
 
-- GUA | 分数 86.57 | Alpha Trade 成交额 1207918711.37 | 波动 0.18% | 4h 振幅 1.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,207,918,711，流动性 2,210,987
-  - Alpha 列表口径 24h 成交额 7,940,441
-  - 短周期波动 0.18%
-  - 4h 振幅 1.65%
+- GUA | 分数 86.82 | Alpha Trade 成交额 1210427199.12 | 波动 0.12% | 4h 振幅 1.10% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,210,427,199，流动性 2,209,489
+  - Alpha 列表口径 24h 成交额 7,941,968
+  - 短周期波动 0.12%
+  - 4h 振幅 1.10%
   - 审计风险 LOW
-- BSB | 分数 65.32 | Alpha Trade 成交额 12555696.68 | 波动 0.22% | 4h 振幅 1.26% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,555,697，流动性 1,323,104
-  - Alpha 列表口径 24h 成交额 6,833,438
-  - 短周期波动 0.22%
-  - 4h 振幅 1.26%
+- BSB | 分数 63.76 | Alpha Trade 成交额 12727200.30 | 波动 0.20% | 4h 振幅 1.77% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,727,200，流动性 1,325,089
+  - Alpha 列表口径 24h 成交额 7,035,706
+  - 短周期波动 0.20%
+  - 4h 振幅 1.77%
   - 审计风险 LOW
-- VELVET | 分数 56.10 | Alpha Trade 成交额 100666581.37 | 波动 0.32% | 4h 振幅 4.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 100,666,581，流动性 1,168,859
-  - Alpha 列表口径 24h 成交额 218,344
-  - 短周期波动 0.32%
-  - 4h 振幅 4.59%
+- VELVET | 分数 52.87 | Alpha Trade 成交额 102577445.84 | 波动 0.37% | 4h 振幅 4.10% | 审计 LOW
+  - Alpha Trade 24h 成交额 102,577,446，流动性 1,173,765
+  - Alpha 列表口径 24h 成交额 197,966
+  - 短周期波动 0.37%
+  - 4h 振幅 4.10%
   - 审计风险 LOW
-- BTW | 分数 40.14 | Alpha Trade 成交额 19396546.00 | 波动 0.60% | 4h 振幅 8.38% | 审计 LOW
-  - Alpha Trade 24h 成交额 19,396,546，流动性 1,156,599
-  - Alpha 列表口径 24h 成交额 3,894,976
-  - 短周期波动 0.60%
-  - 4h 振幅 8.38%
+- BTW | 分数 40.06 | Alpha Trade 成交额 18617514.67 | 波动 0.46% | 4h 振幅 4.70% | 审计 LOW
+  - Alpha Trade 24h 成交额 18,617,515，流动性 1,156,448
+  - Alpha 列表口径 24h 成交额 3,682,944
+  - 短周期波动 0.46%
+  - 4h 振幅 4.70%
   - 审计风险 LOW
-- LYN | 分数 31.76 | Alpha Trade 成交额 2583381.10 | 波动 0.83% | 4h 振幅 11.02% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,583,381，流动性 344,915
-  - Alpha 列表口径 24h 成交额 8,170,218
-  - 短周期波动 0.83%
-  - 4h 振幅 11.02%
-  - 审计风险 LOW
+- UP | 分数 27.68 | Alpha Trade 成交额 4550270.80 | 波动 1.31% | 4h 振幅 8.99% | 审计 MID
+  - Alpha Trade 24h 成交额 4,550,271，流动性 1,739,948
+  - Alpha 列表口径 24h 成交额 89,835,766
+  - 短周期波动 1.31%
+  - 4h 振幅 8.99%
+  - 审计风险 MID
 
 ## Alpha 合约异动
 
@@ -56,23 +56,21 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Will List Katana (KAT) with Seed Tag Applied
+- 官方最新上新关注：Binance Futures Will Launch EWJUSDT USDⓈ-Margined Index Perpetual Contract (2026-03-19)
 - Latest Binance News：Binance Will Extend the Monitoring Tag to Include ATA, A2Z, FIO, GTC, NTRN, PHB, QI & RDNT on 2026-03-13
 - Latest Activities：Introducing Midnight (NIGHT) on Binance Super Earn: Share Up to 120M NIGHT Quarterly, Under a Total Rewards Grant of 480M NIGHT
 
 ### 最近 Alpha 上线
 
-- UP | 4x | 上线 2026-03-13T10:00:00+00:00 | 24h 成交额 89571322.59
 
 ### New Cryptocurrency Listing
 
-- [Binance Will List Katana (KAT) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/01f1ef18ab314cc78cd3744760e4dc1f)
-  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
-- [Binance Futures Will Launch EWYUSDT USDⓈ-Margined Index Perpetual Contract (2026-03-16)](https://www.binance.com/en/support/announcement/detail/ce8f84ad8b6e4307becb06758017cb02)
+- [Binance Futures Will Launch EWJUSDT USDⓈ-Margined Index Perpetual Contract (2026-03-19)](https://www.binance.com/en/support/announcement/detail/521c39a39f3d4910af0835d477277299)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will Add Midnight (NIGHT) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/en/support/announcement/detail/d99bba308e50404b889f677101ed5112)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Midnight (…
+- [Binance Will List Centrifuge (CFG) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/bcd4473a511948bf8b305f0f6a695313)
+  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
+- [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-03-17](https://www.binance.com/en/support/announcement/detail/2cc9b5f11acb432383be9fbeb4d3d327)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tr…
 
 ### Latest Binance News
 
