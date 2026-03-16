@@ -142,7 +142,11 @@ function renderReport() {
 }
 
 async function fetchLatestReport() {
-  const candidates = ["sample_report.json", "latest_report.json"];
+  const candidates = [
+    "https://raw.githubusercontent.com/Aa1643614923/binance-alpha-assistant/main/demo/sample_report.json",
+    "sample_report.json",
+    "latest_report.json",
+  ];
   let lastError = null;
   for (const name of candidates) {
     try {
