@@ -42,6 +42,28 @@ jobs:
             --markdown-output demo/sample_report.md \
             --html-output demo/index.html
 
+      - name: Validate futures data quality
+        run: |
+          python - <<'PY'
+          import json
+          import sys
+          from pathlib import Path
+
+          report = json.loads(Path("demo/sample_report.json").read_text(encoding="utf-8"))
+          futures = report.get("futures_alerts") or {}
+          matched = int(futures.get("matched_contract_count") or 0)
+          warnings = report.get("warnings") or []
+          warning_text = " | ".join(str(item) for item in warnings)
+
+          if matched <= 0:
+              print(f"Invalid futures report: matched_contract_count={matched}")
+              sys.exit(1)
+          if "futures_" in warning_text:
+              print(f"Invalid futures report warnings: {warning_text}")
+              sys.exit(1)
+          print(f"Report quality OK: matched_contract_count={matched}")
+          PY
+
       - name: Commit and push demo updates
         run: |
           git config user.name "github-actions[bot]"
