@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-17T05:48:22.776712+00:00
+- 生成时间：2026-03-17T06:46:14.377851+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1390961458.26
+- 四倍分 24h 总成交额：1393120862.98
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：169629（按 8200 / 人）
+- 估算参与人数：169893（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1226003181.34 | 列表口径 6109037.00 | 涨跌 -2.62% | 振幅 8.84% | 估算人数 149513
-- VELVET | Alpha Trade 成交额 121988537.17 | 列表口径 112679.43 | 涨跌 -5.78% | 振幅 30.53% | 估算人数 14877
-- BTW | Alpha Trade 成交额 19780565.60 | 列表口径 2791740.54 | 涨跌 13.74% | 振幅 32.27% | 估算人数 2412
-- BSB | Alpha Trade 成交额 14227052.34 | 列表口径 18662318.83 | 涨跌 0.42% | 振幅 6.02% | 估算人数 1735
-- UP | Alpha Trade 成交额 5176110.88 | 列表口径 20290107.75 | 涨跌 37.05% | 振幅 50.69% | 估算人数 631
-- LYN | Alpha Trade 成交额 3164442.11 | 列表口径 8385251.69 | 涨跌 -28.25% | 振幅 51.25% | 估算人数 386
-- LAB | Alpha Trade 成交额 333524.43 | 列表口径 6170104.55 | 涨跌 6.75% | 振幅 18.41% | 估算人数 41
-- SN3 | Alpha Trade 成交额 288044.38 | 列表口径 579504.80 | 涨跌 -24.62% | 振幅 63.03% | 估算人数 35
+- GUA | Alpha Trade 成交额 1232179414.99 | 列表口径 5893863.80 | 涨跌 -3.44% | 振幅 8.38% | 估算人数 150266
+- VELVET | Alpha Trade 成交额 119627111.34 | 列表口径 109347.01 | 涨跌 -4.63% | 振幅 29.84% | 估算人数 14589
+- BTW | Alpha Trade 成交额 19422053.74 | 列表口径 3055852.84 | 涨跌 8.14% | 振幅 28.95% | 估算人数 2369
+- BSB | Alpha Trade 成交额 13918470.78 | 列表口径 20646100.22 | 涨跌 0.24% | 振幅 6.02% | 估算人数 1697
+- UP | Alpha Trade 成交额 4215350.01 | 列表口径 18879637.01 | 涨跌 24.44% | 振幅 43.27% | 估算人数 514
+- LYN | Alpha Trade 成交额 3169561.24 | 列表口径 8299526.36 | 涨跌 -28.14% | 振幅 51.25% | 估算人数 387
+- LAB | Alpha Trade 成交额 328300.45 | 列表口径 6210529.48 | 涨跌 5.84% | 振幅 19.02% | 估算人数 40
+- SN3 | Alpha Trade 成交额 260600.43 | 列表口径 511816.91 | 涨跌 -5.25% | 振幅 63.03% | 估算人数 32
 
 ## 稳定刷分推荐
 
-- GUA | 分数 86.91 | Alpha Trade 成交额 1226003181.34 | 波动 0.10% | 4h 振幅 1.30% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,226,003,181，流动性 2,198,257
-  - Alpha 列表口径 24h 成交额 6,109,037
+- GUA | 分数 86.91 | Alpha Trade 成交额 1232179414.99 | 波动 0.10% | 4h 振幅 1.67% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,232,179,415，流动性 2,196,612
+  - Alpha 列表口径 24h 成交额 5,893,864
   - 短周期波动 0.10%
-  - 4h 振幅 1.30%
+  - 4h 振幅 1.67%
   - 审计风险 LOW
-- BSB | 分数 62.21 | Alpha Trade 成交额 14227052.34 | 波动 0.21% | 4h 振幅 2.88% | 审计 LOW
-  - Alpha Trade 24h 成交额 14,227,052，流动性 1,324,526
-  - Alpha 列表口径 24h 成交额 18,662,319
+- BSB | 分数 63.75 | Alpha Trade 成交额 13918470.78 | 波动 0.21% | 4h 振幅 1.80% | 审计 LOW
+  - Alpha Trade 24h 成交额 13,918,471，流动性 1,325,935
+  - Alpha 列表口径 24h 成交额 20,646,100
   - 短周期波动 0.21%
-  - 4h 振幅 2.88%
+  - 4h 振幅 1.80%
   - 审计风险 LOW
-- VELVET | 分数 44.28 | Alpha Trade 成交额 121988537.17 | 波动 0.64% | 4h 振幅 6.23% | 审计 LOW
-  - Alpha Trade 24h 成交额 121,988,537，流动性 1,145,121
-  - Alpha 列表口径 24h 成交额 112,679
-  - 短周期波动 0.64%
-  - 4h 振幅 6.23%
+- VELVET | 分数 43.75 | Alpha Trade 成交额 119627111.34 | 波动 0.66% | 4h 振幅 5.77% | 审计 LOW
+  - Alpha Trade 24h 成交额 119,627,111，流动性 1,144,267
+  - Alpha 列表口径 24h 成交额 109,347
+  - 短周期波动 0.66%
+  - 4h 振幅 5.77%
   - 审计风险 LOW
-- BTW | 分数 28.68 | Alpha Trade 成交额 19780565.60 | 波动 0.73% | 4h 振幅 9.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 19,780,566，流动性 1,171,378
-  - Alpha 列表口径 24h 成交额 2,791,741
-  - 短周期波动 0.73%
-  - 4h 振幅 9.64%
-  - 审计风险 LOW
-- UP | 分数 26.95 | Alpha Trade 成交额 5176110.88 | 波动 1.01% | 4h 振幅 11.91% | 审计 MID
-  - Alpha Trade 24h 成交额 5,176,111，流动性 1,936,887
-  - Alpha 列表口径 24h 成交额 20,290,108
-  - 短周期波动 1.01%
-  - 4h 振幅 11.91%
+- UP | 分数 30.59 | Alpha Trade 成交额 4215350.01 | 波动 0.86% | 4h 振幅 9.46% | 审计 MID
+  - Alpha Trade 24h 成交额 4,215,350，流动性 1,935,461
+  - Alpha 列表口径 24h 成交额 18,879,637
+  - 短周期波动 0.86%
+  - 4h 振幅 9.46%
   - 审计风险 MID
+- BTW | 分数 22.45 | Alpha Trade 成交额 19422053.74 | 波动 0.96% | 4h 振幅 9.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 19,422,054，流动性 1,168,321
+  - Alpha 列表口径 24h 成交额 3,055,853
+  - 短周期波动 0.96%
+  - 4h 振幅 9.38%
+  - 审计风险 LOW
 
 ## Alpha 合约异动
 
@@ -58,12 +58,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Margin Will Add New Pairs - 2026-03-17
-- Latest Binance News：Updates on Tick Size for USDⓈ-M Perpetual Futures Contracts (2026-03-18 & 2026-03-19)
+- Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-03-20)
 - Latest Activities：Introducing Midnight (NIGHT) on Binance Super Earn: Share Up to 120M NIGHT Quarterly, Under a Total Rewards Grant of 480M NIGHT
 
 ### 最近 Alpha 上线
 
-- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 3180000.83
+- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 3197979.53
 
 ### New Cryptocurrency Listing
 
@@ -76,12 +76,12 @@
 
 ### Latest Binance News
 
+- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-03-20)](https://www.binance.com/en/support/announcement/detail/fdd4eb1e1272445b81fa0f1656ad17f6)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 - [Updates on Tick Size for USDⓈ-M Perpetual Futures Contracts (2026-03-18 & 2026-03-19)](https://www.binance.com/en/support/announcement/detail/fb7a1674c55c43a4a018ac56de1afee3)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 - [Binance Will Extend the Monitoring Tag to Include ATA, A2Z, FIO, GTC, NTRN, PHB, QI & RDNT on 2026-03-13](https://www.binance.com/en/support/announcement/detail/2448b786202948bea67d4cd66f66d208)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
-- [Binance Earn: Dual Investment Supports PAXG](https://www.binance.com/en/support/announcement/detail/081d43dc3b1145aa86a31748ecf9079b)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is ex…
 
 ### Latest Activities
 
