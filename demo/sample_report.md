@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-18T05:03:48.073925+00:00
+- 生成时间：2026-03-18T06:12:21.956784+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1379706686.63
+- 四倍分 24h 总成交额：1419590811.82
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：168257（按 8200 / 人）
+- 估算参与人数：173121（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1162907901.94 | 列表口径 5333745.52 | 涨跌 1.19% | 振幅 3.15% | 估算人数 141818
-- VELVET | Alpha Trade 成交额 170813451.61 | 列表口径 43826.34 | 涨跌 -0.40% | 振幅 22.27% | 估算人数 20831
-- BSB | Alpha Trade 成交额 31537493.30 | 列表口径 28830481.81 | 涨跌 10.75% | 振幅 14.93% | 估算人数 3846
-- BTW | Alpha Trade 成交额 10728769.11 | 列表口径 5694012.17 | 涨跌 12.13% | 振幅 36.27% | 估算人数 1308
-- UP | Alpha Trade 成交额 1742572.32 | 列表口径 16327499.42 | 涨跌 -13.68% | 振幅 31.39% | 估算人数 213
-- LYN | Alpha Trade 成交额 1465980.90 | 列表口径 5469348.17 | 涨跌 -26.41% | 振幅 49.28% | 估算人数 179
-- SN3 | Alpha Trade 成交额 329456.23 | 列表口径 685282.50 | 涨跌 31.34% | 振幅 58.37% | 估算人数 40
-- LAB | Alpha Trade 成交额 181061.22 | 列表口径 3133775.87 | 涨跌 -4.99% | 振幅 7.75% | 估算人数 22
+- GUA | Alpha Trade 成交额 1189750742.74 | 列表口径 5348474.81 | 涨跌 1.60% | 振幅 3.10% | 估算人数 145092
+- VELVET | Alpha Trade 成交额 184191121.20 | 列表口径 26892.18 | 涨跌 -0.18% | 振幅 22.27% | 估算人数 22462
+- BSB | Alpha Trade 成交额 31670244.99 | 列表口径 29821119.70 | 涨跌 12.91% | 振幅 15.47% | 估算人数 3862
+- BTW | Alpha Trade 成交额 10213777.51 | 列表口径 5427754.65 | 涨跌 19.97% | 振幅 32.31% | 估算人数 1246
+- UP | Alpha Trade 成交额 1740167.17 | 列表口径 16233391.49 | 涨跌 -10.42% | 振幅 31.00% | 估算人数 212
+- LYN | Alpha Trade 成交额 1526494.06 | 列表口径 5723651.78 | 涨跌 -28.35% | 振幅 53.82% | 估算人数 186
+- SN3 | Alpha Trade 成交额 325317.31 | 列表口径 676327.76 | 涨跌 20.50% | 振幅 58.33% | 估算人数 40
+- LAB | Alpha Trade 成交额 172946.84 | 列表口径 3089973.20 | 涨跌 -5.90% | 振幅 7.75% | 估算人数 21
 
 ## 稳定刷分推荐
 
-- GUA | 分数 86.98 | Alpha Trade 成交额 1162907901.94 | 波动 0.09% | 4h 振幅 0.80% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,162,907,902，流动性 2,203,482
-  - Alpha 列表口径 24h 成交额 5,333,746
+- GUA | 分数 86.98 | Alpha Trade 成交额 1189750742.74 | 波动 0.09% | 4h 振幅 0.74% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,189,750,743，流动性 2,204,040
+  - Alpha 列表口径 24h 成交额 5,348,475
   - 短周期波动 0.09%
-  - 4h 振幅 0.80%
+  - 4h 振幅 0.74%
   - 审计风险 LOW
-- VELVET | 分数 58.29 | Alpha Trade 成交额 170813451.61 | 波动 0.21% | 4h 振幅 1.52% | 审计 LOW
-  - Alpha Trade 24h 成交额 170,813,452，流动性 1,140,254
-  - Alpha 列表口径 24h 成交额 43,826
-  - 短周期波动 0.21%
-  - 4h 振幅 1.52%
+- VELVET | 分数 61.35 | Alpha Trade 成交额 184191121.20 | 波动 0.11% | 4h 振幅 0.84% | 审计 LOW
+  - Alpha Trade 24h 成交额 184,191,121，流动性 1,139,326
+  - Alpha 列表口径 24h 成交额 26,892
+  - 短周期波动 0.11%
+  - 4h 振幅 0.84%
   - 审计风险 LOW
-- BSB | 分数 41.73 | Alpha Trade 成交额 31537493.30 | 波动 0.84% | 4h 振幅 8.50% | 审计 LOW
-  - Alpha Trade 24h 成交额 31,537,493，流动性 1,367,087
-  - Alpha 列表口径 24h 成交额 28,830,482
-  - 短周期波动 0.84%
-  - 4h 振幅 8.50%
+- BSB | 分数 41.16 | Alpha Trade 成交额 31670244.99 | 波动 0.86% | 4h 振幅 8.68% | 审计 LOW
+  - Alpha Trade 24h 成交额 31,670,245，流动性 1,372,886
+  - Alpha 列表口径 24h 成交额 29,821,120
+  - 短周期波动 0.86%
+  - 4h 振幅 8.68%
   - 审计风险 LOW
-- UP | 分数 25.15 | Alpha Trade 成交额 1742572.32 | 波动 0.91% | 4h 振幅 11.40% | 审计 MID
-  - Alpha Trade 24h 成交额 1,742,572，流动性 1,863,518
-  - Alpha 列表口径 24h 成交额 16,327,499
-  - 短周期波动 0.91%
-  - 4h 振幅 11.40%
+- UP | 分数 27.04 | Alpha Trade 成交额 1740167.17 | 波动 0.90% | 4h 振幅 9.46% | 审计 MID
+  - Alpha Trade 24h 成交额 1,740,167，流动性 1,870,335
+  - Alpha 列表口径 24h 成交额 16,233,391
+  - 短周期波动 0.90%
+  - 4h 振幅 9.46%
   - 审计风险 MID
-- LYN | 分数 23.87 | Alpha Trade 成交额 1465980.90 | 波动 0.81% | 4h 振幅 4.72% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,465,981，流动性 256,913
-  - Alpha 列表口径 24h 成交额 5,469,348
-  - 短周期波动 0.81%
-  - 4h 振幅 4.72%
+- BTW | 分数 25.82 | Alpha Trade 成交额 10213777.51 | 波动 0.83% | 4h 振幅 7.47% | 审计 LOW
+  - Alpha Trade 24h 成交额 10,213,778，流动性 1,188,268
+  - Alpha 列表口径 24h 成交额 5,427,755
+  - 短周期波动 0.83%
+  - 4h 振幅 7.47%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,11 +59,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Introducing Fabric Protocol (ROBO) on Binance HODLer Airdrops! Earn ROBO With Retroactive BNB Simple Earn Subscriptions
 - Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-03-20)
-- Latest Activities：Block Street Trading Competition: Trade Block Street (BSB) and Share $100K Worth of Rewards
+- Latest Activities：SAHARA Trading Tournament: Trade to Share Up to 4,000,000 SAHARA Token Vouchers
 
 ### 最近 Alpha 上线
 
-- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 499663.59
+- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 454775.49
 
 ### New Cryptocurrency Listing
 
@@ -85,12 +85,12 @@
 
 ### Latest Activities
 
+- [SAHARA Trading Tournament: Trade to Share Up to 4,000,000 SAHARA Token Vouchers](https://www.binance.com/en/support/announcement/detail/49a9f743c4e646579207517db4d9503c)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Block Street Trading Competition: Trade Block Street (BSB) and Share $100K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/f94b496c858448c6ac9847b306babbfd)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [Introducing Midnight (NIGHT) on Binance Super Earn: Share Up to 120M NIGHT Quarterly, Under a Total Rewards Grant of 480M NIGHT](https://www.binance.com/en/support/announcement/detail/322388e719b84851b8bd71ac50c6b34f)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to an…
-- [Word of the Day: Test Your Knowledge on “OpenClaw” to Unlock HOME Rewards!](https://www.binance.com/en/support/announcement/detail/000a4567414b424791a511038c5d855b)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 
 ## Warnings
 
