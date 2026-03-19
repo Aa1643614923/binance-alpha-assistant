@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-19T05:16:44.512154+00:00
+- 生成时间：2026-03-19T06:14:20.994286+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1358294608.81
+- 四倍分 24h 总成交额：1332168603.60
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：165646（按 8200 / 人）
+- 估算参与人数：162460（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1163015618.05 | 列表口径 4232195.04 | 涨跌 -1.10% | 振幅 3.46% | 估算人数 141831
-- VELVET | Alpha Trade 成交额 161132588.27 | 列表口径 23007.74 | 涨跌 -0.30% | 振幅 79.60% | 估算人数 19650
-- BSB | Alpha Trade 成交额 15905774.28 | 列表口径 37293781.04 | 涨跌 -16.11% | 振幅 40.06% | 估算人数 1940
-- BTW | Alpha Trade 成交额 11779731.25 | 列表口径 3481115.42 | 涨跌 2.77% | 振幅 33.16% | 估算人数 1437
-- LYN | Alpha Trade 成交额 4824775.61 | 列表口径 18457674.39 | 涨跌 87.60% | 振幅 129.99% | 估算人数 588
-- UP | Alpha Trade 成交额 1349188.61 | 列表口径 20762007.92 | 涨跌 17.14% | 振幅 21.47% | 估算人数 165
-- LAB | Alpha Trade 成交额 169636.06 | 列表口径 3177373.19 | 涨跌 1.36% | 振幅 7.36% | 估算人数 21
-- SN3 | Alpha Trade 成交额 117296.67 | 列表口径 300935.40 | 涨跌 -23.98% | 振幅 64.25% | 估算人数 14
+- GUA | Alpha Trade 成交额 1147524908.15 | 列表口径 4364111.33 | 涨跌 -0.76% | 振幅 3.46% | 估算人数 139942
+- VELVET | Alpha Trade 成交额 150101316.38 | 列表口径 23346.44 | 涨跌 -1.00% | 振幅 79.60% | 估算人数 18305
+- BSB | Alpha Trade 成交额 15594399.67 | 列表口径 37296496.63 | 涨跌 -14.64% | 振幅 40.06% | 估算人数 1902
+- BTW | Alpha Trade 成交额 12112268.38 | 列表口径 3505349.85 | 涨跌 2.12% | 振幅 33.16% | 估算人数 1477
+- LYN | Alpha Trade 成交额 4965581.90 | 列表口径 18991613.02 | 涨跌 96.16% | 振幅 129.99% | 估算人数 606
+- UP | Alpha Trade 成交额 1588685.36 | 列表口径 21513129.86 | 涨跌 24.78% | 振幅 29.06% | 估算人数 194
+- LAB | Alpha Trade 成交额 166389.57 | 列表口径 3219119.57 | 涨跌 1.44% | 振幅 7.36% | 估算人数 20
+- SN3 | Alpha Trade 成交额 115054.19 | 列表口径 299186.32 | 涨跌 -16.54% | 振幅 56.25% | 估算人数 14
 
 ## 稳定刷分推荐
 
-- GUA | 分数 86.27 | Alpha Trade 成交额 1163015618.05 | 波动 0.17% | 4h 振幅 2.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,163,015,618，流动性 2,199,493
-  - Alpha 列表口径 24h 成交额 4,232,195
-  - 短周期波动 0.17%
-  - 4h 振幅 2.03%
+- GUA | 分数 86.53 | Alpha Trade 成交额 1147524908.15 | 波动 0.16% | 4h 振幅 1.68% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,147,524,908，流动性 2,201,256
+  - Alpha 列表口径 24h 成交额 4,364,111
+  - 短周期波动 0.16%
+  - 4h 振幅 1.68%
   - 审计风险 LOW
-- BSB | 分数 61.60 | Alpha Trade 成交额 15905774.28 | 波动 0.48% | 4h 振幅 3.95% | 审计 LOW
-  - Alpha Trade 24h 成交额 15,905,774，流动性 1,300,158
-  - Alpha 列表口径 24h 成交额 37,293,781
-  - 短周期波动 0.48%
-  - 4h 振幅 3.95%
+- VELVET | 分数 60.32 | Alpha Trade 成交额 150101316.38 | 波动 0.13% | 4h 振幅 0.94% | 审计 LOW
+  - Alpha Trade 24h 成交额 150,101,316，流动性 1,116,898
+  - Alpha 列表口径 24h 成交额 23,346
+  - 短周期波动 0.13%
+  - 4h 振幅 0.94%
   - 审计风险 LOW
-- VELVET | 分数 60.52 | Alpha Trade 成交额 161132588.27 | 波动 0.10% | 4h 振幅 1.40% | 审计 LOW
-  - Alpha Trade 24h 成交额 161,132,588，流动性 1,121,190
-  - Alpha 列表口径 24h 成交额 23,008
-  - 短周期波动 0.10%
-  - 4h 振幅 1.40%
+- BSB | 分数 58.48 | Alpha Trade 成交额 15594399.67 | 波动 0.76% | 4h 振幅 8.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 15,594,400，流动性 1,320,377
+  - Alpha 列表口径 24h 成交额 37,296,497
+  - 短周期波动 0.76%
+  - 4h 振幅 8.98%
   - 审计风险 LOW
-- BTW | 分数 43.45 | Alpha Trade 成交额 11779731.25 | 波动 0.67% | 4h 振幅 5.15% | 审计 LOW
-  - Alpha Trade 24h 成交额 11,779,731，流动性 1,193,655
-  - Alpha 列表口径 24h 成交额 3,481,115
-  - 短周期波动 0.67%
-  - 4h 振幅 5.15%
+- BTW | 分数 43.68 | Alpha Trade 成交额 12112268.38 | 波动 0.64% | 4h 振幅 6.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,112,268，流动性 1,191,579
+  - Alpha 列表口径 24h 成交额 3,505,350
+  - 短周期波动 0.64%
+  - 4h 振幅 6.64%
   - 审计风险 LOW
-- UP | 分数 36.53 | Alpha Trade 成交额 1349188.61 | 波动 1.81% | 4h 振幅 15.90% | 审计 MID
-  - Alpha Trade 24h 成交额 1,349,189，流动性 1,893,025
-  - Alpha 列表口径 24h 成交额 20,762,008
-  - 短周期波动 1.81%
-  - 4h 振幅 15.90%
+- UP | 分数 33.72 | Alpha Trade 成交额 1588685.36 | 波动 1.99% | 4h 振幅 25.32% | 审计 MID
+  - Alpha Trade 24h 成交额 1,588,685，流动性 1,926,686
+  - Alpha 列表口径 24h 成交额 21,513,130
+  - 短周期波动 1.99%
+  - 4h 振幅 25.32%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -59,12 +59,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 - Latest Binance News：Binance Updates VIP Program Eligibility Thresholds
-- Latest Activities：SAHARA Trading Tournament: Trade to Share Up to 4,000,000 SAHARA Token Vouchers
+- Latest Activities：Binance Earn: Enjoy Up to 10% APR with U Flexible Products – 20,000 U Limit Available! (2026-03-20)
 
 ### 最近 Alpha 上线
 
 - KAT | 1x | 上线 2026-03-18T11:00:00+00:00 | 24h 成交额 0.00
-- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 130763.36
+- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 130990.09
 
 ### New Cryptocurrency Listing
 
@@ -86,12 +86,12 @@
 
 ### Latest Activities
 
+- [Binance Earn: Enjoy Up to 10% APR with U Flexible Products – 20,000 U Limit Available! (2026-03-20)](https://www.binance.com/en/support/announcement/detail/a2e3dda0471b4fabb3ec805ad71bc135)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [SAHARA Trading Tournament: Trade to Share Up to 4,000,000 SAHARA Token Vouchers](https://www.binance.com/en/support/announcement/detail/49a9f743c4e646579207517db4d9503c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Block Street Trading Competition: Trade Block Street (BSB) and Share $100K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/f94b496c858448c6ac9847b306babbfd)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
-- [Introducing Midnight (NIGHT) on Binance Super Earn: Share Up to 120M NIGHT Quarterly, Under a Total Rewards Grant of 480M NIGHT](https://www.binance.com/en/support/announcement/detail/322388e719b84851b8bd71ac50c6b34f)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to an…
 
 ## Warnings
 
