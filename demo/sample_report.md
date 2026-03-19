@@ -1,54 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-19T09:57:11.409568+00:00
-- 四倍分代币数：8
-- 四倍分 24h 总成交额：1322482949.36
+- 生成时间：2026-03-19T10:53:40.380441+00:00
+- 四倍分代币数：10
+- 四倍分 24h 总成交额：1345206540.65
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：161278（按 8200 / 人）
+- 估算参与人数：164050（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1163161105.96 | 列表口径 4495870.30 | 涨跌 -0.35% | 振幅 3.40% | 估算人数 141849
-- VELVET | Alpha Trade 成交额 126877527.92 | 列表口径 22505.84 | 涨跌 0.65% | 振幅 79.60% | 估算人数 15473
-- BSB | Alpha Trade 成交额 14508316.15 | 列表口径 34488369.86 | 涨跌 -9.86% | 振幅 22.80% | 估算人数 1769
-- BTW | Alpha Trade 成交额 11303231.89 | 列表口径 3528176.12 | 涨跌 -3.18% | 振幅 33.16% | 估算人数 1378
-- LYN | Alpha Trade 成交额 4757463.34 | 列表口径 17443846.54 | 涨跌 45.28% | 振幅 82.71% | 估算人数 580
-- UP | Alpha Trade 成交额 1621967.75 | 列表口径 22075304.87 | 涨跌 11.74% | 振幅 31.67% | 估算人数 198
-- LAB | Alpha Trade 成交额 160136.64 | 列表口径 3438937.52 | 涨跌 -0.85% | 振幅 6.67% | 估算人数 20
-- SN3 | Alpha Trade 成交额 93199.71 | 列表口径 288839.17 | 涨跌 -5.49% | 振幅 42.61% | 估算人数 11
+- GUA | Alpha Trade 成交额 1190275665.07 | 列表口径 4477923.69 | 涨跌 -0.39% | 振幅 3.40% | 估算人数 145156
+- VELVET | Alpha Trade 成交额 124249281.08 | 列表口径 23708.48 | 涨跌 0.29% | 振幅 79.60% | 估算人数 15152
+- BSB | Alpha Trade 成交额 14201423.44 | 列表口径 33600657.35 | 涨跌 -6.96% | 振幅 17.31% | 估算人数 1732
+- BTW | Alpha Trade 成交额 9333830.73 | 列表口径 3664960.80 | 涨跌 -3.63% | 振幅 33.16% | 估算人数 1138
+- LYN | Alpha Trade 成交额 4680610.89 | 列表口径 16426413.48 | 涨跌 39.04% | 振幅 82.71% | 估算人数 571
+- UP | Alpha Trade 成交额 1674150.28 | 列表口径 21921449.50 | 涨跌 14.79% | 振幅 31.67% | 估算人数 204
+- BLUAI | Alpha Trade 成交额 337628.04 | 列表口径 385929.60 | 涨跌 -4.17% | 振幅 20.54% | 估算人数 41
+- IN | Alpha Trade 成交额 211134.88 | 列表口径 2177429.58 | 涨跌 -8.69% | 振幅 11.68% | 估算人数 26
+- LAB | Alpha Trade 成交额 157691.61 | 列表口径 3386135.29 | 涨跌 -0.57% | 振幅 6.67% | 估算人数 19
+- SN3 | Alpha Trade 成交额 85124.62 | 列表口径 281827.27 | 涨跌 -10.06% | 振幅 42.61% | 估算人数 10
 
 ## 稳定刷分推荐
 
-- GUA | 分数 87.06 | Alpha Trade 成交额 1163161105.96 | 波动 0.10% | 4h 振幅 1.11% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,163,161,106，流动性 2,200,603
-  - Alpha 列表口径 24h 成交额 4,495,870
-  - 短周期波动 0.10%
-  - 4h 振幅 1.11%
+- GUA | 分数 87.06 | Alpha Trade 成交额 1190275665.07 | 波动 0.11% | 4h 振幅 1.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,190,275,665，流动性 2,201,156
+  - Alpha 列表口径 24h 成交额 4,477,924
+  - 短周期波动 0.11%
+  - 4h 振幅 1.22%
   - 审计风险 LOW
-- VELVET | 分数 58.97 | Alpha Trade 成交额 126877527.92 | 波动 0.14% | 4h 振幅 1.79% | 审计 LOW
-  - Alpha Trade 24h 成交额 126,877,528，流动性 1,119,990
-  - Alpha 列表口径 24h 成交额 22,506
-  - 短周期波动 0.14%
+- VELVET | 分数 59.00 | Alpha Trade 成交额 124249281.08 | 波动 0.12% | 4h 振幅 1.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 124,249,281，流动性 1,118,471
+  - Alpha 列表口径 24h 成交额 23,708
+  - 短周期波动 0.12%
   - 4h 振幅 1.79%
   - 审计风险 LOW
-- BSB | 分数 51.14 | Alpha Trade 成交额 14508316.15 | 波动 1.02% | 4h 振幅 6.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 14,508,316，流动性 1,315,297
-  - Alpha 列表口径 24h 成交额 34,488,370
-  - 短周期波动 1.02%
-  - 4h 振幅 6.42%
+- BSB | 分数 49.85 | Alpha Trade 成交额 14201423.44 | 波动 0.97% | 4h 振幅 6.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 14,201,423，流动性 1,313,006
+  - Alpha 列表口径 24h 成交额 33,600,657
+  - 短周期波动 0.97%
+  - 4h 振幅 6.03%
   - 审计风险 LOW
-- BTW | 分数 40.14 | Alpha Trade 成交额 11303231.89 | 波动 0.49% | 4h 振幅 6.95% | 审计 LOW
-  - Alpha Trade 24h 成交额 11,303,232，流动性 1,186,270
-  - Alpha 列表口径 24h 成交额 3,528,176
-  - 短周期波动 0.49%
-  - 4h 振幅 6.95%
-  - 审计风险 LOW
-- UP | 分数 33.69 | Alpha Trade 成交额 1621967.75 | 波动 1.09% | 4h 振幅 13.39% | 审计 MID
-  - Alpha Trade 24h 成交额 1,621,968，流动性 1,898,108
-  - Alpha 列表口径 24h 成交额 22,075,305
-  - 短周期波动 1.09%
-  - 4h 振幅 13.39%
+- UP | 分数 37.23 | Alpha Trade 成交额 1674150.28 | 波动 0.93% | 4h 振幅 8.37% | 审计 MID
+  - Alpha Trade 24h 成交额 1,674,150，流动性 1,907,165
+  - Alpha 列表口径 24h 成交额 21,921,449
+  - 短周期波动 0.93%
+  - 4h 振幅 8.37%
   - 审计风险 MID
+- BTW | 分数 33.40 | Alpha Trade 成交额 9333830.73 | 波动 0.67% | 4h 振幅 9.94% | 审计 LOW
+  - Alpha Trade 24h 成交额 9,333,831，流动性 1,185,707
+  - Alpha 列表口径 24h 成交额 3,664,961
+  - 短周期波动 0.67%
+  - 4h 振幅 9.94%
+  - 审计风险 LOW
 
 ## Alpha 合约异动
 
@@ -56,15 +58,14 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
+- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 - Latest Binance News：Binance Convert Adds Full API Support and AI Agent Integration
-- Latest Activities：Grab a Share of 1,968,000 SIGN Rewards on CreatorPad!
+- Latest Activities：CIS User Exclusive: Celebrate Nowruz Together! Gifts are Ready—Up to 300 USDT in Surprise Boxes
 
 ### 最近 Alpha 上线
 
 - KAT | 1x | 上线 2026-03-18T11:00:00+00:00 | 24h 成交额 0.00
-- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 171794.91
 
 ### New Cryptocurrency Listing
 
@@ -86,12 +87,12 @@
 
 ### Latest Activities
 
+- [CIS User Exclusive: Celebrate Nowruz Together! Gifts are Ready—Up to 300 USDT in Surprise Boxes](https://www.binance.com/en/support/announcement/detail/f13e037d54914a8ea0cdbc80a4a953d4)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 - [Grab a Share of 1,968,000 SIGN Rewards on CreatorPad!](https://www.binance.com/en/support/announcement/detail/d0886cd0da82460ba8c32b466f7b2cc1)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Binance Square i…
 - [Introducing Katana (KAT): Grab a Share of the 25,000,000 KAT Token Voucher Prize Pool!](https://www.binance.com/en/support/announcement/detail/549b60c5e8934278904d3e36afb27275)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Spot is excited…
-- [Binance KOL Introduction Program: Introduce KOLs to Join Binance Affiliate Program and Earn Up to 8,000 USDC](https://www.binance.com/en/support/announcement/detail/d092195abca64386929cc6517130ffc3)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to la…
 
 ## Warnings
 
