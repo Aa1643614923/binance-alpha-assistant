@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-19T08:00:27.492079+00:00
+- 生成时间：2026-03-19T08:58:01.244303+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1316757135.00
+- 四倍分 24h 总成交额：1314260318.02
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：160580（按 8200 / 人）
+- 估算参与人数：160276（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1149957802.87 | 列表口径 4452294.18 | 涨跌 -0.93% | 振幅 3.44% | 估算人数 140239
-- VELVET | Alpha Trade 成交额 133787825.66 | 列表口径 25590.88 | 涨跌 -1.37% | 振幅 79.60% | 估算人数 16316
-- BSB | Alpha Trade 成交额 14591881.33 | 列表口径 35102778.27 | 涨跌 -19.81% | 振幅 38.92% | 估算人数 1779
-- BTW | Alpha Trade 成交额 11626169.35 | 列表口径 3504714.84 | 涨跌 1.06% | 振幅 33.16% | 估算人数 1418
-- LYN | Alpha Trade 成交额 4822219.62 | 列表口径 18601472.54 | 涨跌 54.95% | 振幅 111.41% | 估算人数 588
-- UP | Alpha Trade 成交额 1700485.42 | 列表口径 22235843.89 | 涨跌 12.32% | 振幅 31.67% | 估算人数 207
-- LAB | Alpha Trade 成交额 164489.19 | 列表口径 3295256.98 | 涨跌 0.23% | 振幅 7.36% | 估算人数 20
-- SN3 | Alpha Trade 成交额 106261.56 | 列表口径 310201.46 | 涨跌 -5.94% | 振幅 47.82% | 估算人数 13
+- GUA | Alpha Trade 成交额 1152716702.13 | 列表口径 4542672.57 | 涨跌 -0.75% | 振幅 3.40% | 估算人数 140575
+- VELVET | Alpha Trade 成交额 128518584.54 | 列表口径 23117.31 | 涨跌 -0.51% | 振幅 79.60% | 估算人数 15673
+- BSB | Alpha Trade 成交额 14538272.38 | 列表口径 35059240.61 | 涨跌 -16.78% | 振幅 34.21% | 估算人数 1773
+- BTW | Alpha Trade 成交额 11657439.06 | 列表口径 3469700.21 | 涨跌 1.27% | 振幅 33.16% | 估算人数 1422
+- LYN | Alpha Trade 成交额 4851174.42 | 列表口径 18142811.66 | 涨跌 78.96% | 振幅 105.94% | 估算人数 592
+- UP | Alpha Trade 成交额 1707949.10 | 列表口径 22261107.54 | 涨跌 13.87% | 振幅 31.67% | 估算人数 208
+- LAB | Alpha Trade 成交额 165558.99 | 列表口径 3403942.82 | 涨跌 1.20% | 振幅 7.36% | 估算人数 20
+- SN3 | Alpha Trade 成交额 104637.39 | 列表口径 298927.81 | 涨跌 -13.64% | 振幅 45.34% | 估算人数 13
 
 ## 稳定刷分推荐
 
-- GUA | 分数 86.98 | Alpha Trade 成交额 1149957802.87 | 波动 0.14% | 4h 振幅 1.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,149,957,803，流动性 2,201,868
-  - Alpha 列表口径 24h 成交额 4,452,294
-  - 短周期波动 0.14%
-  - 4h 振幅 1.65%
+- GUA | 分数 87.05 | Alpha Trade 成交额 1152716702.13 | 波动 0.10% | 4h 振幅 1.07% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,152,716,702，流动性 2,201,780
+  - Alpha 列表口径 24h 成交额 4,542,673
+  - 短周期波动 0.10%
+  - 4h 振幅 1.07%
   - 审计风险 LOW
-- VELVET | 分数 59.83 | Alpha Trade 成交额 133787825.66 | 波动 0.15% | 4h 振幅 1.51% | 审计 LOW
-  - Alpha Trade 24h 成交额 133,787,826，流动性 1,114,322
-  - Alpha 列表口径 24h 成交额 25,591
+- VELVET | 分数 59.17 | Alpha Trade 成交额 128518584.54 | 波动 0.15% | 4h 振幅 1.51% | 审计 LOW
+  - Alpha Trade 24h 成交额 128,518,585，流动性 1,115,730
+  - Alpha 列表口径 24h 成交额 23,117
   - 短周期波动 0.15%
   - 4h 振幅 1.51%
   - 审计风险 LOW
-- BSB | 分数 55.49 | Alpha Trade 成交额 14591881.33 | 波动 1.04% | 4h 振幅 9.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 14,591,881，流动性 1,320,660
-  - Alpha 列表口径 24h 成交额 35,102,778
-  - 短周期波动 1.04%
-  - 4h 振幅 9.59%
+- BSB | 分数 51.59 | Alpha Trade 成交额 14538272.38 | 波动 1.10% | 4h 振幅 8.90% | 审计 LOW
+  - Alpha Trade 24h 成交额 14,538,272，流动性 1,322,536
+  - Alpha 列表口径 24h 成交额 35,059,241
+  - 短周期波动 1.10%
+  - 4h 振幅 8.90%
   - 审计风险 LOW
-- BTW | 分数 43.88 | Alpha Trade 成交额 11626169.35 | 波动 0.56% | 4h 振幅 6.41% | 审计 LOW
-  - Alpha Trade 24h 成交额 11,626,169，流动性 1,190,701
-  - Alpha 列表口径 24h 成交额 3,504,715
-  - 短周期波动 0.56%
-  - 4h 振幅 6.41%
+- BTW | 分数 42.62 | Alpha Trade 成交额 11657439.06 | 波动 0.51% | 4h 振幅 5.51% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,657,439，流动性 1,191,510
+  - Alpha 列表口径 24h 成交额 3,469,700
+  - 短周期波动 0.51%
+  - 4h 振幅 5.51%
   - 审计风险 LOW
-- UP | 分数 38.99 | Alpha Trade 成交额 1700485.42 | 波动 1.50% | 4h 振幅 14.58% | 审计 MID
-  - Alpha Trade 24h 成交额 1,700,485，流动性 1,892,133
-  - Alpha 列表口径 24h 成交额 22,235,844
-  - 短周期波动 1.50%
-  - 4h 振幅 14.58%
+- UP | 分数 34.29 | Alpha Trade 成交额 1707949.10 | 波动 1.37% | 4h 振幅 14.48% | 审计 MID
+  - Alpha Trade 24h 成交额 1,707,949，流动性 1,879,676
+  - Alpha 列表口径 24h 成交额 22,261,108
+  - 短周期波动 1.37%
+  - 4h 振幅 14.48%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -59,12 +59,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 - Latest Binance News：Binance Updates VIP Program Eligibility Thresholds
-- Latest Activities：Binance KOL Introduction Program: Introduce KOLs to Join Binance Affiliate Program and Earn Up to 8,000 USDC
+- Latest Activities：Introducing Katana (KAT): Grab a Share of the 25,000,000 KAT Token Voucher Prize Pool!
 
 ### 最近 Alpha 上线
 
 - KAT | 1x | 上线 2026-03-18T11:00:00+00:00 | 24h 成交额 0.00
-- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 171202.70
+- CFG | 1x | 上线 2026-03-16T10:48:13.639000+00:00 | 24h 成交额 168333.27
 
 ### New Cryptocurrency Listing
 
@@ -86,12 +86,12 @@
 
 ### Latest Activities
 
+- [Introducing Katana (KAT): Grab a Share of the 25,000,000 KAT Token Voucher Prize Pool!](https://www.binance.com/en/support/announcement/detail/549b60c5e8934278904d3e36afb27275)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Spot is excited…
 - [Binance KOL Introduction Program: Introduce KOLs to Join Binance Affiliate Program and Earn Up to 8,000 USDC](https://www.binance.com/en/support/announcement/detail/d092195abca64386929cc6517130ffc3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to la…
 - [Binance Earn: Enjoy Up to 10% APR with U Flexible Products – 20,000 U Limit Available! (2026-03-20)](https://www.binance.com/en/support/announcement/detail/a2e3dda0471b4fabb3ec805ad71bc135)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [SAHARA Trading Tournament: Trade to Share Up to 4,000,000 SAHARA Token Vouchers](https://www.binance.com/en/support/announcement/detail/49a9f743c4e646579207517db4d9503c)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
