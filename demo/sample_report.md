@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-19T12:02:26.675633+00:00
+- 生成时间：2026-03-19T13:40:17.385563+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1338467150.33
+- 四倍分 24h 总成交额：1350902971.94
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：163228（按 8200 / 人）
+- 估算参与人数：164744（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1184646034.76 | 列表口径 4627251.87 | 涨跌 0.21% | 振幅 3.40% | 估算人数 144469
-- VELVET | Alpha Trade 成交额 125448987.75 | 列表口径 23866.15 | 涨跌 1.51% | 振幅 79.60% | 估算人数 15299
-- BSB | Alpha Trade 成交额 13826910.52 | 列表口径 33574728.09 | 涨跌 -4.25% | 振幅 15.21% | 估算人数 1686
-- BTW | Alpha Trade 成交额 7568331.87 | 列表口径 3763338.35 | 涨跌 1.18% | 振幅 33.16% | 估算人数 923
-- LYN | Alpha Trade 成交额 4588945.99 | 列表口径 15687652.07 | 涨跌 21.44% | 振幅 82.71% | 估算人数 560
-- UP | Alpha Trade 成交额 1612252.53 | 列表口径 21724925.95 | 涨跌 19.69% | 振幅 31.67% | 估算人数 197
-- BLUAI | Alpha Trade 成交额 350043.21 | 列表口径 389539.56 | 涨跌 -0.95% | 振幅 20.54% | 估算人数 43
-- IN | Alpha Trade 成交额 216976.55 | 列表口径 2154011.69 | 涨跌 -7.35% | 振幅 9.41% | 估算人数 26
-- LAB | Alpha Trade 成交额 134503.58 | 列表口径 3342875.92 | 涨跌 -1.31% | 振幅 7.26% | 估算人数 16
-- SN3 | Alpha Trade 成交额 74163.56 | 列表口径 268590.57 | 涨跌 -6.78% | 振幅 72.01% | 估算人数 9
+- GUA | Alpha Trade 成交额 1190760402.90 | 列表口径 4737405.16 | 涨跌 0.48% | 振幅 3.40% | 估算人数 145215
+- VELVET | Alpha Trade 成交额 133177276.72 | 列表口径 21619.37 | 涨跌 3.92% | 振幅 79.60% | 估算人数 16241
+- BSB | Alpha Trade 成交额 12482897.97 | 列表口径 32857392.42 | 涨跌 -2.02% | 振幅 14.75% | 估算人数 1522
+- BTW | Alpha Trade 成交额 7532128.03 | 列表口径 3872527.66 | 涨跌 9.63% | 振幅 29.54% | 估算人数 919
+- LYN | Alpha Trade 成交额 4530240.90 | 列表口径 14239954.87 | 涨跌 11.01% | 振幅 89.50% | 估算人数 552
+- UP | Alpha Trade 成交额 1629059.32 | 列表口径 20484482.85 | 涨跌 18.08% | 振幅 31.67% | 估算人数 199
+- BLUAI | Alpha Trade 成交额 360185.00 | 列表口径 395789.95 | 涨跌 0.66% | 振幅 20.54% | 估算人数 44
+- IN | Alpha Trade 成交额 230299.89 | 列表口径 2114617.15 | 涨跌 -6.89% | 振幅 8.18% | 估算人数 28
+- LAB | Alpha Trade 成交额 136149.03 | 列表口径 3270314.53 | 涨跌 -4.02% | 振幅 8.91% | 估算人数 17
+- SN3 | Alpha Trade 成交额 64332.16 | 列表口径 264774.42 | 涨跌 -0.25% | 振幅 72.01% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- GUA | 分数 87.00 | Alpha Trade 成交额 1184646034.76 | 波动 0.11% | 4h 振幅 1.22% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,184,646,035，流动性 2,203,146
-  - Alpha 列表口径 24h 成交额 4,627,252
-  - 短周期波动 0.11%
-  - 4h 振幅 1.22%
+- GUA | 分数 87.06 | Alpha Trade 成交额 1190760402.90 | 波动 0.10% | 4h 振幅 1.10% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,190,760,403，流动性 2,204,289
+  - Alpha 列表口径 24h 成交额 4,737,405
+  - 短周期波动 0.10%
+  - 4h 振幅 1.10%
   - 审计风险 LOW
-- VELVET | 分数 59.30 | Alpha Trade 成交额 125448987.75 | 波动 0.14% | 4h 振幅 1.12% | 审计 LOW
-  - Alpha Trade 24h 成交额 125,448,988，流动性 1,117,587
-  - Alpha 列表口径 24h 成交额 23,866
-  - 短周期波动 0.14%
-  - 4h 振幅 1.12%
+- BSB | 分数 59.56 | Alpha Trade 成交额 12482897.97 | 波动 0.38% | 4h 振幅 3.58% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,482,898，流动性 1,314,869
+  - Alpha 列表口径 24h 成交额 32,857,392
+  - 短周期波动 0.38%
+  - 4h 振幅 3.58%
   - 审计风险 LOW
-- BSB | 分数 54.25 | Alpha Trade 成交额 13826910.52 | 波动 0.69% | 4h 振幅 6.02% | 审计 LOW
-  - Alpha Trade 24h 成交额 13,826,911，流动性 1,316,434
-  - Alpha 列表口径 24h 成交额 33,574,728
-  - 短周期波动 0.69%
-  - 4h 振幅 6.02%
+- VELVET | 分数 56.78 | Alpha Trade 成交额 133177276.72 | 波动 0.22% | 4h 振幅 2.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 133,177,277，流动性 1,125,650
+  - Alpha 列表口径 24h 成交额 21,619
+  - 短周期波动 0.22%
+  - 4h 振幅 2.98%
   - 审计风险 LOW
-- UP | 分数 39.26 | Alpha Trade 成交额 1612252.53 | 波动 0.80% | 4h 振幅 9.97% | 审计 MID
-  - Alpha Trade 24h 成交额 1,612,253，流动性 1,902,308
-  - Alpha 列表口径 24h 成交额 21,724,926
-  - 短周期波动 0.80%
-  - 4h 振幅 9.97%
+- UP | 分数 40.85 | Alpha Trade 成交额 1629059.32 | 波动 0.72% | 4h 振幅 7.68% | 审计 MID
+  - Alpha Trade 24h 成交额 1,629,059，流动性 1,887,107
+  - Alpha 列表口径 24h 成交额 20,484,483
+  - 短周期波动 0.72%
+  - 4h 振幅 7.68%
   - 审计风险 MID
-- BTW | 分数 35.63 | Alpha Trade 成交额 7568331.87 | 波动 0.70% | 4h 振幅 9.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 7,568,332，流动性 1,191,289
-  - Alpha 列表口径 24h 成交额 3,763,338
-  - 短周期波动 0.70%
-  - 4h 振幅 9.16%
+- BTW | 分数 32.03 | Alpha Trade 成交额 7532128.03 | 波动 0.83% | 4h 振幅 10.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 7,532,128，流动性 1,195,402
+  - Alpha 列表口径 24h 成交额 3,872,528
+  - 短周期波动 0.83%
+  - 4h 振幅 10.91%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,7 +59,7 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
-- 官方最新上新关注：Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)
 - Latest Binance News：Binance Convert Adds Full API Support and AI Agent Integration
 - Latest Activities：Celebrate Eid al Fitr with Binance P2P: Enjoy Zero Fees & Share Cashback Rewards!
 
@@ -69,12 +69,12 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)](https://www.binance.com/en/support/announcement/detail/f4038a3dbd6d49318c2ee201051fe43e)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/en/support/announcement/detail/10f29f9f250542f596169c09a883890f)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Katana (KA…
 - [Introducing Fabric Protocol (ROBO) on Binance HODLer Airdrops! Earn ROBO With Retroactive BNB Simple Earn Subscriptions](https://www.binance.com/en/support/announcement/detail/20ac487755434d559568552e9812cbf0)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure the safety of your funds. This is a general a…
-- [Binance Margin Will Add New Pairs - 2026-03-17](https://www.binance.com/en/support/announcement/detail/f826d6e2bfe34f309f203553c4778076)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin wil…
 
 ### Latest Binance News
 
