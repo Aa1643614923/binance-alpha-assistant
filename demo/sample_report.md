@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-20T10:22:17.321106+00:00
+- 生成时间：2026-03-20T11:03:26.605317+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1336500282.07
+- 四倍分 24h 总成交额：1333100108.47
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：162988（按 8200 / 人）
+- 估算参与人数：162573（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1284754183.36 | 列表口径 6202853.72 | 涨跌 2.80% | 振幅 8.97% | 估算人数 156677
-- BSB | Alpha Trade 成交额 40011769.32 | 列表口径 30506653.00 | 涨跌 -2.39% | 振幅 7.11% | 估算人数 4879
-- LYN | Alpha Trade 成交额 5868237.71 | 列表口径 18688477.56 | 涨跌 10.61% | 振幅 103.76% | 估算人数 716
-- BTW | Alpha Trade 成交额 3712743.11 | 列表口径 4026822.27 | 涨跌 -10.69% | 振幅 49.42% | 估算人数 453
-- UP | Alpha Trade 成交额 985155.58 | 列表口径 10597207.84 | 涨跌 -9.36% | 振幅 22.43% | 估算人数 120
-- CYS | Alpha Trade 成交额 801514.85 | 列表口径 7757535.88 | 涨跌 -0.76% | 振幅 18.91% | 估算人数 98
-- BLUAI | Alpha Trade 成交额 103404.01 | 列表口径 143509.52 | 涨跌 3.00% | 振幅 15.97% | 估算人数 13
-- IN | Alpha Trade 成交额 92930.79 | 列表口径 1491614.37 | 涨跌 -0.86% | 振幅 5.06% | 估算人数 11
-- SN3 | Alpha Trade 成交额 86694.49 | 列表口径 207729.73 | 涨跌 -17.88% | 振幅 81.44% | 估算人数 11
-- LAB | Alpha Trade 成交额 83648.84 | 列表口径 3046948.31 | 涨跌 -4.21% | 振幅 6.60% | 估算人数 10
+- GUA | Alpha Trade 成交额 1276839805.69 | 列表口径 6203864.36 | 涨跌 3.89% | 振幅 8.97% | 估算人数 155712
+- BSB | Alpha Trade 成交额 43951350.74 | 列表口径 30282556.41 | 涨跌 -2.15% | 振幅 7.11% | 估算人数 5360
+- LYN | Alpha Trade 成交额 6018050.94 | 列表口径 18900707.48 | 涨跌 -5.80% | 振幅 103.76% | 估算人数 734
+- BTW | Alpha Trade 成交额 3720392.35 | 列表口径 3951875.21 | 涨跌 -13.55% | 振幅 49.42% | 估算人数 454
+- UP | Alpha Trade 成交额 1425888.58 | 列表口径 10917938.05 | 涨跌 6.52% | 振幅 22.43% | 估算人数 174
+- CYS | Alpha Trade 成交额 818176.27 | 列表口径 7916241.93 | 涨跌 -4.25% | 振幅 18.91% | 估算人数 100
+- SN3 | Alpha Trade 成交额 94439.99 | 列表口径 228703.49 | 涨跌 -21.24% | 振幅 118.20% | 估算人数 12
+- LAB | Alpha Trade 成交额 81732.23 | 列表口径 3020314.93 | 涨跌 -3.15% | 振幅 6.60% | 估算人数 10
+- IN | Alpha Trade 成交额 78835.39 | 列表口径 1421049.50 | 涨跌 -1.28% | 振幅 5.06% | 估算人数 10
+- BLUAI | Alpha Trade 成交额 71436.28 | 列表口径 130351.84 | 涨跌 2.12% | 振幅 15.97% | 估算人数 9
 
 ## 稳定刷分推荐
 
-- GUA | 分数 87.10 | Alpha Trade 成交额 1284754183.36 | 波动 0.22% | 4h 振幅 1.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,284,754,183，流动性 2,213,414
-  - Alpha 列表口径 24h 成交额 6,202,854
-  - 短周期波动 0.22%
-  - 4h 振幅 1.97%
+- GUA | 分数 87.10 | Alpha Trade 成交额 1276839805.69 | 波动 0.23% | 4h 振幅 2.44% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,276,839,806，流动性 2,217,915
+  - Alpha 列表口径 24h 成交额 6,203,864
+  - 短周期波动 0.23%
+  - 4h 振幅 2.44%
   - 审计风险 LOW
-- BSB | 分数 63.63 | Alpha Trade 成交额 40011769.32 | 波动 0.36% | 4h 振幅 4.47% | 审计 LOW
-  - Alpha Trade 24h 成交额 40,011,769，流动性 1,313,951
-  - Alpha 列表口径 24h 成交额 30,506,653
-  - 短周期波动 0.36%
-  - 4h 振幅 4.47%
+- BSB | 分数 65.17 | Alpha Trade 成交额 43951350.74 | 波动 0.25% | 4h 振幅 3.93% | 审计 LOW
+  - Alpha Trade 24h 成交额 43,951,351，流动性 1,313,428
+  - Alpha 列表口径 24h 成交额 30,282,556
+  - 短周期波动 0.25%
+  - 4h 振幅 3.93%
   - 审计风险 LOW
-- UP | 分数 45.36 | Alpha Trade 成交额 985155.58 | 波动 0.71% | 4h 振幅 11.84% | 审计 MID
-  - Alpha Trade 24h 成交额 985,156，流动性 1,844,415
-  - Alpha 列表口径 24h 成交额 10,597,208
-  - 短周期波动 0.71%
-  - 4h 振幅 11.84%
+- BTW | 分数 43.46 | Alpha Trade 成交额 3720392.35 | 波动 0.66% | 4h 振幅 6.40% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,720,392，流动性 1,168,455
+  - Alpha 列表口径 24h 成交额 3,951,875
+  - 短周期波动 0.66%
+  - 4h 振幅 6.40%
+  - 审计风险 LOW
+- CYS | 分数 41.14 | Alpha Trade 成交额 818176.27 | 波动 0.86% | 4h 振幅 10.54% | 审计 MID
+  - Alpha Trade 24h 成交额 818,176，流动性 1,617,181
+  - Alpha 列表口径 24h 成交额 7,916,242
+  - 短周期波动 0.86%
+  - 4h 振幅 10.54%
   - 审计风险 MID
-- BTW | 分数 42.65 | Alpha Trade 成交额 3712743.11 | 波动 0.70% | 4h 振幅 6.48% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,712,743，流动性 1,169,961
-  - Alpha 列表口径 24h 成交额 4,026,822
-  - 短周期波动 0.70%
-  - 4h 振幅 6.48%
-  - 审计风险 LOW
-- CYS | 分数 40.31 | Alpha Trade 成交额 801514.85 | 波动 0.91% | 4h 振幅 10.79% | 审计 MID
-  - Alpha Trade 24h 成交额 801,515，流动性 1,634,168
-  - Alpha 列表口径 24h 成交额 7,757,536
-  - 短周期波动 0.91%
-  - 4h 振幅 10.79%
+- UP | 分数 33.70 | Alpha Trade 成交额 1425888.58 | 波动 1.85% | 4h 振幅 21.09% | 审计 MID
+  - Alpha Trade 24h 成交额 1,425,889，流动性 1,928,574
+  - Alpha 列表口径 24h 成交额 10,917,938
+  - 短周期波动 1.85%
+  - 4h 振幅 21.09%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -61,11 +61,11 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will List USDⓈ-M & COIN-M Quarterly 0925 Delivery Contracts
 - Latest Binance News：Binance Convert Adds Full API Support and AI Agent Integration
-- Latest Activities：CFG Trading Tournament: Trade to Share Up to 835,000 CFG Token Vouchers
+- Latest Activities：Unitas Trading Competition: Trade Unitas (UP) and Share $200K Worth of Rewards
 
 ### 最近 Alpha 上线
 
-- CYS | 4x | 上线 2026-03-20T08:00:00+00:00 | 24h 成交额 7757535.88
+- CYS | 4x | 上线 2026-03-20T08:00:00+00:00 | 24h 成交额 7916241.93
 - KAT | 1x | 上线 2026-03-18T11:00:00+00:00 | 24h 成交额 0.00
 
 ### New Cryptocurrency Listing
@@ -88,12 +88,12 @@
 
 ### Latest Activities
 
+- [Unitas Trading Competition: Trade Unitas (UP) and Share $200K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/703d0a3d099d436894ddfcec15fcbdf3)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [CFG Trading Tournament: Trade to Share Up to 835,000 CFG Token Vouchers](https://www.binance.com/en/support/announcement/detail/342cf2d1aa4c4ac7a2b651b55db5abc1)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Binance Earn: Enjoy Up to 35% APR on SXT Flexible Products with 100,000 SXT Personal Limit (2026-03-21)](https://www.binance.com/en/support/announcement/detail/368c423ca72c4504a3028885f23d08db)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [Hold USD1 in Binance Spot, Funding, Margin and Futures Accounts to Share 135 Million WLFI Tokens (2026-03-20)](https://www.binance.com/en/support/announcement/detail/bc1729b3299c45689b6780b2428b845c)
-  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 
 ## Warnings
 
