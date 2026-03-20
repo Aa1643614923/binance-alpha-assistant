@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-20T13:22:48.881936+00:00
+- 生成时间：2026-03-20T14:11:37.289235+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1352796301.02
+- 四倍分 24h 总成交额：1349060414.53
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：164975（按 8200 / 人）
+- 估算参与人数：164520（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1292683627.22 | 列表口径 6158510.09 | 涨跌 3.91% | 振幅 8.97% | 估算人数 157644
-- BSB | Alpha Trade 成交额 48384143.96 | 列表口径 33474893.93 | 涨跌 -12.66% | 振幅 26.71% | 估算人数 5901
-- LYN | Alpha Trade 成交额 5882219.17 | 列表口径 18908127.27 | 涨跌 -22.86% | 振幅 112.20% | 估算人数 717
-- BTW | Alpha Trade 成交额 3254597.09 | 列表口径 3560738.01 | 涨跌 -19.25% | 振幅 46.17% | 估算人数 397
-- UP | Alpha Trade 成交额 1479739.14 | 列表口径 10794231.06 | 涨跌 9.98% | 振幅 24.27% | 估算人数 180
-- CYS | Alpha Trade 成交额 819831.78 | 列表口径 7809436.70 | 涨跌 -7.66% | 振幅 18.91% | 估算人数 100
-- SN3 | Alpha Trade 成交额 96116.50 | 列表口径 229240.78 | 涨跌 -20.07% | 振幅 56.91% | 估算人数 12
-- LAB | Alpha Trade 成交额 74563.15 | 列表口径 2959038.92 | 涨跌 -1.81% | 振幅 6.60% | 估算人数 9
-- IN | Alpha Trade 成交额 65519.58 | 列表口径 1292329.42 | 涨跌 0.56% | 振幅 5.06% | 估算人数 8
-- BLUAI | Alpha Trade 成交额 55943.42 | 列表口径 134816.42 | 涨跌 3.14% | 振幅 15.97% | 估算人数 7
+- GUA | Alpha Trade 成交额 1286874813.78 | 列表口径 6221075.09 | 涨跌 6.30% | 振幅 8.97% | 估算人数 156936
+- BSB | Alpha Trade 成交额 50333300.57 | 列表口径 34446213.76 | 涨跌 -14.80% | 振幅 26.71% | 估算人数 6138
+- LYN | Alpha Trade 成交额 5759409.32 | 列表口径 18829551.66 | 涨跌 -20.31% | 振幅 117.94% | 估算人数 702
+- BTW | Alpha Trade 成交额 3323678.77 | 列表口径 3550351.27 | 涨跌 -19.41% | 振幅 43.25% | 估算人数 405
+- UP | Alpha Trade 成交额 1672703.68 | 列表口径 10585682.20 | 涨跌 7.85% | 振幅 25.05% | 估算人数 204
+- CYS | Alpha Trade 成交额 823672.84 | 列表口径 7641817.03 | 涨跌 -9.69% | 振幅 18.71% | 估算人数 100
+- SN3 | Alpha Trade 成交额 97079.23 | 列表口径 244083.95 | 涨跌 -13.68% | 振幅 55.12% | 估算人数 12
+- LAB | Alpha Trade 成交额 63764.75 | 列表口径 2920281.56 | 涨跌 0.10% | 振幅 6.60% | 估算人数 8
+- BLUAI | Alpha Trade 成交额 56116.02 | 列表口径 136616.87 | 涨跌 5.39% | 振幅 15.97% | 估算人数 7
+- IN | Alpha Trade 成交额 55875.56 | 列表口径 1244520.24 | 涨跌 0.19% | 振幅 5.06% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- GUA | 分数 87.10 | Alpha Trade 成交额 1292683627.22 | 波动 0.18% | 4h 振幅 3.17% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,292,683,627，流动性 2,220,490
-  - Alpha 列表口径 24h 成交额 6,158,510
-  - 短周期波动 0.18%
-  - 4h 振幅 3.17%
+- GUA | 分数 86.72 | Alpha Trade 成交额 1286874813.78 | 波动 0.22% | 4h 振幅 5.26% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,286,874,814，流动性 2,230,115
+  - Alpha 列表口径 24h 成交额 6,221,075
+  - 短周期波动 0.22%
+  - 4h 振幅 5.26%
   - 审计风险 LOW
-- BSB | 分数 46.52 | Alpha Trade 成交额 48384143.96 | 波动 1.23% | 4h 振幅 16.37% | 审计 LOW
-  - Alpha Trade 24h 成交额 48,384,144，流动性 1,252,827
-  - Alpha 列表口径 24h 成交额 33,474,894
-  - 短周期波动 1.23%
-  - 4h 振幅 16.37%
-  - 审计风险 LOW
-- CYS | 分数 45.01 | Alpha Trade 成交额 819831.78 | 波动 0.54% | 4h 振幅 3.90% | 审计 MID
-  - Alpha Trade 24h 成交额 819,832，流动性 1,616,166
-  - Alpha 列表口径 24h 成交额 7,809,437
-  - 短周期波动 0.54%
-  - 4h 振幅 3.90%
+- CYS | 分数 47.29 | Alpha Trade 成交额 823672.84 | 波动 0.41% | 4h 振幅 4.45% | 审计 MID
+  - Alpha Trade 24h 成交额 823,673，流动性 1,613,119
+  - Alpha 列表口径 24h 成交额 7,641,817
+  - 短周期波动 0.41%
+  - 4h 振幅 4.45%
   - 审计风险 MID
-- BTW | 分数 40.09 | Alpha Trade 成交额 3254597.09 | 波动 0.72% | 4h 振幅 7.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,254,597，流动性 1,167,871
-  - Alpha 列表口径 24h 成交额 3,560,738
-  - 短周期波动 0.72%
-  - 4h 振幅 7.42%
+- BSB | 分数 46.71 | Alpha Trade 成交额 50333300.57 | 波动 1.24% | 4h 振幅 16.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 50,333,301，流动性 1,241,588
+  - Alpha 列表口径 24h 成交额 34,446,214
+  - 短周期波动 1.24%
+  - 4h 振幅 16.38%
   - 审计风险 LOW
-- UP | 分数 24.54 | Alpha Trade 成交额 1479739.14 | 波动 1.81% | 4h 振幅 24.89% | 审计 MID
-  - Alpha Trade 24h 成交额 1,479,739，流动性 1,925,289
-  - Alpha 列表口径 24h 成交额 10,794,231
-  - 短周期波动 1.81%
-  - 4h 振幅 24.89%
+- BTW | 分数 42.45 | Alpha Trade 成交额 3323678.77 | 波动 0.60% | 4h 振幅 7.34% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,323,679，流动性 1,165,062
+  - Alpha 列表口径 24h 成交额 3,550,351
+  - 短周期波动 0.60%
+  - 4h 振幅 7.34%
+  - 审计风险 LOW
+- UP | 分数 24.32 | Alpha Trade 成交额 1672703.68 | 波动 1.79% | 4h 振幅 25.46% | 审计 MID
+  - Alpha Trade 24h 成交额 1,672,704，流动性 1,912,041
+  - Alpha 列表口径 24h 成交额 10,585,682
+  - 短周期波动 1.79%
+  - 4h 振幅 25.46%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -59,23 +59,23 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will List USDⓈ-M & COIN-M Quarterly 0925 Delivery Contracts
+- 官方最新上新关注：Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)
 - Latest Binance News：Binance Convert Adds Full API Support and AI Agent Integration
 - Latest Activities：Unitas Trading Competition: Trade Unitas (UP) and Share $200K Worth of Rewards
 
 ### 最近 Alpha 上线
 
-- CYS | 4x | 上线 2026-03-20T08:00:00+00:00 | 24h 成交额 7809436.70
+- CYS | 4x | 上线 2026-03-20T08:00:00+00:00 | 24h 成交额 7641817.03
 - KAT | 1x | 上线 2026-03-18T11:00:00+00:00 | 24h 成交额 0.00
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)](https://www.binance.com/en/support/announcement/detail/eb32c90a26fd405d97ea0c4174d41d74)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will List USDⓈ-M & COIN-M Quarterly 0925 Delivery Contracts](https://www.binance.com/en/support/announcement/detail/39998757afa54c85a80091896cecd62b)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will list the following USDⓈ-M and C…
 - [Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)](https://www.binance.com/en/support/announcement/detail/f4038a3dbd6d49318c2ee201051fe43e)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/en/support/announcement/detail/10f29f9f250542f596169c09a883890f)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Katana (KA…
 
 ### Latest Binance News
 
