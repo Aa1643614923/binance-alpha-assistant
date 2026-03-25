@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-25T05:07:31.808661+00:00
+- 生成时间：2026-03-25T06:13:28.317100+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1596714173.98
+- 四倍分 24h 总成交额：1604440029.27
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：194721（按 8200 / 人）
+- 估算参与人数：195663（按 8200 / 人）
 
 ## 四倍分代币
 
-- GUA | Alpha Trade 成交额 1187651927.72 | 列表口径 5805013.85 | 涨跌 -2.38% | 振幅 6.26% | 估算人数 144836
-- BSB | Alpha Trade 成交额 223863555.38 | 列表口径 39694550.18 | 涨跌 -4.65% | 振幅 8.76% | 估算人数 27300
-- UP | Alpha Trade 成交额 151478469.70 | 列表口径 7370079.50 | 涨跌 4.33% | 振幅 7.56% | 估算人数 18473
-- BTW | Alpha Trade 成交额 30773880.62 | 列表口径 2345379.21 | 涨跌 0.67% | 振幅 26.75% | 估算人数 3753
-- LYN | Alpha Trade 成交额 1210218.54 | 列表口径 2379368.47 | 涨跌 1.60% | 振幅 18.71% | 估算人数 148
-- CYS | Alpha Trade 成交额 670542.26 | 列表口径 11068327.06 | 涨跌 -15.68% | 振幅 30.85% | 估算人数 82
-- SIGMA | Alpha Trade 成交额 356891.34 | 列表口径 4835441.40 | 涨跌 -7.63% | 振幅 31.97% | 估算人数 44
-- AIA | Alpha Trade 成交额 322759.13 | 列表口径 2172132.84 | 涨跌 5.75% | 振幅 11.65% | 估算人数 39
-- BLUAI | Alpha Trade 成交额 203371.48 | 列表口径 317322.93 | 涨跌 -12.01% | 振幅 31.98% | 估算人数 25
-- LAB | Alpha Trade 成交额 92597.51 | 列表口径 2632568.34 | 涨跌 -6.92% | 振幅 12.41% | 估算人数 11
-- SN3 | Alpha Trade 成交额 67259.48 | 列表口径 165836.33 | 涨跌 1.12% | 振幅 31.11% | 估算人数 8
-- IN | Alpha Trade 成交额 22700.82 | 列表口径 1164238.09 | 涨跌 0.49% | 振幅 3.53% | 估算人数 3
+- GUA | Alpha Trade 成交额 1206081773.63 | 列表口径 5706942.56 | 涨跌 -1.19% | 振幅 5.35% | 估算人数 147083
+- BSB | Alpha Trade 成交额 199768069.80 | 列表口径 40067115.67 | 涨跌 -3.31% | 振幅 8.76% | 估算人数 24362
+- UP | Alpha Trade 成交额 165342464.34 | 列表口径 7218681.89 | 涨跌 3.63% | 振幅 7.56% | 估算人数 20164
+- BTW | Alpha Trade 成交额 30288067.68 | 列表口径 1660865.23 | 涨跌 -4.20% | 振幅 21.23% | 估算人数 3694
+- LYN | Alpha Trade 成交额 1215068.91 | 列表口径 2376424.04 | 涨跌 -3.35% | 振幅 18.71% | 估算人数 148
+- CYS | Alpha Trade 成交额 675264.51 | 列表口径 11043825.09 | 涨跌 -14.30% | 振幅 27.45% | 估算人数 82
+- SIGMA | Alpha Trade 成交额 361540.73 | 列表口径 4859088.32 | 涨跌 -6.80% | 振幅 31.97% | 估算人数 44
+- AIA | Alpha Trade 成交额 326288.28 | 列表口径 2247605.50 | 涨跌 7.79% | 振幅 12.51% | 估算人数 40
+- BLUAI | Alpha Trade 成交额 203235.83 | 列表口径 319706.57 | 涨跌 -14.72% | 振幅 31.98% | 估算人数 25
+- LAB | Alpha Trade 成交额 87691.57 | 列表口径 2589360.38 | 涨跌 -5.33% | 振幅 11.60% | 估算人数 11
+- SN3 | Alpha Trade 成交额 67118.27 | 列表口径 164045.93 | 涨跌 2.86% | 振幅 31.07% | 估算人数 8
+- IN | Alpha Trade 成交额 23445.73 | 列表口径 1174625.42 | 涨跌 0.19% | 振幅 3.53% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- GUA | 分数 87.15 | Alpha Trade 成交额 1187651927.72 | 波动 0.08% | 4h 振幅 0.86% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,187,651,928，流动性 2,244,759
-  - Alpha 列表口径 24h 成交额 5,805,014
-  - 短周期波动 0.08%
+- GUA | 分数 87.15 | Alpha Trade 成交额 1206081773.63 | 波动 0.10% | 4h 振幅 0.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,206,081,774，流动性 2,245,941
+  - Alpha 列表口径 24h 成交额 5,706,943
+  - 短周期波动 0.10%
   - 4h 振幅 0.86%
   - 审计风险 LOW
-- BSB | 分数 62.64 | Alpha Trade 成交额 223863555.38 | 波动 0.22% | 4h 振幅 1.79% | 审计 LOW
-  - Alpha Trade 24h 成交额 223,863,555，流动性 1,183,473
-  - Alpha 列表口径 24h 成交额 39,694,550
-  - 短周期波动 0.22%
-  - 4h 振幅 1.79%
+- BSB | 分数 64.22 | Alpha Trade 成交额 199768069.80 | 波动 0.20% | 4h 振幅 1.44% | 审计 LOW
+  - Alpha Trade 24h 成交额 199,768,070，流动性 1,183,745
+  - Alpha 列表口径 24h 成交额 40,067,116
+  - 短周期波动 0.20%
+  - 4h 振幅 1.44%
   - 审计风险 LOW
-- UP | 分数 50.24 | Alpha Trade 成交额 151478469.70 | 波动 0.23% | 4h 振幅 2.45% | 审计 MID
-  - Alpha Trade 24h 成交额 151,478,470，流动性 1,958,066
-  - Alpha 列表口径 24h 成交额 7,370,079
-  - 短周期波动 0.23%
-  - 4h 振幅 2.45%
+- UP | 分数 53.59 | Alpha Trade 成交额 165342464.34 | 波动 0.20% | 4h 振幅 1.58% | 审计 MID
+  - Alpha Trade 24h 成交额 165,342,464，流动性 1,963,054
+  - Alpha 列表口径 24h 成交额 7,218,682
+  - 短周期波动 0.20%
+  - 4h 振幅 1.58%
   - 审计风险 MID
-- CYS | 分数 22.46 | Alpha Trade 成交额 670542.26 | 波动 0.72% | 4h 振幅 6.42% | 审计 MID
-  - Alpha Trade 24h 成交额 670,542，流动性 1,716,014
-  - Alpha 列表口径 24h 成交额 11,068,327
-  - 短周期波动 0.72%
-  - 4h 振幅 6.42%
+- CYS | 分数 31.09 | Alpha Trade 成交额 675264.51 | 波动 0.62% | 4h 振幅 4.51% | 审计 MID
+  - Alpha Trade 24h 成交额 675,265，流动性 1,708,528
+  - Alpha 列表口径 24h 成交额 11,043,825
+  - 短周期波动 0.62%
+  - 4h 振幅 4.51%
   - 审计风险 MID
-- BTW | 分数 21.93 | Alpha Trade 成交额 30773880.62 | 波动 0.63% | 4h 振幅 7.63% | 审计 LOW
-  - Alpha Trade 24h 成交额 30,773,881，流动性 1,172,130
-  - Alpha 列表口径 24h 成交额 2,345,379
+- LYN | 分数 24.15 | Alpha Trade 成交额 1215068.91 | 波动 0.63% | 4h 振幅 5.44% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,215,069，流动性 374,790
+  - Alpha 列表口径 24h 成交额 2,376,424
   - 短周期波动 0.63%
-  - 4h 振幅 7.63%
+  - 4h 振幅 5.44%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -63,11 +63,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined Equity Perpetual Contracts (2026-03-26)
 - Latest Binance News：Binance Adds BRL (Brazilian Real) as New Collateral Asset on Binance VIP Loan - 2026-03-25
-- Latest Activities：Binance Earn New Listing Special Offer: Subscribe to NIGHT Locked Products to Enjoy 200% APR for 7 Days
+- Latest Activities：South Asia Exclusive: Trade Options & Share the $20,000 Reward Pool
 
 ### 最近 Alpha 上线
 
-- PLAY | 1x | 上线 2026-03-23T08:38:32+00:00 | 24h 成交额 207599.10
+- PLAY | 1x | 上线 2026-03-23T08:38:32+00:00 | 24h 成交额 215339.39
 
 ### New Cryptocurrency Listing
 
@@ -89,12 +89,12 @@
 
 ### Latest Activities
 
+- [South Asia Exclusive: Trade Options & Share the $20,000 Reward Pool](https://www.binance.com/en/support/announcement/detail/a9f507ab1c00425eb666c1ff8423077f)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance is bringin…
 - [Binance Earn New Listing Special Offer: Subscribe to NIGHT Locked Products to Enjoy 200% APR for 7 Days](https://www.binance.com/en/support/announcement/detail/ac91a033a68a45a4b3e190b13e5f11a5)
   - This is a general announcement. Products and services referred to here may not be available in your region. Sponsored rewards. Terms and conditions apply. Fellow Binancians, To ce…
 - [GCC Exclusive: Enjoy Up to 30+% Bonus on All USDT Deposits](https://www.binance.com/en/support/announcement/detail/3f3fb7526a1a42268659879b2130966f)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to launch an exclusive offer for…
-- [Score with Binance & Islamabad United: Complete Daily Tasks & Share Up to 17,500 USDT Prize Pool!](https://www.binance.com/en/support/announcement/detail/b8bd2509c81b411b9029b2e45e71a7a1)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for Score with Binance &amp; Islamabad Uni…
 
 ## Warnings
 
