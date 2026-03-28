@@ -1,6 +1,6 @@
 {
   "skill": "binance-alpha-assistant",
-  "generated_at": "2026-03-28T06:10:18.130516+00:00",
+  "generated_at": "2026-03-28T07:15:13.860069+00:00",
   "assumptions": {
     "participant_volume_standard": 8200,
     "alpha_kline_interval": "5m",
@@ -9,11 +9,11 @@
   },
   "quadruple_points": {
     "token_count": 12,
-    "total_volume_24h": 1774572848.238797,
-    "total_alpha_trade_quote_volume_24h": 1774572848.238797,
-    "total_alpha_trade_base_volume_24h": 12259582323.61,
-    "total_token_list_volume24h": 142654783.80397412,
-    "estimated_participants": 216411.32295595086,
+    "total_volume_24h": 1744808811.4638886,
+    "total_alpha_trade_quote_volume_24h": 1744808811.4638886,
+    "total_alpha_trade_base_volume_24h": 12337807779.389997,
+    "total_token_list_volume24h": 141591240.44324398,
+    "estimated_participants": 212781.56237364496,
     "volume_method": "alpha_trade_quote_volume_sum",
     "tokens": [
       {
@@ -30,33 +30,75 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_804USDT",
-            "quote_volume24h": 1645353242.748043,
-            "base_volume24h": 9359572636.25,
-            "last_price": 0.17458349
+            "quote_volume24h": 1608949763.1198237,
+            "base_volume24h": 9180675050.91,
+            "last_price": 0.17501571
           },
           {
             "symbol": "ALPHA_804USDC",
-            "quote_volume24h": 1661226.49169219,
-            "base_volume24h": 9524340.9,
-            "last_price": 0.17447
+            "quote_volume24h": 1783119.54943096,
+            "base_volume24h": 10237917.21,
+            "last_price": 0.175
           }
         ],
         "mul_point": 4,
-        "price": 0.17444209502385966,
-        "percent_change_24h": -3.88,
-        "volume24h": 9048360.40707009,
-        "token_list_volume24h": 9048360.40707009,
-        "display_volume24h": 1647014469.2397354,
+        "price": 0.17495504265137748,
+        "percent_change_24h": -3.48,
+        "volume24h": 8855343.364589613,
+        "token_list_volume24h": 8855343.364589613,
+        "display_volume24h": 1610732882.6692545,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 1647014469.2397354,
-        "alpha_trade_base_volume24h": 9369096977.15,
-        "liquidity": 1943856.2881208283,
-        "holders": 8839,
-        "count24h": 34851,
+        "alpha_trade_quote_volume24h": 1610732882.6692545,
+        "alpha_trade_base_volume24h": 9190912968.119999,
+        "liquidity": 1947818.9858924975,
+        "holders": 8832,
+        "count24h": 33991,
         "listing_time": "2026-03-13T10:00:00+00:00",
         "listing_time_ms": 1773396000000,
-        "amplitude_24h_pct": 12.614624465079618,
-        "estimated_participants": 200855.4230780165
+        "amplitude_24h_pct": 12.068845026664457,
+        "estimated_participants": 196430.8393499091
+      },
+      {
+        "symbol": "BTW",
+        "name": "Bitway",
+        "chain_id": "56",
+        "contract_address": "0x444045b0ee1ee319a660a5e3d604ca0ffa35acaa",
+        "alpha_id": "ALPHA_778",
+        "alpha_trade_symbol": "ALPHA_778USDT",
+        "alpha_trade_symbols": [
+          "ALPHA_778USDT",
+          "ALPHA_778USDC"
+        ],
+        "alpha_trade_tickers": [
+          {
+            "symbol": "ALPHA_778USDT",
+            "quote_volume24h": 57847815.99396895,
+            "base_volume24h": 2059654048.59,
+            "last_price": 0.02714177
+          },
+          {
+            "symbol": "ALPHA_778USDC",
+            "quote_volume24h": 139738.89137498,
+            "base_volume24h": 4935606.98,
+            "last_price": 0.02712396
+          }
+        ],
+        "mul_point": 4,
+        "price": 0.02709938942140441,
+        "percent_change_24h": -8.4,
+        "volume24h": 1076094.2018959057,
+        "token_list_volume24h": 1076094.2018959057,
+        "display_volume24h": 57987554.88534393,
+        "display_volume_method": "alpha_trade_quote_volume",
+        "alpha_trade_quote_volume24h": 57987554.88534393,
+        "alpha_trade_base_volume24h": 2064589655.57,
+        "liquidity": 1163339.1913299228,
+        "holders": 7370,
+        "count24h": 20589,
+        "listing_time": "2026-03-02T08:00:00+00:00",
+        "listing_time_ms": 1772438400000,
+        "amplitude_24h_pct": 21.348472332170516,
+        "estimated_participants": 7071.653034798041
       },
       {
         "symbol": "PRL",
@@ -73,75 +115,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_823USDT",
-            "quote_volume24h": 53989055.68074339,
-            "base_volume24h": 326515861.13,
-            "last_price": 0.163
+            "quote_volume24h": 54148297.32118047,
+            "base_volume24h": 330009783.77,
+            "last_price": 0.16219687
           },
           {
             "symbol": "ALPHA_823USDC",
-            "quote_volume24h": 229318.19176185,
-            "base_volume24h": 1367162.94,
-            "last_price": 0.16388623
+            "quote_volume24h": 212593.66252455,
+            "base_volume24h": 1285436.54,
+            "last_price": 0.16065116
           }
         ],
         "mul_point": 4,
-        "price": 0.16343833009006684,
-        "percent_change_24h": -13.29,
-        "volume24h": 73229975.57198125,
-        "token_list_volume24h": 73229975.57198125,
-        "display_volume24h": 54218373.87250524,
+        "price": 0.16238953953234392,
+        "percent_change_24h": -15.71,
+        "volume24h": 72321291.76130654,
+        "token_list_volume24h": 72321291.76130654,
+        "display_volume24h": 54360890.98370502,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 54218373.87250524,
-        "alpha_trade_base_volume24h": 327883024.07,
-        "liquidity": 1390409.0563630452,
-        "holders": 1589,
-        "count24h": 227768,
+        "alpha_trade_quote_volume24h": 54360890.98370502,
+        "alpha_trade_base_volume24h": 331295220.31,
+        "liquidity": 1384934.41614356,
+        "holders": 1590,
+        "count24h": 225112,
         "listing_time": "2026-03-25T10:00:00+00:00",
         "listing_time_ms": 1774432800000,
-        "amplitude_24h_pct": 36.0921846514564,
-        "estimated_participants": 6611.996813720151
-      },
-      {
-        "symbol": "BTW",
-        "name": "Bitway",
-        "chain_id": "56",
-        "contract_address": "0x444045b0ee1ee319a660a5e3d604ca0ffa35acaa",
-        "alpha_id": "ALPHA_778",
-        "alpha_trade_symbol": "ALPHA_778USDT",
-        "alpha_trade_symbols": [
-          "ALPHA_778USDT",
-          "ALPHA_778USDC"
-        ],
-        "alpha_trade_tickers": [
-          {
-            "symbol": "ALPHA_778USDT",
-            "quote_volume24h": 51353374.82269512,
-            "base_volume24h": 1808562041.49,
-            "last_price": 0.027135
-          },
-          {
-            "symbol": "ALPHA_778USDC",
-            "quote_volume24h": 149272.05498996,
-            "base_volume24h": 5258479.26,
-            "last_price": 0.02710617
-          }
-        ],
-        "mul_point": 4,
-        "price": 0.027104023180378488,
-        "percent_change_24h": -7.39,
-        "volume24h": 1121418.4014133466,
-        "token_list_volume24h": 1121418.4014133466,
-        "display_volume24h": 51502646.87768508,
-        "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 51502646.87768508,
-        "alpha_trade_base_volume24h": 1813820520.75,
-        "liquidity": 1162894.3802103861,
-        "holders": 7373,
-        "count24h": 21371,
-        "listing_time": "2026-03-02T08:00:00+00:00",
-        "listing_time_ms": 1772438400000,
-        "amplitude_24h_pct": 21.348472332170516,
-        "estimated_participants": 6280.810594839643
+        "amplitude_24h_pct": 34.88359213640872,
+        "estimated_participants": 6629.37694923232
       },
       {
         "symbol": "BSB",
@@ -157,33 +157,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_790USDT",
-            "quote_volume24h": 10732980.4320286,
-            "base_volume24h": 53101775.53,
-            "last_price": 0.19171914
+            "quote_volume24h": 10676894.69907642,
+            "base_volume24h": 52575430.39,
+            "last_price": 0.19362419
           },
           {
             "symbol": "ALPHA_790USDC",
-            "quote_volume24h": 608729.69155169,
-            "base_volume24h": 2916104.63,
-            "last_price": 0.19137624
+            "quote_volume24h": 608465.90824657,
+            "base_volume24h": 2907825.24,
+            "last_price": 0.19499805
           }
         ],
         "mul_point": 4,
-        "price": 0.19133215685724275,
-        "percent_change_24h": 14.59,
-        "volume24h": 21977768.002452914,
-        "token_list_volume24h": 21977768.002452914,
-        "display_volume24h": 11341710.123580288,
+        "price": 0.19340553596047452,
+        "percent_change_24h": 15.91,
+        "volume24h": 22267359.634979583,
+        "token_list_volume24h": 22267359.634979583,
+        "display_volume24h": 11285360.607322989,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 11341710.123580288,
-        "alpha_trade_base_volume24h": 56017880.160000004,
-        "liquidity": 1527509.1599847034,
-        "holders": 53948,
-        "count24h": 144545,
+        "alpha_trade_quote_volume24h": 11285360.607322989,
+        "alpha_trade_base_volume24h": 55483255.63,
+        "liquidity": 1530511.7179004883,
+        "holders": 53958,
+        "count24h": 147023,
         "listing_time": "2026-03-04T10:00:00+00:00",
         "listing_time_ms": 1772618400000,
-        "amplitude_24h_pct": 58.01702098816468,
-        "estimated_participants": 1383.1353809244254
+        "amplitude_24h_pct": 54.519581353452786,
+        "estimated_participants": 1376.2634886979256
       },
       {
         "symbol": "BLUAI",
@@ -199,33 +199,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_438USDT",
-            "quote_volume24h": 4879230.67449483,
-            "base_volume24h": 619363641.43,
-            "last_price": 0.00655556
+            "quote_volume24h": 4867081.16944329,
+            "base_volume24h": 621697680.78,
+            "last_price": 0.00626246
           },
           {
             "symbol": "ALPHA_438USDC",
-            "quote_volume24h": 104815.20390997,
-            "base_volume24h": 13540785.13,
-            "last_price": 0.00662928
+            "quote_volume24h": 104940.04793038,
+            "base_volume24h": 13611510.1,
+            "last_price": 0.00620755
           }
         ],
         "mul_point": 4,
-        "price": 0.006551875198401685,
-        "percent_change_24h": -21.01,
-        "volume24h": 906325.1386985609,
-        "token_list_volume24h": 906325.1386985609,
-        "display_volume24h": 4984045.8784048,
+        "price": 0.006254990238219447,
+        "percent_change_24h": -23.21,
+        "volume24h": 906777.0983101502,
+        "token_list_volume24h": 906777.0983101502,
+        "display_volume24h": 4972021.21737367,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 4984045.8784048,
-        "alpha_trade_base_volume24h": 632904426.56,
-        "liquidity": 646603.8676338156,
-        "holders": 40984,
-        "count24h": 29415,
+        "alpha_trade_quote_volume24h": 4972021.21737367,
+        "alpha_trade_base_volume24h": 635309190.88,
+        "liquidity": 631257.1767589184,
+        "holders": 40992,
+        "count24h": 29336,
         "listing_time": "2026-03-05T00:00:00+00:00",
         "listing_time_ms": 1772668800000,
-        "amplitude_24h_pct": 49.92627672031357,
-        "estimated_participants": 607.8104729761951
+        "amplitude_24h_pct": 54.91999159138761,
+        "estimated_participants": 606.344050899228
       },
       {
         "symbol": "TRADOOR",
@@ -241,33 +241,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_356USDT",
-            "quote_volume24h": 3294148.37921262,
-            "base_volume24h": 1222979.13,
-            "last_price": 2.82979342
+            "quote_volume24h": 3297527.41824128,
+            "base_volume24h": 1223147.75,
+            "last_price": 2.79445037
           },
           {
             "symbol": "ALPHA_356USDC",
-            "quote_volume24h": 143180.2718282,
-            "base_volume24h": 53474.31,
-            "last_price": 2.83598586
+            "quote_volume24h": 145188.79535051,
+            "base_volume24h": 54049.56,
+            "last_price": 2.79080439
           }
         ],
         "mul_point": 4,
-        "price": 2.8315685299560527,
-        "percent_change_24h": 12.12,
-        "volume24h": 13014453.126552265,
-        "token_list_volume24h": 13014453.126552265,
-        "display_volume24h": 3437328.6510408204,
+        "price": 2.7819671757423987,
+        "percent_change_24h": 8.02,
+        "volume24h": 13052781.588951128,
+        "token_list_volume24h": 13052781.588951128,
+        "display_volume24h": 3442716.2135917903,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 3437328.6510408204,
-        "alpha_trade_base_volume24h": 1276453.44,
-        "liquidity": 1830714.4806461264,
-        "holders": 101453,
-        "count24h": 51801,
+        "alpha_trade_quote_volume24h": 3442716.2135917903,
+        "alpha_trade_base_volume24h": 1277197.31,
+        "liquidity": 1814354.6118665338,
+        "holders": 101457,
+        "count24h": 51903,
         "listing_time": "2025-09-04T12:00:00+00:00",
         "listing_time_ms": 1756987200000,
-        "amplitude_24h_pct": 18.496292550776587,
-        "estimated_participants": 419.1864208586366
+        "amplitude_24h_pct": 15.773090421938294,
+        "estimated_participants": 419.84344068192564
       },
       {
         "symbol": "CYS",
@@ -283,33 +283,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_495USDT",
-            "quote_volume24h": 1313471.36875292,
-            "base_volume24h": 3589532.79,
-            "last_price": 0.37311999
+            "quote_volume24h": 1262979.57611173,
+            "base_volume24h": 3442401.1,
+            "last_price": 0.36664592
           },
           {
             "symbol": "ALPHA_495USDC",
-            "quote_volume24h": 248143.72141336,
-            "base_volume24h": 669999.77,
-            "last_price": 0.37272429
+            "quote_volume24h": 232388.78040504,
+            "base_volume24h": 624281.68,
+            "last_price": 0.36644986
           }
         ],
         "mul_point": 4,
-        "price": 0.3718734776909972,
-        "percent_change_24h": 7.83,
-        "volume24h": 11617955.922687504,
-        "token_list_volume24h": 11617955.922687504,
-        "display_volume24h": 1561615.09016628,
+        "price": 0.36605643653837494,
+        "percent_change_24h": 0.57,
+        "volume24h": 11081225.190517504,
+        "token_list_volume24h": 11081225.190517504,
+        "display_volume24h": 1495368.3565167699,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 1561615.09016628,
-        "alpha_trade_base_volume24h": 4259532.5600000005,
-        "liquidity": 1454010.9379559623,
-        "holders": 9094,
-        "count24h": 48664,
+        "alpha_trade_quote_volume24h": 1495368.3565167699,
+        "alpha_trade_base_volume24h": 4066682.7800000003,
+        "liquidity": 1444690.6619102675,
+        "holders": 9092,
+        "count24h": 46291,
         "listing_time": "2026-03-20T08:00:00+00:00",
         "listing_time_ms": 1773993600000,
         "amplitude_24h_pct": 21.77993966453923,
-        "estimated_participants": 190.4408646544244
+        "estimated_participants": 182.36199469716706
       },
       {
         "symbol": "LAB",
@@ -325,33 +325,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_428USDT",
-            "quote_volume24h": 249420.82215662,
-            "base_volume24h": 1248609.35,
-            "last_price": 0.215462
+            "quote_volume24h": 270981.36773805,
+            "base_volume24h": 1342337.8,
+            "last_price": 0.216607
           },
           {
             "symbol": "ALPHA_428USDC",
-            "quote_volume24h": 15922.45422396,
-            "base_volume24h": 78057.02,
-            "last_price": 0.21469792
+            "quote_volume24h": 16978.96340145,
+            "base_volume24h": 82451.32,
+            "last_price": 0.21741229
           }
         ],
         "mul_point": 4,
-        "price": 0.21525081240438015,
-        "percent_change_24h": 15.04,
-        "volume24h": 4563230.797840958,
-        "token_list_volume24h": 4563230.797840958,
-        "display_volume24h": 265343.27638058004,
+        "price": 0.21673716035260415,
+        "percent_change_24h": 15.3,
+        "volume24h": 4862597.065083259,
+        "token_list_volume24h": 4862597.065083259,
+        "display_volume24h": 287960.3311395,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 265343.27638058004,
-        "alpha_trade_base_volume24h": 1326666.37,
-        "liquidity": 1880736.212184968,
-        "holders": 16906,
-        "count24h": 32118,
+        "alpha_trade_quote_volume24h": 287960.3311395,
+        "alpha_trade_base_volume24h": 1424789.12,
+        "liquidity": 1886545.3030761248,
+        "holders": 16908,
+        "count24h": 34107,
         "listing_time": "2026-03-10T10:00:00+00:00",
         "listing_time_ms": 1773136800000,
-        "amplitude_24h_pct": 15.831906053698324,
-        "estimated_participants": 32.358936143973175
+        "amplitude_24h_pct": 17.085729987746735,
+        "estimated_participants": 35.11711355359756
       },
       {
         "symbol": "SIGMA",
@@ -367,33 +367,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_439USDT",
-            "quote_volume24h": 103114.71454212,
-            "base_volume24h": 1343750.16,
-            "last_price": 0.07726562
+            "quote_volume24h": 103238.24103585,
+            "base_volume24h": 1345545.45,
+            "last_price": 0.07711822
           },
           {
             "symbol": "ALPHA_439USDC",
-            "quote_volume24h": 9720.92269437,
-            "base_volume24h": 126112.34,
-            "last_price": 0.07652673
+            "quote_volume24h": 9720.92271449,
+            "base_volume24h": 126119.71,
+            "last_price": 0.07743704
           }
         ],
         "mul_point": 4,
-        "price": 0.0774566278961594,
-        "percent_change_24h": -1.75,
-        "volume24h": 4446271.3001920115,
-        "token_list_volume24h": 4446271.3001920115,
-        "display_volume24h": 112835.63723649,
+        "price": 0.07730759456194501,
+        "percent_change_24h": -1.42,
+        "volume24h": 4438897.534510231,
+        "token_list_volume24h": 4438897.534510231,
+        "display_volume24h": 112959.16375034,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 112835.63723649,
-        "alpha_trade_base_volume24h": 1469862.5,
-        "liquidity": 757997.0752299415,
-        "holders": 16146,
-        "count24h": 37601,
+        "alpha_trade_quote_volume24h": 112959.16375034,
+        "alpha_trade_base_volume24h": 1471665.16,
+        "liquidity": 758188.7888647694,
+        "holders": 16585,
+        "count24h": 37574,
         "listing_time": "2026-03-10T00:00:00+00:00",
         "listing_time_ms": 1773100800000,
-        "amplitude_24h_pct": 4.876317795424182,
-        "estimated_participants": 13.76044356542561
+        "amplitude_24h_pct": 4.501041029991615,
+        "estimated_participants": 13.775507774431707
       },
       {
         "symbol": "AIA",
@@ -409,9 +409,9 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_496USDT",
-            "quote_volume24h": 56851.95888259,
-            "base_volume24h": 630217.03,
-            "last_price": 0.09258
+            "quote_volume24h": 53343.06751124,
+            "base_volume24h": 593302.37,
+            "last_price": 0.09122032
           },
           {
             "symbol": "ALPHA_496USDC",
@@ -421,21 +421,21 @@
           }
         ],
         "mul_point": 4,
-        "price": 0.09250708693466908,
-        "percent_change_24h": -1.93,
-        "volume24h": 1344474.1192403713,
-        "token_list_volume24h": 1344474.1192403713,
-        "display_volume24h": 62396.93021295,
+        "price": 0.09139713027297325,
+        "percent_change_24h": -4.12,
+        "volume24h": 1347268.162576079,
+        "token_list_volume24h": 1347268.162576079,
+        "display_volume24h": 58888.0388416,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 62396.93021295,
-        "alpha_trade_base_volume24h": 690908.03,
-        "liquidity": 794281.5065815615,
-        "holders": 2444,
-        "count24h": 9755,
+        "alpha_trade_quote_volume24h": 58888.0388416,
+        "alpha_trade_base_volume24h": 653993.37,
+        "liquidity": 789001.6633133363,
+        "holders": 2440,
+        "count24h": 9734,
         "listing_time": "2026-03-10T00:00:00+00:00",
         "listing_time_ms": 1773100800000,
         "amplitude_24h_pct": 11.619650340267839,
-        "estimated_participants": 7.609381733286585
+        "estimated_participants": 7.181468151414634
       },
       {
         "symbol": "SN3",
@@ -451,33 +451,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_798USDT",
-            "quote_volume24h": 42654.08138185,
-            "base_volume24h": 38373052.21,
-            "last_price": 0.00111653
+            "quote_volume24h": 42598.33227089,
+            "base_volume24h": 38401034.08,
+            "last_price": 0.00108315
           },
           {
             "symbol": "ALPHA_798USDC",
-            "quote_volume24h": 13042.74316511,
-            "base_volume24h": 12166676.91,
-            "last_price": 0.00111785
+            "quote_volume24h": 13554.86177878,
+            "base_volume24h": 12631363.34,
+            "last_price": 0.0010835
           }
         ],
         "mul_point": 4,
-        "price": 0.0010951624698833525,
-        "percent_change_24h": -17.7,
-        "volume24h": 152827.49942457787,
-        "token_list_volume24h": 152827.49942457787,
-        "display_volume24h": 55696.82454696,
+        "price": 0.001085522474242942,
+        "percent_change_24h": -18.55,
+        "volume24h": 155374.3672982758,
+        "token_list_volume24h": 155374.3672982758,
+        "display_volume24h": 56153.19404967,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 55696.82454696,
-        "alpha_trade_base_volume24h": 50539729.120000005,
-        "liquidity": 103249.02924337484,
-        "holders": 2105,
-        "count24h": 2640,
+        "alpha_trade_quote_volume24h": 56153.19404967,
+        "alpha_trade_base_volume24h": 51032397.42,
+        "liquidity": 103203.90033456066,
+        "holders": 2103,
+        "count24h": 2654,
         "listing_time": "2026-03-11T08:00:00+00:00",
         "listing_time_ms": 1773216000000,
         "amplitude_24h_pct": 50.62618341997914,
-        "estimated_participants": 6.7922956764585365
+        "estimated_participants": 6.847950493862195
       },
       {
         "symbol": "IN",
@@ -493,33 +493,33 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_312USDT",
-            "quote_volume24h": 12897.20454488,
-            "base_volume24h": 233172.26,
-            "last_price": 0.05445271
+            "quote_volume24h": 12611.07301221,
+            "base_volume24h": 228354.41,
+            "last_price": 0.05460014
           },
           {
             "symbol": "ALPHA_312USDC",
-            "quote_volume24h": 3488.63275715,
-            "base_volume24h": 63170.64,
-            "last_price": 0.05427
+            "quote_volume24h": 3444.72998666,
+            "base_volume24h": 62409.31,
+            "last_price": 0.05465848
           }
         ],
         "mul_point": 4,
-        "price": 0.05436483550307315,
-        "percent_change_24h": -4.75,
-        "volume24h": 1231723.5164202864,
-        "token_list_volume24h": 1231723.5164202864,
-        "display_volume24h": 16385.83730203,
+        "price": 0.054625697990152024,
+        "percent_change_24h": -5.04,
+        "volume24h": 1226230.473225713,
+        "token_list_volume24h": 1226230.473225713,
+        "display_volume24h": 16055.80299887,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 16385.83730203,
-        "alpha_trade_base_volume24h": 296342.9,
-        "liquidity": 1651057.8180071695,
-        "holders": 16439,
-        "count24h": 11377,
+        "alpha_trade_quote_volume24h": 16055.80299887,
+        "alpha_trade_base_volume24h": 290763.72,
+        "liquidity": 1655965.7804001472,
+        "holders": 16440,
+        "count24h": 11340,
         "listing_time": "2026-03-05T00:00:00+00:00",
         "listing_time_ms": 1772668800000,
-        "amplitude_24h_pct": 6.9829727214736375,
-        "estimated_participants": 1.9982728417109754
+        "amplitude_24h_pct": 6.7495284687857104,
+        "estimated_participants": 1.9580247559597561
       }
     ]
   },
@@ -540,45 +540,45 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_804USDT",
-            "quote_volume24h": 1645353242.748043,
-            "base_volume24h": 9359572636.25,
-            "last_price": 0.17458349
+            "quote_volume24h": 1608949763.1198237,
+            "base_volume24h": 9180675050.91,
+            "last_price": 0.17501571
           },
           {
             "symbol": "ALPHA_804USDC",
-            "quote_volume24h": 1661226.49169219,
-            "base_volume24h": 9524340.9,
-            "last_price": 0.17447
+            "quote_volume24h": 1783119.54943096,
+            "base_volume24h": 10237917.21,
+            "last_price": 0.175
           }
         ],
         "mul_point": 4,
-        "price": 0.17444209502385966,
-        "percent_change_24h": -3.88,
-        "volume24h": 9048360.40707009,
-        "token_list_volume24h": 9048360.40707009,
-        "display_volume24h": 1647014469.2397354,
+        "price": 0.17495504265137748,
+        "percent_change_24h": -3.48,
+        "volume24h": 8855343.364589613,
+        "token_list_volume24h": 8855343.364589613,
+        "display_volume24h": 1610732882.6692545,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 1647014469.2397354,
-        "alpha_trade_base_volume24h": 9369096977.15,
-        "liquidity": 1943856.2881208283,
-        "holders": 8839,
-        "count24h": 34851,
+        "alpha_trade_quote_volume24h": 1610732882.6692545,
+        "alpha_trade_base_volume24h": 9190912968.119999,
+        "liquidity": 1947818.9858924975,
+        "holders": 8832,
+        "count24h": 33991,
         "listing_time": "2026-03-13T10:00:00+00:00",
         "listing_time_ms": 1773396000000,
-        "amplitude_24h_pct": 12.614624465079618,
-        "estimated_participants": 200855.4230780165,
-        "realized_volatility_pct": 0.14758132912643004,
-        "amplitude_4h_pct": 1.5784660475071666,
-        "trend_4h_pct": -0.42200902989251166,
-        "stable_volume24h": 1647014469.2397354,
+        "amplitude_24h_pct": 12.068845026664457,
+        "estimated_participants": 196430.8393499091,
+        "realized_volatility_pct": 0.11943492329182039,
+        "amplitude_4h_pct": 0.9563588450962448,
+        "trend_4h_pct": 0.2590799725022963,
+        "stable_volume24h": 1610732882.6692545,
         "audit_risk": "MID",
         "audit_factor": 0.6,
         "stability_score": 82.09,
         "reason": [
-          "Alpha Trade 24h 成交额 1,647,014,469，流动性 1,943,856",
-          "Alpha 列表口径 24h 成交额 9,048,360",
-          "短周期波动 0.15%",
-          "4h 振幅 1.58%",
+          "Alpha Trade 24h 成交额 1,610,732,883，流动性 1,947,819",
+          "Alpha 列表口径 24h 成交额 8,855,343",
+          "短周期波动 0.12%",
+          "4h 振幅 0.96%",
           "审计风险 MID"
         ]
       },
@@ -596,45 +596,45 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_356USDT",
-            "quote_volume24h": 3294148.37921262,
-            "base_volume24h": 1222979.13,
-            "last_price": 2.82979342
+            "quote_volume24h": 3297527.41824128,
+            "base_volume24h": 1223147.75,
+            "last_price": 2.79445037
           },
           {
             "symbol": "ALPHA_356USDC",
-            "quote_volume24h": 143180.2718282,
-            "base_volume24h": 53474.31,
-            "last_price": 2.83598586
+            "quote_volume24h": 145188.79535051,
+            "base_volume24h": 54049.56,
+            "last_price": 2.79080439
           }
         ],
         "mul_point": 4,
-        "price": 2.8315685299560527,
-        "percent_change_24h": 12.12,
-        "volume24h": 13014453.126552265,
-        "token_list_volume24h": 13014453.126552265,
-        "display_volume24h": 3437328.6510408204,
+        "price": 2.7819671757423987,
+        "percent_change_24h": 8.02,
+        "volume24h": 13052781.588951128,
+        "token_list_volume24h": 13052781.588951128,
+        "display_volume24h": 3442716.2135917903,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 3437328.6510408204,
-        "alpha_trade_base_volume24h": 1276453.44,
-        "liquidity": 1830714.4806461264,
-        "holders": 101453,
-        "count24h": 51801,
+        "alpha_trade_quote_volume24h": 3442716.2135917903,
+        "alpha_trade_base_volume24h": 1277197.31,
+        "liquidity": 1814354.6118665338,
+        "holders": 101457,
+        "count24h": 51903,
         "listing_time": "2025-09-04T12:00:00+00:00",
         "listing_time_ms": 1756987200000,
-        "amplitude_24h_pct": 18.496292550776587,
-        "estimated_participants": 419.1864208586366,
-        "realized_volatility_pct": 0.6249296288208133,
-        "amplitude_4h_pct": 5.434525145129013,
-        "trend_4h_pct": -0.4243975670841671,
-        "stable_volume24h": 3437328.6510408204,
+        "amplitude_24h_pct": 15.773090421938294,
+        "estimated_participants": 419.84344068192564,
+        "realized_volatility_pct": 0.5896297949573021,
+        "amplitude_4h_pct": 5.371336963067006,
+        "trend_4h_pct": 0.8389796947789296,
+        "stable_volume24h": 3442716.2135917903,
         "audit_risk": "LOW",
         "audit_factor": 1.0,
-        "stability_score": 65.09,
+        "stability_score": 65.12,
         "reason": [
-          "Alpha Trade 24h 成交额 3,437,329，流动性 1,830,714",
-          "Alpha 列表口径 24h 成交额 13,014,453",
-          "短周期波动 0.62%",
-          "4h 振幅 5.43%",
+          "Alpha Trade 24h 成交额 3,442,716，流动性 1,814,355",
+          "Alpha 列表口径 24h 成交额 13,052,782",
+          "短周期波动 0.59%",
+          "4h 振幅 5.37%",
           "审计风险 LOW"
         ]
       },
@@ -652,45 +652,45 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_778USDT",
-            "quote_volume24h": 51353374.82269512,
-            "base_volume24h": 1808562041.49,
-            "last_price": 0.027135
+            "quote_volume24h": 57847815.99396895,
+            "base_volume24h": 2059654048.59,
+            "last_price": 0.02714177
           },
           {
             "symbol": "ALPHA_778USDC",
-            "quote_volume24h": 149272.05498996,
-            "base_volume24h": 5258479.26,
-            "last_price": 0.02710617
+            "quote_volume24h": 139738.89137498,
+            "base_volume24h": 4935606.98,
+            "last_price": 0.02712396
           }
         ],
         "mul_point": 4,
-        "price": 0.027104023180378488,
-        "percent_change_24h": -7.39,
-        "volume24h": 1121418.4014133466,
-        "token_list_volume24h": 1121418.4014133466,
-        "display_volume24h": 51502646.87768508,
+        "price": 0.02709938942140441,
+        "percent_change_24h": -8.4,
+        "volume24h": 1076094.2018959057,
+        "token_list_volume24h": 1076094.2018959057,
+        "display_volume24h": 57987554.88534393,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 51502646.87768508,
-        "alpha_trade_base_volume24h": 1813820520.75,
-        "liquidity": 1162894.3802103861,
-        "holders": 7373,
-        "count24h": 21371,
+        "alpha_trade_quote_volume24h": 57987554.88534393,
+        "alpha_trade_base_volume24h": 2064589655.57,
+        "liquidity": 1163339.1913299228,
+        "holders": 7370,
+        "count24h": 20589,
         "listing_time": "2026-03-02T08:00:00+00:00",
         "listing_time_ms": 1772438400000,
         "amplitude_24h_pct": 21.348472332170516,
-        "estimated_participants": 6280.810594839643,
-        "realized_volatility_pct": 0.20860800233762794,
-        "amplitude_4h_pct": 2.8034239150749474,
-        "trend_4h_pct": 1.4390909430717969,
-        "stable_volume24h": 51502646.87768508,
+        "estimated_participants": 7071.653034798041,
+        "realized_volatility_pct": 0.19311418432670524,
+        "amplitude_4h_pct": 2.406382503905385,
+        "trend_4h_pct": 0.9596072305289027,
+        "stable_volume24h": 57987554.88534393,
         "audit_risk": "LOW",
         "audit_factor": 1.0,
-        "stability_score": 48.16,
+        "stability_score": 48.26,
         "reason": [
-          "Alpha Trade 24h 成交额 51,502,647，流动性 1,162,894",
-          "Alpha 列表口径 24h 成交额 1,121,418",
-          "短周期波动 0.21%",
-          "4h 振幅 2.80%",
+          "Alpha Trade 24h 成交额 57,987,555，流动性 1,163,339",
+          "Alpha 列表口径 24h 成交额 1,076,094",
+          "短周期波动 0.19%",
+          "4h 振幅 2.41%",
           "审计风险 LOW"
         ]
       },
@@ -708,45 +708,45 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_495USDT",
-            "quote_volume24h": 1313471.36875292,
-            "base_volume24h": 3589532.79,
-            "last_price": 0.37311999
+            "quote_volume24h": 1262979.57611173,
+            "base_volume24h": 3442401.1,
+            "last_price": 0.36664592
           },
           {
             "symbol": "ALPHA_495USDC",
-            "quote_volume24h": 248143.72141336,
-            "base_volume24h": 669999.77,
-            "last_price": 0.37272429
+            "quote_volume24h": 232388.78040504,
+            "base_volume24h": 624281.68,
+            "last_price": 0.36644986
           }
         ],
         "mul_point": 4,
-        "price": 0.3718734776909972,
-        "percent_change_24h": 7.83,
-        "volume24h": 11617955.922687504,
-        "token_list_volume24h": 11617955.922687504,
-        "display_volume24h": 1561615.09016628,
+        "price": 0.36605643653837494,
+        "percent_change_24h": 0.57,
+        "volume24h": 11081225.190517504,
+        "token_list_volume24h": 11081225.190517504,
+        "display_volume24h": 1495368.3565167699,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 1561615.09016628,
-        "alpha_trade_base_volume24h": 4259532.5600000005,
-        "liquidity": 1454010.9379559623,
-        "holders": 9094,
-        "count24h": 48664,
+        "alpha_trade_quote_volume24h": 1495368.3565167699,
+        "alpha_trade_base_volume24h": 4066682.7800000003,
+        "liquidity": 1444690.6619102675,
+        "holders": 9092,
+        "count24h": 46291,
         "listing_time": "2026-03-20T08:00:00+00:00",
         "listing_time_ms": 1773993600000,
         "amplitude_24h_pct": 21.77993966453923,
-        "estimated_participants": 190.4408646544244,
-        "realized_volatility_pct": 0.7227624653081921,
-        "amplitude_4h_pct": 5.304773745512345,
-        "trend_4h_pct": -0.6946268284224844,
-        "stable_volume24h": 1561615.09016628,
+        "estimated_participants": 182.36199469716706,
+        "realized_volatility_pct": 0.624460049799534,
+        "amplitude_4h_pct": 5.247891509444177,
+        "trend_4h_pct": -3.1016639636667787,
+        "stable_volume24h": 1495368.3565167699,
         "audit_risk": "MID",
         "audit_factor": 0.6,
-        "stability_score": 40.17,
+        "stability_score": 41.22,
         "reason": [
-          "Alpha Trade 24h 成交额 1,561,615，流动性 1,454,011",
-          "Alpha 列表口径 24h 成交额 11,617,956",
-          "短周期波动 0.72%",
-          "4h 振幅 5.30%",
+          "Alpha Trade 24h 成交额 1,495,368，流动性 1,444,691",
+          "Alpha 列表口径 24h 成交额 11,081,225",
+          "短周期波动 0.62%",
+          "4h 振幅 5.25%",
           "审计风险 MID"
         ]
       },
@@ -765,45 +765,45 @@
         "alpha_trade_tickers": [
           {
             "symbol": "ALPHA_823USDT",
-            "quote_volume24h": 53989055.68074339,
-            "base_volume24h": 326515861.13,
-            "last_price": 0.163
+            "quote_volume24h": 54148297.32118047,
+            "base_volume24h": 330009783.77,
+            "last_price": 0.16219687
           },
           {
             "symbol": "ALPHA_823USDC",
-            "quote_volume24h": 229318.19176185,
-            "base_volume24h": 1367162.94,
-            "last_price": 0.16388623
+            "quote_volume24h": 212593.66252455,
+            "base_volume24h": 1285436.54,
+            "last_price": 0.16065116
           }
         ],
         "mul_point": 4,
-        "price": 0.16343833009006684,
-        "percent_change_24h": -13.29,
-        "volume24h": 73229975.57198125,
-        "token_list_volume24h": 73229975.57198125,
-        "display_volume24h": 54218373.87250524,
+        "price": 0.16238953953234392,
+        "percent_change_24h": -15.71,
+        "volume24h": 72321291.76130654,
+        "token_list_volume24h": 72321291.76130654,
+        "display_volume24h": 54360890.98370502,
         "display_volume_method": "alpha_trade_quote_volume",
-        "alpha_trade_quote_volume24h": 54218373.87250524,
-        "alpha_trade_base_volume24h": 327883024.07,
-        "liquidity": 1390409.0563630452,
-        "holders": 1589,
-        "count24h": 227768,
+        "alpha_trade_quote_volume24h": 54360890.98370502,
+        "alpha_trade_base_volume24h": 331295220.31,
+        "liquidity": 1384934.41614356,
+        "holders": 1590,
+        "count24h": 225112,
         "listing_time": "2026-03-25T10:00:00+00:00",
         "listing_time_ms": 1774432800000,
-        "amplitude_24h_pct": 36.0921846514564,
-        "estimated_participants": 6611.996813720151,
-        "realized_volatility_pct": 0.9489019320362037,
-        "amplitude_4h_pct": 12.241468310794144,
-        "trend_4h_pct": 6.378943054949104,
-        "stable_volume24h": 54218373.87250524,
+        "amplitude_24h_pct": 34.88359213640872,
+        "estimated_participants": 6629.37694923232,
+        "realized_volatility_pct": 1.000888601655778,
+        "amplitude_4h_pct": 11.90716526758753,
+        "trend_4h_pct": 2.7573563924715216,
+        "stable_volume24h": 54360890.98370502,
         "audit_risk": "LOW",
         "audit_factor": 1.0,
-        "stability_score": 36.33,
+        "stability_score": 36.31,
         "reason": [
-          "Alpha Trade 24h 成交额 54,218,374，流动性 1,390,409",
-          "Alpha 列表口径 24h 成交额 73,229,976",
-          "短周期波动 0.95%",
-          "4h 振幅 12.24%",
+          "Alpha Trade 24h 成交额 54,360,891，流动性 1,384,934",
+          "Alpha 列表口径 24h 成交额 72,321,292",
+          "短周期波动 1.00%",
+          "4h 振幅 11.91%",
           "审计风险 LOW"
         ]
       }
@@ -961,8 +961,8 @@
         "name": "Perle",
         "mul_point": 4,
         "listing_time": "2026-03-25T10:00:00+00:00",
-        "volume24h": 73229975.57198125,
-        "percent_change_24h": -13.29
+        "volume24h": 72321291.76130654,
+        "percent_change_24h": -15.71
       }
     ],
     "official_updates": [
