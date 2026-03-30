@@ -1,58 +1,59 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-30T09:48:47.138843+00:00
-- 四倍分代币数：13
-- 四倍分 24h 总成交额：1534763195.03
+- 生成时间：2026-03-30T10:52:04.616217+00:00
+- 四倍分代币数：14
+- 四倍分 24h 总成交额：1519458648.29
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：187166（按 8200 / 人）
+- 估算参与人数：185300（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 1462434623.90 | 列表口径 2866058.95 | 涨跌 -2.33% | 振幅 3.42% | 估算人数 178346
-- PRL | Alpha Trade 成交额 44782848.12 | 列表口径 45702961.80 | 涨跌 -10.56% | 振幅 22.92% | 估算人数 5461
-- BASED | Alpha Trade 成交额 6838331.47 | 列表口径 18719631.67 | 涨跌 111.40% | 振幅 125.53% | 估算人数 834
-- BSB | Alpha Trade 成交额 5961493.07 | 列表口径 52589154.18 | 涨跌 7.45% | 振幅 44.24% | 估算人数 727
-- BTW | Alpha Trade 成交额 5792086.55 | 列表口径 1116543.42 | 涨跌 -0.53% | 振幅 10.13% | 估算人数 706
-- TRADOOR | Alpha Trade 成交额 3505081.19 | 列表口径 14077696.11 | 涨跌 0.43% | 振幅 8.34% | 估算人数 427
-- BLUAI | Alpha Trade 成交额 3283126.78 | 列表口径 320815.47 | 涨跌 -10.23% | 振幅 25.11% | 估算人数 400
-- AIA | Alpha Trade 成交额 1107099.68 | 列表口径 16613396.43 | 涨跌 7.32% | 振幅 34.75% | 估算人数 135
-- CYS | Alpha Trade 成交额 752138.28 | 列表口径 9642568.86 | 涨跌 3.41% | 振幅 21.80% | 估算人数 92
-- LAB | Alpha Trade 成交额 181980.33 | 列表口径 3594349.26 | 涨跌 3.59% | 振幅 25.06% | 估算人数 22
-- IN | Alpha Trade 成交额 56147.58 | 列表口径 1806181.00 | 涨跌 -1.52% | 振幅 4.98% | 估算人数 7
-- SN3 | Alpha Trade 成交额 42656.04 | 列表口径 88292.69 | 涨跌 -9.28% | 振幅 20.93% | 估算人数 5
-- SIGMA | Alpha Trade 成交额 25582.04 | 列表口径 3858397.54 | 涨跌 7.38% | 振幅 9.65% | 估算人数 3
+- UP | Alpha Trade 成交额 1441747421.60 | 列表口径 2900347.57 | 涨跌 -2.95% | 振幅 3.88% | 估算人数 175823
+- PRL | Alpha Trade 成交额 45626038.39 | 列表口径 46124315.74 | 涨跌 -13.47% | 振幅 31.79% | 估算人数 5564
+- BASED | Alpha Trade 成交额 9718279.29 | 列表口径 32551985.64 | 涨跌 55.35% | 振幅 125.53% | 估算人数 1185
+- BTW | Alpha Trade 成交额 6278316.42 | 列表口径 1089191.65 | 涨跌 -5.17% | 振幅 10.71% | 估算人数 766
+- BSB | Alpha Trade 成交额 5864679.22 | 列表口径 50623431.73 | 涨跌 11.32% | 振幅 44.24% | 估算人数 715
+- TRADOOR | Alpha Trade 成交额 3443804.88 | 列表口径 13819728.32 | 涨跌 -0.23% | 振幅 8.34% | 估算人数 420
+- BLUAI | Alpha Trade 成交额 2998463.26 | 列表口径 316520.60 | 涨跌 -10.00% | 振幅 25.11% | 估算人数 366
+- R2 | Alpha Trade 成交额 1768301.36 | 列表口径 9440591.26 | 涨跌 1.50% | 振幅 76.75% | 估算人数 216
+- AIA | Alpha Trade 成交额 1070142.91 | 列表口径 15991500.68 | 涨跌 8.97% | 振幅 34.01% | 估算人数 131
+- CYS | Alpha Trade 成交额 628478.21 | 列表口径 9011478.98 | 涨跌 -1.58% | 振幅 16.83% | 估算人数 77
+- LAB | Alpha Trade 成交额 184490.70 | 列表口径 3633123.53 | 涨跌 3.72% | 振幅 25.06% | 估算人数 22
+- IN | Alpha Trade 成交额 62518.43 | 列表口径 1652879.49 | 涨跌 0.37% | 振幅 4.27% | 估算人数 8
+- SN3 | Alpha Trade 成交额 41883.00 | 列表口径 92583.10 | 涨跌 -7.50% | 振幅 20.93% | 估算人数 5
+- SIGMA | Alpha Trade 成交额 25830.62 | 列表口径 3887337.06 | 涨跌 6.91% | 振幅 9.65% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- UP | 分数 82.15 | Alpha Trade 成交额 1462434623.90 | 波动 0.06% | 4h 振幅 0.80% | 审计 MID
-  - Alpha Trade 24h 成交额 1,462,434,624，流动性 1,952,219
-  - Alpha 列表口径 24h 成交额 2,866,059
-  - 短周期波动 0.06%
-  - 4h 振幅 0.80%
+- UP | 分数 82.15 | Alpha Trade 成交额 1441747421.60 | 波动 0.16% | 4h 振幅 2.08% | 审计 MID
+  - Alpha Trade 24h 成交额 1,441,747,422，流动性 1,949,388
+  - Alpha 列表口径 24h 成交额 2,900,348
+  - 短周期波动 0.16%
+  - 4h 振幅 2.08%
   - 审计风险 MID
-- TRADOOR | 分数 72.84 | Alpha Trade 成交额 3505081.19 | 波动 0.19% | 4h 振幅 1.38% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,505,081，流动性 1,853,398
-  - Alpha 列表口径 24h 成交额 14,077,696
-  - 短周期波动 0.19%
-  - 4h 振幅 1.38%
+- TRADOOR | 分数 73.34 | Alpha Trade 成交额 3443804.88 | 波动 0.21% | 4h 振幅 1.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,443,805，流动性 1,842,394
+  - Alpha 列表口径 24h 成交额 13,819,728
+  - 短周期波动 0.21%
+  - 4h 振幅 1.76%
   - 审计风险 LOW
-- BSB | 分数 57.04 | Alpha Trade 成交额 5961493.07 | 波动 0.90% | 4h 振幅 8.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,961,493，流动性 1,586,987
-  - Alpha 列表口径 24h 成交额 52,589,154
-  - 短周期波动 0.90%
-  - 4h 振幅 8.73%
+- BSB | 分数 59.58 | Alpha Trade 成交额 5864679.22 | 波动 0.88% | 4h 振幅 8.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,864,679，流动性 1,602,774
+  - Alpha 列表口径 24h 成交额 50,623,432
+  - 短周期波动 0.88%
+  - 4h 振幅 8.98%
   - 审计风险 LOW
-- PRL | 分数 48.87 | Alpha Trade 成交额 44782848.12 | 波动 0.59% | 4h 振幅 8.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 44,782,848，流动性 1,415,055
-  - Alpha 列表口径 24h 成交额 45,702,962
-  - 短周期波动 0.59%
-  - 4h 振幅 8.91%
-  - 审计风险 LOW
-- BTW | 分数 47.37 | Alpha Trade 成交额 5792086.55 | 波动 0.33% | 4h 振幅 3.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,792,087，流动性 1,144,192
-  - Alpha 列表口径 24h 成交额 1,116,543
+- BTW | 分数 48.47 | Alpha Trade 成交额 6278316.42 | 波动 0.33% | 4h 振幅 4.55% | 审计 LOW
+  - Alpha Trade 24h 成交额 6,278,316，流动性 1,143,469
+  - Alpha 列表口径 24h 成交额 1,089,192
   - 短周期波动 0.33%
-  - 4h 振幅 3.89%
+  - 4h 振幅 4.55%
+  - 审计风险 LOW
+- PRL | 分数 48.06 | Alpha Trade 成交额 45626038.39 | 波动 1.20% | 4h 振幅 12.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 45,626,038，流动性 1,407,660
+  - Alpha 列表口径 24h 成交额 46,124,316
+  - 短周期波动 1.20%
+  - 4h 振幅 12.64%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -61,32 +62,33 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BASEDUSDT Perpetual Contract (2026-03-30)
-- Latest Binance News：RWUSD Now Supports Subscriptions with U (United Stables)
+- 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。
+- 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-03-31
+- Latest Binance News：Binance Algo Trading Fees Removed Effective Immediately
 - Latest Activities：Binance Flexible Loan & Simple Earn Offer: Subscribe to ETH Flexible Products to Get a Flexible Loan Interest-Free Voucher!
 
 ### 最近 Alpha 上线
 
-- BASED | 4x | 上线 2026-03-30T08:00:00+00:00 | 24h 成交额 18719631.67
+- R2 | 4x | 上线 2026-03-30T10:00:00+00:00 | 24h 成交额 9440591.26
+- BASED | 4x | 上线 2026-03-30T08:00:00+00:00 | 24h 成交额 32551985.64
 
 ### New Cryptocurrency Listing
 
+- [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-03-31](https://www.binance.com/en/support/announcement/detail/16404ccfa2494b38aef6a39b08960d1d)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tr…
 - [Binance Futures Will Launch USDⓈ-Margined BASEDUSDT Perpetual Contract (2026-03-30)](https://www.binance.com/en/support/announcement/detail/63341635f7b94af2835eba2dc72d07d4)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Tether Gold (XAUt) Listing Will Be Postponed](https://www.binance.com/en/support/announcement/detail/82f7055dabfd4f37aa507bc32f28613c)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The trading start time for Tether Gold (XAUt) , orig…
-- [Binance Will Add Tether Gold (XAUT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/en/support/announcement/detail/a82f1ff4c33244698c149d8b6fed2b01)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Tether Gol…
 
 ### Latest Binance News
 
+- [Binance Algo Trading Fees Removed Effective Immediately](https://www.binance.com/en/support/announcement/detail/d51d8110eb4645278925193ee3d063fa)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is committed to continuously improving the t…
 - [RWUSD Now Supports Subscriptions with U (United Stables)](https://www.binance.com/en/support/announcement/detail/d8bd2d61cb9f49ee97b5cb9903e28261)
   - This is a general announcement. Products and services referred to here may not be available in your region. USDT and U are not available to users in EEA regions. Fellow Binancians…
 - [Word of the Day: Test Your Knowledge on “Binance AI Pro Beta” to Unlock USDC Rewards!](https://www.binance.com/en/support/announcement/detail/b6f4b4268d4c44c49bff8f93c94562dd)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
-- [Binance Futures Updates Trading Fee Discount for TradFi Perps (2026-03-31)](https://www.binance.com/en/support/announcement/detail/a4c3f1957f2b4e69902985154235c3b1)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures updates…
 
 ### Latest Activities
 
