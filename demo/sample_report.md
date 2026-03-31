@@ -1,59 +1,59 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-03-31T02:44:25.183329+00:00
+- 生成时间：2026-03-31T05:01:32.520884+00:00
 - 四倍分代币数：14
-- 四倍分 24h 总成交额：1535808117.61
+- 四倍分 24h 总成交额：1519457557.18
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：187294（按 8200 / 人）
+- 估算参与人数：185300（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 1410443661.54 | 列表口径 3884148.27 | 涨跌 -2.50% | 振幅 15.41% | 估算人数 172005
-- PRL | Alpha Trade 成交额 85755203.95 | 列表口径 38755682.04 | 涨跌 -13.64% | 振幅 35.25% | 估算人数 10458
-- BASED | Alpha Trade 成交额 16173240.09 | 列表口径 66627053.14 | 涨跌 66.55% | 振幅 125.53% | 估算人数 1972
-- BTW | Alpha Trade 成交额 5194310.25 | 列表口径 492071.43 | 涨跌 -7.46% | 振幅 11.21% | 估算人数 633
-- R2 | Alpha Trade 成交额 5188030.33 | 列表口径 21883851.85 | 涨跌 -59.93% | 振幅 362.01% | 估算人数 633
-- BLUAI | Alpha Trade 成交额 4171199.76 | 列表口径 243787.74 | 涨跌 -0.18% | 振幅 22.87% | 估算人数 509
-- TRADOOR | Alpha Trade 成交额 3903110.77 | 列表口径 13680991.43 | 涨跌 -1.07% | 振幅 5.53% | 估算人数 476
-- BSB | Alpha Trade 成交额 3670464.86 | 列表口径 11862487.30 | 涨跌 -22.15% | 振幅 42.19% | 估算人数 448
-- CYS | Alpha Trade 成交额 713559.53 | 列表口径 7949985.12 | 涨跌 10.58% | 振幅 22.41% | 估算人数 87
-- AIA | Alpha Trade 成交额 379610.67 | 列表口径 6475937.21 | 涨跌 -2.39% | 振幅 10.74% | 估算人数 46
-- LAB | Alpha Trade 成交额 97006.43 | 列表口径 2665985.46 | 涨跌 0.98% | 振幅 14.17% | 估算人数 12
-- IN | Alpha Trade 成交额 86305.14 | 列表口径 1444338.26 | 涨跌 1.00% | 振幅 5.66% | 估算人数 11
-- SN3 | Alpha Trade 成交额 23612.32 | 列表口径 60632.88 | 涨跌 -5.34% | 振幅 48.91% | 估算人数 3
-- SIGMA | Alpha Trade 成交额 8801.96 | 列表口径 3860470.00 | 涨跌 -2.58% | 振幅 5.32% | 估算人数 1
+- UP | Alpha Trade 成交额 1393784675.13 | 列表口径 3960158.03 | 涨跌 -2.93% | 振幅 15.40% | 估算人数 169974
+- PRL | Alpha Trade 成交额 89036205.15 | 列表口径 37942687.63 | 涨跌 -20.28% | 振幅 31.86% | 估算人数 10858
+- BASED | Alpha Trade 成交额 16644367.97 | 列表口径 68490477.95 | 涨跌 60.68% | 振幅 125.53% | 估算人数 2030
+- R2 | Alpha Trade 成交额 5305832.97 | 列表口径 22198436.59 | 涨跌 -58.72% | 振幅 362.01% | 估算人数 647
+- BLUAI | Alpha Trade 成交额 4415286.98 | 列表口径 235391.45 | 涨跌 1.00% | 振幅 22.87% | 估算人数 538
+- TRADOOR | Alpha Trade 成交额 3882820.78 | 列表口径 13756527.00 | 涨跌 -0.42% | 振幅 5.53% | 估算人数 474
+- BSB | Alpha Trade 成交额 3449643.50 | 列表口径 10999636.53 | 涨跌 -12.68% | 振幅 24.90% | 估算人数 421
+- BTW | Alpha Trade 成交额 1399824.43 | 列表口径 554084.90 | 涨跌 -11.98% | 振幅 14.64% | 估算人数 171
+- CYS | Alpha Trade 成交额 970930.05 | 列表口径 10126381.76 | 涨跌 3.54% | 振幅 30.16% | 估算人数 118
+- AIA | Alpha Trade 成交额 356017.75 | 列表口径 5913485.65 | 涨跌 -5.48% | 振幅 10.71% | 估算人数 43
+- LAB | Alpha Trade 成交额 92266.68 | 列表口径 2637052.02 | 涨跌 1.46% | 振幅 13.78% | 估算人数 11
+- IN | Alpha Trade 成交额 85878.49 | 列表口径 1541674.39 | 涨跌 0.22% | 振幅 5.66% | 估算人数 10
+- SN3 | Alpha Trade 成交额 24405.25 | 列表口径 62749.26 | 涨跌 -1.97% | 振幅 48.91% | 估算人数 3
+- SIGMA | Alpha Trade 成交额 9402.07 | 列表口径 3867235.27 | 涨跌 -4.29% | 振幅 5.88% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- UP | 分数 82.08 | Alpha Trade 成交额 1410443661.54 | 波动 0.10% | 4h 振幅 1.51% | 审计 MID
-  - Alpha Trade 24h 成交额 1,410,443,662，流动性 1,944,160
-  - Alpha 列表口径 24h 成交额 3,884,148
-  - 短周期波动 0.10%
-  - 4h 振幅 1.51%
+- UP | 分数 82.07 | Alpha Trade 成交额 1393784675.13 | 波动 0.04% | 4h 振幅 0.73% | 审计 MID
+  - Alpha Trade 24h 成交额 1,393,784,675，流动性 1,931,757
+  - Alpha 列表口径 24h 成交额 3,960,158
+  - 短周期波动 0.04%
+  - 4h 振幅 0.73%
   - 审计风险 MID
-- TRADOOR | 分数 71.98 | Alpha Trade 成交额 3903110.77 | 波动 0.25% | 4h 振幅 1.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,903,111，流动性 1,831,678
-  - Alpha 列表口径 24h 成交额 13,680,991
-  - 短周期波动 0.25%
-  - 4h 振幅 1.65%
+- TRADOOR | 分数 71.75 | Alpha Trade 成交额 3882820.78 | 波动 0.18% | 4h 振幅 2.06% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,882,821，流动性 1,840,958
+  - Alpha 列表口径 24h 成交额 13,756,527
+  - 短周期波动 0.18%
+  - 4h 振幅 2.06%
   - 审计风险 LOW
-- BTW | 分数 48.24 | Alpha Trade 成交额 5194310.25 | 波动 0.24% | 4h 振幅 1.88% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,194,310，流动性 1,141,623
-  - Alpha 列表口径 24h 成交额 492,071
-  - 短周期波动 0.24%
-  - 4h 振幅 1.88%
+- BSB | 分数 49.67 | Alpha Trade 成交额 3449643.50 | 波动 0.93% | 4h 振幅 9.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,449,643，流动性 1,563,770
+  - Alpha 列表口径 24h 成交额 10,999,637
+  - 短周期波动 0.93%
+  - 4h 振幅 9.38%
   - 审计风险 LOW
-- BSB | 分数 47.75 | Alpha Trade 成交额 3670464.86 | 波动 1.05% | 4h 振幅 13.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,670,465，流动性 1,572,147
-  - Alpha 列表口径 24h 成交额 11,862,487
-  - 短周期波动 1.05%
-  - 4h 振幅 13.31%
+- PRL | 分数 42.80 | Alpha Trade 成交额 89036205.15 | 波动 0.79% | 4h 振幅 8.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 89,036,205，流动性 1,377,590
+  - Alpha 列表口径 24h 成交额 37,942,688
+  - 短周期波动 0.79%
+  - 4h 振幅 8.03%
   - 审计风险 LOW
-- BLUAI | 分数 46.35 | Alpha Trade 成交额 4171199.76 | 波动 0.15% | 4h 振幅 1.66% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,171,200，流动性 578,296
-  - Alpha 列表口径 24h 成交额 243,788
-  - 短周期波动 0.15%
-  - 4h 振幅 1.66%
+- BTW | 分数 42.10 | Alpha Trade 成交额 1399824.43 | 波动 0.44% | 4h 振幅 7.33% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,399,824，流动性 1,130,086
+  - Alpha 列表口径 24h 成交额 554,085
+  - 短周期波动 0.44%
+  - 4h 振幅 7.33%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -63,23 +63,23 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)
+- 官方最新上新关注：Binance Margin Will Add New Pairs - 2026-03-31
 - Latest Binance News：Binance Updates Eligible Trading Pairs for Altcoin LiquidityBoost Program (2026-04-06)
 - Latest Activities：The USDC Saga Begins: 25% APR Awaits - Limited Pool for 14 Days
 
 ### 最近 Alpha 上线
 
-- R2 | 4x | 上线 2026-03-30T10:00:00+00:00 | 24h 成交额 21883851.85
-- BASED | 4x | 上线 2026-03-30T08:00:00+00:00 | 24h 成交额 66627053.14
+- R2 | 4x | 上线 2026-03-30T10:00:00+00:00 | 24h 成交额 22198436.59
+- BASED | 4x | 上线 2026-03-30T08:00:00+00:00 | 24h 成交额 68490477.95
 
 ### New Cryptocurrency Listing
 
+- [Binance Margin Will Add New Pairs - 2026-03-31](https://www.binance.com/en/support/announcement/detail/e24d20cdd61041eca8050482e824a522)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin wil…
 - [Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)](https://www.binance.com/en/support/announcement/detail/e7a10ca855524655ab3dea73add40ef4)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-03-31](https://www.binance.com/en/support/announcement/detail/16404ccfa2494b38aef6a39b08960d1d)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tr…
-- [Binance Futures Will Launch USDⓈ-Margined BASEDUSDT Perpetual Contract (2026-03-30)](https://www.binance.com/en/support/announcement/detail/63341635f7b94af2835eba2dc72d07d4)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
