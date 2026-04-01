@@ -1,59 +1,59 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-01T11:27:52.823352+00:00
+- 生成时间：2026-04-01T12:09:35.921175+00:00
 - 四倍分代币数：14
-- 四倍分 24h 总成交额：1409402907.30
+- 四倍分 24h 总成交额：1405688481.82
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：171878（按 8200 / 人）
+- 估算参与人数：171425（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 1303455193.76 | 列表口径 35157387.90 | 涨跌 -6.82% | 振幅 44.06% | 估算人数 158958
-- PRL | Alpha Trade 成交额 70211203.78 | 列表口径 31825626.12 | 涨跌 7.84% | 振幅 133.38% | 估算人数 8562
-- BLUAI | Alpha Trade 成交额 13771662.55 | 列表口径 362490.64 | 涨跌 -4.60% | 振幅 19.42% | 估算人数 1679
-- BASED | Alpha Trade 成交额 7315898.24 | 列表口径 25463977.46 | 涨跌 -18.51% | 振幅 37.37% | 估算人数 892
-- EDGE | Alpha Trade 成交额 6760704.80 | 列表口径 23654084.33 | 涨跌 44.27% | 振幅 67.55% | 估算人数 824
-- TRADOOR | Alpha Trade 成交额 3918602.32 | 列表口径 15833718.47 | 涨跌 5.90% | 振幅 14.66% | 估算人数 478
-- BSB | Alpha Trade 成交额 1682393.99 | 列表口径 8084787.86 | 涨跌 5.44% | 振幅 14.56% | 估算人数 205
-- R2 | Alpha Trade 成交额 1049640.11 | 列表口径 2334567.19 | 涨跌 -36.79% | 振幅 132.29% | 估算人数 128
-- CYS | Alpha Trade 成交额 830889.83 | 列表口径 8280953.76 | 涨跌 3.63% | 振幅 16.64% | 估算人数 101
-- AIA | Alpha Trade 成交额 212028.59 | 列表口径 3909780.81 | 涨跌 -12.79% | 振幅 20.62% | 估算人数 26
-- LAB | Alpha Trade 成交额 135124.13 | 列表口径 3395925.44 | 涨跌 -7.38% | 振幅 10.93% | 估算人数 16
-- SIGMA | Alpha Trade 成交额 28963.34 | 列表口径 3957525.69 | 涨跌 6.47% | 振幅 13.95% | 估算人数 4
-- SN3 | Alpha Trade 成交额 22432.10 | 列表口径 82310.48 | 涨跌 -23.19% | 振幅 284.06% | 估算人数 3
-- IN | Alpha Trade 成交额 8169.76 | 列表口径 1136080.64 | 涨跌 3.82% | 振幅 3.92% | 估算人数 1
+- UP | Alpha Trade 成交额 1300077912.30 | 列表口径 35205361.31 | 涨跌 -6.57% | 振幅 44.06% | 估算人数 158546
+- PRL | Alpha Trade 成交额 68223012.70 | 列表口径 32955481.32 | 涨跌 3.49% | 振幅 133.38% | 估算人数 8320
+- BLUAI | Alpha Trade 成交额 15871800.93 | 列表口径 272423.87 | 涨跌 0.17% | 振幅 18.89% | 估算人数 1936
+- BASED | Alpha Trade 成交额 7139950.55 | 列表口径 24916681.99 | 涨跌 -15.95% | 振幅 37.37% | 估算人数 871
+- EDGE | Alpha Trade 成交额 6818756.36 | 列表口径 23930007.47 | 涨跌 42.62% | 振幅 67.55% | 估算人数 832
+- TRADOOR | Alpha Trade 成交额 3795441.06 | 列表口径 16116062.86 | 涨跌 5.02% | 振幅 14.66% | 估算人数 463
+- BSB | Alpha Trade 成交额 1636496.49 | 列表口径 8013917.21 | 涨跌 8.12% | 振幅 14.56% | 估算人数 200
+- R2 | Alpha Trade 成交额 906856.21 | 列表口径 2064029.36 | 涨跌 -43.40% | 振幅 132.29% | 估算人数 111
+- CYS | Alpha Trade 成交额 815692.47 | 列表口径 8092880.43 | 涨跌 -0.81% | 振幅 16.64% | 估算人数 99
+- AIA | Alpha Trade 成交额 206774.28 | 列表口径 3866307.61 | 涨跌 -10.48% | 振幅 20.62% | 估算人数 25
+- LAB | Alpha Trade 成交额 135783.03 | 列表口径 3388836.52 | 涨跌 -7.11% | 振幅 10.58% | 估算人数 17
+- SIGMA | Alpha Trade 成交额 28136.25 | 列表口径 3935222.66 | 涨跌 6.30% | 振幅 13.53% | 估算人数 3
+- SN3 | Alpha Trade 成交额 20722.37 | 列表口径 78887.17 | 涨跌 -21.84% | 振幅 284.06% | 估算人数 3
+- IN | Alpha Trade 成交额 11146.80 | 列表口径 1037511.76 | 涨跌 3.75% | 振幅 5.36% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- UP | 分数 82.09 | Alpha Trade 成交额 1303455193.76 | 波动 0.12% | 4h 振幅 2.04% | 审计 MID
-  - Alpha Trade 24h 成交额 1,303,455,194，流动性 1,944,481
-  - Alpha 列表口径 24h 成交额 35,157,388
+- UP | 分数 82.09 | Alpha Trade 成交额 1300077912.30 | 波动 0.12% | 4h 振幅 2.04% | 审计 MID
+  - Alpha Trade 24h 成交额 1,300,077,912，流动性 1,943,193
+  - Alpha 列表口径 24h 成交额 35,205,361
   - 短周期波动 0.12%
   - 4h 振幅 2.04%
   - 审计风险 MID
-- TRADOOR | 分数 73.17 | Alpha Trade 成交额 3918602.32 | 波动 0.57% | 4h 振幅 4.27% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,918,602，流动性 1,925,377
-  - Alpha 列表口径 24h 成交额 15,833,718
-  - 短周期波动 0.57%
-  - 4h 振幅 4.27%
+- TRADOOR | 分数 73.20 | Alpha Trade 成交额 3795441.06 | 波动 0.59% | 4h 振幅 4.56% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,795,441，流动性 1,934,184
+  - Alpha 列表口径 24h 成交额 16,116,063
+  - 短周期波动 0.59%
+  - 4h 振幅 4.56%
   - 审计风险 LOW
-- BSB | 分数 61.58 | Alpha Trade 成交额 1682393.99 | 波动 0.67% | 4h 振幅 5.04% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,682,394，流动性 1,576,626
-  - Alpha 列表口径 24h 成交额 8,084,788
-  - 短周期波动 0.67%
-  - 4h 振幅 5.04%
+- BSB | 分数 61.52 | Alpha Trade 成交额 1636496.49 | 波动 0.63% | 4h 振幅 7.01% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,636,496，流动性 1,582,875
+  - Alpha 列表口径 24h 成交额 8,013,917
+  - 短周期波动 0.63%
+  - 4h 振幅 7.01%
   - 审计风险 LOW
-- BLUAI | 分数 49.26 | Alpha Trade 成交额 13771662.55 | 波动 0.52% | 4h 振幅 4.96% | 审计 LOW
-  - Alpha Trade 24h 成交额 13,771,663，流动性 630,033
-  - Alpha 列表口径 24h 成交额 362,491
-  - 短周期波动 0.52%
-  - 4h 振幅 4.96%
+- BLUAI | 分数 49.58 | Alpha Trade 成交额 15871800.93 | 波动 0.45% | 4h 振幅 4.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 15,871,801，流动性 630,673
+  - Alpha 列表口径 24h 成交额 272,424
+  - 短周期波动 0.45%
+  - 4h 振幅 4.79%
   - 审计风险 LOW
-- EDGE | 分数 47.15 | Alpha Trade 成交额 6760704.80 | 波动 1.09% | 4h 振幅 11.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 6,760,705，流动性 1,198,926
-  - Alpha 列表口径 24h 成交额 23,654,084
-  - 短周期波动 1.09%
-  - 4h 振幅 11.73%
+- EDGE | 分数 47.91 | Alpha Trade 成交额 6818756.36 | 波动 0.97% | 4h 振幅 8.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 6,818,756，流动性 1,193,291
+  - Alpha 列表口径 24h 成交额 23,930,007
+  - 短周期波动 0.97%
+  - 4h 振幅 8.24%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -65,13 +65,13 @@
 - 过去 72 小时新增 Alpha 代币 3 个，其中四倍分 3 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined PRLUSDT Perpetual Contract (2026-04-01)
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-04-01)
-- Latest Activities：Binance P2P: Trade with Shield Merchants and Share 75,000 INR in Rewards!
+- Latest Activities：Perle Trading Competition: Trade Perle (PRL) and Share $200K Worth of Rewards
 
 ### 最近 Alpha 上线
 
-- EDGE | 4x | 上线 2026-03-31T12:30:00+00:00 | 24h 成交额 23654084.33
-- R2 | 4x | 上线 2026-03-30T10:00:00+00:00 | 24h 成交额 2334567.19
-- BASED | 4x | 上线 2026-03-30T08:00:00+00:00 | 24h 成交额 25463977.46
+- EDGE | 4x | 上线 2026-03-31T12:30:00+00:00 | 24h 成交额 23930007.47
+- R2 | 4x | 上线 2026-03-30T10:00:00+00:00 | 24h 成交额 2064029.36
+- BASED | 4x | 上线 2026-03-30T08:00:00+00:00 | 24h 成交额 24916681.99
 
 ### New Cryptocurrency Listing
 
@@ -93,12 +93,12 @@
 
 ### Latest Activities
 
+- [Perle Trading Competition: Trade Perle (PRL) and Share $200K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/f1e9fd68377e4931b624ac8970ba1c41)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [Binance P2P: Trade with Shield Merchants and Share 75,000 INR in Rewards!](https://www.binance.com/en/support/announcement/detail/7b7d79ae142542198e156faac7ade035)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance P2P is launching a trading challenge for use…
 - [Binance Earn: Enjoy Up to 5.8% APR with USDC Flexible Products](https://www.binance.com/en/support/announcement/detail/08e353752b564eb5b0a494f143e68a5c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [Binance Earn April Monthly Challenge: Earn Up to 8,888 USDC Rewards on Dual Investment](https://www.binance.com/en/support/announcement/detail/7ee3440f818a49c198e0e9494429429e)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance Earn prese…
 
 ## Warnings
 
