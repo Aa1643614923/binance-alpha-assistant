@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-06T07:03:27.417245+00:00
+- 生成时间：2026-04-06T08:44:45.206706+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：1225234604.62
+- 四倍分 24h 总成交额：1245792634.09
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：149419（按 8200 / 人）
+- 估算参与人数：151926（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 594177710.37 | 列表口径 15412387.32 | 涨跌 0.26% | 振幅 12.90% | 估算人数 72461
-- SIGMA | Alpha Trade 成交额 499802845.74 | 列表口径 2222690.60 | 涨跌 -56.17% | 振幅 155.78% | 估算人数 60952
-- PRL | Alpha Trade 成交额 115865077.43 | 列表口径 10954384.79 | 涨跌 6.11% | 振幅 31.78% | 估算人数 14130
-- EDGE | Alpha Trade 成交额 10714250.10 | 列表口径 12868218.99 | 涨跌 -5.42% | 振幅 11.62% | 估算人数 1307
-- BASED | Alpha Trade 成交额 3148167.39 | 列表口径 9274061.97 | 涨跌 -3.21% | 振幅 14.96% | 估算人数 384
-- CYS | Alpha Trade 成交额 412075.89 | 列表口径 6211726.26 | 涨跌 -4.88% | 振幅 22.51% | 估算人数 50
-- LAB | Alpha Trade 成交额 355468.16 | 列表口径 6751680.47 | 涨跌 15.00% | 振幅 27.62% | 估算人数 43
-- SN3 | Alpha Trade 成交额 247529.51 | 列表口径 580259.33 | 涨跌 51.18% | 振幅 133.36% | 估算人数 30
-- TRADOOR | Alpha Trade 成交额 236854.32 | 列表口径 1654166.30 | 涨跌 0.07% | 振幅 3.80% | 估算人数 29
-- R2 | Alpha Trade 成交额 187763.17 | 列表口径 378129.19 | 涨跌 11.61% | 振幅 73.82% | 估算人数 23
-- AIA | Alpha Trade 成交额 86862.55 | 列表口径 2053124.41 | 涨跌 -2.18% | 振幅 11.63% | 估算人数 11
+- UP | Alpha Trade 成交额 662182692.88 | 列表口径 15696221.58 | 涨跌 1.43% | 振幅 12.90% | 估算人数 80754
+- SIGMA | Alpha Trade 成交额 442851810.57 | 列表口径 2363581.07 | 涨跌 -56.73% | 振幅 155.78% | 估算人数 54006
+- PRL | Alpha Trade 成交额 124754685.92 | 列表口径 10630778.72 | 涨跌 9.47% | 振幅 31.78% | 估算人数 15214
+- EDGE | Alpha Trade 成交额 11110202.65 | 列表口径 11937747.22 | 涨跌 0.35% | 振幅 11.62% | 估算人数 1355
+- BASED | Alpha Trade 成交额 3350109.08 | 列表口径 9123551.73 | 涨跌 -5.54% | 振幅 14.96% | 估算人数 409
+- LAB | Alpha Trade 成交额 414933.09 | 列表口径 7079226.38 | 涨跌 15.45% | 振幅 27.62% | 估算人数 51
+- CYS | Alpha Trade 成交额 373491.63 | 列表口径 5686634.39 | 涨跌 -6.03% | 振幅 22.51% | 估算人数 46
+- SN3 | Alpha Trade 成交额 257686.92 | 列表口径 600489.76 | 涨跌 38.22% | 振幅 128.70% | 估算人数 31
+- TRADOOR | Alpha Trade 成交额 247463.07 | 列表口径 1773473.83 | 涨跌 -1.12% | 振幅 3.80% | 估算人数 30
+- R2 | Alpha Trade 成交额 182891.17 | 列表口径 365902.88 | 涨跌 4.78% | 振幅 63.26% | 估算人数 22
+- AIA | Alpha Trade 成交额 66667.09 | 列表口径 1830771.81 | 涨跌 -4.69% | 振幅 10.77% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- UP | 分数 83.88 | Alpha Trade 成交额 594177710.37 | 波动 0.21% | 4h 振幅 3.08% | 审计 MID
-  - Alpha Trade 24h 成交额 594,177,710，流动性 1,924,998
-  - Alpha 列表口径 24h 成交额 15,412,387
-  - 短周期波动 0.21%
-  - 4h 振幅 3.08%
+- UP | 分数 83.89 | Alpha Trade 成交额 662182692.88 | 波动 0.18% | 4h 振幅 2.98% | 审计 MID
+  - Alpha Trade 24h 成交额 662,182,693，流动性 1,935,201
+  - Alpha 列表口径 24h 成交额 15,696,222
+  - 短周期波动 0.18%
+  - 4h 振幅 2.98%
   - 审计风险 MID
-- PRL | 分数 53.52 | Alpha Trade 成交额 115865077.43 | 波动 0.74% | 4h 振幅 6.98% | 审计 LOW
-  - Alpha Trade 24h 成交额 115,865,077，流动性 1,388,988
-  - Alpha 列表口径 24h 成交额 10,954,385
-  - 短周期波动 0.74%
-  - 4h 振幅 6.98%
+- PRL | 分数 54.16 | Alpha Trade 成交额 124754685.92 | 波动 0.63% | 4h 振幅 5.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 124,754,686，流动性 1,385,360
+  - Alpha 列表口径 24h 成交额 10,630,779
+  - 短周期波动 0.63%
+  - 4h 振幅 5.39%
   - 审计风险 LOW
-- EDGE | 分数 50.71 | Alpha Trade 成交额 10714250.10 | 波动 0.42% | 4h 振幅 5.21% | 审计 LOW
-  - Alpha Trade 24h 成交额 10,714,250，流动性 1,331,806
-  - Alpha 列表口径 24h 成交额 12,868,219
-  - 短周期波动 0.42%
-  - 4h 振幅 5.21%
+- EDGE | 分数 50.37 | Alpha Trade 成交额 11110202.65 | 波动 0.45% | 4h 振幅 5.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,110,203，流动性 1,344,639
+  - Alpha 列表口径 24h 成交额 11,937,747
+  - 短周期波动 0.45%
+  - 4h 振幅 5.05%
   - 审计风险 LOW
-- SIGMA | 分数 46.01 | Alpha Trade 成交额 499802845.74 | 波动 2.94% | 4h 振幅 54.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 499,802,846，流动性 372,422
-  - Alpha 列表口径 24h 成交额 2,222,691
-  - 短周期波动 2.94%
-  - 4h 振幅 54.73%
-  - 审计风险 LOW
-- BASED | 分数 42.44 | Alpha Trade 成交额 3148167.39 | 波动 0.55% | 4h 振幅 5.23% | 审计 MID
-  - Alpha Trade 24h 成交额 3,148,167，流动性 991,114
-  - Alpha 列表口径 24h 成交额 9,274,062
-  - 短周期波动 0.55%
-  - 4h 振幅 5.23%
+- BASED | 分数 42.62 | Alpha Trade 成交额 3350109.08 | 波动 0.52% | 4h 振幅 3.78% | 审计 MID
+  - Alpha Trade 24h 成交额 3,350,109，流动性 978,918
+  - Alpha 列表口径 24h 成交额 9,123,552
+  - 短周期波动 0.52%
+  - 4h 振幅 3.78%
   - 审计风险 MID
+- SIGMA | 分数 41.68 | Alpha Trade 成交额 442851810.57 | 波动 3.14% | 4h 振幅 40.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 442,851,811，流动性 370,463
+  - Alpha 列表口径 24h 成交额 2,363,581
+  - 短周期波动 3.14%
+  - 4h 振幅 40.12%
+  - 审计风险 LOW
 
 ## Alpha 合约异动
 
@@ -61,7 +61,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch MUUSDT and SNDKUSDT USDⓈ-Margined Equity Perpetual Contracts (2026-04-07)
 - Latest Binance News：edgeX Trading Competition: Trade edgeX (EDGE) and Share $200K Worth of Rewards
-- Latest Activities：Team Up with Binance: Invite Friends and Share $400,000 Worth of WAL in Rewards
+- Latest Activities：Binance Upsized KGST Booster Program: Enjoy Up to 12% APR with KGST Flexible Products (2026-04-07)
 
 ### 最近 Alpha 上线
 
@@ -86,12 +86,12 @@
 
 ### Latest Activities
 
+- [Binance Upsized KGST Booster Program: Enjoy Up to 12% APR with KGST Flexible Products (2026-04-07)](https://www.binance.com/en/support/announcement/detail/fc74f82d4d114221a12d9b114456536b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Team Up with Binance: Invite Friends and Share $400,000 Worth of WAL in Rewards](https://www.binance.com/en/support/announcement/detail/32efafb3054746d28c82d8023ae52465)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, With the world gea…
 - [Word of the Day: Test Your Knowledge on “Binance AI Skills Hub” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/c3a2698c5b3c404c89033fd08e9832b7)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
-- [Join the Binance Easter Egg Hunt & Win a Share of 8,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/867621f705cc49ed8fdb282b02b21500)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Celebrate th…
 
 ## Warnings
 
