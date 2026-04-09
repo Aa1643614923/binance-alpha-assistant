@@ -1,53 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-09T08:55:21.215254+00:00
-- 四倍分代币数：8
-- 四倍分 24h 总成交额：1768351474.71
+- 生成时间：2026-04-09T10:15:56.379914+00:00
+- 四倍分代币数：9
+- 四倍分 24h 总成交额：1791229498.42
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：215653（按 8200 / 人）
+- 估算参与人数：218443（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 748735183.73 | 列表口径 8338733.73 | 涨跌 -15.07% | 振幅 55.85% | 估算人数 91309
-- PRL | Alpha Trade 成交额 619157054.70 | 列表口径 4822722.71 | 涨跌 -2.06% | 振幅 11.07% | 估算人数 75507
-- EDGE | Alpha Trade 成交额 377308785.33 | 列表口径 12667013.32 | 涨跌 -9.93% | 振幅 17.77% | 估算人数 46013
-- BASED | Alpha Trade 成交额 20961215.82 | 列表口径 8249773.01 | 涨跌 -8.10% | 振幅 12.83% | 估算人数 2556
-- TRADOOR | Alpha Trade 成交额 1389948.25 | 列表口径 14325014.99 | 涨跌 36.96% | 振幅 48.98% | 估算人数 170
-- CYS | Alpha Trade 成交额 735587.00 | 列表口径 3150183.98 | 涨跌 -8.46% | 振幅 12.54% | 估算人数 90
-- R2 | Alpha Trade 成交额 48244.72 | 列表口径 95927.34 | 涨跌 -8.67% | 振幅 18.33% | 估算人数 6
-- SN3 | Alpha Trade 成交额 15455.15 | 列表口径 79871.44 | 涨跌 7.23% | 振幅 103.23% | 估算人数 2
+- UP | Alpha Trade 成交额 803148857.92 | 列表口径 8285322.48 | 涨跌 -9.43% | 振幅 19.55% | 估算人数 97945
+- PRL | Alpha Trade 成交额 538765081.69 | 列表口径 5027900.68 | 涨跌 -1.97% | 振幅 11.07% | 估算人数 65703
+- EDGE | Alpha Trade 成交额 426254858.55 | 列表口径 13261189.80 | 涨跌 -10.83% | 振幅 17.77% | 估算人数 51982
+- BASED | Alpha Trade 成交额 20235322.66 | 列表口径 8033487.86 | 涨跌 -8.17% | 振幅 13.09% | 估算人数 2468
+- TRADOOR | Alpha Trade 成交额 1586504.29 | 列表口径 16204240.78 | 涨跌 31.71% | 振幅 48.09% | 估算人数 193
+- CYS | Alpha Trade 成交额 752626.82 | 列表口径 3376596.62 | 涨跌 -8.81% | 振幅 13.77% | 估算人数 92
+- SOON | Alpha Trade 成交额 424301.95 | 列表口径 833517.14 | 涨跌 -9.19% | 振幅 15.31% | 估算人数 52
+- R2 | Alpha Trade 成交额 47307.18 | 列表口径 95214.50 | 涨跌 -7.58% | 振幅 15.07% | 估算人数 6
+- SN3 | Alpha Trade 成交额 14637.36 | 列表口径 83413.45 | 涨跌 16.11% | 振幅 105.78% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- UP | 分数 74.66 | Alpha Trade 成交额 748735183.73 | 波动 0.30% | 4h 振幅 2.99% | 审计 MID
-  - Alpha Trade 24h 成交额 748,735,184，流动性 1,999,228
-  - Alpha 列表口径 24h 成交额 8,338,734
-  - 短周期波动 0.30%
-  - 4h 振幅 2.99%
+- UP | 分数 77.81 | Alpha Trade 成交额 803148857.92 | 波动 0.19% | 4h 振幅 1.46% | 审计 MID
+  - Alpha Trade 24h 成交额 803,148,858，流动性 2,000,137
+  - Alpha 列表口径 24h 成交额 8,285,322
+  - 短周期波动 0.19%
+  - 4h 振幅 1.46%
   - 审计风险 MID
-- EDGE | 分数 58.76 | Alpha Trade 成交额 377308785.33 | 波动 0.26% | 4h 振幅 2.21% | 审计 LOW
-  - Alpha Trade 24h 成交额 377,308,785，流动性 1,373,739
-  - Alpha 列表口径 24h 成交额 12,667,013
-  - 短周期波动 0.26%
-  - 4h 振幅 2.21%
+- EDGE | 分数 55.58 | Alpha Trade 成交额 426254858.55 | 波动 0.33% | 4h 振幅 4.73% | 审计 LOW
+  - Alpha Trade 24h 成交额 426,254,859，流动性 1,386,076
+  - Alpha 列表口径 24h 成交额 13,261,190
+  - 短周期波动 0.33%
+  - 4h 振幅 4.73%
   - 审计风险 LOW
-- TRADOOR | 分数 49.51 | Alpha Trade 成交额 1389948.25 | 波动 0.60% | 4h 振幅 12.80% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,389,948，流动性 2,321,557
-  - Alpha 列表口径 24h 成交额 14,325,015
-  - 短周期波动 0.60%
-  - 4h 振幅 12.80%
+- PRL | 分数 49.78 | Alpha Trade 成交额 538765081.69 | 波动 0.75% | 4h 振幅 8.52% | 审计 LOW
+  - Alpha Trade 24h 成交额 538,765,082，流动性 1,394,988
+  - Alpha 列表口径 24h 成交额 5,027,901
+  - 短周期波动 0.75%
+  - 4h 振幅 8.52%
   - 审计风险 LOW
-- PRL | 分数 48.35 | Alpha Trade 成交额 619157054.70 | 波动 0.61% | 4h 振幅 5.07% | 审计 LOW
-  - Alpha Trade 24h 成交额 619,157,055，流动性 1,393,505
-  - Alpha 列表口径 24h 成交额 4,822,723
-  - 短周期波动 0.61%
-  - 4h 振幅 5.07%
+- TRADOOR | 分数 45.03 | Alpha Trade 成交额 1586504.29 | 波动 1.36% | 4h 振幅 17.95% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,586,504，流动性 2,266,083
+  - Alpha 列表口径 24h 成交额 16,204,241
+  - 短周期波动 1.36%
+  - 4h 振幅 17.95%
   - 审计风险 LOW
-- BASED | 分数 25.97 | Alpha Trade 成交额 20961215.82 | 波动 0.42% | 4h 振幅 6.38% | 审计 MID
-  - Alpha Trade 24h 成交额 20,961,216，流动性 950,201
-  - Alpha 列表口径 24h 成交额 8,249,773
-  - 短周期波动 0.42%
-  - 4h 振幅 6.38%
+- BASED | 分数 30.53 | Alpha Trade 成交额 20235322.66 | 波动 0.41% | 4h 振幅 5.93% | 审计 MID
+  - Alpha Trade 24h 成交额 20,235,323，流动性 944,056
+  - Alpha 列表口径 24h 成交额 8,033,488
+  - 短周期波动 0.41%
+  - 4h 振幅 5.93%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -58,19 +59,19 @@
 
 - 过去 72 小时新增 Alpha 代币 10 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add USDS (USDS) on Earn, Buy Crypto, Convert, VIP Loan & Margin
-- Latest Binance News：Binance Trading Bot Will Support New Contracts For Position Snowball (2026-04-09)
-- Latest Activities：AVNT Trading Tournament: Trade to Share Up to 1,600,000 AVNT Token Vouchers
+- Latest Binance News：Introducing Prediction Markets, Expanding Access to On-Chain Probability Trading - a Binance Wallet integration
+- Latest Activities：TREE Trading Tournament: Trade to Share Up to 3,500,000 TREE Token Vouchers
 
 ### 最近 Alpha 上线
 
-- TSMon | 1x | 上线 2026-04-09T02:30:09+00:00 | 24h 成交额 56433.76
-- TQQQon | 1x | 上线 2026-04-09T02:30:08+00:00 | 24h 成交额 263630.55
-- SQQQon | 1x | 上线 2026-04-09T02:30:07+00:00 | 24h 成交额 186678.75
-- PDDon | 1x | 上线 2026-04-09T02:30:06+00:00 | 24h 成交额 1363203.35
-- PALLon | 1x | 上线 2026-04-09T02:30:05+00:00 | 24h 成交额 10093.89
-- GLDon | 1x | 上线 2026-04-09T02:30:04+00:00 | 24h 成交额 173573.59
-- COPXon | 1x | 上线 2026-04-09T02:30:03+00:00 | 24h 成交额 401535.27
-- AVGOon | 1x | 上线 2026-04-09T02:30:02+00:00 | 24h 成交额 36117.51
+- TSMon | 1x | 上线 2026-04-09T02:30:09+00:00 | 24h 成交额 50789.40
+- TQQQon | 1x | 上线 2026-04-09T02:30:08+00:00 | 24h 成交额 269042.83
+- SQQQon | 1x | 上线 2026-04-09T02:30:07+00:00 | 24h 成交额 170661.57
+- PDDon | 1x | 上线 2026-04-09T02:30:06+00:00 | 24h 成交额 1368843.51
+- PALLon | 1x | 上线 2026-04-09T02:30:05+00:00 | 24h 成交额 10134.60
+- GLDon | 1x | 上线 2026-04-09T02:30:04+00:00 | 24h 成交额 173942.78
+- COPXon | 1x | 上线 2026-04-09T02:30:03+00:00 | 24h 成交额 408204.94
+- AVGOon | 1x | 上线 2026-04-09T02:30:02+00:00 | 24h 成交额 35828.20
 
 ### New Cryptocurrency Listing
 
@@ -83,21 +84,21 @@
 
 ### Latest Binance News
 
+- [Introducing Prediction Markets, Expanding Access to On-Chain Probability Trading - a Binance Wallet integration](https://www.binance.com/en/support/announcement/detail/4989a793bf58434980967848a0f16d77)
+  - Prediction Markets are not provided by Binance ADGM entities and can only be accessed if you hold a Prediction Account (Powered by Binance Keyless Wallet). The Binance Wallet Serv…
 - [Binance Trading Bot Will Support New Contracts For Position Snowball (2026-04-09)](https://www.binance.com/en/support/announcement/detail/84ab4c7f1c2b4cfd894f1985bd060da2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To enhance users’ Position Snowball strategies with…
 - [Updates on Minimum Notional Value for BTCUSDT and BTCUSDC USDⓈ-M Perpetual Futures Contracts (2026-04-14)](https://www.binance.com/en/support/announcement/detail/10999fd17dc045de801c0c78ab29e6fc)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
-- [Updates on Binance Link Futures Bonus Reward](https://www.binance.com/en/support/announcement/detail/a563cea9efa84a6c849074b38ad3f308)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance will implement an update to the Future…
 
 ### Latest Activities
 
+- [TREE Trading Tournament: Trade to Share Up to 3,500,000 TREE Token Vouchers](https://www.binance.com/en/support/announcement/detail/1b8af58210ce44d0b120bc5a809efa8b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
+- [Learn & Earn: Complete the Quiz to Share Chainbase (C) Token Rewards!](https://www.binance.com/en/support/announcement/detail/160d82e445b6486489058d0c02070fe2)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce the next round of " B…
 - [AVNT Trading Tournament: Trade to Share Up to 1,600,000 AVNT Token Vouchers](https://www.binance.com/en/support/announcement/detail/9aaf058de7d4481b921521df43135af6)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This April 2026!](https://www.binance.com/en/support/announcement/detail/586c9ff1b7d1489f8c31a0523517690f)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitc…
-- [Binance Upsized KGST Booster Program: Enjoy Up to 12% APR with KGST Flexible Products (2026-04-07)](https://www.binance.com/en/support/announcement/detail/fc74f82d4d114221a12d9b114456536b)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
