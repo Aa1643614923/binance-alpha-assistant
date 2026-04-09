@@ -1,57 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-08T23:49:38.281208+00:00
-- 四倍分代币数：11
-- 四倍分 24h 总成交额：1726024593.85
+- 生成时间：2026-04-09T01:04:26.429237+00:00
+- 四倍分代币数：8
+- 四倍分 24h 总成交额：1716044155.70
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：210491（按 8200 / 人）
+- 估算参与人数：209274（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 860933132.69 | 列表口径 6335820.89 | 涨跌 -13.93% | 振幅 55.85% | 估算人数 104992
-- PRL | Alpha Trade 成交额 736548999.04 | 列表口径 5075537.72 | 涨跌 1.76% | 振幅 17.40% | 估算人数 89823
-- EDGE | Alpha Trade 成交额 101319860.49 | 列表口径 11103789.12 | 涨跌 -9.69% | 振幅 25.21% | 估算人数 12356
-- BASED | Alpha Trade 成交额 22463027.13 | 列表口径 10119141.96 | 涨跌 -1.51% | 振幅 10.80% | 估算人数 2739
-- LAB | Alpha Trade 成交额 2191884.93 | 列表口径 34447473.87 | 涨跌 -5.93% | 振幅 34.57% | 估算人数 267
-- TRADOOR | Alpha Trade 成交额 1043570.46 | 列表口径 10669899.06 | 涨跌 25.82% | 振幅 34.21% | 估算人数 127
-- CYS | Alpha Trade 成交额 826476.03 | 列表口径 3966621.29 | 涨跌 -5.38% | 振幅 14.40% | 估算人数 101
-- AIA | Alpha Trade 成交额 386865.03 | 列表口径 4384761.69 | 涨跌 7.98% | 振幅 14.64% | 估算人数 47
-- SIGMA | Alpha Trade 成交额 242780.60 | 列表口径 280895.52 | 涨跌 -8.84% | 振幅 30.50% | 估算人数 30
-- R2 | Alpha Trade 成交额 56236.37 | 列表口径 100393.78 | 涨跌 -5.85% | 振幅 23.38% | 估算人数 7
-- SN3 | Alpha Trade 成交额 11761.08 | 列表口径 65824.68 | 涨跌 -14.96% | 振幅 96.58% | 估算人数 1
+- UP | Alpha Trade 成交额 845565308.63 | 列表口径 6435616.48 | 涨跌 -10.50% | 振幅 55.85% | 估算人数 103118
+- PRL | Alpha Trade 成交额 739809691.00 | 列表口径 5131750.45 | 涨跌 7.96% | 振幅 17.40% | 估算人数 90221
+- EDGE | Alpha Trade 成交额 106794439.78 | 列表口径 11258903.31 | 涨跌 -7.55% | 振幅 25.21% | 估算人数 13024
+- BASED | Alpha Trade 成交额 21963132.05 | 列表口径 9877009.25 | 涨跌 0.21% | 振幅 10.80% | 估算人数 2678
+- TRADOOR | Alpha Trade 成交额 1074809.05 | 列表口径 11246987.94 | 涨跌 27.80% | 振幅 37.27% | 估算人数 131
+- CYS | Alpha Trade 成交额 769865.81 | 列表口径 3577888.88 | 涨跌 -8.30% | 振幅 13.08% | 估算人数 94
+- R2 | Alpha Trade 成交额 55385.44 | 列表口径 99928.22 | 涨跌 -8.79% | 振幅 23.38% | 估算人数 7
+- SN3 | Alpha Trade 成交额 11523.93 | 列表口径 67783.37 | 涨跌 -12.98% | 振幅 93.10% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- UP | 分数 72.90 | Alpha Trade 成交额 860933132.69 | 波动 0.40% | 4h 振幅 3.81% | 审计 MID
-  - Alpha Trade 24h 成交额 860,933,133，流动性 1,993,434
-  - Alpha 列表口径 24h 成交额 6,335,821
-  - 短周期波动 0.40%
-  - 4h 振幅 3.81%
+- PRL | 分数 53.04 | Alpha Trade 成交额 739809691.00 | 波动 0.51% | 4h 振幅 4.74% | 审计 LOW
+  - Alpha Trade 24h 成交额 739,809,691，流动性 1,396,779
+  - Alpha 列表口径 24h 成交额 5,131,750
+  - 短周期波动 0.51%
+  - 4h 振幅 4.74%
+  - 审计风险 LOW
+- TRADOOR | 分数 50.06 | Alpha Trade 成交额 1074809.05 | 波动 0.64% | 4h 振幅 7.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,074,809，流动性 2,218,342
+  - Alpha 列表口径 24h 成交额 11,246,988
+  - 短周期波动 0.64%
+  - 4h 振幅 7.05%
+  - 审计风险 LOW
+- UP | 分数 48.26 | Alpha Trade 成交额 845565308.63 | 波动 0.76% | 4h 振幅 7.50% | 审计 MID
+  - Alpha Trade 24h 成交额 845,565,309，流动性 1,999,593
+  - Alpha 列表口径 24h 成交额 6,435,616
+  - 短周期波动 0.76%
+  - 4h 振幅 7.50%
   - 审计风险 MID
-- TRADOOR | 分数 69.04 | Alpha Trade 成交额 1043570.46 | 波动 0.43% | 4h 振幅 3.60% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,043,570，流动性 2,196,806
-  - Alpha 列表口径 24h 成交额 10,669,899
-  - 短周期波动 0.43%
-  - 4h 振幅 3.60%
-  - 审计风险 LOW
-- PRL | 分数 59.30 | Alpha Trade 成交额 736548999.04 | 波动 0.52% | 4h 振幅 6.22% | 审计 LOW
-  - Alpha Trade 24h 成交额 736,548,999，流动性 1,391,957
-  - Alpha 列表口径 24h 成交额 5,075,538
-  - 短周期波动 0.52%
-  - 4h 振幅 6.22%
-  - 审计风险 LOW
-- EDGE | 分数 43.80 | Alpha Trade 成交额 101319860.49 | 波动 0.41% | 4h 振幅 4.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 101,319,860，流动性 1,373,422
-  - Alpha 列表口径 24h 成交额 11,103,789
-  - 短周期波动 0.41%
-  - 4h 振幅 4.62%
-  - 审计风险 LOW
-- CYS | 分数 39.80 | Alpha Trade 成交额 826476.03 | 波动 0.25% | 4h 振幅 2.38% | 审计 MID
-  - Alpha Trade 24h 成交额 826,476，流动性 1,170,265
-  - Alpha 列表口径 24h 成交额 3,966,621
-  - 短周期波动 0.25%
-  - 4h 振幅 2.38%
+- CYS | 分数 40.10 | Alpha Trade 成交额 769865.81 | 波动 0.21% | 4h 振幅 2.61% | 审计 MID
+  - Alpha Trade 24h 成交额 769,866，流动性 1,170,317
+  - Alpha 列表口径 24h 成交额 3,577,889
+  - 短周期波动 0.21%
+  - 4h 振幅 2.61%
   - 审计风险 MID
+- EDGE | 分数 35.38 | Alpha Trade 成交额 106794439.78 | 波动 0.48% | 4h 振幅 4.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 106,794,440，流动性 1,381,577
+  - Alpha 列表口径 24h 成交额 11,258,903
+  - 短周期波动 0.48%
+  - 4h 振幅 4.76%
+  - 审计风险 LOW
 
 ## Alpha 合约异动
 
@@ -60,7 +57,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch MUUSDT and SNDKUSDT USDⓈ-Margined Equity Perpetual Contracts (2026-04-07)
-- Latest Binance News：Binance Evolves Capital Connect: A Portfolio Marketplace for Institutional Investors and Trading Teams
+- Latest Binance News：Binance Convert Now Supports Recurring for Tokenized Securities
 - Latest Activities：AVNT Trading Tournament: Trade to Share Up to 1,600,000 AVNT Token Vouchers
 
 ### 最近 Alpha 上线
@@ -77,12 +74,12 @@
 
 ### Latest Binance News
 
+- [Binance Convert Now Supports Recurring for Tokenized Securities](https://www.binance.com/en/support/announcement/detail/56491d77154e49ed96a31d75d64ed713)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. &nbsp; Fellow B…
 - [Binance Evolves Capital Connect: A Portfolio Marketplace for Institutional Investors and Trading Teams](https://www.binance.com/en/support/announcement/detail/3978e9b92db145a798decbe29bb1e6e6)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance has upgraded Capital Connect, a marketplace…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-04-08)](https://www.binance.com/en/support/announcement/detail/69a9ac042e914e33991ce282e3fe49af)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Update on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-04-10)](https://www.binance.com/en/support/announcement/detail/5a1c6a6e8dff4456b6e4710482eaaeec)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will update at 2026-04-10 06:30 (UTC…
 
 ### Latest Activities
 
