@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-10T01:50:20.447578+00:00
+- 生成时间：2026-04-10T04:39:10.263019+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1660525308.70
+- 四倍分 24h 总成交额：1679723367.11
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：202503（按 8200 / 人）
+- 估算参与人数：204844（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 877931203.74 | 列表口径 7109797.24 | 涨跌 -5.65% | 振幅 12.49% | 估算人数 107065
-- EDGE | Alpha Trade 成交额 578521050.86 | 列表口径 11159015.95 | 涨跌 -2.51% | 振幅 10.66% | 估算人数 70551
-- PRL | Alpha Trade 成交额 186735547.53 | 列表口径 3202304.07 | 涨跌 -5.61% | 振幅 13.67% | 估算人数 22773
-- BASED | Alpha Trade 成交额 11577391.94 | 列表口径 5577122.87 | 涨跌 -10.38% | 振幅 18.80% | 估算人数 1412
-- TRADOOR | Alpha Trade 成交额 4363929.55 | 列表口径 27141041.17 | 涨跌 7.48% | 振幅 29.79% | 估算人数 532
-- CYS | Alpha Trade 成交额 823577.64 | 列表口径 6555658.53 | 涨跌 -14.58% | 振幅 37.22% | 估算人数 100
-- SOON | Alpha Trade 成交额 540443.52 | 列表口径 1479410.78 | 涨跌 -10.64% | 振幅 15.05% | 估算人数 66
-- R2 | Alpha Trade 成交额 32163.92 | 列表口径 83061.27 | 涨跌 -10.49% | 振幅 20.41% | 估算人数 4
+- UP | Alpha Trade 成交额 983721947.11 | 列表口径 6291624.24 | 涨跌 -3.14% | 振幅 11.18% | 估算人数 119966
+- EDGE | Alpha Trade 成交额 517735067.06 | 列表口径 11074807.99 | 涨跌 2.16% | 振幅 12.53% | 估算人数 63138
+- PRL | Alpha Trade 成交额 161643316.06 | 列表口径 2719508.59 | 涨跌 -6.03% | 振幅 13.63% | 估算人数 19713
+- BASED | Alpha Trade 成交额 10507478.03 | 列表口径 5425818.46 | 涨跌 -8.66% | 振幅 15.81% | 估算人数 1281
+- TRADOOR | Alpha Trade 成交额 4685867.81 | 列表口径 27537987.67 | 涨跌 7.25% | 振幅 29.79% | 估算人数 571
+- CYS | Alpha Trade 成交额 848929.87 | 列表口径 7543407.12 | 涨跌 -5.54% | 振幅 33.47% | 估算人数 104
+- SOON | Alpha Trade 成交额 548375.46 | 列表口径 1580643.33 | 涨跌 -8.40% | 振幅 15.05% | 估算人数 67
+- R2 | Alpha Trade 成交额 32385.71 | 列表口径 84897.16 | 涨跌 -10.19% | 振幅 21.00% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- UP | 分数 77.69 | Alpha Trade 成交额 877931203.74 | 波动 0.39% | 4h 振幅 4.07% | 审计 MID
-  - Alpha Trade 24h 成交额 877,931,204，流动性 1,993,257
-  - Alpha 列表口径 24h 成交额 7,109,797
-  - 短周期波动 0.39%
-  - 4h 振幅 4.07%
+- UP | 分数 77.86 | Alpha Trade 成交额 983721947.11 | 波动 0.17% | 4h 振幅 2.28% | 审计 MID
+  - Alpha Trade 24h 成交额 983,721,947，流动性 1,984,800
+  - Alpha 列表口径 24h 成交额 6,291,624
+  - 短周期波动 0.17%
+  - 4h 振幅 2.28%
   - 审计风险 MID
-- TRADOOR | 分数 69.96 | Alpha Trade 成交额 4363929.55 | 波动 0.52% | 4h 振幅 4.98% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,363,930，流动性 2,319,361
-  - Alpha 列表口径 24h 成交额 27,141,041
-  - 短周期波动 0.52%
-  - 4h 振幅 4.98%
+- TRADOOR | 分数 63.27 | Alpha Trade 成交额 4685867.81 | 波动 0.53% | 4h 振幅 4.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,685,868，流动性 2,323,159
+  - Alpha 列表口径 24h 成交额 27,537,988
+  - 短周期波动 0.53%
+  - 4h 振幅 4.91%
   - 审计风险 LOW
-- EDGE | 分数 65.27 | Alpha Trade 成交额 578521050.86 | 波动 0.40% | 4h 振幅 3.63% | 审计 LOW
-  - Alpha Trade 24h 成交额 578,521,051，流动性 1,382,357
-  - Alpha 列表口径 24h 成交额 11,159,016
-  - 短周期波动 0.40%
-  - 4h 振幅 3.63%
+- EDGE | 分数 55.39 | Alpha Trade 成交额 517735067.06 | 波动 0.36% | 4h 振幅 4.23% | 审计 LOW
+  - Alpha Trade 24h 成交额 517,735,067，流动性 1,389,291
+  - Alpha 列表口径 24h 成交额 11,074,808
+  - 短周期波动 0.36%
+  - 4h 振幅 4.23%
   - 审计风险 LOW
-- PRL | 分数 52.97 | Alpha Trade 成交额 186735547.53 | 波动 0.41% | 4h 振幅 4.76% | 审计 LOW
-  - Alpha Trade 24h 成交额 186,735,548，流动性 1,382,010
-  - Alpha 列表口径 24h 成交额 3,202,304
-  - 短周期波动 0.41%
-  - 4h 振幅 4.76%
+- PRL | 分数 44.06 | Alpha Trade 成交额 161643316.06 | 波动 0.39% | 4h 振幅 5.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 161,643,316，流动性 1,376,632
+  - Alpha 列表口径 24h 成交额 2,719,509
+  - 短周期波动 0.39%
+  - 4h 振幅 5.76%
   - 审计风险 LOW
-- SOON | 分数 37.29 | Alpha Trade 成交额 540443.52 | 波动 0.47% | 4h 振幅 5.98% | 审计 LOW
-  - Alpha Trade 24h 成交额 540,444，流动性 605,334
-  - Alpha 列表口径 24h 成交额 1,479,411
-  - 短周期波动 0.47%
-  - 4h 振幅 5.98%
-  - 审计风险 LOW
+- BASED | 分数 35.57 | Alpha Trade 成交额 10507478.03 | 波动 0.32% | 4h 振幅 3.03% | 审计 MID
+  - Alpha Trade 24h 成交额 10,507,478，流动性 917,667
+  - Alpha 列表口径 24h 成交额 5,425,818
+  - 短周期波动 0.32%
+  - 4h 振幅 3.03%
+  - 审计风险 MID
 
 ## Alpha 合约异动
 
@@ -56,21 +56,21 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 10 个，其中四倍分 0 个。
+- 过去 72 小时新增 Alpha 代币 20 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add USDS (USDS) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：Binance VIP Loan Integrates Fixed Loan Market - 2026-04-09
-- Latest Activities：Binance VIP Capital Connect Masters Tournament: Compete for Up to $300,000 in Rewards and Exposure to Global Institutional Capital
+- Latest Activities：Binance Earn: Enjoy Daily CATI Boost Airdrop on RWUSD & Earn Up to 20% APR on CATI Flexible Products!
 
 ### 最近 Alpha 上线
 
-- TSMon | 1x | 上线 2026-04-09T02:30:09+00:00 | 24h 成交额 29260.74
-- TQQQon | 1x | 上线 2026-04-09T02:30:08+00:00 | 24h 成交额 222852.66
-- SQQQon | 1x | 上线 2026-04-09T02:30:07+00:00 | 24h 成交额 63278.02
-- PDDon | 1x | 上线 2026-04-09T02:30:06+00:00 | 24h 成交额 35903.32
-- PALLon | 1x | 上线 2026-04-09T02:30:05+00:00 | 24h 成交额 2314.60
-- GLDon | 1x | 上线 2026-04-09T02:30:04+00:00 | 24h 成交额 140294.40
-- COPXon | 1x | 上线 2026-04-09T02:30:03+00:00 | 24h 成交额 77955.48
-- AVGOon | 1x | 上线 2026-04-09T02:30:02+00:00 | 24h 成交额 32220.86
+- REMXon | 1x | 上线 2026-04-10T02:15:09+00:00 | 24h 成交额 3058.95
+- PYPLon | 1x | 上线 2026-04-10T02:15:08+00:00 | 24h 成交额 2759.01
+- OXYon | 1x | 上线 2026-04-10T02:15:07+00:00 | 24h 成交额 102237.52
+- ONDSon | 1x | 上线 2026-04-10T02:15:06+00:00 | 24h 成交额 18930.76
+- NFLXon | 1x | 上线 2026-04-10T02:15:05+00:00 | 24h 成交额 23350.89
+- IRENon | 1x | 上线 2026-04-10T02:15:04+00:00 | 24h 成交额 19958.13
+- CVXon | 1x | 上线 2026-04-10T02:15:03+00:00 | 24h 成交额 77938.26
+- BMNRon | 1x | 上线 2026-04-10T02:15:02+00:00 | 24h 成交额 160946.97
 
 ### New Cryptocurrency Listing
 
@@ -92,12 +92,12 @@
 
 ### Latest Activities
 
+- [Binance Earn: Enjoy Daily CATI Boost Airdrop on RWUSD & Earn Up to 20% APR on CATI Flexible Products!](https://www.binance.com/en/support/announcement/detail/55f57d60bcf841b191379ee3cd25189f)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; &nbsp; Fellow Binancians, Binance Ear…
 - [Binance VIP Capital Connect Masters Tournament: Compete for Up to $300,000 in Rewards and Exposure to Global Institutional Capital](https://www.binance.com/en/support/announcement/detail/35509d42de1645c097371c651936f78e)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is proud to launch the Capital Connect Maste…
 - [RateX Trading Competition: Trade RateX (RTX) and Share $200K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/99c964d5f1494d0b8822403ca6c92877)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
-- [TREE Trading Tournament: Trade to Share Up to 3,500,000 TREE Token Vouchers](https://www.binance.com/en/support/announcement/detail/1b8af58210ce44d0b120bc5a809efa8b)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
