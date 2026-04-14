@@ -1,59 +1,59 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-14T11:37:38.383797+00:00
+- 生成时间：2026-04-14T12:45:30.138646+00:00
 - 四倍分代币数：14
-- 四倍分 24h 总成交额：1544478958.83
+- 四倍分 24h 总成交额：1599871368.12
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：188351（按 8200 / 人）
+- 估算参与人数：195106（按 8200 / 人）
 
 ## 四倍分代币
 
-- PRL | Alpha Trade 成交额 1117566493.26 | 列表口径 3430280.14 | 涨跌 -4.00% | 振幅 16.96% | 估算人数 136289
-- BASED | Alpha Trade 成交额 219432326.50 | 列表口径 14582421.38 | 涨跌 -9.25% | 振幅 21.67% | 估算人数 26760
-- EDGE | Alpha Trade 成交额 160483561.38 | 列表口径 9953754.98 | 涨跌 4.84% | 振幅 15.85% | 估算人数 19571
-- GENIUS | Alpha Trade 成交额 29918544.87 | 列表口径 83118844.12 | 涨跌 662.91% | 振幅 20678644.46% | 估算人数 3649
-- TRADOOR | Alpha Trade 成交额 15166059.98 | 列表口径 73658027.77 | 涨跌 -8.55% | 振幅 93.31% | 估算人数 1850
-- CYS | Alpha Trade 成交额 858528.84 | 列表口径 9267423.24 | 涨跌 16.45% | 振幅 30.64% | 估算人数 105
-- POWER | Alpha Trade 成交额 550215.73 | 列表口径 5435294.61 | 涨跌 -0.59% | 振幅 28.44% | 估算人数 67
-- VELO | Alpha Trade 成交额 123096.71 | 列表口径 532582.61 | 涨跌 -3.87% | 振幅 12.08% | 估算人数 15
-- ANOME | Alpha Trade 成交额 120673.69 | 列表口径 1465998.52 | 涨跌 -26.88% | 振幅 47.82% | 估算人数 15
-- CLO | Alpha Trade 成交额 100016.57 | 列表口径 2085748.74 | 涨跌 -3.64% | 振幅 15.42% | 估算人数 12
-- SOON | Alpha Trade 成交额 78807.00 | 列表口径 1204512.05 | 涨跌 -0.67% | 振幅 18.10% | 估算人数 10
-- R2 | Alpha Trade 成交额 40249.10 | 列表口径 91046.57 | 涨跌 -4.68% | 振幅 120.63% | 估算人数 5
-- REKT | Alpha Trade 成交额 22838.89 | 列表口径 112810.30 | 涨跌 -0.23% | 振幅 2.22% | 估算人数 3
-- AOP | Alpha Trade 成交额 17546.31 | 列表口径 985305.66 | 涨跌 -1.64% | 振幅 5.51% | 估算人数 2
+- PRL | Alpha Trade 成交额 1113340960.26 | 列表口径 3295418.19 | 涨跌 -3.11% | 振幅 15.69% | 估算人数 135773
+- BASED | Alpha Trade 成交额 279565162.66 | 列表口径 13287982.52 | 涨跌 -7.38% | 振幅 15.95% | 估算人数 34093
+- EDGE | Alpha Trade 成交额 159472055.75 | 列表口径 10562173.30 | 涨跌 11.80% | 振幅 19.66% | 估算人数 19448
+- GENIUS | Alpha Trade 成交额 30400076.36 | 列表口径 83974055.87 | 涨跌 652.94% | 振幅 20678644.46% | 估算人数 3707
+- TRADOOR | Alpha Trade 成交额 15028798.34 | 列表口径 70223989.56 | 涨跌 -13.43% | 振幅 93.31% | 估算人数 1833
+- CYS | Alpha Trade 成交额 995820.74 | 列表口径 10069551.17 | 涨跌 30.10% | 振幅 38.08% | 估算人数 121
+- POWER | Alpha Trade 成交额 566743.98 | 列表口径 5573149.03 | 涨跌 0.25% | 振幅 28.44% | 估算人数 69
+- VELO | Alpha Trade 成交额 126305.60 | 列表口径 538529.79 | 涨跌 -4.08% | 振幅 12.08% | 估算人数 15
+- ANOME | Alpha Trade 成交额 120337.58 | 列表口径 1469963.32 | 涨跌 -27.61% | 振幅 47.82% | 估算人数 15
+- CLO | Alpha Trade 成交额 95524.20 | 列表口径 1960091.99 | 涨跌 -0.94% | 振幅 14.62% | 估算人数 12
+- SOON | Alpha Trade 成交额 78535.21 | 列表口径 1136611.43 | 涨跌 -1.99% | 振幅 18.10% | 估算人数 10
+- R2 | Alpha Trade 成交额 42405.88 | 列表口径 95460.37 | 涨跌 -1.21% | 振幅 120.63% | 估算人数 5
+- REKT | Alpha Trade 成交额 22561.76 | 列表口径 107892.69 | 涨跌 -0.33% | 振幅 2.22% | 估算人数 3
+- AOP | Alpha Trade 成交额 16079.82 | 列表口径 1013506.56 | 涨跌 -1.10% | 振幅 5.51% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- PRL | 分数 71.00 | Alpha Trade 成交额 1117566493.26 | 波动 0.13% | 4h 振幅 1.81% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,117,566,493，流动性 1,388,767
-  - Alpha 列表口径 24h 成交额 3,430,280
+- PRL | 分数 70.92 | Alpha Trade 成交额 1113340960.26 | 波动 0.13% | 4h 振幅 1.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,113,340,960，流动性 1,389,341
+  - Alpha 列表口径 24h 成交额 3,295,418
   - 短周期波动 0.13%
-  - 4h 振幅 1.81%
+  - 4h 振幅 1.53%
   - 审计风险 LOW
-- TRADOOR | 分数 48.92 | Alpha Trade 成交额 15166059.98 | 波动 3.03% | 4h 振幅 22.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 15,166,060，流动性 2,328,430
-  - Alpha 列表口径 24h 成交额 73,658,028
-  - 短周期波动 3.03%
-  - 4h 振幅 22.16%
+- TRADOOR | 分数 52.61 | Alpha Trade 成交额 15028798.34 | 波动 1.78% | 4h 振幅 14.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 15,028,798，流动性 2,353,818
+  - Alpha 列表口径 24h 成交额 70,223,990
+  - 短周期波动 1.78%
+  - 4h 振幅 14.28%
   - 审计风险 LOW
-- EDGE | 分数 44.95 | Alpha Trade 成交额 160483561.38 | 波动 0.46% | 4h 振幅 6.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 160,483,561，流动性 1,343,017
-  - Alpha 列表口径 24h 成交额 9,953,755
+- EDGE | 分数 40.58 | Alpha Trade 成交额 159472055.75 | 波动 0.57% | 4h 振幅 10.25% | 审计 LOW
+  - Alpha Trade 24h 成交额 159,472,056，流动性 1,356,698
+  - Alpha 列表口径 24h 成交额 10,562,173
+  - 短周期波动 0.57%
+  - 4h 振幅 10.25%
+  - 审计风险 LOW
+- BASED | 分数 38.19 | Alpha Trade 成交额 279565162.66 | 波动 0.46% | 4h 振幅 4.95% | 审计 MID
+  - Alpha Trade 24h 成交额 279,565,163，流动性 1,019,014
+  - Alpha 列表口径 24h 成交额 13,287,983
   - 短周期波动 0.46%
-  - 4h 振幅 6.82%
-  - 审计风险 LOW
-- BASED | 分数 39.06 | Alpha Trade 成交额 219432326.50 | 波动 0.40% | 4h 振幅 3.86% | 审计 MID
-  - Alpha Trade 24h 成交额 219,432,327，流动性 1,014,225
-  - Alpha 列表口径 24h 成交额 14,582,421
-  - 短周期波动 0.40%
-  - 4h 振幅 3.86%
+  - 4h 振幅 4.95%
   - 审计风险 MID
-- GENIUS | 分数 37.94 | Alpha Trade 成交额 29918544.87 | 波动 2.16% | 4h 振幅 33.58% | 审计 LOW
-  - Alpha Trade 24h 成交额 29,918,545，流动性 2,265,646
-  - Alpha 列表口径 24h 成交额 83,118,844
-  - 短周期波动 2.16%
-  - 4h 振幅 33.58%
+- POWER | 分数 33.21 | Alpha Trade 成交额 566743.98 | 波动 0.67% | 4h 振幅 5.04% | 审计 LOW
+  - Alpha Trade 24h 成交额 566,744，流动性 991,208
+  - Alpha 列表口径 24h 成交额 5,573,149
+  - 短周期波动 0.67%
+  - 4h 振幅 5.04%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -64,19 +64,19 @@
 
 - 过去 72 小时新增 Alpha 代币 11 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add USDS (USDS) on Earn, Buy Crypto, Convert, VIP Loan & Margin
-- Latest Binance News：Binance Portfolio Margin Account Conditional Order Service Maintenance (2026-04-28)
+- Latest Binance News：Binance Wallet (App) Now Supports Perpetual Futures Trading — With an Exclusive Alpha Points Campaign
 - Latest Activities：Binance Earn: Enjoy Up to 8% APR with U Flexible Products (2026-04-15)
 
 ### 最近 Alpha 上线
 
-- GENIUS | 4x | 上线 2026-04-13T15:30:00+00:00 | 24h 成交额 83118844.12
-- CRMon | 1x | 上线 2026-04-13T10:20:08+00:00 | 24h 成交额 49782.25
-- COSTon | 1x | 上线 2026-04-13T10:20:07+00:00 | 24h 成交额 980.23
-- COPon | 1x | 上线 2026-04-13T10:20:06+00:00 | 24h 成交额 3740.79
-- BILIon | 1x | 上线 2026-04-13T10:20:05+00:00 | 24h 成交额 21213.23
-- BIDUon | 1x | 上线 2026-04-13T10:20:04+00:00 | 24h 成交额 2222.49
-- ASMLon | 1x | 上线 2026-04-13T10:20:03+00:00 | 24h 成交额 19317.89
-- APPon | 1x | 上线 2026-04-13T10:20:02+00:00 | 24h 成交额 9998.35
+- GENIUS | 4x | 上线 2026-04-13T15:30:00+00:00 | 24h 成交额 83974055.87
+- CRMon | 1x | 上线 2026-04-13T10:20:08+00:00 | 24h 成交额 50007.00
+- COSTon | 1x | 上线 2026-04-13T10:20:07+00:00 | 24h 成交额 957.63
+- COPon | 1x | 上线 2026-04-13T10:20:06+00:00 | 24h 成交额 900.22
+- BILIon | 1x | 上线 2026-04-13T10:20:05+00:00 | 24h 成交额 21173.45
+- BIDUon | 1x | 上线 2026-04-13T10:20:04+00:00 | 24h 成交额 1427.89
+- ASMLon | 1x | 上线 2026-04-13T10:20:03+00:00 | 24h 成交额 19558.49
+- APPon | 1x | 上线 2026-04-13T10:20:02+00:00 | 24h 成交额 9905.40
 
 ### New Cryptocurrency Listing
 
@@ -89,12 +89,12 @@
 
 ### Latest Binance News
 
+- [Binance Wallet (App) Now Supports Perpetual Futures Trading — With an Exclusive Alpha Points Campaign](https://www.binance.com/en/support/announcement/detail/258767f4577644398fcf3f660a1f4098)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Following the launch of…
 - [Binance Portfolio Margin Account Conditional Order Service Maintenance (2026-04-28)](https://www.binance.com/en/support/announcement/detail/13980e4145ee41259d32f985161d81b6)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To enhance system perfor…
 - [Binance Will Extend the Monitoring Tag to Include FARM, HIGH, MLN, RESOLV, SYS, TRU & VELODROME, Remove the Seed Tag for XAUT on 2026-04-14](https://www.binance.com/en/support/announcement/detail/f2286b6232434b31927ccd3e7187afd3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
-- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts](https://www.binance.com/en/support/announcement/detail/3208154ca9544e22a999808c06f26cd7)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 
 ### Latest Activities
 
