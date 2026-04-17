@@ -1,63 +1,63 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-17T10:36:50.337143+00:00
+- 生成时间：2026-04-17T11:35:25.012002+00:00
 - 四倍分代币数：18
-- 四倍分 24h 总成交额：1144537940.12
+- 四倍分 24h 总成交额：1069421869.01
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：139578（按 8200 / 人）
+- 估算参与人数：130417（按 8200 / 人）
 
 ## 四倍分代币
 
-- PRL | Alpha Trade 成交额 765704944.90 | 列表口径 30481810.21 | 涨跌 43.89% | 振幅 217.54% | 估算人数 93379
-- EDGE | Alpha Trade 成交额 325439161.62 | 列表口径 6372346.06 | 涨跌 8.29% | 振幅 113.19% | 估算人数 39688
-- BASED | Alpha Trade 成交额 29068760.04 | 列表口径 88480659.19 | 涨跌 -12.42% | 振幅 199.23% | 估算人数 3545
-- GENIUS | Alpha Trade 成交额 14894850.70 | 列表口径 14620525.03 | 涨跌 7.23% | 振幅 47.92% | 估算人数 1816
-- ST | Alpha Trade 成交额 1852075.04 | 列表口径 10505843.41 | 涨跌 -33.40% | 振幅 60.35% | 估算人数 226
-- TRADOOR | Alpha Trade 成交额 1644983.83 | 列表口径 23335086.65 | 涨跌 19.21% | 振幅 37.37% | 估算人数 201
-- SOON | Alpha Trade 成交额 1616741.80 | 列表口径 14975816.00 | 涨跌 57.22% | 振幅 155.92% | 估算人数 197
-- CYS | Alpha Trade 成交额 1603785.38 | 列表口径 10802459.50 | 涨跌 -0.45% | 振幅 20.20% | 估算人数 196
-- POWER | Alpha Trade 成交额 1103254.49 | 列表口径 11715164.70 | 涨跌 8.93% | 振幅 44.64% | 估算人数 135
-- HANA | Alpha Trade 成交额 710743.95 | 列表口径 3619809.87 | 涨跌 -15.70% | 振幅 26.30% | 估算人数 87
-- CLO | Alpha Trade 成交额 314270.19 | 列表口径 7335207.52 | 涨跌 27.81% | 振幅 35.13% | 估算人数 38
-- AGT | Alpha Trade 成交额 260040.13 | 列表口径 3970890.85 | 涨跌 -9.96% | 振幅 22.84% | 估算人数 32
-- DAM | Alpha Trade 成交额 139721.27 | 列表口径 373572.14 | 涨跌 -13.57% | 振幅 21.26% | 估算人数 17
-- R2 | Alpha Trade 成交额 68685.57 | 列表口径 123926.58 | 涨跌 -4.18% | 振幅 136.32% | 估算人数 8
-- REKT | Alpha Trade 成交额 53101.21 | 列表口径 152442.27 | 涨跌 3.47% | 振幅 4.34% | 估算人数 6
-- VELO | Alpha Trade 成交额 23447.18 | 列表口径 253850.47 | 涨跌 4.16% | 振幅 7.19% | 估算人数 3
-- AOP | Alpha Trade 成交额 20820.37 | 列表口径 1153394.04 | 涨跌 0.47% | 振幅 1.31% | 估算人数 3
-- ANOME | Alpha Trade 成交额 18552.44 | 列表口径 991837.29 | 涨跌 1.99% | 振幅 24.93% | 估算人数 2
+- PRL | Alpha Trade 成交额 757302300.89 | 列表口径 31270861.71 | 涨跌 29.68% | 振幅 217.54% | 估算人数 92354
+- EDGE | Alpha Trade 成交额 258176538.44 | 列表口径 6583542.63 | 涨跌 -4.23% | 振幅 113.19% | 估算人数 31485
+- BASED | Alpha Trade 成交额 28987051.18 | 列表口径 85846014.69 | 涨跌 -16.52% | 振幅 200.53% | 估算人数 3535
+- GENIUS | Alpha Trade 成交额 15386747.21 | 列表口径 14472749.58 | 涨跌 7.58% | 振幅 47.92% | 估算人数 1876
+- ST | Alpha Trade 成交额 1855068.79 | 列表口径 10550136.82 | 涨跌 -29.67% | 振幅 54.00% | 估算人数 226
+- SOON | Alpha Trade 成交额 1655553.29 | 列表口径 15712287.77 | 涨跌 60.31% | 振幅 155.92% | 估算人数 202
+- TRADOOR | Alpha Trade 成交额 1652485.02 | 列表口径 23605205.92 | 涨跌 19.22% | 振幅 37.37% | 估算人数 202
+- CYS | Alpha Trade 成交额 1617065.06 | 列表口径 10852769.94 | 涨跌 1.26% | 振幅 20.20% | 估算人数 197
+- POWER | Alpha Trade 成交额 1117420.91 | 列表口径 11890054.40 | 涨跌 10.73% | 振幅 44.64% | 估算人数 136
+- HANA | Alpha Trade 成交额 742601.21 | 列表口径 3937411.60 | 涨跌 -13.57% | 振幅 26.70% | 估算人数 91
+- CLO | Alpha Trade 成交额 320256.41 | 列表口径 7643484.67 | 涨跌 29.02% | 振幅 34.30% | 估算人数 39
+- AGT | Alpha Trade 成交额 266014.59 | 列表口径 4002636.04 | 涨跌 -10.45% | 振幅 22.84% | 估算人数 32
+- DAM | Alpha Trade 成交额 146517.68 | 列表口径 383210.91 | 涨跌 -12.77% | 振幅 21.26% | 估算人数 18
+- R2 | Alpha Trade 成交额 79852.43 | 列表口径 147548.08 | 涨跌 -16.40% | 振幅 157.08% | 估算人数 10
+- REKT | Alpha Trade 成交额 53117.95 | 列表口径 159746.41 | 涨跌 3.98% | 振幅 4.44% | 估算人数 6
+- VELO | Alpha Trade 成交额 23314.52 | 列表口径 254030.52 | 涨跌 4.44% | 振幅 7.19% | 估算人数 3
+- AOP | Alpha Trade 成交额 21897.78 | 列表口径 1183235.08 | 涨跌 0.49% | 振幅 1.31% | 估算人数 3
+- ANOME | Alpha Trade 成交额 18065.64 | 列表口径 998296.19 | 涨跌 -0.26% | 振幅 24.93% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- TRADOOR | 分数 74.43 | Alpha Trade 成交额 1644983.83 | 波动 0.83% | 4h 振幅 5.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,644,984，流动性 2,759,249
-  - Alpha 列表口径 24h 成交额 23,335,087
+- TRADOOR | 分数 74.85 | Alpha Trade 成交额 1652485.02 | 波动 0.83% | 4h 振幅 5.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,652,485，流动性 2,739,336
+  - Alpha 列表口径 24h 成交额 23,605,206
   - 短周期波动 0.83%
-  - 4h 振幅 5.18%
+  - 4h 振幅 5.31%
   - 审计风险 LOW
-- GENIUS | 分数 56.93 | Alpha Trade 成交额 14894850.70 | 波动 0.87% | 4h 振幅 10.50% | 审计 LOW
-  - Alpha Trade 24h 成交额 14,894,851，流动性 2,471,392
-  - Alpha 列表口径 24h 成交额 14,620,525
-  - 短周期波动 0.87%
-  - 4h 振幅 10.50%
+- GENIUS | 分数 58.31 | Alpha Trade 成交额 15386747.21 | 波动 0.86% | 4h 振幅 8.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 15,386,747，流动性 2,482,967
+  - Alpha 列表口径 24h 成交额 14,472,750
+  - 短周期波动 0.86%
+  - 4h 振幅 8.86%
   - 审计风险 LOW
-- PRL | 分数 54.81 | Alpha Trade 成交额 765704944.90 | 波动 2.13% | 4h 振幅 21.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 765,704,945，流动性 1,486,455
-  - Alpha 列表口径 24h 成交额 30,481,810
-  - 短周期波动 2.13%
-  - 4h 振幅 21.42%
+- PRL | 分数 51.15 | Alpha Trade 成交额 757302300.89 | 波动 2.22% | 4h 振幅 27.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 757,302,301，流动性 1,462,544
+  - Alpha 列表口径 24h 成交额 31,270,862
+  - 短周期波动 2.22%
+  - 4h 振幅 27.64%
   - 审计风险 LOW
-- EDGE | 分数 50.56 | Alpha Trade 成交额 325439161.62 | 波动 1.04% | 4h 振幅 14.92% | 审计 LOW
-  - Alpha Trade 24h 成交额 325,439,162，流动性 1,437,652
-  - Alpha 列表口径 24h 成交额 6,372,346
-  - 短周期波动 1.04%
-  - 4h 振幅 14.92%
+- EDGE | 分数 46.89 | Alpha Trade 成交额 258176538.44 | 波动 1.19% | 4h 振幅 16.09% | 审计 LOW
+  - Alpha Trade 24h 成交额 258,176,538，流动性 1,427,203
+  - Alpha 列表口径 24h 成交额 6,583,543
+  - 短周期波动 1.19%
+  - 4h 振幅 16.09%
   - 审计风险 LOW
-- ST | 分数 43.43 | Alpha Trade 成交额 1852075.04 | 波动 0.75% | 4h 振幅 12.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,852,075，流动性 1,212,042
-  - Alpha 列表口径 24h 成交额 10,505,843
-  - 短周期波动 0.75%
-  - 4h 振幅 12.46%
+- ST | 分数 43.26 | Alpha Trade 成交额 1855068.79 | 波动 0.80% | 4h 振幅 12.83% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,855,069，流动性 1,218,428
+  - Alpha 列表口径 24h 成交额 10,550,137
+  - 短周期波动 0.80%
+  - 4h 振幅 12.83%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -69,18 +69,18 @@
 - 过去 72 小时新增 Alpha 代币 32 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch MSFTUSDT, AVGOUSDT and BABAUSDT USDⓈ-Margined Perpetual Contracts (2026-04-20)
 - Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-21 & 2026-04-22)
-- Latest Activities：Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards
+- Latest Activities：SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards
 
 ### 最近 Alpha 上线
 
-- XOMon | 1x | 上线 2026-04-16T11:05:29+00:00 | 24h 成交额 6051.53
-- VRTon | 1x | 上线 2026-04-16T11:05:28+00:00 | 24h 成交额 4178.64
-- UNHon | 1x | 上线 2026-04-16T11:05:27+00:00 | 24h 成交额 14279.19
-- UBERon | 1x | 上线 2026-04-16T11:05:26+00:00 | 24h 成交额 510.49
-- TCOMon | 1x | 上线 2026-04-16T11:05:25+00:00 | 24h 成交额 8830.14
-- SNOWon | 1x | 上线 2026-04-16T11:05:24+00:00 | 24h 成交额 2412.11
-- SMCIon | 1x | 上线 2026-04-16T11:05:23+00:00 | 24h 成交额 26641.90
-- SHOPon | 1x | 上线 2026-04-16T11:05:22+00:00 | 24h 成交额 6900.10
+- XOMon | 1x | 上线 2026-04-16T11:05:29+00:00 | 24h 成交额 6456.04
+- VRTon | 1x | 上线 2026-04-16T11:05:28+00:00 | 24h 成交额 4192.55
+- UNHon | 1x | 上线 2026-04-16T11:05:27+00:00 | 24h 成交额 14297.13
+- UBERon | 1x | 上线 2026-04-16T11:05:26+00:00 | 24h 成交额 490.04
+- TCOMon | 1x | 上线 2026-04-16T11:05:25+00:00 | 24h 成交额 7836.25
+- SNOWon | 1x | 上线 2026-04-16T11:05:24+00:00 | 24h 成交额 2415.87
+- SMCIon | 1x | 上线 2026-04-16T11:05:23+00:00 | 24h 成交额 26654.51
+- SHOPon | 1x | 上线 2026-04-16T11:05:22+00:00 | 24h 成交额 7020.45
 
 ### New Cryptocurrency Listing
 
@@ -102,12 +102,12 @@
 
 ### Latest Activities
 
+- [SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/49bca20b219744ac8c92f329ea264769)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/a697faab2f6e4216b6cf1ee06debec6e)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [PLUME Trading Tournament: Trade to Share Up to 20,000,000 PLUME Token Vouchers](https://www.binance.com/en/support/announcement/detail/5cfe769110d242f68b1996cf09b15041)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [South Asia New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR!](https://www.binance.com/en/support/announcement/detail/ad1beda5cf834a8da638c67f8c38db6c)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Earn is pleased to launch a promotion on Sim…
 
 ## Warnings
 
