@@ -1,63 +1,63 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-22T09:54:12.332759+00:00
+- 生成时间：2026-04-22T11:05:29.812233+00:00
 - 四倍分代币数：18
-- 四倍分 24h 总成交额：1223859031.22
+- 四倍分 24h 总成交额：1229633985.66
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：149251（按 8200 / 人）
+- 估算参与人数：149955（按 8200 / 人）
 
 ## 四倍分代币
 
-- PRL | Alpha Trade 成交额 968166915.83 | 列表口径 5530618.52 | 涨跌 -1.05% | 振幅 10.69% | 估算人数 118069
-- GENIUS | Alpha Trade 成交额 189608864.93 | 列表口径 3548484.01 | 涨跌 2.59% | 振幅 24.11% | 估算人数 23123
-- EDGE | Alpha Trade 成交额 26515583.15 | 列表口径 2882733.57 | 涨跌 7.87% | 振幅 13.87% | 估算人数 3234
-- OPG | Alpha Trade 成交额 23138271.59 | 列表口径 94825373.10 | 涨跌 328.48% | 振幅 472.05% | 估算人数 2822
-- BASED | Alpha Trade 成交额 7812577.05 | 列表口径 33182719.38 | 涨跌 -1.45% | 振幅 17.56% | 估算人数 953
-- TRADOOR | Alpha Trade 成交额 3870073.10 | 列表口径 18683236.01 | 涨跌 14.46% | 振幅 58.38% | 估算人数 472
-- SOON | Alpha Trade 成交额 3160524.29 | 列表口径 1761512.18 | 涨跌 -2.12% | 振幅 8.12% | 估算人数 385
-- ST | Alpha Trade 成交额 515862.29 | 列表口径 4656702.75 | 涨跌 -6.79% | 振幅 15.45% | 估算人数 63
-- CLO | Alpha Trade 成交额 460074.15 | 列表口径 13083949.79 | 涨跌 0.75% | 振幅 37.69% | 估算人数 56
-- HANA | Alpha Trade 成交额 265393.26 | 列表口径 740917.24 | 涨跌 0.80% | 振幅 4.83% | 估算人数 32
-- POWER | Alpha Trade 成交额 91089.01 | 列表口径 1270043.57 | 涨跌 -2.45% | 振幅 3.33% | 估算人数 11
-- R2 | Alpha Trade 成交额 65781.74 | 列表口径 220397.25 | 涨跌 -4.41% | 振幅 107.53% | 估算人数 8
-- AGT | Alpha Trade 成交额 62999.50 | 列表口径 2571611.11 | 涨跌 -13.18% | 振幅 19.50% | 估算人数 8
-- REKT | Alpha Trade 成交额 56333.55 | 列表口径 117447.40 | 涨跌 3.90% | 振幅 4.99% | 估算人数 7
-- ANOME | Alpha Trade 成交额 35828.66 | 列表口径 1081803.46 | 涨跌 -6.32% | 振幅 17.22% | 估算人数 4
-- DAM | Alpha Trade 成交额 16017.44 | 列表口径 106632.39 | 涨跌 -9.81% | 振幅 12.62% | 估算人数 2
-- VELO | Alpha Trade 成交额 9068.00 | 列表口径 147741.57 | 涨跌 -1.81% | 振幅 5.94% | 估算人数 1
-- AOP | Alpha Trade 成交额 7773.67 | 列表口径 1081326.56 | 涨跌 3.10% | 振幅 6.16% | 估算人数 1
+- PRL | Alpha Trade 成交额 965206906.42 | 列表口径 5485621.80 | 涨跌 8.61% | 振幅 18.05% | 估算人数 117708
+- GENIUS | Alpha Trade 成交额 196334422.77 | 列表口径 3475713.85 | 涨跌 7.49% | 振幅 24.11% | 估算人数 23943
+- EDGE | Alpha Trade 成交额 26446949.59 | 列表口径 3054750.13 | 涨跌 6.71% | 振幅 15.05% | 估算人数 3225
+- OPG | Alpha Trade 成交额 23119410.55 | 列表口径 93183961.17 | 涨跌 151.67% | 振幅 314.98% | 估算人数 2819
+- BASED | Alpha Trade 成交额 7811333.62 | 列表口径 32240791.30 | 涨跌 -5.68% | 振幅 17.56% | 估算人数 953
+- TRADOOR | Alpha Trade 成交额 5798308.43 | 列表口径 24867466.93 | 涨跌 15.56% | 振幅 77.07% | 估算人数 707
+- SOON | Alpha Trade 成交额 3359700.90 | 列表口径 1814877.29 | 涨跌 -2.91% | 振幅 7.18% | 估算人数 410
+- ST | Alpha Trade 成交额 505822.18 | 列表口径 4579347.15 | 涨跌 -6.47% | 振幅 14.22% | 估算人数 62
+- CLO | Alpha Trade 成交额 461976.48 | 列表口径 13062782.79 | 涨跌 -1.64% | 振幅 37.69% | 估算人数 56
+- HANA | Alpha Trade 成交额 269014.75 | 列表口径 748497.01 | 涨跌 1.00% | 振幅 4.83% | 估算人数 33
+- POWER | Alpha Trade 成交额 94902.16 | 列表口径 1284379.42 | 涨跌 -2.40% | 振幅 3.47% | 估算人数 12
+- REKT | Alpha Trade 成交额 56094.16 | 列表口径 127171.69 | 涨跌 3.53% | 振幅 4.99% | 估算人数 7
+- R2 | Alpha Trade 成交额 56067.94 | 列表口径 207587.20 | 涨跌 0.37% | 振幅 107.53% | 估算人数 7
+- AGT | Alpha Trade 成交额 46790.41 | 列表口径 2284351.92 | 涨跌 -9.75% | 振幅 12.62% | 估算人数 6
+- ANOME | Alpha Trade 成交额 35070.19 | 列表口径 1101333.07 | 涨跌 -9.00% | 振幅 14.50% | 估算人数 4
+- DAM | Alpha Trade 成交额 15718.76 | 列表口径 110557.42 | 涨跌 -9.72% | 振幅 12.62% | 估算人数 2
+- AOP | Alpha Trade 成交额 7813.75 | 列表口径 1072577.17 | 涨跌 3.96% | 振幅 6.81% | 估算人数 1
+- VELO | Alpha Trade 成交额 7682.60 | 列表口径 144857.40 | 涨跌 -1.53% | 振幅 5.94% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- PRL | 分数 68.63 | Alpha Trade 成交额 968166915.83 | 波动 0.43% | 4h 振幅 3.80% | 审计 LOW
-  - Alpha Trade 24h 成交额 968,166,916，流动性 1,462,034
-  - Alpha 列表口径 24h 成交额 5,530,619
-  - 短周期波动 0.43%
-  - 4h 振幅 3.80%
+- PRL | 分数 65.42 | Alpha Trade 成交额 965206906.42 | 波动 0.47% | 4h 振幅 10.14% | 审计 LOW
+  - Alpha Trade 24h 成交额 965,206,906，流动性 1,482,385
+  - Alpha 列表口径 24h 成交额 5,485,622
+  - 短周期波动 0.47%
+  - 4h 振幅 10.14%
   - 审计风险 LOW
-- GENIUS | 分数 54.76 | Alpha Trade 成交额 189608864.93 | 波动 0.71% | 4h 振幅 8.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 189,608,865，流动性 2,450,405
-  - Alpha 列表口径 24h 成交额 3,548,484
-  - 短周期波动 0.71%
-  - 4h 振幅 8.18%
+- GENIUS | 分数 56.13 | Alpha Trade 成交额 196334422.77 | 波动 0.61% | 4h 振幅 7.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 196,334,423，流动性 2,452,005
+  - Alpha 列表口径 24h 成交额 3,475,714
+  - 短周期波动 0.61%
+  - 4h 振幅 7.24%
   - 审计风险 LOW
-- TRADOOR | 分数 53.45 | Alpha Trade 成交额 3870073.10 | 波动 1.43% | 4h 振幅 24.15% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,870,073，流动性 3,112,324
-  - Alpha 列表口径 24h 成交额 18,683,236
-  - 短周期波动 1.43%
-  - 4h 振幅 24.15%
+- TRADOOR | 分数 52.86 | Alpha Trade 成交额 5798308.43 | 波动 1.41% | 4h 振幅 24.78% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,798,308，流动性 3,153,240
+  - Alpha 列表口径 24h 成交额 24,867,467
+  - 短周期波动 1.41%
+  - 4h 振幅 24.78%
   - 审计风险 LOW
-- ST | 分数 48.05 | Alpha Trade 成交额 515862.29 | 波动 0.46% | 4h 振幅 3.00% | 审计 LOW
-  - Alpha Trade 24h 成交额 515,862，流动性 1,643,910
-  - Alpha 列表口径 24h 成交额 4,656,703
-  - 短周期波动 0.46%
-  - 4h 振幅 3.00%
+- ST | 分数 48.62 | Alpha Trade 成交额 505822.18 | 波动 0.39% | 4h 振幅 3.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 505,822，流动性 1,644,963
+  - Alpha 列表口径 24h 成交额 4,579,347
+  - 短周期波动 0.39%
+  - 4h 振幅 3.05%
   - 审计风险 LOW
-- BASED | 分数 43.22 | Alpha Trade 成交额 7812577.05 | 波动 0.66% | 4h 振幅 9.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 7,812,577，流动性 1,936,350
-  - Alpha 列表口径 24h 成交额 33,182,719
-  - 短周期波动 0.66%
-  - 4h 振幅 9.46%
+- BASED | 分数 43.72 | Alpha Trade 成交额 7811333.62 | 波动 0.60% | 4h 振幅 8.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 7,811,334，流动性 1,919,365
+  - Alpha 列表口径 24h 成交额 32,240,791
+  - 短周期波动 0.60%
+  - 4h 振幅 8.98%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -69,12 +69,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add Chip (CHIP) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 12% APR With This Week’s New Limited-Time Offers! (2026-04-22)
-- Latest Activities：Gold vs BTC: Choose Your Team and Win a Share of Up to $200,000
+- Latest Activities：Janction Trading Competition: Trade Janction (JCT) and Share $100K Worth of Rewards
 
 ### 最近 Alpha 上线
 
-- CHIP | 1x | 上线 2026-04-21T12:20:00+00:00 | 24h 成交额 34853814.95
-- OPG | 4x | 上线 2026-04-21T11:00:00+00:00 | 24h 成交额 94825373.10
+- CHIP | 1x | 上线 2026-04-21T12:20:00+00:00 | 24h 成交额 35261713.12
+- OPG | 4x | 上线 2026-04-21T11:00:00+00:00 | 24h 成交额 93183961.17
 
 ### New Cryptocurrency Listing
 
@@ -96,12 +96,12 @@
 
 ### Latest Activities
 
+- [Janction Trading Competition: Trade Janction (JCT) and Share $100K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/45d18eba4efd40e4b0d8b22ae97ef5a6)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
+- [Introducing Chip (CHIP): Grab a Share of the 40,000,000 CHIP Token Voucher Prize Pool!](https://www.binance.com/en/support/announcement/detail/afc920d9261141d4b8100aca5445cc65)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Spot is excited…
 - [Gold vs BTC: Choose Your Team and Win a Share of Up to $200,000](https://www.binance.com/en/support/announcement/detail/e683874e195e441c9b8568d8994491f2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, The battle lines are dra…
-- [Pieverse Trading Competition: Trade Pieverse (PIEVERSE) and Share $100K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/2291607643f44f50ad6544e9e052d66d)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Word of the Day: Test Your Knowledge on “Pre-IPO Assets” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/e1ce6ea9a5b34f20853bd6c597600e33)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 
 ## Warnings
 
