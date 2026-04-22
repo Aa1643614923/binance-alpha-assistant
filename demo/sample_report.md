@@ -1,63 +1,63 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-22T01:09:23.698512+00:00
+- 生成时间：2026-04-22T04:19:15.543486+00:00
 - 四倍分代币数：18
-- 四倍分 24h 总成交额：1169161435.29
+- 四倍分 24h 总成交额：1231677451.96
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：142581（按 8200 / 人）
+- 估算参与人数：150205（按 8200 / 人）
 
 ## 四倍分代币
 
-- PRL | Alpha Trade 成交额 912162446.75 | 列表口径 7252088.82 | 涨跌 2.08% | 振幅 13.62% | 估算人数 111239
-- GENIUS | Alpha Trade 成交额 198693429.90 | 列表口径 3132037.53 | 涨跌 1.85% | 振幅 17.94% | 估算人数 24231
-- EDGE | Alpha Trade 成交额 24677733.00 | 列表口径 2459792.15 | 涨跌 2.99% | 振幅 9.74% | 估算人数 3009
-- OPG | Alpha Trade 成交额 17824199.60 | 列表口径 75681136.70 | 涨跌 308.31% | 振幅 472.05% | 估算人数 2174
-- BASED | Alpha Trade 成交额 11751035.41 | 列表口径 50755580.17 | 涨跌 1.13% | 振幅 52.41% | 估算人数 1433
-- SOON | Alpha Trade 成交额 1530516.52 | 列表口径 1692585.69 | 涨跌 -5.17% | 振幅 8.78% | 估算人数 187
-- TRADOOR | Alpha Trade 成交额 975962.33 | 列表口径 7157410.58 | 涨跌 7.96% | 振幅 12.06% | 估算人数 119
-- ST | Alpha Trade 成交额 690310.76 | 列表口径 5542845.12 | 涨跌 5.44% | 振幅 17.27% | 估算人数 84
-- HANA | Alpha Trade 成交额 310123.35 | 列表口径 1021833.80 | 涨跌 -3.40% | 振幅 5.57% | 估算人数 38
-- POWER | Alpha Trade 成交额 174972.57 | 列表口径 1672474.61 | 涨跌 0.78% | 振幅 4.86% | 估算人数 21
-- R2 | Alpha Trade 成交额 101643.05 | 列表口径 335697.30 | 涨跌 5.19% | 振幅 107.60% | 估算人数 12
-- CLO | Alpha Trade 成交额 67102.86 | 列表口径 5767173.32 | 涨跌 17.07% | 振幅 21.95% | 估算人数 8
-- AGT | Alpha Trade 成交额 64296.51 | 列表口径 2673678.98 | 涨跌 -8.22% | 振幅 19.50% | 估算人数 8
-- REKT | Alpha Trade 成交额 57050.53 | 列表口径 91658.30 | 涨跌 1.93% | 振幅 2.43% | 估算人数 7
-- ANOME | Alpha Trade 成交额 37754.05 | 列表口径 1150027.44 | 涨跌 -5.70% | 振幅 17.83% | 估算人数 5
-- DAM | Alpha Trade 成交额 16544.77 | 列表口径 136374.46 | 涨跌 -2.46% | 振幅 11.09% | 估算人数 2
-- AOP | Alpha Trade 成交额 16139.03 | 列表口径 1182072.57 | 涨跌 -1.50% | 振幅 2.82% | 估算人数 2
-- VELO | Alpha Trade 成交额 10174.29 | 列表口径 157089.48 | 涨跌 -0.32% | 振幅 5.12% | 估算人数 1
+- PRL | Alpha Trade 成交额 969767512.33 | 列表口径 6587439.68 | 涨跌 0.40% | 振幅 12.90% | 估算人数 118264
+- GENIUS | Alpha Trade 成交额 200807872.56 | 列表口径 3333961.52 | 涨跌 8.09% | 振幅 20.00% | 估算人数 24489
+- EDGE | Alpha Trade 成交额 25819517.49 | 列表口径 2390568.85 | 涨跌 5.77% | 振幅 10.29% | 估算人数 3149
+- OPG | Alpha Trade 成交额 20153387.11 | 列表口径 84290188.22 | 涨跌 293.88% | 振幅 472.05% | 估算人数 2458
+- BASED | Alpha Trade 成交额 11098183.90 | 列表口径 46812605.53 | 涨跌 16.67% | 振幅 50.81% | 估算人数 1353
+- SOON | Alpha Trade 成交额 1871191.47 | 列表口径 1821390.03 | 涨跌 -3.57% | 振幅 8.65% | 估算人数 228
+- TRADOOR | Alpha Trade 成交额 737992.60 | 列表口径 7393907.30 | 涨跌 4.22% | 振幅 12.06% | 估算人数 90
+- ST | Alpha Trade 成交额 585036.92 | 列表口径 5154425.82 | 涨跌 -2.12% | 振幅 15.45% | 估算人数 71
+- HANA | Alpha Trade 成交额 279531.30 | 列表口径 850133.77 | 涨跌 -1.44% | 振幅 4.56% | 估算人数 34
+- POWER | Alpha Trade 成交额 162641.28 | 列表口径 1608092.33 | 涨跌 -0.42% | 振幅 4.69% | 估算人数 20
+- CLO | Alpha Trade 成交额 107344.65 | 列表口径 8124645.28 | 涨跌 33.85% | 振幅 45.65% | 估算人数 13
+- R2 | Alpha Trade 成交额 86811.61 | 列表口径 284003.33 | 涨跌 3.37% | 振幅 107.60% | 估算人数 11
+- AGT | Alpha Trade 成交额 64208.06 | 列表口径 2547202.22 | 涨跌 -7.69% | 振幅 19.50% | 估算人数 8
+- REKT | Alpha Trade 成交额 56912.41 | 列表口径 99549.71 | 涨跌 3.74% | 振幅 3.88% | 估算人数 7
+- ANOME | Alpha Trade 成交额 36916.56 | 列表口径 1139201.55 | 涨跌 -3.91% | 振幅 17.22% | 估算人数 5
+- DAM | Alpha Trade 成交额 16885.79 | 列表口径 113845.08 | 涨跌 -4.77% | 振幅 11.04% | 估算人数 2
+- AOP | Alpha Trade 成交额 16404.36 | 列表口径 1211996.82 | 涨跌 -1.51% | 振幅 2.82% | 估算人数 2
+- VELO | Alpha Trade 成交额 9101.57 | 列表口径 162902.62 | 涨跌 -2.00% | 振幅 7.09% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- TRADOOR | 分数 73.61 | Alpha Trade 成交额 975962.33 | 波动 0.52% | 4h 振幅 2.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 975,962，流动性 2,956,095
-  - Alpha 列表口径 24h 成交额 7,157,411
-  - 短周期波动 0.52%
-  - 4h 振幅 2.91%
+- TRADOOR | 分数 71.42 | Alpha Trade 成交额 737992.60 | 波动 0.69% | 4h 振幅 6.16% | 审计 LOW
+  - Alpha Trade 24h 成交额 737,993，流动性 2,906,651
+  - Alpha 列表口径 24h 成交额 7,393,907
+  - 短周期波动 0.69%
+  - 4h 振幅 6.16%
   - 审计风险 LOW
-- PRL | 分数 69.54 | Alpha Trade 成交额 912162446.75 | 波动 0.48% | 4h 振幅 4.69% | 审计 LOW
-  - Alpha Trade 24h 成交额 912,162,447，流动性 1,455,387
-  - Alpha 列表口径 24h 成交额 7,252,089
-  - 短周期波动 0.48%
-  - 4h 振幅 4.69%
+- PRL | 分数 71.17 | Alpha Trade 成交额 969767512.33 | 波动 0.31% | 4h 振幅 2.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 969,767,512，流动性 1,452,704
+  - Alpha 列表口径 24h 成交额 6,587,440
+  - 短周期波动 0.31%
+  - 4h 振幅 2.98%
   - 审计风险 LOW
-- GENIUS | 分数 61.84 | Alpha Trade 成交额 198693429.90 | 波动 0.45% | 4h 振幅 4.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 198,693,430，流动性 2,431,459
-  - Alpha 列表口径 24h 成交额 3,132,038
-  - 短周期波动 0.45%
-  - 4h 振幅 4.03%
+- GENIUS | 分数 59.72 | Alpha Trade 成交额 200807872.56 | 波动 0.64% | 4h 振幅 7.77% | 审计 LOW
+  - Alpha Trade 24h 成交额 200,807,873，流动性 2,466,067
+  - Alpha 列表口径 24h 成交额 3,333,962
+  - 短周期波动 0.64%
+  - 4h 振幅 7.77%
   - 审计风险 LOW
-- ST | 分数 47.85 | Alpha Trade 成交额 690310.76 | 波动 0.65% | 4h 振幅 5.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 690,311，流动性 1,655,334
-  - Alpha 列表口径 24h 成交额 5,542,845
-  - 短周期波动 0.65%
-  - 4h 振幅 5.89%
+- ST | 分数 48.17 | Alpha Trade 成交额 585036.92 | 波动 0.62% | 4h 振幅 4.80% | 审计 LOW
+  - Alpha Trade 24h 成交额 585,037，流动性 1,658,939
+  - Alpha 列表口径 24h 成交额 5,154,426
+  - 短周期波动 0.62%
+  - 4h 振幅 4.80%
   - 审计风险 LOW
-- EDGE | 分数 46.61 | Alpha Trade 成交额 24677733.00 | 波动 0.27% | 4h 振幅 2.75% | 审计 LOW
-  - Alpha Trade 24h 成交额 24,677,733，流动性 1,445,644
-  - Alpha 列表口径 24h 成交额 2,459,792
-  - 短周期波动 0.27%
-  - 4h 振幅 2.75%
+- BASED | 分数 47.26 | Alpha Trade 成交额 11098183.90 | 波动 0.76% | 4h 振幅 6.99% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,098,184，流动性 1,967,073
+  - Alpha 列表口径 24h 成交额 46,812,606
+  - 短周期波动 0.76%
+  - 4h 振幅 6.99%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -69,12 +69,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add Chip (CHIP) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 - Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-04-24)
-- Latest Activities：Pieverse Trading Competition: Trade Pieverse (PIEVERSE) and Share $100K Worth of Rewards
+- Latest Activities：Gold vs BTC: Choose Your Team and Win a Share of Up to $200,000
 
 ### 最近 Alpha 上线
 
-- CHIP | 1x | 上线 2026-04-21T12:20:00+00:00 | 24h 成交额 28982935.27
-- OPG | 4x | 上线 2026-04-21T11:00:00+00:00 | 24h 成交额 75681136.70
+- CHIP | 1x | 上线 2026-04-21T12:20:00+00:00 | 24h 成交额 30119533.06
+- OPG | 4x | 上线 2026-04-21T11:00:00+00:00 | 24h 成交额 84290188.22
 
 ### New Cryptocurrency Listing
 
@@ -96,15 +96,26 @@
 
 ### Latest Activities
 
+- [Gold vs BTC: Choose Your Team and Win a Share of Up to $200,000](https://www.binance.com/en/support/announcement/detail/e683874e195e441c9b8568d8994491f2)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, The battle lines are dra…
 - [Pieverse Trading Competition: Trade Pieverse (PIEVERSE) and Share $100K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/2291607643f44f50ad6544e9e052d66d)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Word of the Day: Test Your Knowledge on “Pre-IPO Assets” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/e1ce6ea9a5b34f20853bd6c597600e33)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
-- [SOON Trading Competition: Trade SOON (SOON) and Share $150K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/49bca20b219744ac8c92f329ea264769)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
+- alpha_ticker:ALPHA_836U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_487U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_199U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_433U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_429U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_394U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_382U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_327U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_250U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_229U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_191U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - futures_exchange_info: all fallback endpoints failed: https://www.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/exchangeInfo | https://fapi.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/exchangeInfo
 - futures_ticker_24hr: all fallback endpoints failed: https://www.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/ticker/24hr | https://fapi.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/ticker/24hr
 - futures_premium_index: all fallback endpoints failed: https://www.binance.com/fapi/v1/premiumIndex -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/premiumIndex | https://fapi.binance.com/fapi/v1/premiumIndex -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/premiumIndex
