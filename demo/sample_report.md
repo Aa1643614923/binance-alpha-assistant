@@ -1,60 +1,60 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-27T03:57:14.413359+00:00
+- 生成时间：2026-04-27T06:37:02.183097+00:00
 - 四倍分代币数：15
-- 四倍分 24h 总成交额：1208058803.45
+- 四倍分 24h 总成交额：1177368071.06
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：147324（按 8200 / 人）
+- 估算参与人数：143581（按 8200 / 人）
 
 ## 四倍分代币
 
-- GENIUS | Alpha Trade 成交额 1120360301.23 | 列表口径 1166244.54 | 涨跌 3.47% | 振幅 9.47% | 估算人数 136629
-- OPG | Alpha Trade 成交额 56873223.22 | 列表口径 12072031.87 | 涨跌 -3.85% | 振幅 66.83% | 估算人数 6936
-- EDGE | Alpha Trade 成交额 17261703.67 | 列表口径 1632225.07 | 涨跌 5.96% | 振幅 10.81% | 估算人数 2105
-- BASED | Alpha Trade 成交额 5788580.93 | 列表口径 16236081.39 | 涨跌 2.57% | 振幅 17.05% | 估算人数 706
-- SOON | Alpha Trade 成交额 5348882.91 | 列表口径 1502856.70 | 涨跌 0.50% | 振幅 7.79% | 估算人数 652
-- AGT | Alpha Trade 成交额 1768898.60 | 列表口径 28533609.24 | 涨跌 24.61% | 振幅 120.21% | 估算人数 216
-- HANA | Alpha Trade 成交额 176924.14 | 列表口径 1082617.29 | 涨跌 -2.07% | 振幅 10.96% | 估算人数 22
-- DAM | Alpha Trade 成交额 133371.55 | 列表口径 616349.38 | 涨跌 -4.98% | 振幅 44.75% | 估算人数 16
-- ST | Alpha Trade 成交额 111697.80 | 列表口径 2385467.38 | 涨跌 0.66% | 振幅 7.36% | 估算人数 14
-- POWER | Alpha Trade 成交额 99364.87 | 列表口径 1375607.11 | 涨跌 2.19% | 振幅 10.44% | 估算人数 12
-- EVAA | Alpha Trade 成交额 70127.58 | 列表口径 2538747.47 | 涨跌 2.79% | 振幅 6.19% | 估算人数 9
-- R2 | Alpha Trade 成交额 51455.99 | 列表口径 171331.74 | 涨跌 -2.71% | 振幅 40.22% | 估算人数 6
-- VELO | Alpha Trade 成交额 8997.67 | 列表口径 92110.60 | 涨跌 -1.14% | 振幅 3.19% | 估算人数 1
-- RION | Alpha Trade 成交额 3132.73 | 列表口径 71879.30 | 涨跌 0.88% | 振幅 4.83% | 估算人数 0
-- ANOME | Alpha Trade 成交额 2140.56 | 列表口径 1224946.09 | 涨跌 0.10% | 振幅 4.34% | 估算人数 0
+- GENIUS | Alpha Trade 成交额 1090753435.23 | 列表口径 1218903.53 | 涨跌 -0.01% | 振幅 9.47% | 估算人数 133019
+- OPG | Alpha Trade 成交额 56492319.08 | 列表口径 11616172.30 | 涨跌 -9.29% | 振幅 66.83% | 估算人数 6889
+- EDGE | Alpha Trade 成交额 17095700.08 | 列表口径 1805862.35 | 涨跌 1.12% | 振幅 10.81% | 估算人数 2085
+- BASED | Alpha Trade 成交额 5732369.60 | 列表口径 17286119.97 | 涨跌 5.89% | 振幅 17.05% | 估算人数 699
+- SOON | Alpha Trade 成交额 4697397.08 | 列表口径 1502103.63 | 涨跌 0.02% | 振幅 7.65% | 估算人数 573
+- AGT | Alpha Trade 成交额 1914522.84 | 列表口径 28867551.38 | 涨跌 16.00% | 振幅 120.21% | 估算人数 233
+- HANA | Alpha Trade 成交额 191955.04 | 列表口径 1188748.74 | 涨跌 2.00% | 振幅 11.28% | 估算人数 23
+- DAM | Alpha Trade 成交额 133339.89 | 列表口径 625172.31 | 涨跌 -8.03% | 振幅 44.75% | 估算人数 16
+- ST | Alpha Trade 成交额 106064.33 | 列表口径 2261496.00 | 涨跌 -0.59% | 振幅 7.36% | 估算人数 13
+- POWER | Alpha Trade 成交额 95166.01 | 列表口径 1446961.51 | 涨跌 0.69% | 振幅 9.64% | 估算人数 12
+- EVAA | Alpha Trade 成交额 90690.17 | 列表口径 2541626.09 | 涨跌 4.30% | 振幅 9.89% | 估算人数 11
+- R2 | Alpha Trade 成交额 48349.13 | 列表口径 157826.61 | 涨跌 -4.41% | 振幅 40.22% | 估算人数 6
+- VELO | Alpha Trade 成交额 11702.81 | 列表口径 92165.37 | 涨跌 0.18% | 振幅 3.19% | 估算人数 1
+- RION | Alpha Trade 成交额 2587.84 | 列表口径 73378.27 | 涨跌 -0.46% | 振幅 4.83% | 估算人数 0
+- ANOME | Alpha Trade 成交额 2471.92 | 列表口径 1220499.89 | 涨跌 1.30% | 振幅 4.34% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- GENIUS | 分数 86.35 | Alpha Trade 成交额 1120360301.23 | 波动 0.19% | 4h 振幅 2.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,120,360,301，流动性 2,317,119
-  - Alpha 列表口径 24h 成交额 1,166,245
-  - 短周期波动 0.19%
-  - 4h 振幅 2.42%
+- GENIUS | 分数 86.35 | Alpha Trade 成交额 1090753435.23 | 波动 0.37% | 4h 振幅 3.56% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,090,753,435，流动性 2,321,027
+  - Alpha 列表口径 24h 成交额 1,218,904
+  - 短周期波动 0.37%
+  - 4h 振幅 3.56%
   - 审计风险 LOW
-- BASED | 分数 52.70 | Alpha Trade 成交额 5788580.93 | 波动 0.69% | 4h 振幅 7.58% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,788,581，流动性 2,025,522
-  - Alpha 列表口径 24h 成交额 16,236,081
-  - 短周期波动 0.69%
-  - 4h 振幅 7.58%
+- BASED | 分数 49.07 | Alpha Trade 成交额 5732369.60 | 波动 0.84% | 4h 振幅 7.51% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,732,370，流动性 2,035,254
+  - Alpha 列表口径 24h 成交额 17,286,120
+  - 短周期波动 0.84%
+  - 4h 振幅 7.51%
   - 审计风险 LOW
-- OPG | 分数 48.02 | Alpha Trade 成交额 56873223.22 | 波动 0.73% | 4h 振幅 9.60% | 审计 LOW
-  - Alpha Trade 24h 成交额 56,873,223，流动性 1,633,158
-  - Alpha 列表口径 24h 成交额 12,072,032
-  - 短周期波动 0.73%
-  - 4h 振幅 9.60%
+- OPG | 分数 47.06 | Alpha Trade 成交额 56492319.08 | 波动 0.54% | 4h 振幅 7.99% | 审计 LOW
+  - Alpha Trade 24h 成交额 56,492,319，流动性 1,623,466
+  - Alpha 列表口径 24h 成交额 11,616,172
+  - 短周期波动 0.54%
+  - 4h 振幅 7.99%
   - 审计风险 LOW
-- EDGE | 分数 45.08 | Alpha Trade 成交额 17261703.67 | 波动 0.56% | 4h 振幅 9.56% | 审计 LOW
-  - Alpha Trade 24h 成交额 17,261,704，流动性 1,446,167
-  - Alpha 列表口径 24h 成交额 1,632,225
-  - 短周期波动 0.56%
-  - 4h 振幅 9.56%
+- EDGE | 分数 45.72 | Alpha Trade 成交额 17095700.08 | 波动 0.60% | 4h 振幅 4.02% | 审计 LOW
+  - Alpha Trade 24h 成交额 17,095,700，流动性 1,439,518
+  - Alpha 列表口径 24h 成交额 1,805,862
+  - 短周期波动 0.60%
+  - 4h 振幅 4.02%
   - 审计风险 LOW
-- SOON | 分数 40.41 | Alpha Trade 成交额 5348882.91 | 波动 0.24% | 4h 振幅 3.50% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,348,883，流动性 875,590
-  - Alpha 列表口径 24h 成交额 1,502,857
-  - 短周期波动 0.24%
-  - 4h 振幅 3.50%
+- SOON | 分数 38.83 | Alpha Trade 成交额 4697397.08 | 波动 0.47% | 4h 振幅 5.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,697,397，流动性 867,660
+  - Alpha 列表口径 24h 成交额 1,502,104
+  - 短周期波动 0.47%
+  - 4h 振幅 5.03%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -64,8 +64,8 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined OPGUSDT Perpetual Contract (2026-04-22)
-- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)
-- Latest Activities：Word of the Day: Test Your Knowledge on “Prediction Markets” to Unlock BNB Rewards!
+- Latest Binance News：Important Update to Binance Referral Commission
+- Latest Activities：Binance Earn: Enjoy Up to 35% APR on SHELL Flexible Products with 150,000 SHELL Personal Limit (2026-04-28)
 
 ### 最近 Alpha 上线
 
@@ -81,21 +81,21 @@
 
 ### Latest Binance News
 
+- [Important Update to Binance Referral Commission](https://www.binance.com/en/support/announcement/detail/615d538a31fc416e8d930dcf5a1a26c2)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update how referral commissions are cal…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-04-27 & 2026-04-29)](https://www.binance.com/en/support/announcement/detail/bb0c704f3ca344c7a8741c551dd624ce)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 - [Binance Wallet Introduces Agentic Wallet, a Dedicated Keyless Wallet for AI Agents](https://www.binance.com/en/support/announcement/detail/0c533c5a820341ce87e5ddda76f36ac0)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Wallet is excited to introduce Agentic Walle…
-- [Binance Earn: Dual Investment Supports XAUt](https://www.binance.com/en/support/announcement/detail/081ea21c79b84ca297b9694445c33338)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is ex…
 
 ### Latest Activities
 
+- [Binance Earn: Enjoy Up to 35% APR on SHELL Flexible Products with 150,000 SHELL Personal Limit (2026-04-28)](https://www.binance.com/en/support/announcement/detail/ab57e99e7a824f8faa549f45d0f86d3b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Word of the Day: Test Your Knowledge on “Prediction Markets” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/ee89d162ce5046bfacc0fa9a9effa7cb)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [OpenGradient Trading Competition: Trade OpenGradient (OPG) and Share $200K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/284add8252634349920b1e0c5f92563d)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet is…
-- [VANA Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/93f7a45848624674aecc424f479de66c)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
