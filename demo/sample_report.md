@@ -1,44 +1,44 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-30T12:58:36.978950+00:00
+- 生成时间：2026-04-30T15:18:54.837846+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：1272270870.65
+- 四倍分 24h 总成交额：1296266023.24
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：155155（按 8200 / 人）
+- 估算参与人数：158081（按 8200 / 人）
 
 ## 四倍分代币
 
-- GENIUS | Alpha Trade 成交额 1187123275.12 | 列表口径 11554698.05 | 涨跌 -16.13% | 振幅 27.27% | 估算人数 144771
-- OPG | Alpha Trade 成交额 72131256.58 | 列表口径 15627429.33 | 涨跌 -15.06% | 振幅 19.62% | 估算人数 8796
-- ST | Alpha Trade 成交额 11384873.27 | 列表口径 6761739.29 | 涨跌 11.69% | 振幅 14.44% | 估算人数 1388
-- TAC | Alpha Trade 成交额 365929.81 | 列表口径 5932717.59 | 涨跌 2.61% | 振幅 39.22% | 估算人数 45
-- DAM | Alpha Trade 成交额 357857.99 | 列表口径 909285.71 | 涨跌 -10.67% | 振幅 27.41% | 估算人数 44
-- AGT | Alpha Trade 成交额 335995.91 | 列表口径 3970080.71 | 涨跌 -14.55% | 振幅 23.50% | 估算人数 41
-- SOON | Alpha Trade 成交额 279407.53 | 列表口径 1207504.95 | 涨跌 -0.59% | 振幅 5.76% | 估算人数 34
-- EVAA | Alpha Trade 成交额 166180.52 | 列表口径 2507785.13 | 涨跌 -4.85% | 振幅 9.92% | 估算人数 20
-- CARV | Alpha Trade 成交额 64242.33 | 列表口径 210757.81 | 涨跌 -3.28% | 振幅 10.04% | 估算人数 8
-- HANA | Alpha Trade 成交额 58593.73 | 列表口径 711234.38 | 涨跌 -3.07% | 振幅 4.97% | 估算人数 7
-- RION | Alpha Trade 成交额 3257.85 | 列表口径 78086.75 | 涨跌 1.08% | 振幅 8.01% | 估算人数 0
+- GENIUS | Alpha Trade 成交额 1194360975.24 | 列表口径 12273524.11 | 涨跌 -3.91% | 振幅 19.66% | 估算人数 145654
+- OPG | Alpha Trade 成交额 82998543.47 | 列表口径 17425314.80 | 涨跌 -12.42% | 振幅 21.46% | 估算人数 10122
+- ST | Alpha Trade 成交额 17516606.15 | 列表口径 13909332.70 | 涨跌 38.24% | 振幅 57.98% | 估算人数 2136
+- SOON | Alpha Trade 成交额 320420.78 | 列表口径 1194389.66 | 涨跌 -0.92% | 振幅 5.76% | 估算人数 39
+- TAC | Alpha Trade 成交额 307707.87 | 列表口径 5789765.32 | 涨跌 -4.91% | 振幅 28.48% | 估算人数 38
+- AGT | Alpha Trade 成交额 272081.95 | 列表口径 3177709.93 | 涨跌 -13.92% | 振幅 24.76% | 估算人数 33
+- DAM | Alpha Trade 成交额 219249.82 | 列表口径 723848.08 | 涨跌 -6.92% | 振幅 26.47% | 估算人数 27
+- EVAA | Alpha Trade 成交额 154304.33 | 列表口径 2350323.49 | 涨跌 -3.95% | 振幅 9.92% | 估算人数 19
+- CARV | Alpha Trade 成交额 69917.68 | 列表口径 223746.37 | 涨跌 -2.63% | 振幅 10.04% | 估算人数 9
+- HANA | Alpha Trade 成交额 42871.09 | 列表口径 674314.38 | 涨跌 -2.40% | 振幅 4.97% | 估算人数 5
+- RION | Alpha Trade 成交额 3344.86 | 列表口径 76668.12 | 涨跌 0.79% | 振幅 8.01% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- GENIUS | 分数 68.82 | Alpha Trade 成交额 1187123275.12 | 波动 0.89% | 4h 振幅 9.60% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,187,123,275，流动性 1,930,929
-  - Alpha 列表口径 24h 成交额 11,554,698
-  - 短周期波动 0.89%
-  - 4h 振幅 9.60%
+- GENIUS | 分数 91.01 | Alpha Trade 成交额 1194360975.24 | 波动 0.97% | 4h 振幅 9.50% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,194,360,975，流动性 1,958,880
+  - Alpha 列表口径 24h 成交额 12,273,524
+  - 短周期波动 0.97%
+  - 4h 振幅 9.50%
   - 审计风险 LOW
-- ST | 分数 48.49 | Alpha Trade 成交额 11384873.27 | 波动 0.64% | 4h 振幅 11.67% | 审计 LOW
-  - Alpha Trade 24h 成交额 11,384,873，流动性 1,705,068
-  - Alpha 列表口径 24h 成交额 6,761,739
-  - 短周期波动 0.64%
-  - 4h 振幅 11.67%
+- OPG | 分数 41.39 | Alpha Trade 成交额 82998543.47 | 波动 0.73% | 4h 振幅 5.16% | 审计 LOW
+  - Alpha Trade 24h 成交额 82,998,543，流动性 1,434,982
+  - Alpha 列表口径 24h 成交额 17,425,315
+  - 短周期波动 0.73%
+  - 4h 振幅 5.16%
   - 审计风险 LOW
-- OPG | 分数 41.29 | Alpha Trade 成交额 72131256.58 | 波动 0.51% | 4h 振幅 6.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 72,131,257，流动性 1,449,502
-  - Alpha 列表口径 24h 成交额 15,627,429
-  - 短周期波动 0.51%
-  - 4h 振幅 6.64%
+- ST | 分数 38.96 | Alpha Trade 成交额 17516606.15 | 波动 2.36% | 4h 振幅 52.15% | 审计 LOW
+  - Alpha Trade 24h 成交额 17,516,606，流动性 1,800,568
+  - Alpha 列表口径 24h 成交额 13,909,333
+  - 短周期波动 2.36%
+  - 4h 振幅 52.15%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -50,12 +50,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add MegaETH (MEGA) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 - Latest Binance News：Binance Will Extend the Monitoring Tag to Include NFP, NOM, POND, QUICK & VIC on 2026-04-30
-- Latest Activities：Acurast Trading Competition: Trade Acurast (ACU) and Share $200K Worth of Rewards (2026-04-30)
+- Latest Activities：Binance Ai: Join the Discord AMA & Win Rewards
 
 ### 最近 Alpha 上线
 
-- AIGENSYN | 2x | 上线 2026-04-29T09:00:00+00:00 | 24h 成交额 11914392.15
-- ACN | 1x | 上线 2026-04-29T08:30:00+00:00 | 24h 成交额 1154047.32
+- AIGENSYN | 2x | 上线 2026-04-29T09:00:00+00:00 | 24h 成交额 8873013.73
+- ACN | 1x | 上线 2026-04-29T08:30:00+00:00 | 24h 成交额 715166.23
 
 ### New Cryptocurrency Listing
 
@@ -77,12 +77,12 @@
 
 ### Latest Activities
 
+- [Binance Ai: Join the Discord AMA & Win Rewards](https://www.binance.com/en/support/announcement/detail/07f001ac2f8e4d6bad52f048319d0281)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Join us tomorrow on Binance Discord for an exclusive…
 - [Acurast Trading Competition: Trade Acurast (ACU) and Share $200K Worth of Rewards (2026-04-30)](https://www.binance.com/en/support/announcement/detail/2ef9da217b8a4507a33861f4b74795f8)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Learn & Earn: Complete the Quiz to Share Sonic (S) Token Rewards!](https://www.binance.com/en/support/announcement/detail/1f4d3748796348679d6287d06527bbcc)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce the next round of " B…
-- [Binance Earn: Enjoy Up to 5.6% APR with USDC Flexible Products (2026-05-01)](https://www.binance.com/en/support/announcement/detail/1f106c50d90143b8a171d56267a35b98)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
