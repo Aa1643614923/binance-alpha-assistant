@@ -1,48 +1,48 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-04-30T04:52:38.061172+00:00
+- 生成时间：2026-04-30T07:25:56.230841+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1063502370.89
+- 四倍分 24h 总成交额：1111221895.45
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：129695（按 8200 / 人）
+- 估算参与人数：135515（按 8200 / 人）
 
 ## 四倍分代币
 
-- GENIUS | Alpha Trade 成交额 1004803997.48 | 列表口径 8484539.25 | 涨跌 -19.75% | 振幅 33.81% | 估算人数 122537
-- OPG | Alpha Trade 成交额 55328373.80 | 列表口径 12156539.87 | 涨跌 -12.84% | 振幅 27.78% | 估算人数 6747
-- DAM | Alpha Trade 成交额 1563509.47 | 列表口径 2231544.98 | 涨跌 -19.45% | 振幅 202.71% | 估算人数 191
-- ST | Alpha Trade 成交额 743526.81 | 列表口径 5247367.55 | 涨跌 8.40% | 振幅 14.54% | 估算人数 91
-- SOON | Alpha Trade 成交额 440748.53 | 列表口径 1343493.15 | 涨跌 -5.29% | 振幅 9.42% | 估算人数 54
-- AGT | Alpha Trade 成交额 345300.22 | 列表口径 4587699.74 | 涨跌 -2.26% | 振幅 18.73% | 估算人数 42
-- EVAA | Alpha Trade 成交额 228553.15 | 列表口径 2963587.99 | 涨跌 2.67% | 振幅 11.28% | 估算人数 28
-- HANA | Alpha Trade 成交额 45522.30 | 列表口径 631449.07 | 涨跌 -4.32% | 振幅 5.60% | 估算人数 6
-- RION | Alpha Trade 成交额 2839.13 | 列表口径 79407.56 | 涨跌 2.28% | 振幅 8.01% | 估算人数 0
+- GENIUS | Alpha Trade 成交额 1049640530.39 | 列表口径 9261170.92 | 涨跌 -19.99% | 振幅 37.72% | 估算人数 128005
+- OPG | Alpha Trade 成交额 57976459.61 | 列表口径 13562528.75 | 涨跌 -20.53% | 振幅 27.96% | 估算人数 7070
+- DAM | Alpha Trade 成交额 1338661.59 | 列表口径 1989914.19 | 涨跌 -30.60% | 振幅 202.71% | 估算人数 163
+- ST | Alpha Trade 成交额 1216685.15 | 列表口径 5735386.22 | 涨跌 5.59% | 振幅 14.54% | 估算人数 148
+- SOON | Alpha Trade 成交额 401905.61 | 列表口径 1337370.53 | 涨跌 -2.79% | 振幅 10.02% | 估算人数 49
+- AGT | Alpha Trade 成交额 348437.53 | 列表口径 4443219.83 | 涨跌 -8.88% | 振幅 22.70% | 估算人数 42
+- EVAA | Alpha Trade 成交额 231843.91 | 列表口径 3080861.63 | 涨跌 -0.24% | 振幅 11.52% | 估算人数 28
+- HANA | Alpha Trade 成交额 64518.48 | 列表口径 677636.76 | 涨跌 -4.16% | 振幅 5.27% | 估算人数 8
+- RION | Alpha Trade 成交额 2853.19 | 列表口径 79137.93 | 涨跌 -0.79% | 振幅 8.01% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- GENIUS | 分数 91.13 | Alpha Trade 成交额 1004803997.48 | 波动 0.36% | 4h 振幅 5.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,004,803,997，流动性 1,985,485
-  - Alpha 列表口径 24h 成交额 8,484,539
+- GENIUS | 分数 92.61 | Alpha Trade 成交额 1049640530.39 | 波动 0.36% | 4h 振幅 4.89% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,049,640,530，流动性 1,965,917
+  - Alpha 列表口径 24h 成交额 9,261,171
   - 短周期波动 0.36%
-  - 4h 振幅 5.31%
+  - 4h 振幅 4.89%
   - 审计风险 LOW
-- ST | 分数 71.14 | Alpha Trade 成交额 743526.81 | 波动 0.34% | 4h 振幅 4.02% | 审计 LOW
-  - Alpha Trade 24h 成交额 743,527，流动性 1,660,195
-  - Alpha 列表口径 24h 成交额 5,247,368
-  - 短周期波动 0.34%
-  - 4h 振幅 4.02%
+- ST | 分数 71.10 | Alpha Trade 成交额 1216685.15 | 波动 0.25% | 4h 振幅 4.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,216,685，流动性 1,638,778
+  - Alpha 列表口径 24h 成交额 5,735,386
+  - 短周期波动 0.25%
+  - 4h 振幅 4.76%
   - 审计风险 LOW
-- OPG | 分数 55.87 | Alpha Trade 成交额 55328373.80 | 波动 0.44% | 4h 振幅 4.37% | 审计 LOW
-  - Alpha Trade 24h 成交额 55,328,374，流动性 1,583,587
-  - Alpha 列表口径 24h 成交额 12,156,540
-  - 短周期波动 0.44%
-  - 4h 振幅 4.37%
+- OPG | 分数 38.90 | Alpha Trade 成交额 57976459.61 | 波动 0.61% | 4h 振幅 11.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 57,976,460，流动性 1,504,765
+  - Alpha 列表口径 24h 成交额 13,562,529
+  - 短周期波动 0.61%
+  - 4h 振幅 11.22%
   - 审计风险 LOW
-- DAM | 分数 6.02 | Alpha Trade 成交额 1563509.47 | 波动 1.39% | 4h 振幅 7.12% | 审计 MID
-  - Alpha Trade 24h 成交额 1,563,509，流动性 302,211
-  - Alpha 列表口径 24h 成交额 2,231,545
-  - 短周期波动 1.39%
-  - 4h 振幅 7.12%
+- DAM | 分数 6.29 | Alpha Trade 成交额 1338661.59 | 波动 1.02% | 4h 振幅 11.03% | 审计 MID
+  - Alpha Trade 24h 成交额 1,338,662，流动性 287,422
+  - Alpha 列表口径 24h 成交额 1,989,914
+  - 短周期波动 1.02%
+  - 4h 振幅 11.03%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -52,32 +52,32 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined AIGENSYNUSDT Perpetual Contract (2026-04-29)
-- Latest Binance News：Binance Margin will Optimize the Interest Rule for Loans
+- 官方最新上新关注：Binance Adds USDT/KZT Spot Trading Pair
+- Latest Binance News：Binance Will Extend the Monitoring Tag to Include NFP, NOM, POND, QUICK & VIC on 2026-04-30
 - Latest Activities：Score with Binance: The Ball Is Live, Hold It Until the Final Whistle to Win 66 BNB
 
 ### 最近 Alpha 上线
 
-- AIGENSYN | 2x | 上线 2026-04-29T09:00:00+00:00 | 24h 成交额 17402460.86
-- ACN | 1x | 上线 2026-04-29T08:30:00+00:00 | 24h 成交额 2496026.08
+- AIGENSYN | 2x | 上线 2026-04-29T09:00:00+00:00 | 24h 成交额 18497788.52
+- ACN | 1x | 上线 2026-04-29T08:30:00+00:00 | 24h 成交额 2571375.92
 
 ### New Cryptocurrency Listing
 
+- [Binance Adds USDT/KZT Spot Trading Pair](https://www.binance.com/en/support/announcement/detail/51c9c56c7d3141fdac18cb9a152defc8)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the list…
 - [Binance Futures Will Launch USDⓈ-Margined AIGENSYNUSDT Perpetual Contract (2026-04-29)](https://www.binance.com/en/support/announcement/detail/524345e64dd14a23989bfe1e547760b5)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Introducing USD.AI (CHIP) on Binance HODLer Airdrops! Earn CHIP With Retroactive BNB Simple Earn Subscriptions](https://www.binance.com/en/support/announcement/detail/c8d2380a71ee4b56980cf7798d2e3d8f)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure the safety of your funds. This is a general a…
-- [Binance Margin Will Add New Pairs - 2026-04-28](https://www.binance.com/en/support/announcement/detail/52ca7793dcdd43ad822f43cfacc42231)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin wil…
 
 ### Latest Binance News
 
+- [Binance Will Extend the Monitoring Tag to Include NFP, NOM, POND, QUICK & VIC on 2026-04-30](https://www.binance.com/en/support/announcement/detail/629b1970537e45b8801427d3de49a25b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
 - [Binance Margin will Optimize the Interest Rule for Loans](https://www.binance.com/en/support/announcement/detail/96692c075f7642e99b28eb7e86c49f94)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To improve clarity and align interest charges more c…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-04-29)](https://www.binance.com/en/support/announcement/detail/ee4030a109a049aa94544e4b4e90240b)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-01)](https://www.binance.com/en/support/announcement/detail/7d34ee71003a43d19d88977b9815149e)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 
 ### Latest Activities
 
