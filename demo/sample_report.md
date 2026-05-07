@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-07T12:06:05.149168+00:00
+- 生成时间：2026-05-07T14:48:01.109271+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1376899351.99
+- 四倍分 24h 总成交额：1327665837.59
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：167915（按 8200 / 人）
+- 估算参与人数：161910（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 896463220.56 | 列表口径 15696000.89 | 涨跌 -1.83% | 振幅 14.12% | 估算人数 109325
-- ST | Alpha Trade 成交额 336128142.12 | 列表口径 19322192.17 | 涨跌 -7.42% | 振幅 14.03% | 估算人数 40991
-- GENIUS | Alpha Trade 成交额 96656350.67 | 列表口径 1562565.18 | 涨跌 9.97% | 振幅 19.68% | 估算人数 11787
-- BILL | Alpha Trade 成交额 43824324.25 | 列表口径 115184366.91 | 涨跌 8.33% | 振幅 78.43% | 估算人数 5344
-- EVAA | Alpha Trade 成交额 3138277.90 | 列表口径 8779089.00 | 涨跌 20.07% | 振幅 85.95% | 估算人数 383
-- UAI | Alpha Trade 成交额 408659.85 | 列表口径 4087580.20 | 涨跌 -20.58% | 振幅 32.12% | 估算人数 50
-- SOON | Alpha Trade 成交额 239807.98 | 列表口径 1954931.48 | 涨跌 5.15% | 振幅 7.76% | 估算人数 29
-- TAC | Alpha Trade 成交额 26988.58 | 列表口径 756491.35 | 涨跌 -0.49% | 振幅 11.18% | 估算人数 3
-- CARV | Alpha Trade 成交额 10127.65 | 列表口径 128369.87 | 涨跌 -4.53% | 振幅 8.13% | 估算人数 1
-- RION | Alpha Trade 成交额 3452.43 | 列表口径 71689.27 | 涨跌 -2.00% | 振幅 7.60% | 估算人数 0
+- OPG | Alpha Trade 成交额 908501893.32 | 列表口径 15092952.28 | 涨跌 -0.10% | 振幅 14.72% | 估算人数 110793
+- ST | Alpha Trade 成交额 284252293.16 | 列表口径 14067459.87 | 涨跌 -3.58% | 振幅 11.75% | 估算人数 34665
+- GENIUS | Alpha Trade 成交额 89684955.97 | 列表口径 1450963.99 | 涨跌 -1.28% | 振幅 14.34% | 估算人数 10937
+- BILL | Alpha Trade 成交额 41334141.16 | 列表口径 105734685.64 | 涨跌 22.66% | 振幅 72.00% | 估算人数 5041
+- EVAA | Alpha Trade 成交额 3383095.37 | 列表口径 8850636.47 | 涨跌 20.19% | 振幅 85.95% | 估算人数 413
+- UAI | Alpha Trade 成交额 262750.51 | 列表口径 2800976.59 | 涨跌 -12.95% | 振幅 17.38% | 估算人数 32
+- SOON | Alpha Trade 成交额 209200.85 | 列表口径 1898264.61 | 涨跌 1.05% | 振幅 6.77% | 估算人数 26
+- TAC | Alpha Trade 成交额 25506.32 | 列表口径 706801.22 | 涨跌 -4.54% | 振幅 11.18% | 估算人数 3
+- CARV | Alpha Trade 成交额 9294.29 | 列表口径 98350.39 | 涨跌 -4.37% | 振幅 7.34% | 估算人数 1
+- RION | Alpha Trade 成交额 2706.65 | 列表口径 70321.45 | 涨跌 0.55% | 振幅 7.60% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ST | 分数 76.76 | Alpha Trade 成交额 336128142.12 | 波动 0.35% | 4h 振幅 4.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 336,128,142，流动性 1,752,737
-  - Alpha 列表口径 24h 成交额 19,322,192
-  - 短周期波动 0.35%
-  - 4h 振幅 4.91%
+- OPG | 分数 75.98 | Alpha Trade 成交额 908501893.32 | 波动 0.27% | 4h 振幅 3.09% | 审计 LOW
+  - Alpha Trade 24h 成交额 908,501,893，流动性 1,425,555
+  - Alpha 列表口径 24h 成交额 15,092,952
+  - 短周期波动 0.27%
+  - 4h 振幅 3.09%
   - 审计风险 LOW
-- OPG | 分数 75.29 | Alpha Trade 成交额 896463220.56 | 波动 0.46% | 4h 振幅 5.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 896,463,221，流动性 1,438,005
-  - Alpha 列表口径 24h 成交额 15,696,001
-  - 短周期波动 0.46%
-  - 4h 振幅 5.62%
+- ST | 分数 74.31 | Alpha Trade 成交额 284252293.16 | 波动 0.31% | 4h 振幅 2.60% | 审计 LOW
+  - Alpha Trade 24h 成交额 284,252,293，流动性 1,750,874
+  - Alpha 列表口径 24h 成交额 14,067,460
+  - 短周期波动 0.31%
+  - 4h 振幅 2.60%
   - 审计风险 LOW
-- GENIUS | 分数 67.82 | Alpha Trade 成交额 96656350.67 | 波动 0.60% | 4h 振幅 6.90% | 审计 LOW
-  - Alpha Trade 24h 成交额 96,656,351，流动性 2,005,875
-  - Alpha 列表口径 24h 成交额 1,562,565
-  - 短周期波动 0.60%
-  - 4h 振幅 6.90%
+- GENIUS | 分数 62.51 | Alpha Trade 成交额 89684955.97 | 波动 0.57% | 4h 振幅 6.08% | 审计 LOW
+  - Alpha Trade 24h 成交额 89,684,956，流动性 1,995,491
+  - Alpha 列表口径 24h 成交额 1,450,964
+  - 短周期波动 0.57%
+  - 4h 振幅 6.08%
   - 审计风险 LOW
-- BILL | 分数 58.13 | Alpha Trade 成交额 43824324.25 | 波动 0.98% | 4h 振幅 9.75% | 审计 MID
-  - Alpha Trade 24h 成交额 43,824,324，流动性 2,154,117
-  - Alpha 列表口径 24h 成交额 115,184,367
-  - 短周期波动 0.98%
-  - 4h 振幅 9.75%
+- BILL | 分数 41.44 | Alpha Trade 成交额 41334141.16 | 波动 1.22% | 4h 振幅 12.83% | 审计 MID
+  - Alpha Trade 24h 成交额 41,334,141，流动性 2,164,359
+  - Alpha 列表口径 24h 成交额 105,734,686
+  - 短周期波动 1.22%
+  - 4h 振幅 12.83%
   - 审计风险 MID
-- EVAA | 分数 25.00 | Alpha Trade 成交额 3138277.90 | 波动 2.60% | 4h 振幅 22.25% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,138,278，流动性 437,241
-  - Alpha 列表口径 24h 成交额 8,779,089
-  - 短周期波动 2.60%
-  - 4h 振幅 22.25%
+- EVAA | 分数 27.57 | Alpha Trade 成交额 3383095.37 | 波动 1.54% | 4h 振幅 10.19% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,383,095，流动性 433,210
+  - Alpha 列表口径 24h 成交额 8,850,636
+  - 短周期波动 1.54%
+  - 4h 振幅 10.19%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,7 +60,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)
 - Latest Binance News：Gensyn Trading Competition: Trade Gensyn (AIGENSYN) and Share $200K Worth of Rewards (2026-05-07)
-- Latest Activities：MENA Referral Majlis - Invite Friends & Share $100,000 in Rewards
+- Latest Activities：Binance Wallet Launches Prediction Markets Trial Protection Campaign
 
 ### 最近 Alpha 上线
 
@@ -85,12 +85,12 @@
 
 ### Latest Activities
 
+- [Binance Wallet Launches Prediction Markets Trial Protection Campaign](https://www.binance.com/en/support/announcement/detail/12d1f3ca1f634f1cada6f5af4204335e)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
+- [Exclusive for New Earn Users in Pakistan: Subscribe to USDT Simple Earn to Enjoy 20% APR!](https://www.binance.com/en/support/announcement/detail/bba9db9ababa45cfa1ff01089f3c054b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Earn is pleased to launch a promotion on Sim…
 - [MENA Referral Majlis - Invite Friends & Share $100,000 in Rewards](https://www.binance.com/en/support/announcement/detail/5b482a9d06224b4bab5cd4dad61e105e)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Join us in celebra…
-- [NOT Trading Tournament: Trade to Share Up to 120,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/f7cdedc3f3674af8bb15b67f22a42484)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Binance Upgrades Affiliate-Boosted Welcome Bonus: Offer Invitees Up to $19,800 worth of Rewards!](https://www.binance.com/en/support/announcement/detail/854ba3fda59648799882ff19b5296645)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 
 ## Warnings
 
