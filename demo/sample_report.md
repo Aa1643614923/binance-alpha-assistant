@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-07T04:52:22.857218+00:00
+- 生成时间：2026-05-07T07:40:01.465764+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1516584435.59
+- 四倍分 24h 总成交额：1505169255.01
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：184949（按 8200 / 人）
+- 估算参与人数：183557（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 914766637.89 | 列表口径 15235706.19 | 涨跌 -0.63% | 振幅 14.12% | 估算人数 111557
-- ST | Alpha Trade 成交额 427908007.00 | 列表口径 25997482.53 | 涨跌 -3.19% | 振幅 17.07% | 估算人数 52184
-- GENIUS | Alpha Trade 成交额 122594575.27 | 列表口径 2569483.15 | 涨跌 13.70% | 振幅 20.74% | 估算人数 14951
-- BILL | Alpha Trade 成交额 49537629.24 | 列表口径 146839158.96 | 涨跌 44.17% | 振幅 77.47% | 估算人数 6041
-- EVAA | Alpha Trade 成交额 806472.54 | 列表口径 4377147.23 | 涨跌 22.75% | 振幅 41.58% | 估算人数 98
-- UAI | Alpha Trade 成交额 662697.07 | 列表口径 5315737.82 | 涨跌 0.84% | 振幅 31.04% | 估算人数 81
-- SOON | Alpha Trade 成交额 253288.95 | 列表口径 1553968.87 | 涨跌 4.53% | 振幅 10.58% | 估算人数 31
-- TAC | Alpha Trade 成交额 31870.48 | 列表口径 882867.38 | 涨跌 -3.87% | 振幅 8.61% | 估算人数 4
-- CARV | Alpha Trade 成交额 20786.23 | 列表口径 152448.77 | 涨跌 -0.40% | 振幅 8.27% | 估算人数 3
-- RION | Alpha Trade 成交额 2470.91 | 列表口径 70194.70 | 涨跌 -0.83% | 振幅 6.20% | 估算人数 0
+- OPG | Alpha Trade 成交额 902764348.60 | 列表口径 15762435.96 | 涨跌 -1.53% | 振幅 14.12% | 估算人数 110093
+- ST | Alpha Trade 成交额 433234104.24 | 列表口径 22906601.41 | 涨跌 -4.88% | 振幅 17.07% | 估算人数 52833
+- GENIUS | Alpha Trade 成交额 115350784.67 | 列表口径 1794674.83 | 涨跌 18.17% | 振幅 19.49% | 估算人数 14067
+- BILL | Alpha Trade 成交额 50698304.98 | 列表口径 143689744.97 | 涨跌 49.17% | 振幅 101.42% | 估算人数 6183
+- EVAA | Alpha Trade 成交额 2153701.07 | 列表口径 6682919.92 | 涨跌 51.32% | 振幅 85.95% | 估算人数 263
+- UAI | Alpha Trade 成交额 673090.31 | 列表口径 5424286.00 | 涨跌 -4.12% | 振幅 31.04% | 估算人数 82
+- SOON | Alpha Trade 成交额 239894.65 | 列表口径 1674445.30 | 涨跌 5.31% | 振幅 9.02% | 估算人数 29
+- TAC | Alpha Trade 成交额 31370.29 | 列表口径 745823.04 | 涨跌 -0.12% | 振幅 8.08% | 估算人数 4
+- CARV | Alpha Trade 成交额 20388.69 | 列表口径 151256.57 | 涨跌 0.57% | 振幅 8.13% | 估算人数 2
+- RION | Alpha Trade 成交额 3267.52 | 列表口径 74739.08 | 涨跌 1.45% | 振幅 8.02% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ST | 分数 79.17 | Alpha Trade 成交额 427908007.00 | 波动 0.45% | 4h 振幅 4.52% | 审计 LOW
-  - Alpha Trade 24h 成交额 427,908,007，流动性 1,786,933
-  - Alpha 列表口径 24h 成交额 25,997,483
-  - 短周期波动 0.45%
-  - 4h 振幅 4.52%
+- ST | 分数 78.71 | Alpha Trade 成交额 433234104.24 | 波动 0.27% | 4h 振幅 3.63% | 审计 LOW
+  - Alpha Trade 24h 成交额 433,234,104，流动性 1,769,977
+  - Alpha 列表口径 24h 成交额 22,906,601
+  - 短周期波动 0.27%
+  - 4h 振幅 3.63%
   - 审计风险 LOW
-- OPG | 分数 77.36 | Alpha Trade 成交额 914766637.89 | 波动 0.35% | 4h 振幅 4.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 914,766,638，流动性 1,474,903
-  - Alpha 列表口径 24h 成交额 15,235,706
-  - 短周期波动 0.35%
-  - 4h 振幅 4.65%
+- OPG | 分数 74.99 | Alpha Trade 成交额 902764348.60 | 波动 0.38% | 4h 振幅 3.55% | 审计 LOW
+  - Alpha Trade 24h 成交额 902,764,349，流动性 1,464,106
+  - Alpha 列表口径 24h 成交额 15,762,436
+  - 短周期波动 0.38%
+  - 4h 振幅 3.55%
   - 审计风险 LOW
-- GENIUS | 分数 68.72 | Alpha Trade 成交额 122594575.27 | 波动 0.63% | 4h 振幅 5.56% | 审计 LOW
-  - Alpha Trade 24h 成交额 122,594,575，流动性 2,001,348
-  - Alpha 列表口径 24h 成交额 2,569,483
-  - 短周期波动 0.63%
-  - 4h 振幅 5.56%
+- GENIUS | 分数 68.92 | Alpha Trade 成交额 115350784.67 | 波动 0.61% | 4h 振幅 6.04% | 审计 LOW
+  - Alpha Trade 24h 成交额 115,350,785，流动性 2,013,200
+  - Alpha 列表口径 24h 成交额 1,794,675
+  - 短周期波动 0.61%
+  - 4h 振幅 6.04%
   - 审计风险 LOW
-- BILL | 分数 54.48 | Alpha Trade 成交额 49537629.24 | 波动 1.20% | 4h 振幅 9.10% | 审计 MID
-  - Alpha Trade 24h 成交额 49,537,629，流动性 2,094,471
-  - Alpha 列表口径 24h 成交额 146,839,159
-  - 短周期波动 1.20%
-  - 4h 振幅 9.10%
+- BILL | 分数 57.76 | Alpha Trade 成交额 50698304.98 | 波动 1.52% | 4h 振幅 17.59% | 审计 MID
+  - Alpha Trade 24h 成交额 50,698,305，流动性 2,199,321
+  - Alpha 列表口径 24h 成交额 143,689,745
+  - 短周期波动 1.52%
+  - 4h 振幅 17.59%
   - 审计风险 MID
-- UAI | 分数 43.98 | Alpha Trade 成交额 662697.07 | 波动 0.59% | 4h 振幅 4.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 662,697，流动性 966,703
-  - Alpha 列表口径 24h 成交额 5,315,738
-  - 短周期波动 0.59%
-  - 4h 振幅 4.44%
+- UAI | 分数 43.40 | Alpha Trade 成交额 673090.31 | 波动 0.52% | 4h 振幅 4.13% | 审计 LOW
+  - Alpha Trade 24h 成交额 673,090，流动性 978,465
+  - Alpha 列表口径 24h 成交额 5,424,286
+  - 短周期波动 0.52%
+  - 4h 振幅 4.13%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -58,23 +58,21 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will Launch AMDUSDT, QCOMUSDT and USARUSDT USDⓈ-Margined Perpetual Contracts (2026-05-06)
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)
 - Latest Binance News：Binance Oracle Initiates Service Transition to Atlas
 - Latest Activities：Binance Upgrades Affiliate-Boosted Welcome Bonus: Offer Invitees Up to $19,800 worth of Rewards!
 
 ### 最近 Alpha 上线
 
-- BILL | 4x | 上线 2026-05-04T07:00:00+00:00 | 24h 成交额 146839158.96
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)](https://www.binance.com/en/support/announcement/detail/7220be8100ee41149169e9179c380c8c)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch AMDUSDT, QCOMUSDT and USARUSDT USDⓈ-Margined Perpetual Contracts (2026-05-06)](https://www.binance.com/en/support/announcement/detail/9f61baed332542118387bb161030df01)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add MegaETH (MEGA) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/en/support/announcement/detail/cd5899547cf34fb0a09cdc9a1eddee9f)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that MegaETH (M…
-- [Binance Will List MegaETH (MEGA) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/506a7482e6b94bc58f3e275cb15c2861)
-  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
 
 ### Latest Binance News
 
