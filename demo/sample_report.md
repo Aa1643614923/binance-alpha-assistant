@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-07T23:14:44.963041+00:00
+- 生成时间：2026-05-08T00:10:27.061309+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1267241795.21
+- 四倍分 24h 总成交额：1267622130.67
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：154542（按 8200 / 人）
+- 估算参与人数：154588（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 919857715.39 | 列表口径 10950394.68 | 涨跌 -7.36% | 振幅 15.46% | 估算人数 112178
-- ST | Alpha Trade 成交额 243991233.11 | 列表口径 14180007.83 | 涨跌 -6.62% | 振幅 14.10% | 估算人数 29755
-- GENIUS | Alpha Trade 成交额 80392883.26 | 列表口径 989783.06 | 涨跌 -6.93% | 振幅 14.16% | 估算人数 9804
-- BILL | Alpha Trade 成交额 19069127.09 | 列表口径 90966595.99 | 涨跌 -10.15% | 振幅 75.24% | 估算人数 2326
-- EVAA | Alpha Trade 成交额 3634024.12 | 列表口径 9076206.56 | 涨跌 26.51% | 振幅 81.22% | 估算人数 443
-- UAI | Alpha Trade 成交额 151726.41 | 列表口径 1916485.97 | 涨跌 -12.16% | 振幅 15.67% | 估算人数 19
-- SOON | Alpha Trade 成交额 101708.06 | 列表口径 1969240.64 | 涨跌 3.59% | 振幅 10.36% | 估算人数 12
-- TAC | Alpha Trade 成交额 35888.19 | 列表口径 518477.24 | 涨跌 -4.74% | 振幅 9.33% | 估算人数 4
-- CARV | Alpha Trade 成交额 4658.12 | 列表口径 79026.31 | 涨跌 0.49% | 振幅 5.55% | 估算人数 1
-- RION | Alpha Trade 成交额 2831.45 | 列表口径 72551.01 | 涨跌 -0.20% | 振幅 10.91% | 估算人数 0
+- OPG | Alpha Trade 成交额 921143956.64 | 列表口径 10381975.30 | 涨跌 -8.29% | 振幅 15.46% | 估算人数 112335
+- ST | Alpha Trade 成交额 244049554.15 | 列表口径 13610009.26 | 涨跌 -8.24% | 振幅 14.10% | 估算人数 29762
+- GENIUS | Alpha Trade 成交额 79356489.14 | 列表口径 1005922.07 | 涨跌 -4.92% | 振幅 17.09% | 估算人数 9678
+- BILL | Alpha Trade 成交额 19106514.85 | 列表口径 90058311.18 | 涨跌 -3.25% | 振幅 75.24% | 估算人数 2330
+- EVAA | Alpha Trade 成交额 3666606.94 | 列表口径 9190980.67 | 涨跌 28.95% | 振幅 79.45% | 估算人数 447
+- UAI | Alpha Trade 成交额 151208.96 | 列表口径 1917587.54 | 涨跌 -11.53% | 振幅 15.68% | 估算人数 18
+- SOON | Alpha Trade 成交额 104722.27 | 列表口径 1992675.91 | 涨跌 5.10% | 振幅 10.36% | 估算人数 13
+- TAC | Alpha Trade 成交额 35888.19 | 列表口径 501394.27 | 涨跌 -3.39% | 振幅 7.76% | 估算人数 4
+- CARV | Alpha Trade 成交额 4358.08 | 列表口径 73511.68 | 涨跌 0.44% | 振幅 4.87% | 估算人数 1
+- RION | Alpha Trade 成交额 2831.45 | 列表口径 72762.73 | 涨跌 0.10% | 振幅 10.91% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- OPG | 分数 76.83 | Alpha Trade 成交额 919857715.39 | 波动 0.31% | 4h 振幅 2.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 919,857,715，流动性 1,439,887
-  - Alpha 列表口径 24h 成交额 10,950,395
-  - 短周期波动 0.31%
-  - 4h 振幅 2.77%
+- OPG | 分数 76.25 | Alpha Trade 成交额 921143956.64 | 波动 0.29% | 4h 振幅 3.14% | 审计 LOW
+  - Alpha Trade 24h 成交额 921,143,957，流动性 1,441,743
+  - Alpha 列表口径 24h 成交额 10,381,975
+  - 短周期波动 0.29%
+  - 4h 振幅 3.14%
   - 审计风险 LOW
-- ST | 分数 74.93 | Alpha Trade 成交额 243991233.11 | 波动 0.25% | 4h 振幅 2.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 243,991,233，流动性 1,755,984
-  - Alpha 列表口径 24h 成交额 14,180,008
+- ST | 分数 74.13 | Alpha Trade 成交额 244049554.15 | 波动 0.25% | 4h 振幅 2.72% | 审计 LOW
+  - Alpha Trade 24h 成交额 244,049,554，流动性 1,751,508
+  - Alpha 列表口径 24h 成交额 13,610,009
   - 短周期波动 0.25%
-  - 4h 振幅 2.64%
+  - 4h 振幅 2.72%
   - 审计风险 LOW
-- GENIUS | 分数 68.10 | Alpha Trade 成交额 80392883.26 | 波动 0.45% | 4h 振幅 6.23% | 审计 LOW
-  - Alpha Trade 24h 成交额 80,392,883，流动性 1,987,374
-  - Alpha 列表口径 24h 成交额 989,783
+- GENIUS | 分数 66.31 | Alpha Trade 成交额 79356489.14 | 波动 0.45% | 4h 振幅 6.15% | 审计 LOW
+  - Alpha Trade 24h 成交额 79,356,489，流动性 1,988,184
+  - Alpha 列表口径 24h 成交额 1,005,922
   - 短周期波动 0.45%
-  - 4h 振幅 6.23%
+  - 4h 振幅 6.15%
   - 审计风险 LOW
-- EVAA | 分数 50.11 | Alpha Trade 成交额 3634024.12 | 波动 0.68% | 4h 振幅 3.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,634,024，流动性 447,593
-  - Alpha 列表口径 24h 成交额 9,076,207
-  - 短周期波动 0.68%
-  - 4h 振幅 3.49%
+- EVAA | 分数 48.94 | Alpha Trade 成交额 3666606.94 | 波动 0.62% | 4h 振幅 5.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,666,607，流动性 454,730
+  - Alpha 列表口径 24h 成交额 9,190,981
+  - 短周期波动 0.62%
+  - 4h 振幅 5.05%
   - 审计风险 LOW
-- BILL | 分数 40.25 | Alpha Trade 成交额 19069127.09 | 波动 2.14% | 4h 振幅 26.19% | 审计 MID
-  - Alpha Trade 24h 成交额 19,069,127，流动性 2,034,585
-  - Alpha 列表口径 24h 成交额 90,966,596
-  - 短周期波动 2.14%
-  - 4h 振幅 26.19%
+- BILL | 分数 41.42 | Alpha Trade 成交额 19106514.85 | 波动 1.83% | 4h 振幅 19.82% | 审计 MID
+  - Alpha Trade 24h 成交额 19,106,515，流动性 2,100,958
+  - Alpha 列表口径 24h 成交额 90,058,311
+  - 短周期波动 1.83%
+  - 4h 振幅 19.82%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -60,7 +60,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)
 - Latest Binance News：Gensyn Trading Competition: Trade Gensyn (AIGENSYN) and Share $200K Worth of Rewards (2026-05-07)
-- Latest Activities：Binance Wallet Launches Prediction Markets Trial Protection Campaign
+- Latest Activities：Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This May 2026!
 
 ### 最近 Alpha 上线
 
@@ -85,12 +85,12 @@
 
 ### Latest Activities
 
+- [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This May 2026!](https://www.binance.com/en/support/announcement/detail/d3258bc7bde244e2befeef920c271aca)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitc…
 - [Binance Wallet Launches Prediction Markets Trial Protection Campaign](https://www.binance.com/en/support/announcement/detail/12d1f3ca1f634f1cada6f5af4204335e)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 - [Exclusive for New Earn Users in Pakistan: Subscribe to USDT Simple Earn to Enjoy 20% APR!](https://www.binance.com/en/support/announcement/detail/bba9db9ababa45cfa1ff01089f3c054b)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Earn is pleased to launch a promotion on Sim…
-- [MENA Referral Majlis - Invite Friends & Share $100,000 in Rewards](https://www.binance.com/en/support/announcement/detail/5b482a9d06224b4bab5cd4dad61e105e)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Join us in celebra…
 
 ## Warnings
 
