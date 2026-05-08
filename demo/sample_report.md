@@ -1,56 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-08T00:10:27.061309+00:00
+- 生成时间：2026-05-08T03:54:53.769797+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1267622130.67
+- 四倍分 24h 总成交额：1240031704.37
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：154588（按 8200 / 人）
+- 估算参与人数：151223（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 921143956.64 | 列表口径 10381975.30 | 涨跌 -8.29% | 振幅 15.46% | 估算人数 112335
-- ST | Alpha Trade 成交额 244049554.15 | 列表口径 13610009.26 | 涨跌 -8.24% | 振幅 14.10% | 估算人数 29762
-- GENIUS | Alpha Trade 成交额 79356489.14 | 列表口径 1005922.07 | 涨跌 -4.92% | 振幅 17.09% | 估算人数 9678
-- BILL | Alpha Trade 成交额 19106514.85 | 列表口径 90058311.18 | 涨跌 -3.25% | 振幅 75.24% | 估算人数 2330
-- EVAA | Alpha Trade 成交额 3666606.94 | 列表口径 9190980.67 | 涨跌 28.95% | 振幅 79.45% | 估算人数 447
-- UAI | Alpha Trade 成交额 151208.96 | 列表口径 1917587.54 | 涨跌 -11.53% | 振幅 15.68% | 估算人数 18
-- SOON | Alpha Trade 成交额 104722.27 | 列表口径 1992675.91 | 涨跌 5.10% | 振幅 10.36% | 估算人数 13
-- TAC | Alpha Trade 成交额 35888.19 | 列表口径 501394.27 | 涨跌 -3.39% | 振幅 7.76% | 估算人数 4
-- CARV | Alpha Trade 成交额 4358.08 | 列表口径 73511.68 | 涨跌 0.44% | 振幅 4.87% | 估算人数 1
-- RION | Alpha Trade 成交额 2831.45 | 列表口径 72762.73 | 涨跌 0.10% | 振幅 10.91% | 估算人数 0
+- OPG | Alpha Trade 成交额 918208052.32 | 列表口径 9655493.30 | 涨跌 -5.76% | 振幅 12.39% | 估算人数 111977
+- ST | Alpha Trade 成交额 221614933.97 | 列表口径 12456764.66 | 涨跌 -6.21% | 振幅 9.85% | 估算人数 27026
+- GENIUS | Alpha Trade 成交额 78651885.41 | 列表口径 904943.77 | 涨跌 -5.02% | 振幅 18.97% | 估算人数 9592
+- BILL | Alpha Trade 成交额 17842692.03 | 列表口径 86072726.18 | 涨跌 5.48% | 振幅 75.24% | 估算人数 2176
+- EVAA | Alpha Trade 成交额 3475339.42 | 列表口径 8102000.67 | 涨跌 6.06% | 振幅 64.71% | 估算人数 424
+- UAI | Alpha Trade 成交额 114666.85 | 列表口径 1779471.99 | 涨跌 -11.59% | 振幅 17.31% | 估算人数 14
+- SOON | Alpha Trade 成交额 84046.40 | 列表口径 1992496.14 | 涨跌 6.37% | 振幅 9.94% | 估算人数 10
+- TAC | Alpha Trade 成交额 36218.19 | 列表口径 657435.20 | 涨跌 5.20% | 振幅 14.62% | 估算人数 4
+- CARV | Alpha Trade 成交额 2417.64 | 列表口径 70177.72 | 涨跌 2.69% | 振幅 4.87% | 估算人数 0
+- RION | Alpha Trade 成交额 1452.15 | 列表口径 70668.31 | 涨跌 2.58% | 振幅 10.91% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- OPG | 分数 76.25 | Alpha Trade 成交额 921143956.64 | 波动 0.29% | 4h 振幅 3.14% | 审计 LOW
-  - Alpha Trade 24h 成交额 921,143,957，流动性 1,441,743
-  - Alpha 列表口径 24h 成交额 10,381,975
-  - 短周期波动 0.29%
-  - 4h 振幅 3.14%
+- OPG | 分数 74.03 | Alpha Trade 成交额 918208052.32 | 波动 0.39% | 4h 振幅 4.41% | 审计 LOW
+  - Alpha Trade 24h 成交额 918,208,052，流动性 1,452,786
+  - Alpha 列表口径 24h 成交额 9,655,493
+  - 短周期波动 0.39%
+  - 4h 振幅 4.41%
   - 审计风险 LOW
-- ST | 分数 74.13 | Alpha Trade 成交额 244049554.15 | 波动 0.25% | 4h 振幅 2.72% | 审计 LOW
-  - Alpha Trade 24h 成交额 244,049,554，流动性 1,751,508
-  - Alpha 列表口径 24h 成交额 13,610,009
-  - 短周期波动 0.25%
-  - 4h 振幅 2.72%
+- ST | 分数 71.31 | Alpha Trade 成交额 221614933.97 | 波动 0.36% | 4h 振幅 3.82% | 审计 LOW
+  - Alpha Trade 24h 成交额 221,614,934，流动性 1,741,030
+  - Alpha 列表口径 24h 成交额 12,456,765
+  - 短周期波动 0.36%
+  - 4h 振幅 3.82%
   - 审计风险 LOW
-- GENIUS | 分数 66.31 | Alpha Trade 成交额 79356489.14 | 波动 0.45% | 4h 振幅 6.15% | 审计 LOW
-  - Alpha Trade 24h 成交额 79,356,489，流动性 1,988,184
-  - Alpha 列表口径 24h 成交额 1,005,922
-  - 短周期波动 0.45%
-  - 4h 振幅 6.15%
+- GENIUS | 分数 69.93 | Alpha Trade 成交额 78651885.41 | 波动 0.36% | 4h 振幅 2.82% | 审计 LOW
+  - Alpha Trade 24h 成交额 78,651,885，流动性 1,992,475
+  - Alpha 列表口径 24h 成交额 904,944
+  - 短周期波动 0.36%
+  - 4h 振幅 2.82%
   - 审计风险 LOW
-- EVAA | 分数 48.94 | Alpha Trade 成交额 3666606.94 | 波动 0.62% | 4h 振幅 5.05% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,666,607，流动性 454,730
-  - Alpha 列表口径 24h 成交额 9,190,981
-  - 短周期波动 0.62%
-  - 4h 振幅 5.05%
-  - 审计风险 LOW
-- BILL | 分数 41.42 | Alpha Trade 成交额 19106514.85 | 波动 1.83% | 4h 振幅 19.82% | 审计 MID
-  - Alpha Trade 24h 成交额 19,106,515，流动性 2,100,958
-  - Alpha 列表口径 24h 成交额 90,058,311
-  - 短周期波动 1.83%
-  - 4h 振幅 19.82%
+- BILL | 分数 46.73 | Alpha Trade 成交额 17842692.03 | 波动 0.96% | 4h 振幅 8.05% | 审计 MID
+  - Alpha Trade 24h 成交额 17,842,692，流动性 2,113,109
+  - Alpha 列表口径 24h 成交额 86,072,726
+  - 短周期波动 0.96%
+  - 4h 振幅 8.05%
   - 审计风险 MID
+- EVAA | 分数 23.73 | Alpha Trade 成交额 3475339.42 | 波动 1.01% | 4h 振幅 11.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,475,339，流动性 450,187
+  - Alpha 列表口径 24h 成交额 8,102,001
+  - 短周期波动 1.01%
+  - 4h 振幅 11.11%
+  - 审计风险 LOW
 
 ## Alpha 合约异动
 
@@ -59,7 +59,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)
-- Latest Binance News：Gensyn Trading Competition: Trade Gensyn (AIGENSYN) and Share $200K Worth of Rewards (2026-05-07)
+- Latest Binance News：Binance Copy Trading Will Apply New ROI Method to All Spot Lead Portfolios
 - Latest Activities：Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This May 2026!
 
 ### 最近 Alpha 上线
@@ -76,12 +76,12 @@
 
 ### Latest Binance News
 
+- [Binance Copy Trading Will Apply New ROI Method to All Spot Lead Portfolios](https://www.binance.com/en/support/announcement/detail/441548ab68234492bcb1eef09e0c5f78)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Copy Trading will update the ROI calculation…
 - [Gensyn Trading Competition: Trade Gensyn (AIGENSYN) and Share $200K Worth of Rewards (2026-05-07)](https://www.binance.com/en/support/announcement/detail/c5f4c0f9d3d44bf0a5d15ed17f7650a3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Binance Oracle Initiates Service Transition to Atlas](https://www.binance.com/en/support/announcement/detail/246fb921aeea4d56b22197ef1b2f7a09)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To further optimize on-chain data service support, B…
-- [Updates on the Leverage & Margin Tiers of Multiple USDⓈ-M TradFi Perpetual Contracts (2026-05-08)](https://www.binance.com/en/support/announcement/detail/e2563decc21c49c79f9a45e577c37b46)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will update the leverage…
 
 ### Latest Activities
 
