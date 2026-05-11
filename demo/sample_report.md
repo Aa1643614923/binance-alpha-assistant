@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-11T05:37:18.333129+00:00
+- 生成时间：2026-05-11T08:46:05.586388+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1313602192.70
+- 四倍分 24h 总成交额：1355715849.26
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：160195（按 8200 / 人）
+- 估算参与人数：165331（按 8200 / 人）
 
 ## 四倍分代币
 
-- ST | Alpha Trade 成交额 675381376.18 | 列表口径 12486067.23 | 涨跌 7.27% | 振幅 11.15% | 估算人数 82364
-- OPG | Alpha Trade 成交额 583879939.34 | 列表口径 28594731.87 | 涨跌 18.65% | 振幅 24.66% | 估算人数 71205
-- GENIUS | Alpha Trade 成交额 39339566.03 | 列表口径 561408.51 | 涨跌 -7.46% | 振幅 15.67% | 估算人数 4798
-- BILL | Alpha Trade 成交额 12872996.54 | 列表口径 39915896.36 | 涨跌 3.61% | 振幅 39.59% | 估算人数 1570
-- SHARE | Alpha Trade 成交额 2011721.18 | 列表口径 10712067.66 | 涨跌 0.03% | 振幅 28.16% | 估算人数 245
-- UAI | Alpha Trade 成交额 90185.70 | 列表口径 811535.33 | 涨跌 2.81% | 振幅 10.24% | 估算人数 11
-- TAC | Alpha Trade 成交额 13226.43 | 列表口径 369451.72 | 涨跌 0.11% | 振幅 8.01% | 估算人数 2
-- CARV | Alpha Trade 成交额 13181.29 | 列表口径 136222.45 | 涨跌 -1.24% | 振幅 6.17% | 估算人数 2
+- ST | Alpha Trade 成交额 774965113.57 | 列表口径 11880763.65 | 涨跌 1.84% | 振幅 9.96% | 估算人数 94508
+- OPG | Alpha Trade 成交额 526723674.48 | 列表口径 26818217.44 | 涨跌 8.27% | 振幅 21.93% | 估算人数 64235
+- GENIUS | Alpha Trade 成交额 38557932.00 | 列表口径 522863.03 | 涨跌 -12.12% | 振幅 14.79% | 估算人数 4702
+- BILL | Alpha Trade 成交额 13410735.03 | 列表口径 38618944.29 | 涨跌 14.25% | 振幅 24.89% | 估算人数 1635
+- SHARE | Alpha Trade 成交额 1936749.04 | 列表口径 11514241.80 | 涨跌 6.06% | 振幅 28.16% | 估算人数 236
+- UAI | Alpha Trade 成交额 94207.52 | 列表口径 941142.51 | 涨跌 0.84% | 振幅 10.24% | 估算人数 11
+- CARV | Alpha Trade 成交额 14608.70 | 列表口径 129394.43 | 涨跌 2.32% | 振幅 6.63% | 估算人数 2
+- TAC | Alpha Trade 成交额 12828.94 | 列表口径 409378.58 | 涨跌 -2.29% | 振幅 8.01% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- ST | 分数 81.12 | Alpha Trade 成交额 675381376.18 | 波动 0.45% | 4h 振幅 4.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 675,381,376，流动性 1,808,097
-  - Alpha 列表口径 24h 成交额 12,486,067
-  - 短周期波动 0.45%
-  - 4h 振幅 4.83%
+- ST | 分数 80.87 | Alpha Trade 成交额 774965113.57 | 波动 0.25% | 4h 振幅 2.78% | 审计 LOW
+  - Alpha Trade 24h 成交额 774,965,114，流动性 1,797,036
+  - Alpha 列表口径 24h 成交额 11,880,764
+  - 短周期波动 0.25%
+  - 4h 振幅 2.78%
   - 审计风险 LOW
-- BILL | 分数 60.02 | Alpha Trade 成交额 12872996.54 | 波动 0.81% | 4h 振幅 6.75% | 审计 MID
-  - Alpha Trade 24h 成交额 12,872,997，流动性 2,331,107
-  - Alpha 列表口径 24h 成交额 39,915,896
-  - 短周期波动 0.81%
-  - 4h 振幅 6.75%
+- GENIUS | 分数 54.72 | Alpha Trade 成交额 38557932.00 | 波动 0.35% | 4h 振幅 4.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 38,557,932，流动性 1,990,583
+  - Alpha 列表口径 24h 成交额 522,863
+  - 短周期波动 0.35%
+  - 4h 振幅 4.31%
+  - 审计风险 LOW
+- BILL | 分数 41.37 | Alpha Trade 成交额 13410735.03 | 波动 1.11% | 4h 振幅 18.68% | 审计 MID
+  - Alpha Trade 24h 成交额 13,410,735，流动性 2,385,338
+  - Alpha 列表口径 24h 成交额 38,618,944
+  - 短周期波动 1.11%
+  - 4h 振幅 18.68%
   - 审计风险 MID
-- GENIUS | 分数 50.92 | Alpha Trade 成交额 39339566.03 | 波动 0.64% | 4h 振幅 7.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 39,339,566，流动性 1,989,231
-  - Alpha 列表口径 24h 成交额 561,409
-  - 短周期波动 0.64%
-  - 4h 振幅 7.16%
+- OPG | 分数 39.41 | Alpha Trade 成交额 526723674.48 | 波动 0.88% | 4h 振幅 10.21% | 审计 LOW
+  - Alpha Trade 24h 成交额 526,723,674，流动性 1,602,000
+  - Alpha 列表口径 24h 成交额 26,818,217
+  - 短周期波动 0.88%
+  - 4h 振幅 10.21%
   - 审计风险 LOW
-- OPG | 分数 34.09 | Alpha Trade 成交额 583879939.34 | 波动 1.27% | 4h 振幅 11.99% | 审计 LOW
-  - Alpha Trade 24h 成交额 583,879,939，流动性 1,652,769
-  - Alpha 列表口径 24h 成交额 28,594,732
-  - 短周期波动 1.27%
-  - 4h 振幅 11.99%
-  - 审计风险 LOW
-- SHARE | 分数 19.69 | Alpha Trade 成交额 2011721.18 | 波动 1.01% | 4h 振幅 9.69% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,011,721，流动性 1,593,268
-  - Alpha 列表口径 24h 成交额 10,712,068
-  - 短周期波动 1.01%
-  - 4h 振幅 9.69%
+- SHARE | 分数 22.43 | Alpha Trade 成交额 1936749.04 | 波动 0.88% | 4h 振幅 7.35% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,936,749，流动性 1,569,921
+  - Alpha 列表口径 24h 成交额 11,514,242
+  - 短周期波动 0.88%
+  - 4h 振幅 7.35%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -57,22 +57,22 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)
+- 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-05-12
 - Latest Binance News：Binance Copy Trading Will Apply New ROI Method to All Spot Lead Portfolios
 - Latest Activities：Word of the Day: Test Your Knowledge on “Binance Chat” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
-- SHARE | 4x | 上线 2026-05-08T10:00:00+00:00 | 24h 成交额 10712067.66
+- SHARE | 4x | 上线 2026-05-08T10:00:00+00:00 | 24h 成交额 11514241.80
 
 ### New Cryptocurrency Listing
 
+- [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-05-12](https://www.binance.com/en/support/announcement/detail/9d96b17988bd41e9bd8898c586f68744)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tr…
 - [Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)](https://www.binance.com/en/support/announcement/detail/7220be8100ee41149169e9179c380c8c)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch AMDUSDT, QCOMUSDT and USARUSDT USDⓈ-Margined Perpetual Contracts (2026-05-06)](https://www.binance.com/en/support/announcement/detail/9f61baed332542118387bb161030df01)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will Add MegaETH (MEGA) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/en/support/announcement/detail/cd5899547cf34fb0a09cdc9a1eddee9f)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that MegaETH (M…
 
 ### Latest Binance News
 
