@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-12T09:27:02.456586+00:00
+- 生成时间：2026-05-12T11:32:42.517476+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1401217288.10
+- 四倍分 24h 总成交额：1407299298.25
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：170880（按 8200 / 人）
+- 估算参与人数：171622（按 8200 / 人）
 
 ## 四倍分代币
 
-- ST | Alpha Trade 成交额 906111783.75 | 列表口径 14890779.35 | 涨跌 -3.34% | 振幅 8.04% | 估算人数 110501
-- OPG | Alpha Trade 成交额 290296353.24 | 列表口径 19151189.91 | 涨跌 2.17% | 振幅 13.01% | 估算人数 35402
-- BILL | Alpha Trade 成交额 174710238.83 | 列表口径 44483128.93 | 涨跌 14.90% | 振幅 33.03% | 估算人数 21306
-- GENIUS | Alpha Trade 成交额 28059456.28 | 列表口径 930660.89 | 涨跌 4.44% | 振幅 13.10% | 估算人数 3422
-- SHARE | Alpha Trade 成交额 1666449.33 | 列表口径 5030782.75 | 涨跌 -12.36% | 振幅 22.45% | 估算人数 203
-- BR | Alpha Trade 成交额 266211.08 | 列表口径 170894.80 | 涨跌 1.22% | 振幅 15.03% | 估算人数 32
-- UAI | Alpha Trade 成交额 76333.58 | 列表口径 657582.53 | 涨跌 0.12% | 振幅 5.66% | 估算人数 9
-- CARV | Alpha Trade 成交额 20867.75 | 列表口径 149057.47 | 涨跌 -2.02% | 振幅 8.38% | 估算人数 3
-- TAC | Alpha Trade 成交额 9594.26 | 列表口径 597601.42 | 涨跌 -3.73% | 振幅 11.23% | 估算人数 1
+- ST | Alpha Trade 成交额 884968999.25 | 列表口径 13396085.71 | 涨跌 -1.80% | 振幅 6.44% | 估算人数 107923
+- OPG | Alpha Trade 成交额 276377523.18 | 列表口径 19262770.63 | 涨跌 2.41% | 振幅 13.01% | 估算人数 33705
+- BILL | Alpha Trade 成交额 217734321.83 | 列表口径 45234895.50 | 涨跌 23.65% | 振幅 26.26% | 估算人数 26553
+- GENIUS | Alpha Trade 成交额 26475355.65 | 列表口径 813774.06 | 涨跌 6.15% | 振幅 13.10% | 估算人数 3229
+- SHARE | Alpha Trade 成交额 1489703.23 | 列表口径 4841426.95 | 涨跌 -13.26% | 振幅 22.45% | 估算人数 182
+- BR | Alpha Trade 成交额 162018.35 | 列表口径 132462.55 | 涨跌 -3.07% | 振幅 15.03% | 估算人数 20
+- UAI | Alpha Trade 成交额 60309.78 | 列表口径 622564.51 | 涨跌 -0.28% | 振幅 5.66% | 估算人数 7
+- CARV | Alpha Trade 成交额 20048.14 | 列表口径 125536.99 | 涨跌 -6.58% | 振幅 8.39% | 估算人数 2
+- TAC | Alpha Trade 成交额 11018.85 | 列表口径 926557.46 | 涨跌 -12.15% | 振幅 21.04% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ST | 分数 83.95 | Alpha Trade 成交额 906111783.75 | 波动 0.23% | 4h 振幅 2.45% | 审计 LOW
-  - Alpha Trade 24h 成交额 906,111,784，流动性 1,769,297
-  - Alpha 列表口径 24h 成交额 14,890,779
-  - 短周期波动 0.23%
-  - 4h 振幅 2.45%
+- ST | 分数 82.41 | Alpha Trade 成交额 884968999.25 | 波动 0.27% | 4h 振幅 3.89% | 审计 LOW
+  - Alpha Trade 24h 成交额 884,968,999，流动性 1,763,380
+  - Alpha 列表口径 24h 成交额 13,396,086
+  - 短周期波动 0.27%
+  - 4h 振幅 3.89%
   - 审计风险 LOW
-- GENIUS | 分数 55.04 | Alpha Trade 成交额 28059456.28 | 波动 0.39% | 4h 振幅 2.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 28,059,456，流动性 2,033,239
-  - Alpha 列表口径 24h 成交额 930,661
+- GENIUS | 分数 54.00 | Alpha Trade 成交额 26475355.65 | 波动 0.39% | 4h 振幅 2.63% | 审计 LOW
+  - Alpha Trade 24h 成交额 26,475,356，流动性 2,033,779
+  - Alpha 列表口径 24h 成交额 813,774
   - 短周期波动 0.39%
-  - 4h 振幅 2.64%
+  - 4h 振幅 2.63%
   - 审计风险 LOW
-- BILL | 分数 45.78 | Alpha Trade 成交额 174710238.83 | 波动 1.16% | 4h 振幅 9.85% | 审计 MID
-  - Alpha Trade 24h 成交额 174,710,239，流动性 2,469,807
-  - Alpha 列表口径 24h 成交额 44,483,129
-  - 短周期波动 1.16%
-  - 4h 振幅 9.85%
+- BILL | 分数 48.74 | Alpha Trade 成交额 217734321.83 | 波动 0.81% | 4h 振幅 13.94% | 审计 MID
+  - Alpha Trade 24h 成交额 217,734,322，流动性 2,540,492
+  - Alpha 列表口径 24h 成交额 45,234,895
+  - 短周期波动 0.81%
+  - 4h 振幅 13.94%
   - 审计风险 MID
-- OPG | 分数 40.47 | Alpha Trade 成交额 290296353.24 | 波动 0.50% | 4h 振幅 6.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 290,296,353，流动性 1,616,050
-  - Alpha 列表口径 24h 成交额 19,151,190
-  - 短周期波动 0.50%
-  - 4h 振幅 6.77%
+- OPG | 分数 42.64 | Alpha Trade 成交额 276377523.18 | 波动 0.49% | 4h 振幅 4.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 276,377,523，流动性 1,632,141
+  - Alpha 列表口径 24h 成交额 19,262,771
+  - 短周期波动 0.49%
+  - 4h 振幅 4.79%
   - 审计风险 LOW
-- SHARE | 分数 17.52 | Alpha Trade 成交额 1666449.33 | 波动 0.83% | 4h 振幅 9.63% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,666,449，流动性 1,450,952
-  - Alpha 列表口径 24h 成交额 5,030,783
-  - 短周期波动 0.83%
-  - 4h 振幅 9.63%
+- SHARE | 分数 16.11 | Alpha Trade 成交额 1489703.23 | 波动 0.85% | 4h 振幅 7.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,489,703，流动性 1,446,398
+  - Alpha 列表口径 24h 成交额 4,841,427
+  - 短周期波动 0.85%
+  - 4h 振幅 7.03%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,7 +59,7 @@
 
 - 官方最新上新关注：Binance Margin Will Add New Pairs - 2026-05-12
 - Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-15)
-- Latest Activities：SPK Trading Tournament: Trade to Share Up to 8,000,000 SPK Token Vouchers
+- Latest Activities：edgeX Trading Competition: Trade edgeX (EDGE) and Share $100K Worth of Rewards (2026-05-12)
 
 ### 最近 Alpha 上线
 
@@ -84,12 +84,12 @@
 
 ### Latest Activities
 
+- [edgeX Trading Competition: Trade edgeX (EDGE) and Share $100K Worth of Rewards (2026-05-12)](https://www.binance.com/en/support/announcement/detail/8e048c79c4a44742b2a68974114c9fd1)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [SPK Trading Tournament: Trade to Share Up to 8,000,000 SPK Token Vouchers](https://www.binance.com/en/support/announcement/detail/b3c24fa5f066482ebc1e9ea0975b5c85)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Learn & Earn: Complete the Quiz to Share Espresso (ESP) Token Rewards!](https://www.binance.com/en/support/announcement/detail/488dcf2c67de435a92ad65dfb8e5dcd1)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce the next round of " B…
-- [CIS Exclusive TradeFi Challenge: Win Golden Rewards](https://www.binance.com/en/support/announcement/detail/75d59759c5024327990ddec46a8defce)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is launching a new promotion for all eligibl…
 
 ## Warnings
 
