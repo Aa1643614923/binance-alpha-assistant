@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-12T06:48:19.066015+00:00
+- 生成时间：2026-05-12T09:27:02.456586+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1414297029.11
+- 四倍分 24h 总成交额：1401217288.10
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：172475（按 8200 / 人）
+- 估算参与人数：170880（按 8200 / 人）
 
 ## 四倍分代币
 
-- ST | Alpha Trade 成交额 945750845.85 | 列表口径 15249043.56 | 涨跌 -5.96% | 振幅 10.48% | 估算人数 115335
-- OPG | Alpha Trade 成交额 296472554.81 | 列表口径 20879530.21 | 涨跌 -5.00% | 振幅 13.83% | 估算人数 36155
-- BILL | Alpha Trade 成交额 138964795.73 | 列表口径 46581840.32 | 涨跌 20.82% | 振幅 36.32% | 估算人数 16947
-- GENIUS | Alpha Trade 成交额 30585738.64 | 列表口径 927275.46 | 涨跌 2.16% | 振幅 13.10% | 估算人数 3730
-- SHARE | Alpha Trade 成交额 1736198.56 | 列表口径 5820828.98 | 涨跌 -11.67% | 振幅 17.38% | 估算人数 212
-- BR | Alpha Trade 成交额 681416.69 | 列表口径 462273.20 | 涨跌 -7.35% | 振幅 21.13% | 估算人数 83
-- UAI | Alpha Trade 成交额 76713.30 | 列表口径 660641.30 | 涨跌 -2.00% | 振幅 4.21% | 估算人数 9
-- CARV | Alpha Trade 成交额 20074.79 | 列表口径 155897.43 | 涨跌 2.23% | 振幅 10.07% | 估算人数 2
-- TAC | Alpha Trade 成交额 8690.74 | 列表口径 355255.57 | 涨跌 -3.21% | 振幅 7.07% | 估算人数 1
+- ST | Alpha Trade 成交额 906111783.75 | 列表口径 14890779.35 | 涨跌 -3.34% | 振幅 8.04% | 估算人数 110501
+- OPG | Alpha Trade 成交额 290296353.24 | 列表口径 19151189.91 | 涨跌 2.17% | 振幅 13.01% | 估算人数 35402
+- BILL | Alpha Trade 成交额 174710238.83 | 列表口径 44483128.93 | 涨跌 14.90% | 振幅 33.03% | 估算人数 21306
+- GENIUS | Alpha Trade 成交额 28059456.28 | 列表口径 930660.89 | 涨跌 4.44% | 振幅 13.10% | 估算人数 3422
+- SHARE | Alpha Trade 成交额 1666449.33 | 列表口径 5030782.75 | 涨跌 -12.36% | 振幅 22.45% | 估算人数 203
+- BR | Alpha Trade 成交额 266211.08 | 列表口径 170894.80 | 涨跌 1.22% | 振幅 15.03% | 估算人数 32
+- UAI | Alpha Trade 成交额 76333.58 | 列表口径 657582.53 | 涨跌 0.12% | 振幅 5.66% | 估算人数 9
+- CARV | Alpha Trade 成交额 20867.75 | 列表口径 149057.47 | 涨跌 -2.02% | 振幅 8.38% | 估算人数 3
+- TAC | Alpha Trade 成交额 9594.26 | 列表口径 597601.42 | 涨跌 -3.73% | 振幅 11.23% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ST | 分数 79.56 | Alpha Trade 成交额 945750845.85 | 波动 0.26% | 4h 振幅 2.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 945,750,846，流动性 1,772,130
-  - Alpha 列表口径 24h 成交额 15,249,044
-  - 短周期波动 0.26%
-  - 4h 振幅 2.31%
+- ST | 分数 83.95 | Alpha Trade 成交额 906111783.75 | 波动 0.23% | 4h 振幅 2.45% | 审计 LOW
+  - Alpha Trade 24h 成交额 906,111,784，流动性 1,769,297
+  - Alpha 列表口径 24h 成交额 14,890,779
+  - 短周期波动 0.23%
+  - 4h 振幅 2.45%
   - 审计风险 LOW
-- GENIUS | 分数 51.91 | Alpha Trade 成交额 30585738.64 | 波动 0.40% | 4h 振幅 4.58% | 审计 LOW
-  - Alpha Trade 24h 成交额 30,585,739，流动性 2,047,965
-  - Alpha 列表口径 24h 成交额 927,275
-  - 短周期波动 0.40%
-  - 4h 振幅 4.58%
+- GENIUS | 分数 55.04 | Alpha Trade 成交额 28059456.28 | 波动 0.39% | 4h 振幅 2.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 28,059,456，流动性 2,033,239
+  - Alpha 列表口径 24h 成交额 930,661
+  - 短周期波动 0.39%
+  - 4h 振幅 2.64%
   - 审计风险 LOW
-- BR | 分数 49.22 | Alpha Trade 成交额 681416.69 | 波动 0.34% | 4h 振幅 2.27% | 审计 MID
-  - Alpha Trade 24h 成交额 681,417，流动性 1,172,320
-  - Alpha 列表口径 24h 成交额 462,273
-  - 短周期波动 0.34%
-  - 4h 振幅 2.27%
+- BILL | 分数 45.78 | Alpha Trade 成交额 174710238.83 | 波动 1.16% | 4h 振幅 9.85% | 审计 MID
+  - Alpha Trade 24h 成交额 174,710,239，流动性 2,469,807
+  - Alpha 列表口径 24h 成交额 44,483,129
+  - 短周期波动 1.16%
+  - 4h 振幅 9.85%
   - 审计风险 MID
-- OPG | 分数 43.47 | Alpha Trade 成交额 296472554.81 | 波动 0.60% | 4h 振幅 6.41% | 审计 LOW
-  - Alpha Trade 24h 成交额 296,472,555，流动性 1,594,788
-  - Alpha 列表口径 24h 成交额 20,879,530
-  - 短周期波动 0.60%
-  - 4h 振幅 6.41%
+- OPG | 分数 40.47 | Alpha Trade 成交额 290296353.24 | 波动 0.50% | 4h 振幅 6.77% | 审计 LOW
+  - Alpha Trade 24h 成交额 290,296,353，流动性 1,616,050
+  - Alpha 列表口径 24h 成交额 19,151,190
+  - 短周期波动 0.50%
+  - 4h 振幅 6.77%
   - 审计风险 LOW
-- SHARE | 分数 42.78 | Alpha Trade 成交额 1736198.56 | 波动 0.32% | 4h 振幅 2.95% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,736,199，流动性 1,468,351
-  - Alpha 列表口径 24h 成交额 5,820,829
-  - 短周期波动 0.32%
-  - 4h 振幅 2.95%
+- SHARE | 分数 17.52 | Alpha Trade 成交额 1666449.33 | 波动 0.83% | 4h 振幅 9.63% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,666,449，流动性 1,450,952
+  - Alpha 列表口径 24h 成交额 5,030,783
+  - 短周期波动 0.83%
+  - 4h 振幅 9.63%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,7 +59,7 @@
 
 - 官方最新上新关注：Binance Margin Will Add New Pairs - 2026-05-12
 - Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-15)
-- Latest Activities：CIS Exclusive TradeFi Challenge: Win Golden Rewards
+- Latest Activities：SPK Trading Tournament: Trade to Share Up to 8,000,000 SPK Token Vouchers
 
 ### 最近 Alpha 上线
 
@@ -84,12 +84,12 @@
 
 ### Latest Activities
 
+- [SPK Trading Tournament: Trade to Share Up to 8,000,000 SPK Token Vouchers](https://www.binance.com/en/support/announcement/detail/b3c24fa5f066482ebc1e9ea0975b5c85)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
+- [Learn & Earn: Complete the Quiz to Share Espresso (ESP) Token Rewards!](https://www.binance.com/en/support/announcement/detail/488dcf2c67de435a92ad65dfb8e5dcd1)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce the next round of " B…
 - [CIS Exclusive TradeFi Challenge: Win Golden Rewards](https://www.binance.com/en/support/announcement/detail/75d59759c5024327990ddec46a8defce)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is launching a new promotion for all eligibl…
-- [Billions Network Trading Competition: Trade Billions Network (BILL) and Share $200K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/c69df76199414522975101cd5c344b3c)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Word of the Day: Test Your Knowledge on “Binance Chat” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/c28105c68ab8435782ad1a7f4ba91755)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 
 ## Warnings
 
