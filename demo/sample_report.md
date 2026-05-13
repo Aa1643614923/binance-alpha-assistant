@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-13T11:02:00.591643+00:00
+- 生成时间：2026-05-13T13:25:15.827952+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1472125789.25
+- 四倍分 24h 总成交额：1538336541.34
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：179528（按 8200 / 人）
+- 估算参与人数：187602（按 8200 / 人）
 
 ## 四倍分代币
 
-- ST | Alpha Trade 成交额 1089763114.59 | 列表口径 9140445.36 | 涨跌 0.33% | 振幅 5.28% | 估算人数 132898
-- BILL | Alpha Trade 成交额 206952291.72 | 列表口径 48042472.87 | 涨跌 35.16% | 振幅 94.37% | 估算人数 25238
-- OPG | Alpha Trade 成交额 174373421.30 | 列表口径 35405910.50 | 涨跌 -10.69% | 振幅 20.72% | 估算人数 21265
-- SHARE | Alpha Trade 成交额 840193.87 | 列表口径 6012271.45 | 涨跌 -2.35% | 振幅 24.86% | 估算人数 102
-- UAI | Alpha Trade 成交额 116007.95 | 列表口径 692454.37 | 涨跌 -7.35% | 振幅 9.21% | 估算人数 14
-- BR | Alpha Trade 成交额 69904.95 | 列表口径 94613.76 | 涨跌 3.18% | 振幅 20.31% | 估算人数 9
-- TAC | Alpha Trade 成交额 7284.51 | 列表口径 1066388.82 | 涨跌 -4.19% | 振幅 14.79% | 估算人数 1
-- CARV | Alpha Trade 成交额 3570.35 | 列表口径 96907.61 | 涨跌 0.98% | 振幅 7.13% | 估算人数 0
+- ST | Alpha Trade 成交额 1206201139.10 | 列表口径 11299825.11 | 涨跌 -0.46% | 振幅 5.28% | 估算人数 147098
+- BILL | Alpha Trade 成交额 172089849.81 | 列表口径 53529196.81 | 涨跌 16.85% | 振幅 81.05% | 估算人数 20987
+- OPG | Alpha Trade 成交额 158996553.77 | 列表口径 41463238.51 | 涨跌 -17.38% | 振幅 28.11% | 估算人数 19390
+- SHARE | Alpha Trade 成交额 834492.54 | 列表口径 6170180.95 | 涨跌 -4.42% | 振幅 24.86% | 估算人数 102
+- UAI | Alpha Trade 成交额 129398.42 | 列表口径 730101.30 | 涨跌 -8.00% | 振幅 13.21% | 估算人数 16
+- BR | Alpha Trade 成交额 72962.83 | 列表口径 105435.60 | 涨跌 -4.99% | 振幅 24.99% | 估算人数 9
+- CARV | Alpha Trade 成交额 7094.26 | 列表口径 99657.38 | 涨跌 -3.07% | 振幅 8.14% | 估算人数 1
+- TAC | Alpha Trade 成交额 5050.62 | 列表口径 610594.67 | 涨跌 -1.43% | 振幅 8.90% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ST | 分数 83.40 | Alpha Trade 成交额 1089763114.59 | 波动 0.17% | 4h 振幅 2.23% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,089,763,115，流动性 1,766,343
-  - Alpha 列表口径 24h 成交额 9,140,445
-  - 短周期波动 0.17%
-  - 4h 振幅 2.23%
+- ST | 分数 83.96 | Alpha Trade 成交额 1206201139.10 | 波动 0.14% | 4h 振幅 2.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,206,201,139，流动性 1,765,576
+  - Alpha 列表口径 24h 成交额 11,299,825
+  - 短周期波动 0.14%
+  - 4h 振幅 2.22%
   - 审计风险 LOW
-- BILL | 分数 45.73 | Alpha Trade 成交额 206952291.72 | 波动 1.78% | 4h 振幅 34.55% | 审计 MID
-  - Alpha Trade 24h 成交额 206,952,292，流动性 2,595,531
-  - Alpha 列表口径 24h 成交额 48,042,473
-  - 短周期波动 1.78%
-  - 4h 振幅 34.55%
+- BILL | 分数 44.55 | Alpha Trade 成交额 172089849.81 | 波动 1.89% | 4h 振幅 20.61% | 审计 MID
+  - Alpha Trade 24h 成交额 172,089,850，流动性 2,518,771
+  - Alpha 列表口径 24h 成交额 53,529,197
+  - 短周期波动 1.89%
+  - 4h 振幅 20.61%
   - 审计风险 MID
-- OPG | 分数 43.12 | Alpha Trade 成交额 174373421.30 | 波动 0.44% | 4h 振幅 4.52% | 审计 LOW
-  - Alpha Trade 24h 成交额 174,373,421，流动性 1,563,494
-  - Alpha 列表口径 24h 成交额 35,405,910
-  - 短周期波动 0.44%
-  - 4h 振幅 4.52%
+- OPG | 分数 36.93 | Alpha Trade 成交额 158996553.77 | 波动 0.59% | 4h 振幅 9.33% | 审计 LOW
+  - Alpha Trade 24h 成交额 158,996,554，流动性 1,508,685
+  - Alpha 列表口径 24h 成交额 41,463,239
+  - 短周期波动 0.59%
+  - 4h 振幅 9.33%
   - 审计风险 LOW
-- SHARE | 分数 31.50 | Alpha Trade 成交额 840193.87 | 波动 0.74% | 4h 振幅 6.68% | 审计 LOW
-  - Alpha Trade 24h 成交额 840,194，流动性 1,418,513
-  - Alpha 列表口径 24h 成交额 6,012,271
-  - 短周期波动 0.74%
-  - 4h 振幅 6.68%
+- SHARE | 分数 35.84 | Alpha Trade 成交额 834492.54 | 波动 0.41% | 4h 振幅 4.17% | 审计 LOW
+  - Alpha Trade 24h 成交额 834,493，流动性 1,400,897
+  - Alpha 列表口径 24h 成交额 6,170,181
+  - 短周期波动 0.41%
+  - 4h 振幅 4.17%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -50,21 +50,21 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Margin Will Add New Pairs - 2026-05-12
+- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15)
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-13)
-- Latest Activities：Binance Earn: Enjoy Up to 10% APR with KGST Flexible Products – 80,000 KGST Limit Available! (2026-05-14)
+- Latest Activities：Binance Offline Summit: Watch the Event and Share your Favorite Quotes to Share 2,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15)](https://www.binance.com/en/support/announcement/detail/3c04310db1ad4e0fbe234d2c00d0c785)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Margin Will Add New Pairs - 2026-05-12](https://www.binance.com/en/support/announcement/detail/b4eb8e22deba433583fe18e327e382e0)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin wil…
 - [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-05-12](https://www.binance.com/en/support/announcement/detail/9d96b17988bd41e9bd8898c586f68744)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tr…
-- [Binance Futures Will Launch USDⓈ-Margined BILLUSDT Perpetual Contract (2026-05-07)](https://www.binance.com/en/support/announcement/detail/7220be8100ee41149169e9179c380c8c)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
@@ -77,12 +77,12 @@
 
 ### Latest Activities
 
+- [Binance Offline Summit: Watch the Event and Share your Favorite Quotes to Share 2,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/bf793514a237434fa54283446e15642b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, As part of the Binance Offline Summit, we invite use…
 - [Binance Earn: Enjoy Up to 10% APR with KGST Flexible Products – 80,000 KGST Limit Available! (2026-05-14)](https://www.binance.com/en/support/announcement/detail/2d66810bc904445d91664881fc11f5cb)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Join the Spot Trading Competition: Trade to Share Up to 200,000 U Token Vouchers](https://www.binance.com/en/support/announcement/detail/1f60c997f57a48799dd9a825aa684684)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Binance Card: Spend U with Your Card and Get Up to 15% in U Cashback!](https://www.binance.com/en/support/announcement/detail/814f470c6bb94eccb52f3074e0a0bc6e)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance announces…
 
 ## Warnings
 
