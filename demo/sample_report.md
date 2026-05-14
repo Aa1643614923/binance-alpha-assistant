@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-14T13:04:06.072681+00:00
+- 生成时间：2026-05-14T15:29:22.673409+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1159182604.28
+- 四倍分 24h 总成交额：1188847349.54
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：141364（按 8200 / 人）
+- 估算参与人数：144981（按 8200 / 人）
 
 ## 四倍分代币
 
-- ST | Alpha Trade 成交额 843532539.81 | 列表口径 11814227.85 | 涨跌 -8.11% | 振幅 15.23% | 估算人数 102870
-- BILL | Alpha Trade 成交额 187578082.46 | 列表口径 56634152.16 | 涨跌 -1.13% | 振幅 76.27% | 估算人数 22875
-- OPG | Alpha Trade 成交额 126282877.32 | 列表口径 35269253.67 | 涨跌 -5.64% | 振幅 12.21% | 估算人数 15400
-- SHARE | Alpha Trade 成交额 885700.81 | 列表口径 4657970.46 | 涨跌 -14.97% | 振幅 34.76% | 估算人数 108
-- B2 | Alpha Trade 成交额 671678.07 | 列表口径 2564702.33 | 涨跌 -10.44% | 振幅 14.33% | 估算人数 82
-- UAI | Alpha Trade 成交额 165024.71 | 列表口径 724087.03 | 涨跌 2.70% | 振幅 8.19% | 估算人数 20
-- BR | Alpha Trade 成交额 40382.24 | 列表口径 62640.40 | 涨跌 -0.99% | 振幅 31.36% | 估算人数 5
-- TAC | Alpha Trade 成交额 21308.40 | 列表口径 563416.90 | 涨跌 -2.66% | 振幅 10.75% | 估算人数 3
-- CARV | Alpha Trade 成交额 5010.45 | 列表口径 90109.10 | 涨跌 -2.29% | 振幅 5.96% | 估算人数 1
+- ST | Alpha Trade 成交额 852094199.02 | 列表口径 9932347.92 | 涨跌 -10.49% | 振幅 14.25% | 估算人数 103914
+- BILL | Alpha Trade 成交额 204951503.43 | 列表口径 46526374.28 | 涨跌 3.62% | 振幅 76.27% | 估算人数 24994
+- OPG | Alpha Trade 成交额 130062740.15 | 列表口径 26490946.90 | 涨跌 6.84% | 振幅 11.63% | 估算人数 15861
+- SHARE | Alpha Trade 成交额 787666.56 | 列表口径 4510359.96 | 涨跌 -17.32% | 振幅 26.61% | 估算人数 96
+- B2 | Alpha Trade 成交额 715605.23 | 列表口径 2436819.20 | 涨跌 -1.55% | 振幅 8.43% | 估算人数 87
+- UAI | Alpha Trade 成交额 162338.98 | 列表口径 735357.44 | 涨跌 4.58% | 振幅 8.90% | 估算人数 20
+- BR | Alpha Trade 成交额 46592.20 | 列表口径 56582.87 | 涨跌 0.48% | 振幅 30.91% | 估算人数 6
+- TAC | Alpha Trade 成交额 21567.53 | 列表口径 558186.91 | 涨跌 0.61% | 振幅 10.75% | 估算人数 3
+- CARV | Alpha Trade 成交额 5136.44 | 列表口径 70916.65 | 涨跌 0.99% | 振幅 4.28% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ST | 分数 87.93 | Alpha Trade 成交额 843532539.81 | 波动 0.33% | 4h 振幅 3.35% | 审计 LOW
-  - Alpha Trade 24h 成交额 843,532,540，流动性 1,715,056
-  - Alpha 列表口径 24h 成交额 11,814,228
-  - 短周期波动 0.33%
-  - 4h 振幅 3.35%
+- ST | 分数 85.44 | Alpha Trade 成交额 852094199.02 | 波动 0.28% | 4h 振幅 3.75% | 审计 LOW
+  - Alpha Trade 24h 成交额 852,094,199，流动性 1,697,063
+  - Alpha 列表口径 24h 成交额 9,932,348
+  - 短周期波动 0.28%
+  - 4h 振幅 3.75%
   - 审计风险 LOW
-- B2 | 分数 47.58 | Alpha Trade 成交额 671678.07 | 波动 0.50% | 4h 振幅 4.34% | 审计 LOW
-  - Alpha Trade 24h 成交额 671,678，流动性 1,004,232
-  - Alpha 列表口径 24h 成交额 2,564,702
-  - 短周期波动 0.50%
-  - 4h 振幅 4.34%
+- B2 | 分数 51.01 | Alpha Trade 成交额 715605.23 | 波动 0.31% | 4h 振幅 2.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 715,605，流动性 1,016,137
+  - Alpha 列表口径 24h 成交额 2,436,819
+  - 短周期波动 0.31%
+  - 4h 振幅 2.65%
   - 审计风险 LOW
-- BILL | 分数 46.54 | Alpha Trade 成交额 187578082.46 | 波动 1.28% | 4h 振幅 18.49% | 审计 MID
-  - Alpha Trade 24h 成交额 187,578,082，流动性 2,389,626
-  - Alpha 列表口径 24h 成交额 56,634,152
-  - 短周期波动 1.28%
-  - 4h 振幅 18.49%
+- BILL | 分数 47.00 | Alpha Trade 成交额 204951503.43 | 波动 1.05% | 4h 振幅 12.16% | 审计 MID
+  - Alpha Trade 24h 成交额 204,951,503，流动性 2,565,040
+  - Alpha 列表口径 24h 成交额 46,526,374
+  - 短周期波动 1.05%
+  - 4h 振幅 12.16%
   - 审计风险 MID
-- OPG | 分数 45.38 | Alpha Trade 成交额 126282877.32 | 波动 0.52% | 4h 振幅 5.96% | 审计 LOW
-  - Alpha Trade 24h 成交额 126,282,877，流动性 1,460,171
-  - Alpha 列表口径 24h 成交额 35,269,254
-  - 短周期波动 0.52%
-  - 4h 振幅 5.96%
+- OPG | 分数 40.60 | Alpha Trade 成交额 130062740.15 | 波动 0.48% | 4h 振幅 7.66% | 审计 LOW
+  - Alpha Trade 24h 成交额 130,062,740，流动性 1,509,353
+  - Alpha 列表口径 24h 成交额 26,490,947
+  - 短周期波动 0.48%
+  - 4h 振幅 7.66%
   - 审计风险 LOW
-- SHARE | 分数 35.45 | Alpha Trade 成交额 885700.81 | 波动 0.52% | 4h 振幅 9.92% | 审计 LOW
-  - Alpha Trade 24h 成交额 885,701，流动性 1,270,307
-  - Alpha 列表口径 24h 成交额 4,657,970
-  - 短周期波动 0.52%
-  - 4h 振幅 9.92%
+- SHARE | 分数 26.09 | Alpha Trade 成交额 787666.56 | 波动 0.65% | 4h 振幅 9.30% | 审计 LOW
+  - Alpha Trade 24h 成交额 787,667，流动性 1,218,198
+  - Alpha 列表口径 24h 成交额 4,510,360
+  - 短周期波动 0.65%
+  - 4h 振幅 9.30%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,13 +59,13 @@
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied
-- Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Postponed
+- Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Further Postponed
 - Latest Activities：Binance Wallet Perpetual Trading Competition: Trade BTWUSDT Perpetuals and Share $50K Worth of Rewards
 
 ### 最近 Alpha 上线
 
-- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 11148079.85
-- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 9385814.72
+- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 12054289.54
+- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 7901482.27
 
 ### New Cryptocurrency Listing
 
@@ -78,12 +78,12 @@
 
 ### Latest Binance News
 
+- [Gensyn (AIGENSYN) Listing Will Be Further Postponed](https://www.binance.com/en/support/announcement/detail/5adac817d3a44e0e991701cf02153ed1)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Due to an issue with the project team’s deposit node…
 - [Gensyn (AIGENSYN) Listing Will Be Postponed](https://www.binance.com/en/support/announcement/detail/44c4a778b9904d75ba241dab1dd60109)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The trading start time for Gensyn (AIGENSYN) , origi…
 - [Binance Trading Bot Will Support TradFi Perps For Futures Grid, Futures DCA and Position Snowball (2026-05-14)](https://www.binance.com/en/support/announcement/detail/11c97125d6344da4b2e9716df82a9386)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To enhance users’ trading bot strategies with greate…
-- [Important Updates on Price Index Calculation Mode of Equity-Based TradFi Perpetual Contracts (2026-05-16)](https://www.binance.com/en/support/announcement/detail/53bfc17634f54f2f90666dbc396f5cee)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance constantly reviews its product an…
 
 ### Latest Activities
 
