@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-14T15:29:22.673409+00:00
+- 生成时间：2026-05-14T17:22:47.404101+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1188847349.54
+- 四倍分 24h 总成交额：1194697024.28
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：144981（按 8200 / 人）
+- 估算参与人数：145695（按 8200 / 人）
 
 ## 四倍分代币
 
-- ST | Alpha Trade 成交额 852094199.02 | 列表口径 9932347.92 | 涨跌 -10.49% | 振幅 14.25% | 估算人数 103914
-- BILL | Alpha Trade 成交额 204951503.43 | 列表口径 46526374.28 | 涨跌 3.62% | 振幅 76.27% | 估算人数 24994
-- OPG | Alpha Trade 成交额 130062740.15 | 列表口径 26490946.90 | 涨跌 6.84% | 振幅 11.63% | 估算人数 15861
-- SHARE | Alpha Trade 成交额 787666.56 | 列表口径 4510359.96 | 涨跌 -17.32% | 振幅 26.61% | 估算人数 96
-- B2 | Alpha Trade 成交额 715605.23 | 列表口径 2436819.20 | 涨跌 -1.55% | 振幅 8.43% | 估算人数 87
-- UAI | Alpha Trade 成交额 162338.98 | 列表口径 735357.44 | 涨跌 4.58% | 振幅 8.90% | 估算人数 20
-- BR | Alpha Trade 成交额 46592.20 | 列表口径 56582.87 | 涨跌 0.48% | 振幅 30.91% | 估算人数 6
-- TAC | Alpha Trade 成交额 21567.53 | 列表口径 558186.91 | 涨跌 0.61% | 振幅 10.75% | 估算人数 3
-- CARV | Alpha Trade 成交额 5136.44 | 列表口径 70916.65 | 涨跌 0.99% | 振幅 4.28% | 估算人数 1
+- ST | Alpha Trade 成交额 848718774.13 | 列表口径 8987533.60 | 涨跌 -12.98% | 振幅 17.83% | 估算人数 103502
+- BILL | Alpha Trade 成交额 210848363.10 | 列表口径 42252021.29 | 涨跌 13.37% | 振幅 76.27% | 估算人数 25713
+- OPG | Alpha Trade 成交额 133388123.39 | 列表口径 20632005.21 | 涨跌 6.56% | 振幅 13.12% | 估算人数 16267
+- SHARE | Alpha Trade 成交额 805147.79 | 列表口径 4555563.08 | 涨跌 -18.50% | 振幅 26.67% | 估算人数 98
+- B2 | Alpha Trade 成交额 732471.51 | 列表口径 2439801.33 | 涨跌 -1.51% | 振幅 8.43% | 估算人数 89
+- UAI | Alpha Trade 成交额 135057.77 | 列表口径 697454.01 | 涨跌 6.20% | 振幅 8.61% | 估算人数 16
+- BR | Alpha Trade 成交额 39417.18 | 列表口径 49679.24 | 涨跌 -0.75% | 振幅 30.06% | 估算人数 5
+- TAC | Alpha Trade 成交额 25438.54 | 列表口径 852252.48 | 涨跌 8.39% | 振幅 21.82% | 估算人数 3
+- CARV | Alpha Trade 成交额 4230.89 | 列表口径 65911.62 | 涨跌 0.00% | 振幅 4.28% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ST | 分数 85.44 | Alpha Trade 成交额 852094199.02 | 波动 0.28% | 4h 振幅 3.75% | 审计 LOW
-  - Alpha Trade 24h 成交额 852,094,199，流动性 1,697,063
-  - Alpha 列表口径 24h 成交额 9,932,348
-  - 短周期波动 0.28%
-  - 4h 振幅 3.75%
+- ST | 分数 80.48 | Alpha Trade 成交额 848718774.13 | 波动 0.42% | 4h 振幅 7.13% | 审计 LOW
+  - Alpha Trade 24h 成交额 848,718,774，流动性 1,677,713
+  - Alpha 列表口径 24h 成交额 8,987,534
+  - 短周期波动 0.42%
+  - 4h 振幅 7.13%
   - 审计风险 LOW
-- B2 | 分数 51.01 | Alpha Trade 成交额 715605.23 | 波动 0.31% | 4h 振幅 2.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 715,605，流动性 1,016,137
-  - Alpha 列表口径 24h 成交额 2,436,819
+- B2 | 分数 51.80 | Alpha Trade 成交额 732471.51 | 波动 0.31% | 4h 振幅 3.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 732,472，流动性 1,017,539
+  - Alpha 列表口径 24h 成交额 2,439,801
   - 短周期波动 0.31%
-  - 4h 振幅 2.65%
+  - 4h 振幅 3.05%
   - 审计风险 LOW
-- BILL | 分数 47.00 | Alpha Trade 成交额 204951503.43 | 波动 1.05% | 4h 振幅 12.16% | 审计 MID
-  - Alpha Trade 24h 成交额 204,951,503，流动性 2,565,040
-  - Alpha 列表口径 24h 成交额 46,526,374
-  - 短周期波动 1.05%
-  - 4h 振幅 12.16%
+- BILL | 分数 47.19 | Alpha Trade 成交额 210848363.10 | 波动 1.26% | 4h 振幅 14.86% | 审计 MID
+  - Alpha Trade 24h 成交额 210,848,363，流动性 2,563,779
+  - Alpha 列表口径 24h 成交额 42,252,021
+  - 短周期波动 1.26%
+  - 4h 振幅 14.86%
   - 审计风险 MID
-- OPG | 分数 40.60 | Alpha Trade 成交额 130062740.15 | 波动 0.48% | 4h 振幅 7.66% | 审计 LOW
-  - Alpha Trade 24h 成交额 130,062,740，流动性 1,509,353
-  - Alpha 列表口径 24h 成交额 26,490,947
-  - 短周期波动 0.48%
-  - 4h 振幅 7.66%
+- OPG | 分数 39.89 | Alpha Trade 成交额 133388123.39 | 波动 0.61% | 4h 振幅 8.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 133,388,123，流动性 1,507,921
+  - Alpha 列表口径 24h 成交额 20,632,005
+  - 短周期波动 0.61%
+  - 4h 振幅 8.79%
   - 审计风险 LOW
-- SHARE | 分数 26.09 | Alpha Trade 成交额 787666.56 | 波动 0.65% | 4h 振幅 9.30% | 审计 LOW
-  - Alpha Trade 24h 成交额 787,667，流动性 1,218,198
-  - Alpha 列表口径 24h 成交额 4,510,360
-  - 短周期波动 0.65%
-  - 4h 振幅 9.30%
+- SHARE | 分数 33.04 | Alpha Trade 成交额 805147.79 | 波动 0.54% | 4h 振幅 8.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 805,148，流动性 1,206,092
+  - Alpha 列表口径 24h 成交额 4,555,563
+  - 短周期波动 0.54%
+  - 4h 振幅 8.39%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -58,23 +58,23 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
-- 官方最新上新关注：Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied
+- 官方最新上新关注：Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Further Postponed
 - Latest Activities：Binance Wallet Perpetual Trading Competition: Trade BTWUSDT Perpetuals and Share $50K Worth of Rewards
 
 ### 最近 Alpha 上线
 
-- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 12054289.54
-- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 7901482.27
+- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 12605258.92
+- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 7660450.95
 
 ### New Cryptocurrency Listing
 
+- [Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/en/support/announcement/detail/875f9acd516c443b8752e800aa94b4b1)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Gensyn (AI…
+- [Binance Futures Will Launch USDⓈ-Margined BTCUSD1 Perpetual Contract (2026-05-18)](https://www.binance.com/en/support/announcement/detail/5a6284dbe6a7420b85a94054b6fb6613)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/71f44e5e014c445697bb6a6f70315e35)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15 & 2026-05-18)](https://www.binance.com/en/support/announcement/detail/a2bce2686fc64a61b44c4335facafe7f)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch USDⓈ-Margined PHAROSUSDT and STARUSDT Perpetual Contracts (2026-05-14)](https://www.binance.com/en/support/announcement/detail/12bcf9092e9c46358de3e49f8ef17f88)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
