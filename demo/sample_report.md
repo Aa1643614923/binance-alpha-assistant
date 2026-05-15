@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-15T04:17:34.673110+00:00
+- 生成时间：2026-05-15T07:38:37.169420+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：510708780.16
+- 四倍分 24h 总成交额：718212771.29
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：62282（按 8200 / 人）
+- 估算参与人数：87587（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 293181352.49 | 列表口径 26103012.36 | 涨跌 22.70% | 振幅 44.60% | 估算人数 35754
-- OPG | Alpha Trade 成交额 215769220.55 | 列表口径 8873709.21 | 涨跌 12.69% | 振幅 19.93% | 估算人数 26313
-- B2 | Alpha Trade 成交额 809757.82 | 列表口径 2593135.23 | 涨跌 0.05% | 振幅 6.31% | 估算人数 99
-- SHARE | Alpha Trade 成交额 726784.05 | 列表口径 3782305.54 | 涨跌 -14.33% | 振幅 19.01% | 估算人数 89
-- UAI | Alpha Trade 成交额 121049.49 | 列表口径 582460.24 | 涨跌 -0.34% | 振幅 5.74% | 估算人数 15
-- TAC | Alpha Trade 成交额 50046.80 | 列表口径 2015761.61 | 涨跌 24.87% | 振幅 44.02% | 估算人数 6
-- BR | Alpha Trade 成交额 48895.50 | 列表口径 26964.24 | 涨跌 -2.67% | 振幅 7.25% | 估算人数 6
-- CARV | Alpha Trade 成交额 1673.45 | 列表口径 67282.11 | 涨跌 2.25% | 振幅 4.12% | 估算人数 0
+- BILL | Alpha Trade 成交额 376041312.29 | 列表口径 24719296.25 | 涨跌 33.11% | 振幅 43.04% | 估算人数 45859
+- OPG | Alpha Trade 成交额 340435282.16 | 列表口径 9457875.50 | 涨跌 14.18% | 振幅 19.93% | 估算人数 41516
+- B2 | Alpha Trade 成交额 820165.04 | 列表口径 2385862.87 | 涨跌 -2.72% | 振幅 6.31% | 估算人数 100
+- SHARE | Alpha Trade 成交额 713729.07 | 列表口径 3473991.84 | 涨跌 -2.58% | 振幅 14.46% | 估算人数 87
+- UAI | Alpha Trade 成交额 99392.35 | 列表口径 569966.24 | 涨跌 -2.15% | 振幅 9.26% | 估算人数 12
+- TAC | Alpha Trade 成交额 53451.67 | 列表口径 2110964.88 | 涨跌 27.61% | 振幅 42.09% | 估算人数 7
+- BR | Alpha Trade 成交额 46576.70 | 列表口径 27790.91 | 涨跌 -1.69% | 振幅 7.25% | 估算人数 6
+- CARV | Alpha Trade 成交额 2862.00 | 列表口径 75506.93 | 涨跌 0.17% | 振幅 4.54% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BILL | 分数 66.00 | Alpha Trade 成交额 293181352.49 | 波动 1.05% | 4h 振幅 8.31% | 审计 MID
-  - Alpha Trade 24h 成交额 293,181,352，流动性 2,619,824
-  - Alpha 列表口径 24h 成交额 26,103,012
-  - 短周期波动 1.05%
-  - 4h 振幅 8.31%
+- BILL | 分数 66.00 | Alpha Trade 成交额 376041312.29 | 波动 0.77% | 4h 振幅 7.41% | 审计 MID
+  - Alpha Trade 24h 成交额 376,041,312，流动性 2,612,671
+  - Alpha 列表口径 24h 成交额 24,719,296
+  - 短周期波动 0.77%
+  - 4h 振幅 7.41%
   - 审计风险 MID
-- OPG | 分数 53.96 | Alpha Trade 成交额 215769220.55 | 波动 0.52% | 4h 振幅 5.14% | 审计 LOW
-  - Alpha Trade 24h 成交额 215,769,221，流动性 1,547,039
-  - Alpha 列表口径 24h 成交额 8,873,709
-  - 短周期波动 0.52%
-  - 4h 振幅 5.14%
+- OPG | 分数 52.70 | Alpha Trade 成交额 340435282.16 | 波动 0.62% | 4h 振幅 4.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 340,435,282，流动性 1,552,853
+  - Alpha 列表口径 24h 成交额 9,457,875
+  - 短周期波动 0.62%
+  - 4h 振幅 4.05%
   - 审计风险 LOW
-- B2 | 分数 51.81 | Alpha Trade 成交额 809757.82 | 波动 0.23% | 4h 振幅 2.13% | 审计 LOW
-  - Alpha Trade 24h 成交额 809,758，流动性 1,013,163
-  - Alpha 列表口径 24h 成交额 2,593,135
-  - 短周期波动 0.23%
-  - 4h 振幅 2.13%
+- B2 | 分数 51.86 | Alpha Trade 成交额 820165.04 | 波动 0.24% | 4h 振幅 2.09% | 审计 LOW
+  - Alpha Trade 24h 成交额 820,165，流动性 1,012,325
+  - Alpha 列表口径 24h 成交额 2,385,863
+  - 短周期波动 0.24%
+  - 4h 振幅 2.09%
   - 审计风险 LOW
-- SHARE | 分数 33.54 | Alpha Trade 成交额 726784.05 | 波动 0.33% | 4h 振幅 5.98% | 审计 LOW
-  - Alpha Trade 24h 成交额 726,784，流动性 1,187,559
-  - Alpha 列表口径 24h 成交额 3,782,306
-  - 短周期波动 0.33%
-  - 4h 振幅 5.98%
+- SHARE | 分数 30.89 | Alpha Trade 成交额 713729.07 | 波动 0.32% | 4h 振幅 6.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 713,729，流动性 1,215,147
+  - Alpha 列表口径 24h 成交额 3,473,992
+  - 短周期波动 0.32%
+  - 4h 振幅 6.64%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -53,12 +53,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Further Postponed
-- Latest Activities：Binance Wallet Perpetual Trading Competition: Trade BTWUSDT Perpetuals and Share $50K Worth of Rewards
+- Latest Activities：Binance Card: Enjoy 50% Cashback on Everyday Spending!
 
 ### 最近 Alpha 上线
 
-- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 14090158.80
-- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 7465063.87
+- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 14597840.68
+- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 6271068.09
 
 ### New Cryptocurrency Listing
 
@@ -80,12 +80,12 @@
 
 ### Latest Activities
 
+- [Binance Card: Enjoy 50% Cashback on Everyday Spending!](https://www.binance.com/en/support/announcement/detail/bc4c1ad00cf2407585cea88267d6b52a)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [Binance Wallet Perpetual Trading Competition: Trade BTWUSDT Perpetuals and Share $50K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/200f578fd45a444b86a4ae606e610b43)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [LAYER Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/95c45dbd9cbf45638e3a4e77e80997f0)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Enjoy 0 Fees and 1% Cashback for DKK Deposits on Binance](https://www.binance.com/en/support/announcement/detail/f6de7292f05f4f2889e584ee56489929)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to launch an exclusive offer for…
 
 ## Warnings
 
