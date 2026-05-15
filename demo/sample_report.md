@@ -1,47 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-15T07:38:37.169420+00:00
+- 生成时间：2026-05-15T10:05:59.872176+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：718212771.29
+- 四倍分 24h 总成交额：866811028.60
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：87587（按 8200 / 人）
+- 估算参与人数：105709（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 376041312.29 | 列表口径 24719296.25 | 涨跌 33.11% | 振幅 43.04% | 估算人数 45859
-- OPG | Alpha Trade 成交额 340435282.16 | 列表口径 9457875.50 | 涨跌 14.18% | 振幅 19.93% | 估算人数 41516
-- B2 | Alpha Trade 成交额 820165.04 | 列表口径 2385862.87 | 涨跌 -2.72% | 振幅 6.31% | 估算人数 100
-- SHARE | Alpha Trade 成交额 713729.07 | 列表口径 3473991.84 | 涨跌 -2.58% | 振幅 14.46% | 估算人数 87
-- UAI | Alpha Trade 成交额 99392.35 | 列表口径 569966.24 | 涨跌 -2.15% | 振幅 9.26% | 估算人数 12
-- TAC | Alpha Trade 成交额 53451.67 | 列表口径 2110964.88 | 涨跌 27.61% | 振幅 42.09% | 估算人数 7
-- BR | Alpha Trade 成交额 46576.70 | 列表口径 27790.91 | 涨跌 -1.69% | 振幅 7.25% | 估算人数 6
-- CARV | Alpha Trade 成交额 2862.00 | 列表口径 75506.93 | 涨跌 0.17% | 振幅 4.54% | 估算人数 0
+- BILL | Alpha Trade 成交额 436842016.86 | 列表口径 25081482.02 | 涨跌 23.39% | 振幅 35.35% | 估算人数 53273
+- OPG | Alpha Trade 成交额 428566748.53 | 列表口径 10348468.53 | 涨跌 9.21% | 振幅 19.62% | 估算人数 52264
+- SHARE | Alpha Trade 成交额 759437.89 | 列表口径 3396403.95 | 涨跌 -0.64% | 振幅 14.46% | 估算人数 93
+- B2 | Alpha Trade 成交额 438901.41 | 列表口径 1566480.73 | 涨跌 -2.01% | 振幅 5.40% | 估算人数 54
+- UAI | Alpha Trade 成交额 92923.02 | 列表口径 537493.78 | 涨跌 -3.25% | 振幅 9.26% | 估算人数 11
+- TAC | Alpha Trade 成交额 63028.40 | 列表口径 2209334.61 | 涨跌 22.87% | 振幅 40.73% | 估算人数 8
+- BR | Alpha Trade 成交额 45046.35 | 列表口径 26361.92 | 涨跌 -2.82% | 振幅 5.44% | 估算人数 5
+- CARV | Alpha Trade 成交额 2926.12 | 列表口径 78514.70 | 涨跌 0.06% | 振幅 4.54% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BILL | 分数 66.00 | Alpha Trade 成交额 376041312.29 | 波动 0.77% | 4h 振幅 7.41% | 审计 MID
-  - Alpha Trade 24h 成交额 376,041,312，流动性 2,612,671
-  - Alpha 列表口径 24h 成交额 24,719,296
-  - 短周期波动 0.77%
-  - 4h 振幅 7.41%
+- BILL | 分数 66.00 | Alpha Trade 成交额 436842016.86 | 波动 0.96% | 4h 振幅 12.92% | 审计 MID
+  - Alpha Trade 24h 成交额 436,842,017，流动性 2,612,511
+  - Alpha 列表口径 24h 成交额 25,081,482
+  - 短周期波动 0.96%
+  - 4h 振幅 12.92%
   - 审计风险 MID
-- OPG | 分数 52.70 | Alpha Trade 成交额 340435282.16 | 波动 0.62% | 4h 振幅 4.05% | 审计 LOW
-  - Alpha Trade 24h 成交额 340,435,282，流动性 1,552,853
-  - Alpha 列表口径 24h 成交额 9,457,875
-  - 短周期波动 0.62%
-  - 4h 振幅 4.05%
+- OPG | 分数 59.07 | Alpha Trade 成交额 428566748.53 | 波动 0.61% | 4h 振幅 8.96% | 审计 LOW
+  - Alpha Trade 24h 成交额 428,566,749，流动性 1,507,841
+  - Alpha 列表口径 24h 成交额 10,348,469
+  - 短周期波动 0.61%
+  - 4h 振幅 8.96%
   - 审计风险 LOW
-- B2 | 分数 51.86 | Alpha Trade 成交额 820165.04 | 波动 0.24% | 4h 振幅 2.09% | 审计 LOW
-  - Alpha Trade 24h 成交额 820,165，流动性 1,012,325
-  - Alpha 列表口径 24h 成交额 2,385,863
-  - 短周期波动 0.24%
-  - 4h 振幅 2.09%
-  - 审计风险 LOW
-- SHARE | 分数 30.89 | Alpha Trade 成交额 713729.07 | 波动 0.32% | 4h 振幅 6.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 713,729，流动性 1,215,147
-  - Alpha 列表口径 24h 成交额 3,473,992
-  - 短周期波动 0.32%
-  - 4h 振幅 6.64%
+- SHARE | 分数 40.00 | Alpha Trade 成交额 759437.89 | 波动 0.44% | 4h 振幅 6.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 759,438，流动性 1,220,923
+  - Alpha 列表口径 24h 成交额 3,396,404
+  - 短周期波动 0.44%
+  - 4h 振幅 6.11%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -53,12 +47,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Further Postponed
-- Latest Activities：Binance Card: Enjoy 50% Cashback on Everyday Spending!
+- Latest Activities：MENA Nations Cup - Fan Points Airdrop: Team Up with Binance, Share 60,000 USDC Rewards and Unlock VIP Benefits
 
 ### 最近 Alpha 上线
 
-- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 14597840.68
-- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 6271068.09
+- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 5214972.44
+- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 5666874.25
 
 ### New Cryptocurrency Listing
 
@@ -80,12 +74,12 @@
 
 ### Latest Activities
 
+- [MENA Nations Cup - Fan Points Airdrop: Team Up with Binance, Share 60,000 USDC Rewards and Unlock VIP Benefits](https://www.binance.com/en/support/announcement/detail/1f121982fa274ff2b2cc5c0b6ea11188)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the MENA Nations Cup - Fan Points Aird…
 - [Binance Card: Enjoy 50% Cashback on Everyday Spending!](https://www.binance.com/en/support/announcement/detail/bc4c1ad00cf2407585cea88267d6b52a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [Binance Wallet Perpetual Trading Competition: Trade BTWUSDT Perpetuals and Share $50K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/200f578fd45a444b86a4ae606e610b43)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [LAYER Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/95c45dbd9cbf45638e3a4e77e80997f0)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
