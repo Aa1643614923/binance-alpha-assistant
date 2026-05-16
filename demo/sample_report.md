@@ -1,45 +1,45 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-16T04:53:39.048214+00:00
+- 生成时间：2026-05-16T07:13:32.392367+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1331670011.84
+- 四倍分 24h 总成交额：1289842356.60
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：162399（按 8200 / 人）
+- 估算参与人数：157298（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 910037229.98 | 列表口径 11303277.91 | 涨跌 -11.45% | 振幅 16.65% | 估算人数 110980
-- BILL | Alpha Trade 成交额 420193438.27 | 列表口径 23672694.64 | 涨跌 -25.19% | 振幅 47.66% | 估算人数 51243
-- SHARE | Alpha Trade 成交额 716321.68 | 列表口径 1881208.15 | 涨跌 -2.62% | 振幅 12.19% | 估算人数 87
-- B2 | Alpha Trade 成交额 585969.32 | 列表口径 1964099.47 | 涨跌 1.19% | 振幅 10.05% | 估算人数 71
-- UAI | Alpha Trade 成交额 81333.23 | 列表口径 621412.23 | 涨跌 -4.29% | 振幅 6.20% | 估算人数 10
-- BR | Alpha Trade 成交额 55719.36 | 列表口径 42754.53 | 涨跌 1.10% | 振幅 8.35% | 估算人数 7
+- OPG | Alpha Trade 成交额 921717040.72 | 列表口径 12295257.86 | 涨跌 -17.16% | 振幅 23.00% | 估算人数 112405
+- BILL | Alpha Trade 成交额 366761056.84 | 列表口径 24153613.07 | 涨跌 -23.57% | 振幅 52.49% | 估算人数 44727
+- SHARE | Alpha Trade 成交额 621489.78 | 列表口径 1741522.13 | 涨跌 -4.58% | 振幅 12.19% | 估算人数 76
+- B2 | Alpha Trade 成交额 597299.98 | 列表口径 2036460.99 | 涨跌 2.04% | 振幅 10.05% | 估算人数 73
+- UAI | Alpha Trade 成交额 89487.86 | 列表口径 633567.24 | 涨跌 -6.45% | 振幅 8.41% | 估算人数 11
+- BR | Alpha Trade 成交额 55981.42 | 列表口径 41879.73 | 涨跌 -4.07% | 振幅 8.35% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- OPG | 分数 70.25 | Alpha Trade 成交额 910037229.98 | 波动 0.32% | 4h 振幅 5.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 910,037,230，流动性 1,456,204
-  - Alpha 列表口径 24h 成交额 11,303,278
-  - 短周期波动 0.32%
-  - 4h 振幅 5.16%
+- OPG | 分数 57.28 | Alpha Trade 成交额 921717040.72 | 波动 0.47% | 4h 振幅 8.74% | 审计 LOW
+  - Alpha Trade 24h 成交额 921,717,041，流动性 1,417,550
+  - Alpha 列表口径 24h 成交额 12,295,258
+  - 短周期波动 0.47%
+  - 4h 振幅 8.74%
   - 审计风险 LOW
-- BILL | 分数 52.53 | Alpha Trade 成交额 420193438.27 | 波动 1.02% | 4h 振幅 13.07% | 审计 MID
-  - Alpha Trade 24h 成交额 420,193,438，流动性 2,446,634
-  - Alpha 列表口径 24h 成交额 23,672,695
-  - 短周期波动 1.02%
-  - 4h 振幅 13.07%
+- BILL | 分数 50.94 | Alpha Trade 成交额 366761056.84 | 波动 1.06% | 4h 振幅 9.73% | 审计 MID
+  - Alpha Trade 24h 成交额 366,761,057，流动性 2,437,098
+  - Alpha 列表口径 24h 成交额 24,153,613
+  - 短周期波动 1.06%
+  - 4h 振幅 9.73%
   - 审计风险 MID
-- B2 | 分数 45.71 | Alpha Trade 成交额 585969.32 | 波动 0.45% | 4h 振幅 5.32% | 审计 LOW
-  - Alpha Trade 24h 成交额 585,969，流动性 1,005,907
-  - Alpha 列表口径 24h 成交额 1,964,099
-  - 短周期波动 0.45%
-  - 4h 振幅 5.32%
+- B2 | 分数 46.83 | Alpha Trade 成交额 597299.98 | 波动 0.35% | 4h 振幅 3.33% | 审计 LOW
+  - Alpha Trade 24h 成交额 597,300，流动性 1,002,987
+  - Alpha 列表口径 24h 成交额 2,036,461
+  - 短周期波动 0.35%
+  - 4h 振幅 3.33%
   - 审计风险 LOW
-- SHARE | 分数 41.88 | Alpha Trade 成交额 716321.68 | 波动 0.33% | 4h 振幅 3.04% | 审计 LOW
-  - Alpha Trade 24h 成交额 716,322，流动性 1,171,672
-  - Alpha 列表口径 24h 成交额 1,881,208
-  - 短周期波动 0.33%
-  - 4h 振幅 3.04%
+- SHARE | 分数 42.43 | Alpha Trade 成交额 621489.78 | 波动 0.22% | 4h 振幅 1.89% | 审计 LOW
+  - Alpha Trade 24h 成交额 621,490，流动性 1,176,986
+  - Alpha 列表口径 24h 成交额 1,741,522
+  - 短周期波动 0.22%
+  - 4h 振幅 1.89%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -49,23 +49,23 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 0 个。
-- 官方最新上新关注：Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin
+- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)
 - Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Further Postponed
 - Latest Activities：Irys Trading Competition: Trade Irys (IRYS) and Share $200K Worth of Rewards (2026-05-15)
 
 ### 最近 Alpha 上线
 
-- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 1863998.20
-- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 4817791.12
+- BABYSHARK | 1x | 上线 2026-05-14T08:00:00+00:00 | 24h 成交额 1554984.77
+- PHAROS | 2x | 上线 2026-05-13T15:00:00+00:00 | 24h 成交额 4070113.96
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-18)](https://www.binance.com/en/support/announcement/detail/6253a74ac0734740bdf36864584d1bd1)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add Gensyn (AIGENSYN) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/en/support/announcement/detail/875f9acd516c443b8752e800aa94b4b1)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Gensyn (AI…
 - [Binance Futures Will Launch USDⓈ-Margined BTCUSD1 Perpetual Contract (2026-05-18)](https://www.binance.com/en/support/announcement/detail/5a6284dbe6a7420b85a94054b6fb6613)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/71f44e5e014c445697bb6a6f70315e35)
-  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
 
 ### Latest Binance News
 
