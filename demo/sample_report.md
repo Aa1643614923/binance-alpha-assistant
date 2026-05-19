@@ -1,33 +1,33 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-19T01:51:34.047508+00:00
+- 生成时间：2026-05-19T06:01:27.755900+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1402924508.86
+- 四倍分 24h 总成交额：1444506013.92
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：171088（按 8200 / 人）
+- 估算参与人数：176159（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 1028107244.94 | 列表口径 47299624.75 | 涨跌 2.73% | 振幅 47.41% | 估算人数 125379
-- BILL | Alpha Trade 成交额 374019895.92 | 列表口径 17476599.29 | 涨跌 -15.21% | 振幅 23.52% | 估算人数 45612
-- UAI | Alpha Trade 成交额 351830.90 | 列表口径 1930669.58 | 涨跌 1.60% | 振幅 12.21% | 估算人数 43
-- SHARE | Alpha Trade 成交额 241937.27 | 列表口径 1600928.43 | 涨跌 -8.83% | 振幅 13.98% | 估算人数 30
-- B2 | Alpha Trade 成交额 189620.12 | 列表口径 1005930.03 | 涨跌 0.71% | 振幅 4.86% | 估算人数 23
-- BR | Alpha Trade 成交额 13979.71 | 列表口径 30389.09 | 涨跌 -2.34% | 振幅 7.30% | 估算人数 2
+- OPG | Alpha Trade 成交额 1028232262.01 | 列表口径 37612603.29 | 涨跌 -2.96% | 振幅 47.41% | 估算人数 125394
+- BILL | Alpha Trade 成交额 415511001.27 | 列表口径 19156611.96 | 涨跌 -11.46% | 振幅 31.29% | 估算人数 50672
+- UAI | Alpha Trade 成交额 364459.42 | 列表口径 2002954.58 | 涨跌 -3.37% | 振幅 12.64% | 估算人数 44
+- SHARE | Alpha Trade 成交额 201220.53 | 列表口径 1474080.21 | 涨跌 -6.89% | 振幅 10.52% | 估算人数 25
+- B2 | Alpha Trade 成交额 184174.30 | 列表口径 1152733.98 | 涨跌 2.12% | 振幅 6.38% | 估算人数 22
+- BR | Alpha Trade 成交额 12896.38 | 列表口径 26253.84 | 涨跌 -2.72% | 振幅 7.30% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- OPG | 分数 65.00 | Alpha Trade 成交额 1028107244.94 | 波动 0.31% | 4h 振幅 3.24% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,028,107,245，流动性 1,486,805
-  - Alpha 列表口径 24h 成交额 47,299,625
-  - 短周期波动 0.31%
-  - 4h 振幅 3.24%
+- OPG | 分数 65.00 | Alpha Trade 成交额 1028232262.01 | 波动 0.33% | 4h 振幅 3.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,028,232,262，流动性 1,468,179
+  - Alpha 列表口径 24h 成交额 37,612,603
+  - 短周期波动 0.33%
+  - 4h 振幅 3.42%
   - 审计风险 LOW
-- BILL | 分数 41.00 | Alpha Trade 成交额 374019895.92 | 波动 1.00% | 4h 振幅 15.83% | 审计 MID
-  - Alpha Trade 24h 成交额 374,019,896，流动性 2,373,709
-  - Alpha 列表口径 24h 成交额 17,476,599
-  - 短周期波动 1.00%
-  - 4h 振幅 15.83%
+- BILL | 分数 41.00 | Alpha Trade 成交额 415511001.27 | 波动 0.84% | 4h 振幅 9.14% | 审计 MID
+  - Alpha Trade 24h 成交额 415,511,001，流动性 2,340,552
+  - Alpha 列表口径 24h 成交额 19,156,612
+  - 短周期波动 0.84%
+  - 4h 振幅 9.14%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -37,7 +37,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch CBRSUSDT USDⓈ-Margined TradFi Perpetual Contract (2026-05-19)
-- Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Further Postponed
+- Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-22)
 - Latest Activities：Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!
 
 ### 最近 Alpha 上线
@@ -54,12 +54,12 @@
 
 ### Latest Binance News
 
+- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-22)](https://www.binance.com/en/support/announcement/detail/7a9deab7bcad40a69dd61734a577387e)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 - [Gensyn (AIGENSYN) Listing Will Be Further Postponed](https://www.binance.com/en/support/announcement/detail/5adac817d3a44e0e991701cf02153ed1)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Due to an issue with the project team’s deposit node…
 - [Gensyn (AIGENSYN) Listing Will Be Postponed](https://www.binance.com/en/support/announcement/detail/44c4a778b9904d75ba241dab1dd60109)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The trading start time for Gensyn (AIGENSYN) , origi…
-- [Binance Trading Bot Will Support TradFi Perps For Futures Grid, Futures DCA and Position Snowball (2026-05-14)](https://www.binance.com/en/support/announcement/detail/11c97125d6344da4b2e9716df82a9386)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To enhance users’ trading bot strategies with greate…
 
 ### Latest Activities
 
