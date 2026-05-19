@@ -1,33 +1,33 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-18T23:47:17.862578+00:00
+- 生成时间：2026-05-19T01:51:34.047508+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1384318236.04
+- 四倍分 24h 总成交额：1402924508.86
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：168819（按 8200 / 人）
+- 估算参与人数：171088（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 1016105949.83 | 列表口径 48828388.55 | 涨跌 1.16% | 振幅 47.41% | 估算人数 123915
-- BILL | Alpha Trade 成交额 367439310.48 | 列表口径 17064901.99 | 涨跌 -4.12% | 振幅 22.10% | 估算人数 44810
-- UAI | Alpha Trade 成交额 340926.48 | 列表口径 2061450.74 | 涨跌 7.34% | 振幅 12.93% | 估算人数 42
-- SHARE | Alpha Trade 成交额 260205.45 | 列表口径 1616191.97 | 涨跌 -6.77% | 振幅 13.98% | 估算人数 32
-- B2 | Alpha Trade 成交额 157730.23 | 列表口径 947201.79 | 涨跌 -0.68% | 振幅 3.96% | 估算人数 19
-- BR | Alpha Trade 成交额 14113.58 | 列表口径 36176.34 | 涨跌 -0.67% | 振幅 7.30% | 估算人数 2
+- OPG | Alpha Trade 成交额 1028107244.94 | 列表口径 47299624.75 | 涨跌 2.73% | 振幅 47.41% | 估算人数 125379
+- BILL | Alpha Trade 成交额 374019895.92 | 列表口径 17476599.29 | 涨跌 -15.21% | 振幅 23.52% | 估算人数 45612
+- UAI | Alpha Trade 成交额 351830.90 | 列表口径 1930669.58 | 涨跌 1.60% | 振幅 12.21% | 估算人数 43
+- SHARE | Alpha Trade 成交额 241937.27 | 列表口径 1600928.43 | 涨跌 -8.83% | 振幅 13.98% | 估算人数 30
+- B2 | Alpha Trade 成交额 189620.12 | 列表口径 1005930.03 | 涨跌 0.71% | 振幅 4.86% | 估算人数 23
+- BR | Alpha Trade 成交额 13979.71 | 列表口径 30389.09 | 涨跌 -2.34% | 振幅 7.30% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- OPG | 分数 65.00 | Alpha Trade 成交额 1016105949.83 | 波动 0.29% | 4h 振幅 2.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,016,105,950，流动性 1,470,583
-  - Alpha 列表口径 24h 成交额 48,828,389
-  - 短周期波动 0.29%
-  - 4h 振幅 2.46%
+- OPG | 分数 65.00 | Alpha Trade 成交额 1028107244.94 | 波动 0.31% | 4h 振幅 3.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,028,107,245，流动性 1,486,805
+  - Alpha 列表口径 24h 成交额 47,299,625
+  - 短周期波动 0.31%
+  - 4h 振幅 3.24%
   - 审计风险 LOW
-- BILL | 分数 41.00 | Alpha Trade 成交额 367439310.48 | 波动 0.65% | 4h 振幅 5.35% | 审计 MID
-  - Alpha Trade 24h 成交额 367,439,310，流动性 2,440,348
-  - Alpha 列表口径 24h 成交额 17,064,902
-  - 短周期波动 0.65%
-  - 4h 振幅 5.35%
+- BILL | 分数 41.00 | Alpha Trade 成交额 374019895.92 | 波动 1.00% | 4h 振幅 15.83% | 审计 MID
+  - Alpha Trade 24h 成交额 374,019,896，流动性 2,373,709
+  - Alpha 列表口径 24h 成交额 17,476,599
+  - 短周期波动 1.00%
+  - 4h 振幅 15.83%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -38,7 +38,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch CBRSUSDT USDⓈ-Margined TradFi Perpetual Contract (2026-05-19)
 - Latest Binance News：Gensyn (AIGENSYN) Listing Will Be Further Postponed
-- Latest Activities：Binance Wallet Launches a “Double Waiver” Promotion for ONDO Tokenized Securities: Zero Service Fees & Zero On-Chain Gas Fees
+- Latest Activities：Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!
 
 ### 最近 Alpha 上线
 
@@ -63,12 +63,12 @@
 
 ### Latest Activities
 
+- [Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!](https://www.binance.com/en/support/announcement/detail/f7f900db713e47cfa4debc6daa463484)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Pakistan’s biggest crypto personalities are going he…
+- [Join the Binance Pakistan Referrals Championship to Share 30,000 USDT](https://www.binance.com/en/support/announcement/detail/ade08dbb9a864b05a6c17938de0cb775)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is calling all community leaders, influencer…
 - [Binance Wallet Launches a “Double Waiver” Promotion for ONDO Tokenized Securities: Zero Service Fees & Zero On-Chain Gas Fees](https://www.binance.com/en/support/announcement/detail/885bf400aeb84ae58cdb5ebc99469e2e)
   - This is a general announcement. Products and services mentioned here may not be available in your region. Fellow Binancians, Binance Wallet will launch a Double Fee Waiver Promoti…
-- [Binance Earn: Enjoy Up to 8% APR with U Flexible Products (2026-05-19)](https://www.binance.com/en/support/announcement/detail/8afaeead63be4e60a7761ce2985c3f7e)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [Word of the Day: Test Your Knowledge on “Binance Pizza Day” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/b7fb47cf332e4c9f88845d5029cf8477)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 
 ## Warnings
 
