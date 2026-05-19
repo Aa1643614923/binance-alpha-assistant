@@ -1,33 +1,33 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-19T06:01:27.755900+00:00
+- 生成时间：2026-05-19T10:03:01.732943+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1444506013.92
+- 四倍分 24h 总成交额：1505070115.11
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：176159（按 8200 / 人）
+- 估算参与人数：183545（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 1028232262.01 | 列表口径 37612603.29 | 涨跌 -2.96% | 振幅 47.41% | 估算人数 125394
-- BILL | Alpha Trade 成交额 415511001.27 | 列表口径 19156611.96 | 涨跌 -11.46% | 振幅 31.29% | 估算人数 50672
-- UAI | Alpha Trade 成交额 364459.42 | 列表口径 2002954.58 | 涨跌 -3.37% | 振幅 12.64% | 估算人数 44
-- SHARE | Alpha Trade 成交额 201220.53 | 列表口径 1474080.21 | 涨跌 -6.89% | 振幅 10.52% | 估算人数 25
-- B2 | Alpha Trade 成交额 184174.30 | 列表口径 1152733.98 | 涨跌 2.12% | 振幅 6.38% | 估算人数 22
-- BR | Alpha Trade 成交额 12896.38 | 列表口径 26253.84 | 涨跌 -2.72% | 振幅 7.30% | 估算人数 2
+- OPG | Alpha Trade 成交额 1037595672.66 | 列表口径 10188459.43 | 涨跌 -3.39% | 振幅 47.14% | 估算人数 126536
+- BILL | Alpha Trade 成交额 466803061.07 | 列表口径 17831323.77 | 涨跌 -14.64% | 振幅 42.97% | 估算人数 56927
+- UAI | Alpha Trade 成交额 347227.03 | 列表口径 2138678.79 | 涨跌 4.03% | 振幅 12.64% | 估算人数 42
+- SHARE | Alpha Trade 成交额 170202.50 | 列表口径 1341180.69 | 涨跌 -7.12% | 振幅 8.83% | 估算人数 21
+- B2 | Alpha Trade 成交额 144266.40 | 列表口径 1194755.43 | 涨跌 2.85% | 振幅 5.26% | 估算人数 18
+- BR | Alpha Trade 成交额 9685.45 | 列表口径 25584.94 | 涨跌 -2.46% | 振幅 6.17% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- OPG | 分数 65.00 | Alpha Trade 成交额 1028232262.01 | 波动 0.33% | 4h 振幅 3.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,028,232,262，流动性 1,468,179
-  - Alpha 列表口径 24h 成交额 37,612,603
+- OPG | 分数 65.00 | Alpha Trade 成交额 1037595672.66 | 波动 0.33% | 4h 振幅 5.37% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,037,595,673，流动性 1,446,692
+  - Alpha 列表口径 24h 成交额 10,188,459
   - 短周期波动 0.33%
-  - 4h 振幅 3.42%
+  - 4h 振幅 5.37%
   - 审计风险 LOW
-- BILL | 分数 41.00 | Alpha Trade 成交额 415511001.27 | 波动 0.84% | 4h 振幅 9.14% | 审计 MID
-  - Alpha Trade 24h 成交额 415,511,001，流动性 2,340,552
-  - Alpha 列表口径 24h 成交额 19,156,612
-  - 短周期波动 0.84%
-  - 4h 振幅 9.14%
+- BILL | 分数 41.00 | Alpha Trade 成交额 466803061.07 | 波动 0.85% | 4h 振幅 11.24% | 审计 MID
+  - Alpha Trade 24h 成交额 466,803,061，流动性 2,299,704
+  - Alpha 列表口径 24h 成交额 17,831,324
+  - 短周期波动 0.85%
+  - 4h 振幅 11.24%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -38,7 +38,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch CBRSUSDT USDⓈ-Margined TradFi Perpetual Contract (2026-05-19)
 - Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-22)
-- Latest Activities：Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!
+- Latest Activities：Grab a Share of 50,000 USDC Rewards on CreatorPad!
 
 ### 最近 Alpha 上线
 
@@ -63,12 +63,12 @@
 
 ### Latest Activities
 
+- [Grab a Share of 50,000 USDC Rewards on CreatorPad!](https://www.binance.com/en/support/announcement/detail/e9821f5759ab492ab8b5011af8581bf7)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Binance Square i…
 - [Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!](https://www.binance.com/en/support/announcement/detail/f7f900db713e47cfa4debc6daa463484)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Pakistan’s biggest crypto personalities are going he…
 - [Join the Binance Pakistan Referrals Championship to Share 30,000 USDT](https://www.binance.com/en/support/announcement/detail/ade08dbb9a864b05a6c17938de0cb775)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is calling all community leaders, influencer…
-- [Binance Wallet Launches a “Double Waiver” Promotion for ONDO Tokenized Securities: Zero Service Fees & Zero On-Chain Gas Fees](https://www.binance.com/en/support/announcement/detail/885bf400aeb84ae58cdb5ebc99469e2e)
-  - This is a general announcement. Products and services mentioned here may not be available in your region. Fellow Binancians, Binance Wallet will launch a Double Fee Waiver Promoti…
 
 ## Warnings
 
