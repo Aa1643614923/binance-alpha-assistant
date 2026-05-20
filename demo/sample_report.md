@@ -1,40 +1,40 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-20T08:01:15.892769+00:00
+- 生成时间：2026-05-20T11:17:41.514476+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1309962514.59
+- 四倍分 24h 总成交额：1291245332.18
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：159752（按 8200 / 人）
+- 估算参与人数：157469（按 8200 / 人）
 
 ## 四倍分代币
 
-- OPG | Alpha Trade 成交额 1032035141.29 | 列表口径 9239605.91 | 涨跌 -3.40% | 振幅 6.36% | 估算人数 125858
-- BILL | Alpha Trade 成交额 249407016.02 | 列表口径 12498958.65 | 涨跌 -7.37% | 振幅 36.97% | 估算人数 30415
-- ZEST | Alpha Trade 成交额 28159270.68 | 列表口径 82873500.01 | 涨跌 669.61% | 振幅 1153.45% | 估算人数 3434
-- SHARE | Alpha Trade 成交额 147633.62 | 列表口径 1420942.50 | 涨跌 -11.40% | 振幅 13.54% | 估算人数 18
-- B2 | Alpha Trade 成交额 108349.86 | 列表口径 1730462.83 | 涨跌 -0.03% | 振幅 5.29% | 估算人数 13
-- UAI | Alpha Trade 成交额 75811.37 | 列表口径 1017288.47 | 涨跌 -1.47% | 振幅 7.03% | 估算人数 9
-- BR | Alpha Trade 成交额 29291.76 | 列表口径 36815.67 | 涨跌 -1.92% | 振幅 11.96% | 估算人数 4
+- OPG | Alpha Trade 成交额 1033299374.90 | 列表口径 9583361.72 | 涨跌 -2.22% | 振幅 4.56% | 估算人数 126012
+- BILL | Alpha Trade 成交额 226389312.71 | 列表口径 13272028.42 | 涨跌 -8.62% | 振幅 36.97% | 估算人数 27608
+- ZEST | Alpha Trade 成交额 31226023.08 | 列表口径 91287384.20 | 涨跌 613.00% | 振幅 1153.45% | 估算人数 3808
+- SHARE | Alpha Trade 成交额 142010.18 | 列表口径 1483165.91 | 涨跌 -9.78% | 振幅 11.45% | 估算人数 17
+- B2 | Alpha Trade 成交额 84456.99 | 列表口径 1604300.11 | 涨跌 -1.62% | 振幅 5.29% | 估算人数 10
+- UAI | Alpha Trade 成交额 65582.98 | 列表口径 827257.27 | 涨跌 -3.21% | 振幅 6.52% | 估算人数 8
+- BR | Alpha Trade 成交额 38571.33 | 列表口径 41472.15 | 涨跌 -2.69% | 振幅 15.83% | 估算人数 5
 
 ## 稳定刷分推荐
 
-- OPG | 分数 66.50 | Alpha Trade 成交额 1032035141.29 | 波动 0.22% | 4h 振幅 1.68% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,032,035,141，流动性 1,435,810
-  - Alpha 列表口径 24h 成交额 9,239,606
-  - 短周期波动 0.22%
-  - 4h 振幅 1.68%
+- OPG | 分数 66.48 | Alpha Trade 成交额 1033299374.90 | 波动 0.26% | 4h 振幅 3.30% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,033,299,375，流动性 1,415,951
+  - Alpha 列表口径 24h 成交额 9,583,362
+  - 短周期波动 0.26%
+  - 4h 振幅 3.30%
   - 审计风险 LOW
-- BILL | 分数 62.95 | Alpha Trade 成交额 249407016.02 | 波动 0.79% | 4h 振幅 7.48% | 审计 MID
-  - Alpha Trade 24h 成交额 249,407,016，流动性 2,180,203
-  - Alpha 列表口径 24h 成交额 12,498,959
-  - 短周期波动 0.79%
-  - 4h 振幅 7.48%
+- BILL | 分数 58.26 | Alpha Trade 成交额 226389312.71 | 波动 1.16% | 4h 振幅 9.04% | 审计 MID
+  - Alpha Trade 24h 成交额 226,389,313，流动性 2,180,160
+  - Alpha 列表口径 24h 成交额 13,272,028
+  - 短周期波动 1.16%
+  - 4h 振幅 9.04%
   - 审计风险 MID
-- ZEST | 分数 30.00 | Alpha Trade 成交额 28159270.68 | 波动 2.59% | 4h 振幅 27.67% | 审计 LOW
-  - Alpha Trade 24h 成交额 28,159,271，流动性 2,542,056
-  - Alpha 列表口径 24h 成交额 82,873,500
-  - 短周期波动 2.59%
-  - 4h 振幅 27.67%
+- ZEST | 分数 30.00 | Alpha Trade 成交额 31226023.08 | 波动 2.53% | 4h 振幅 20.49% | 审计 LOW
+  - Alpha Trade 24h 成交额 31,226,023，流动性 2,537,167
+  - Alpha 列表口径 24h 成交额 91,287,384
+  - 短周期波动 2.53%
+  - 4h 振幅 20.49%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -46,11 +46,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch CBRSUSDT USDⓈ-Margined TradFi Perpetual Contract (2026-05-19)
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-20)
-- Latest Activities：Bitcoin Pizza Day New Miner Special: Mine, Collect Pizza Slices & Share USDC Rewards!
+- Latest Activities：Pharos Trading Competition: Trade Pharos (PROS) and Share $200K Worth of Rewards (2026-05-20)
 
 ### 最近 Alpha 上线
 
-- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 82873500.01
+- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 91287384.20
 
 ### New Cryptocurrency Listing
 
@@ -72,12 +72,12 @@
 
 ### Latest Activities
 
+- [Pharos Trading Competition: Trade Pharos (PROS) and Share $200K Worth of Rewards (2026-05-20)](https://www.binance.com/en/support/announcement/detail/53955422b73546ba8eff646c69c8e64f)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
+- [ALT Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/9c1b1376ee9f4858827fd75c7888f932)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Bitcoin Pizza Day New Miner Special: Mine, Collect Pizza Slices & Share USDC Rewards!](https://www.binance.com/en/support/announcement/detail/1116de17858d4a728bc35652b2db3d02)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Pool is ex…
-- [Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 2](https://www.binance.com/en/support/announcement/detail/0f5052a81d0c47e1bbea498f126cb3c7)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
-- [Block Street Trading Competition: Trade Block Street (BSB) and Share $100K Worth of Rewards (2026-05-19)](https://www.binance.com/en/support/announcement/detail/e8ec43cff15b40abb19bfc6bc4eb3c44)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
