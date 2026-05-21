@@ -1,40 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-21T11:42:51.534081+00:00
-- 四倍分代币数：7
-- 四倍分 24h 总成交额：748652975.13
+- 生成时间：2026-05-21T14:27:32.967613+00:00
+- 四倍分代币数：8
+- 四倍分 24h 总成交额：911798596.69
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：91299（按 8200 / 人）
+- 估算参与人数：111195（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 698635796.50 | 列表口径 10799091.11 | 涨跌 -30.34% | 振幅 51.08% | 估算人数 85199
-- NEX | Alpha Trade 成交额 37889336.72 | 列表口径 79197978.50 | 涨跌 291.78% | 振幅 465.05% | 估算人数 4621
-- ZEST | Alpha Trade 成交额 11431999.60 | 列表口径 29408455.78 | 涨跌 -13.37% | 振幅 57.64% | 估算人数 1394
-- SHARE | Alpha Trade 成交额 282037.00 | 列表口径 2518599.59 | 涨跌 6.70% | 振幅 12.34% | 估算人数 34
-- UAI | Alpha Trade 成交额 223368.06 | 列表口径 2110393.24 | 涨跌 7.74% | 振幅 22.55% | 估算人数 27
-- B2 | Alpha Trade 成交额 117281.09 | 列表口径 930135.04 | 涨跌 0.56% | 振幅 2.71% | 估算人数 14
-- BR | Alpha Trade 成交额 73156.15 | 列表口径 45705.41 | 涨跌 -1.09% | 振幅 9.91% | 估算人数 9
+- BILL | Alpha Trade 成交额 856258422.55 | 列表口径 11110527.63 | 涨跌 -26.23% | 振幅 46.06% | 估算人数 104422
+- NEX | Alpha Trade 成交额 42258138.55 | 列表口径 70418690.03 | 涨跌 26.14% | 振幅 170.99% | 估算人数 5153
+- ZEST | Alpha Trade 成交额 11535938.91 | 列表口径 29022427.73 | 涨跌 8.42% | 振幅 42.82% | 估算人数 1407
+- GWEI | Alpha Trade 成交额 1015639.10 | 列表口径 283478.44 | 涨跌 -15.73% | 振幅 37.87% | 估算人数 124
+- SHARE | Alpha Trade 成交额 288504.92 | 列表口径 2424504.79 | 涨跌 -4.74% | 振幅 10.91% | 估算人数 35
+- UAI | Alpha Trade 成交额 239567.49 | 列表口径 2107543.44 | 涨跌 5.55% | 振幅 18.02% | 估算人数 29
+- B2 | Alpha Trade 成交额 131562.61 | 列表口径 918495.01 | 涨跌 -0.09% | 振幅 2.83% | 估算人数 16
+- BR | Alpha Trade 成交额 70822.56 | 列表口径 36897.73 | 涨跌 -2.64% | 振幅 9.91% | 估算人数 9
 
 ## 稳定刷分推荐
 
-- BILL | 分数 82.13 | Alpha Trade 成交额 698635796.50 | 波动 0.82% | 4h 振幅 11.80% | 审计 MID
-  - Alpha Trade 24h 成交额 698,635,797，流动性 2,006,510
-  - Alpha 列表口径 24h 成交额 10,799,091
-  - 短周期波动 0.82%
-  - 4h 振幅 11.80%
+- BILL | 分数 78.81 | Alpha Trade 成交额 856258422.55 | 波动 1.07% | 4h 振幅 6.80% | 审计 MID
+  - Alpha Trade 24h 成交额 856,258,423，流动性 1,996,119
+  - Alpha 列表口径 24h 成交额 11,110,528
+  - 短周期波动 1.07%
+  - 4h 振幅 6.80%
   - 审计风险 MID
-- ZEST | 分数 32.18 | Alpha Trade 成交额 11431999.60 | 波动 2.12% | 4h 振幅 28.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 11,432,000，流动性 2,399,864
-  - Alpha 列表口径 24h 成交额 29,408,456
-  - 短周期波动 2.12%
-  - 4h 振幅 28.46%
+- GWEI | 分数 37.92 | Alpha Trade 成交额 1015639.10 | 波动 0.61% | 4h 振幅 8.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,015,639，流动性 1,413,764
+  - Alpha 列表口径 24h 成交额 283,478
+  - 短周期波动 0.61%
+  - 4h 振幅 8.53%
   - 审计风险 LOW
-- NEX | 分数 11.29 | Alpha Trade 成交额 37889336.72 | 波动 2.14% | 4h 振幅 32.17% | 审计 LOW
-  - Alpha Trade 24h 成交额 37,889,337，流动性 1,832,671
-  - Alpha 列表口径 24h 成交额 79,197,979
-  - 短周期波动 2.14%
-  - 4h 振幅 32.17%
+- ZEST | 分数 30.31 | Alpha Trade 成交额 11535938.91 | 波动 1.63% | 4h 振幅 14.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,535,939，流动性 2,402,314
+  - Alpha 列表口径 24h 成交额 29,022,428
+  - 短周期波动 1.63%
+  - 4h 振幅 14.39%
+  - 审计风险 LOW
+- NEX | 分数 28.51 | Alpha Trade 成交额 42258138.55 | 波动 1.22% | 4h 振幅 13.96% | 审计 LOW
+  - Alpha Trade 24h 成交额 42,258,139，流动性 1,820,270
+  - Alpha 列表口径 24h 成交额 70,418,690
+  - 短周期波动 1.22%
+  - 4h 振幅 13.96%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -46,12 +53,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。
 - 官方最新上新关注：Introducing Gensyn (AIGENSYN) on Binance HODLer Airdrops! Earn AIGENSYN With Retroactive BNB Simple Earn Subscriptions
 - Latest Binance News：Important Updates on the Funding Rate of SPCXUSDT USDⓈ-M Futures Pre-IPO Perp (2026-05-21)
-- Latest Activities：ALLO Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
+- Latest Activities：Join the Bitcoin Pizza Day Community Activities: Share 8,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
-- NEX | 4x | 上线 2026-05-20T14:00:00+00:00 | 24h 成交额 79197978.50
-- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 29408455.78
+- NEX | 4x | 上线 2026-05-20T14:00:00+00:00 | 24h 成交额 70418690.03
+- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 29022427.73
 
 ### New Cryptocurrency Listing
 
@@ -73,15 +80,16 @@
 
 ### Latest Activities
 
+- [Join the Bitcoin Pizza Day Community Activities: Share 8,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/575b91fc8f49430a93ced66e6236b70d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Tomorrow we commemorate the first real-world B…
 - [ALLO Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/da0e08059ad64d40bf9743077bcbabbf)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Binance Square Live Trading Hub: Trade in Livestreams and Share 15,000 USDT in Rewards](https://www.binance.com/en/support/announcement/detail/d785efc87b1a4632a5f990d3eb7b68b8)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce a promotion to celebr…
-- [Pharos Trading Competition: Trade Pharos (PHAROS) and Share $200K Worth of Rewards (2026-05-20)](https://www.binance.com/en/support/announcement/detail/53955422b73546ba8eff646c69c8e64f)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
+- alpha_ticker:ALPHA_588U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_461U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_162U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_118U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
