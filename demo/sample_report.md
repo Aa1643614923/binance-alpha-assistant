@@ -1,41 +1,40 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-21T04:41:36.987302+00:00
-- 四倍分代币数：8
-- 四倍分 24h 总成交额：411333892.95
+- 生成时间：2026-05-21T08:21:47.631679+00:00
+- 四倍分代币数：7
+- 四倍分 24h 总成交额：581810045.58
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：50163（按 8200 / 人）
+- 估算参与人数：70952（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 373969768.00 | 列表口径 11345810.64 | 涨跌 -11.86% | 振幅 47.20% | 估算人数 45606
-- NEX | Alpha Trade 成交额 22750704.29 | 列表口径 64914735.02 | 涨跌 253.04% | 振幅 316.17% | 估算人数 2774
-- ZEST | Alpha Trade 成交额 14085921.82 | 列表口径 39372067.92 | 涨跌 -35.93% | 振幅 97.46% | 估算人数 1718
-- SHARE | Alpha Trade 成交额 208036.34 | 列表口径 2175193.36 | 涨跌 -2.58% | 振幅 12.34% | 估算人数 25
-- UAI | Alpha Trade 成交额 150972.32 | 列表口径 1755544.27 | 涨跌 18.97% | 振幅 22.44% | 估算人数 18
-- B2 | Alpha Trade 成交额 80527.71 | 列表口径 962180.51 | 涨跌 -1.65% | 振幅 3.09% | 估算人数 10
-- BR | Alpha Trade 成交额 59436.52 | 列表口径 55790.48 | 涨跌 -1.38% | 振幅 13.46% | 估算人数 7
-- GWEI | Alpha Trade 成交额 28525.95 | 列表口径 19277.81 | 涨跌 -5.31% | 振幅 24.49% | 估算人数 3
+- BILL | Alpha Trade 成交额 540290381.65 | 列表口径 12203127.51 | 涨跌 -29.90% | 振幅 52.59% | 估算人数 65889
+- NEX | Alpha Trade 成交额 29348061.17 | 列表口径 69386022.89 | 涨跌 289.95% | 振幅 316.17% | 估算人数 3579
+- ZEST | Alpha Trade 成交额 11594318.29 | 列表口径 31954639.88 | 涨跌 -26.48% | 振幅 58.44% | 估算人数 1414
+- SHARE | Alpha Trade 成交额 244533.66 | 列表口径 2319733.08 | 涨跌 1.31% | 振幅 12.34% | 估算人数 30
+- UAI | Alpha Trade 成交额 182306.38 | 列表口径 1929035.70 | 涨跌 17.05% | 振幅 22.55% | 估算人数 22
+- B2 | Alpha Trade 成交额 90816.30 | 列表口径 806698.03 | 涨跌 -0.29% | 振幅 2.35% | 估算人数 11
+- BR | Alpha Trade 成交额 59628.14 | 列表口径 50132.76 | 涨跌 -1.01% | 振幅 13.46% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- BILL | 分数 77.80 | Alpha Trade 成交额 373969768.00 | 波动 1.20% | 4h 振幅 16.53% | 审计 MID
-  - Alpha Trade 24h 成交额 373,969,768，流动性 2,082,637
-  - Alpha 列表口径 24h 成交额 11,345,811
-  - 短周期波动 1.20%
-  - 4h 振幅 16.53%
+- BILL | 分数 76.83 | Alpha Trade 成交额 540290381.65 | 波动 1.07% | 4h 振幅 18.32% | 审计 MID
+  - Alpha Trade 24h 成交额 540,290,382，流动性 2,035,852
+  - Alpha 列表口径 24h 成交额 12,203,128
+  - 短周期波动 1.07%
+  - 4h 振幅 18.32%
   - 审计风险 MID
-- ZEST | 分数 60.00 | Alpha Trade 成交额 14085921.82 | 波动 1.16% | 4h 振幅 11.29% | 审计 LOW
-  - Alpha Trade 24h 成交额 14,085,922，流动性 2,279,817
-  - Alpha 列表口径 24h 成交额 39,372,068
-  - 短周期波动 1.16%
-  - 4h 振幅 11.29%
+- NEX | 分数 37.01 | Alpha Trade 成交额 29348061.17 | 波动 1.17% | 4h 振幅 13.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 29,348,061，流动性 1,707,515
+  - Alpha 列表口径 24h 成交额 69,386,023
+  - 短周期波动 1.17%
+  - 4h 振幅 13.03%
   - 审计风险 LOW
-- NEX | 分数 11.44 | Alpha Trade 成交额 22750704.29 | 波动 1.85% | 4h 振幅 16.17% | 审计 LOW
-  - Alpha Trade 24h 成交额 22,750,704，流动性 1,715,176
-  - Alpha 列表口径 24h 成交额 64,914,735
-  - 短周期波动 1.85%
-  - 4h 振幅 16.17%
+- ZEST | 分数 35.79 | Alpha Trade 成交额 11594318.29 | 波动 1.57% | 4h 振幅 15.26% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,594,318，流动性 2,314,115
+  - Alpha 列表口径 24h 成交额 31,954,640
+  - 短周期波动 1.57%
+  - 4h 振幅 15.26%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -46,13 +45,13 @@
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined SPCXUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-21)
-- Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-20)
+- Latest Binance News：Important Updates on the Funding Rate of SPCXUSDT USDⓈ-M Futures Pre-IPO Perp (2026-05-21)
 - Latest Activities：Binance Square Live Trading Hub: Trade in Livestreams and Share 15,000 USDT in Rewards
 
 ### 最近 Alpha 上线
 
-- NEX | 4x | 上线 2026-05-20T14:00:00+00:00 | 24h 成交额 64914735.02
-- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 39372067.92
+- NEX | 4x | 上线 2026-05-20T14:00:00+00:00 | 24h 成交额 69386022.89
+- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 31954639.88
 
 ### New Cryptocurrency Listing
 
@@ -65,12 +64,12 @@
 
 ### Latest Binance News
 
+- [Important Updates on the Funding Rate of SPCXUSDT USDⓈ-M Futures Pre-IPO Perp (2026-05-21)](https://www.binance.com/en/support/announcement/detail/a8dca6743118408caef5a02310de096d)
+  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region. Products…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-20)](https://www.binance.com/en/support/announcement/detail/0626daaf33cf433bb922e48e04049d7c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-22)](https://www.binance.com/en/support/announcement/detail/7a9deab7bcad40a69dd61734a577387e)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
-- [Gensyn (AIGENSYN) Listing Will Be Further Postponed](https://www.binance.com/en/support/announcement/detail/5adac817d3a44e0e991701cf02153ed1)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Due to an issue with the project team’s deposit node…
 
 ### Latest Activities
 
@@ -83,7 +82,6 @@
 
 ## Warnings
 
-- alpha_ticker:ALPHA_588U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_461U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_162U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_118U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
