@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-22T09:38:04.474493+00:00
+- 生成时间：2026-05-22T12:07:12.177754+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1184655528.05
+- 四倍分 24h 总成交额：1161319172.10
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：144470（按 8200 / 人）
+- 估算参与人数：141624（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 1115803984.87 | 列表口径 12558324.21 | 涨跌 -0.85% | 振幅 116.25% | 估算人数 136074
-- NEX | Alpha Trade 成交额 46568617.28 | 列表口径 32739524.65 | 涨跌 -27.41% | 振幅 67.70% | 估算人数 5679
-- ZEST | Alpha Trade 成交额 20239153.07 | 列表口径 46682326.52 | 涨跌 10.48% | 振幅 35.57% | 估算人数 2468
-- GWEI | Alpha Trade 成交额 1482120.74 | 列表口径 328811.84 | 涨跌 -8.92% | 振幅 37.87% | 估算人数 181
-- SHARE | Alpha Trade 成交额 264465.80 | 列表口径 2268135.42 | 涨跌 2.16% | 振幅 9.72% | 估算人数 32
-- B2 | Alpha Trade 成交额 123851.22 | 列表口径 1363889.87 | 涨跌 -2.28% | 振幅 8.29% | 估算人数 15
-- UAI | Alpha Trade 成交额 101871.21 | 列表口径 795511.51 | 涨跌 -2.75% | 振幅 8.77% | 估算人数 12
-- BR | Alpha Trade 成交额 71463.85 | 列表口径 84947.01 | 涨跌 4.49% | 振幅 58.50% | 估算人数 9
+- BILL | Alpha Trade 成交额 1095720230.96 | 列表口径 14325980.29 | 涨跌 7.01% | 振幅 854.51% | 估算人数 133624
+- NEX | Alpha Trade 成交额 43125590.74 | 列表口径 33262103.28 | 涨跌 -26.60% | 振幅 67.70% | 估算人数 5259
+- ZEST | Alpha Trade 成交额 20825823.41 | 列表口径 46035700.99 | 涨跌 19.81% | 振幅 27.04% | 估算人数 2540
+- GWEI | Alpha Trade 成交额 990092.01 | 列表口径 97878.02 | 涨跌 -3.44% | 振幅 10.63% | 估算人数 121
+- SHARE | Alpha Trade 成交额 259661.88 | 列表口径 2243142.07 | 涨跌 -3.41% | 振幅 9.72% | 估算人数 32
+- B2 | Alpha Trade 成交额 219297.19 | 列表口径 2016232.37 | 涨跌 5.09% | 振幅 13.31% | 估算人数 27
+- BR | Alpha Trade 成交额 94385.74 | 列表口径 90630.48 | 涨跌 5.73% | 振幅 58.50% | 估算人数 12
+- UAI | Alpha Trade 成交额 84090.17 | 列表口径 758323.54 | 涨跌 6.81% | 振幅 8.17% | 估算人数 10
 
 ## 稳定刷分推荐
 
-- BILL | 分数 74.16 | Alpha Trade 成交额 1115803984.87 | 波动 0.93% | 4h 振幅 17.42% | 审计 MID
-  - Alpha Trade 24h 成交额 1,115,803,985，流动性 2,023,171
-  - Alpha 列表口径 24h 成交额 12,558,324
-  - 短周期波动 0.93%
-  - 4h 振幅 17.42%
+- BILL | 分数 68.27 | Alpha Trade 成交额 1095720230.96 | 波动 1.18% | 4h 振幅 14.79% | 审计 MID
+  - Alpha Trade 24h 成交额 1,095,720,231，流动性 2,035,719
+  - Alpha 列表口径 24h 成交额 14,325,980
+  - 短周期波动 1.18%
+  - 4h 振幅 14.79%
   - 审计风险 MID
-- ZEST | 分数 40.58 | Alpha Trade 成交额 20239153.07 | 波动 1.52% | 4h 振幅 10.58% | 审计 LOW
-  - Alpha Trade 24h 成交额 20,239,153，流动性 2,285,628
-  - Alpha 列表口径 24h 成交额 46,682,327
-  - 短周期波动 1.52%
-  - 4h 振幅 10.58%
+- GWEI | 分数 40.18 | Alpha Trade 成交额 990092.01 | 波动 0.44% | 4h 振幅 3.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 990,092，流动性 1,425,275
+  - Alpha 列表口径 24h 成交额 97,878
+  - 短周期波动 0.44%
+  - 4h 振幅 3.64%
   - 审计风险 LOW
-- GWEI | 分数 40.19 | Alpha Trade 成交额 1482120.74 | 波动 0.36% | 4h 振幅 5.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,482,121，流动性 1,423,568
-  - Alpha 列表口径 24h 成交额 328,812
-  - 短周期波动 0.36%
-  - 4h 振幅 5.46%
+- ZEST | 分数 30.45 | Alpha Trade 成交额 20825823.41 | 波动 1.46% | 4h 振幅 22.25% | 审计 LOW
+  - Alpha Trade 24h 成交额 20,825,823，流动性 2,382,210
+  - Alpha 列表口径 24h 成交额 46,035,701
+  - 短周期波动 1.46%
+  - 4h 振幅 22.25%
   - 审计风险 LOW
-- NEX | 分数 17.37 | Alpha Trade 成交额 46568617.28 | 波动 1.76% | 4h 振幅 21.28% | 审计 LOW
-  - Alpha Trade 24h 成交额 46,568,617，流动性 1,677,738
-  - Alpha 列表口径 24h 成交额 32,739,525
-  - 短周期波动 1.76%
-  - 4h 振幅 21.28%
+- NEX | 分数 24.70 | Alpha Trade 成交额 43125590.74 | 波动 1.24% | 4h 振幅 15.88% | 审计 LOW
+  - Alpha Trade 24h 成交额 43,125,591，流动性 1,688,253
+  - Alpha 列表口径 24h 成交额 33,262,103
+  - 短周期波动 1.24%
+  - 4h 振幅 15.88%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -51,41 +51,41 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。
-- 官方最新上新关注：Binance Will List Genius Terminal (GENIUS) and OpenGradient (OPG) with Seed Tag Applied
-- Latest Binance News：Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22
-- Latest Activities：Join the Spot Altcoin Trading Festival: Trade to Share Up to 500 BNB Token Vouchers
+- 官方最新上新关注：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin
+- Latest Binance News：Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed
+- Latest Activities：BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $200K Worth of Rewards (2026-05-22)
 
 ### 最近 Alpha 上线
 
-- NEX | 4x | 上线 2026-05-20T14:00:00+00:00 | 24h 成交额 32739524.65
-- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 46682326.52
+- NEX | 4x | 上线 2026-05-20T14:00:00+00:00 | 24h 成交额 33262103.28
+- ZEST | 4x | 上线 2026-05-19T13:00:00+00:00 | 24h 成交额 46035700.99
 
 ### New Cryptocurrency Listing
 
+- [Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/en/support/announcement/detail/6b7d36a6472f4f60803a1d048d1c33e8)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Genius Ter…
 - [Binance Will List Genius Terminal (GENIUS) and OpenGradient (OPG) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/4de6272354be421ba51ea042fd273a8d)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
 - [Introducing Gensyn (AIGENSYN) on Binance HODLer Airdrops! Earn AIGENSYN With Retroactive BNB Simple Earn Subscriptions](https://www.binance.com/en/support/announcement/detail/8c6cfaeddbd04f1595f658ac1dfbd0e7)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure the safety of your funds. This is a general a…
-- [Binance Futures Will Launch USDⓈ-Margined SPCXUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-21)](https://www.binance.com/en/support/announcement/detail/4a9484ee10b347d287f514ee3fdd6a29)
-  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region. Products…
 
 ### Latest Binance News
 
+- [Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed](https://www.binance.com/en/support/announcement/detail/8ae1dd80262c49448ed114e499159f20)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The trading start time for Genius Terminal (GENIUS)…
 - [Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22](https://www.binance.com/en/support/announcement/detail/ca0f3a3ff83243b79102b4561c8ccdc2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
 - [Important Updates on the Funding Rate of SPCXUSDT USDⓈ-M Futures Pre-IPO Perp (2026-05-21)](https://www.binance.com/en/support/announcement/detail/a8dca6743118408caef5a02310de096d)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region. Products…
-- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-20)](https://www.binance.com/en/support/announcement/detail/0626daaf33cf433bb922e48e04049d7c)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 
 ### Latest Activities
 
+- [BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $200K Worth of Rewards (2026-05-22)](https://www.binance.com/en/support/announcement/detail/076cb95fec7a4b0d94b13bc3379ce2b0)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Join the Spot Altcoin Trading Festival: Trade to Share Up to 500 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/c953f2ee497d449aad65e21b36df2aa1)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to a…
 - [Binance Square: Post Your TradFi Insights, Win Your Prize!](https://www.binance.com/en/support/announcement/detail/b0ebc825228848e3a3a8a77f33efc1c0)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Square invites you to share your original En…
-- [Pizza Day Bonus Upgrade: Team Up to Share Rewards and Win an Extra 1 BTC!](https://www.binance.com/en/support/announcement/detail/9d5beee15d8b4219bb643071b223b607)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To celebrate Pizza Day, we're boosting the rewards f…
 
 ## Warnings
 
