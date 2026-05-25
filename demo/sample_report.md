@@ -1,47 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-25T08:56:33.985157+00:00
-- 四倍分代币数：8
-- 四倍分 24h 总成交额：1374169795.28
+- 生成时间：2026-05-25T12:37:46.203538+00:00
+- 四倍分代币数：9
+- 四倍分 24h 总成交额：1463832550.55
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：167582（按 8200 / 人）
+- 估算参与人数：178516（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 1203517042.18 | 列表口径 17577813.15 | 涨跌 19.65% | 振幅 30.47% | 估算人数 146770
-- B2 | Alpha Trade 成交额 151978115.68 | 列表口径 9917228.37 | 涨跌 -0.57% | 振幅 23.32% | 估算人数 18534
-- NEX | Alpha Trade 成交额 12332733.76 | 列表口径 7951696.83 | 涨跌 -0.96% | 振幅 14.44% | 估算人数 1504
-- ZEST | Alpha Trade 成交额 5694111.74 | 列表口径 20226185.65 | 涨跌 -8.41% | 振幅 19.44% | 估算人数 694
-- SHARE | Alpha Trade 成交额 345707.38 | 列表口径 3133361.95 | 涨跌 5.09% | 振幅 16.53% | 估算人数 42
-- UAI | Alpha Trade 成交额 222693.35 | 列表口径 2271672.73 | 涨跌 8.76% | 振幅 17.59% | 估算人数 27
-- GWEI | Alpha Trade 成交额 46969.27 | 列表口径 10333.95 | 涨跌 -1.51% | 振幅 5.58% | 估算人数 6
-- BR | Alpha Trade 成交额 32421.92 | 列表口径 28730.93 | 涨跌 1.42% | 振幅 10.05% | 估算人数 4
+- BILL | Alpha Trade 成交额 1285644230.90 | 列表口径 16624132.10 | 涨跌 20.19% | 振幅 26.22% | 估算人数 156786
+- B2 | Alpha Trade 成交额 154796772.97 | 列表口径 7296512.15 | 涨跌 -17.29% | 振幅 22.15% | 估算人数 18878
+- NEX | Alpha Trade 成交额 11615107.05 | 列表口径 8319665.63 | 涨跌 -8.88% | 振幅 14.46% | 估算人数 1416
+- SLX | Alpha Trade 成交额 6312665.52 | 列表口径 10742684.52 | 涨跌 127.84% | 振幅 191.36% | 估算人数 770
+- ZEST | Alpha Trade 成交额 4737345.24 | 列表口径 23876638.99 | 涨跌 -16.50% | 振幅 25.61% | 估算人数 578
+- SHARE | Alpha Trade 成交额 379439.30 | 列表口径 3047556.71 | 涨跌 -6.26% | 振幅 16.71% | 估算人数 46
+- UAI | Alpha Trade 成交额 259899.80 | 列表口径 2403414.72 | 涨跌 2.20% | 振幅 14.90% | 估算人数 32
+- GWEI | Alpha Trade 成交额 48575.26 | 列表口径 9149.31 | 涨跌 -2.39% | 振幅 4.65% | 估算人数 6
+- BR | Alpha Trade 成交额 38514.50 | 列表口径 38221.66 | 涨跌 4.38% | 振幅 10.05% | 估算人数 5
 
 ## 稳定刷分推荐
 
-- BILL | 分数 72.04 | Alpha Trade 成交额 1203517042.18 | 波动 0.73% | 4h 振幅 10.39% | 审计 MID
-  - Alpha Trade 24h 成交额 1,203,517,042，流动性 2,298,096
-  - Alpha 列表口径 24h 成交额 17,577,813
-  - 短周期波动 0.73%
-  - 4h 振幅 10.39%
+- BILL | 分数 94.12 | Alpha Trade 成交额 1285644230.90 | 波动 0.64% | 4h 振幅 6.67% | 审计 MID
+  - Alpha Trade 24h 成交额 1,285,644,231，流动性 2,287,524
+  - Alpha 列表口径 24h 成交额 16,624,132
+  - 短周期波动 0.64%
+  - 4h 振幅 6.67%
   - 审计风险 MID
-- B2 | 分数 53.89 | Alpha Trade 成交额 151978115.68 | 波动 0.36% | 4h 振幅 4.32% | 审计 LOW
-  - Alpha Trade 24h 成交额 151,978,116，流动性 903,791
-  - Alpha 列表口径 24h 成交额 9,917,228
-  - 短周期波动 0.36%
-  - 4h 振幅 4.32%
-  - 审计风险 LOW
-- NEX | 分数 41.00 | Alpha Trade 成交额 12332733.76 | 波动 0.61% | 4h 振幅 3.61% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,332,734，流动性 1,580,576
-  - Alpha 列表口径 24h 成交额 7,951,697
-  - 短周期波动 0.61%
-  - 4h 振幅 3.61%
-  - 审计风险 LOW
-- ZEST | 分数 30.00 | Alpha Trade 成交额 5694111.74 | 波动 0.94% | 4h 振幅 10.94% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,694,112，流动性 2,445,390
-  - Alpha 列表口径 24h 成交额 20,226,186
+- ZEST | 分数 57.85 | Alpha Trade 成交额 4737345.24 | 波动 0.94% | 4h 振幅 11.34% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,737,345，流动性 2,375,187
+  - Alpha 列表口径 24h 成交额 23,876,639
   - 短周期波动 0.94%
-  - 4h 振幅 10.94%
+  - 4h 振幅 11.34%
+  - 审计风险 LOW
+- B2 | 分数 53.60 | Alpha Trade 成交额 154796772.97 | 波动 0.72% | 4h 振幅 8.18% | 审计 LOW
+  - Alpha Trade 24h 成交额 154,796,773，流动性 882,640
+  - Alpha 列表口径 24h 成交额 7,296,512
+  - 短周期波动 0.72%
+  - 4h 振幅 8.18%
+  - 审计风险 LOW
+- NEX | 分数 49.67 | Alpha Trade 成交额 11615107.05 | 波动 0.41% | 4h 振幅 8.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,615,107，流动性 1,557,916
+  - Alpha 列表口径 24h 成交额 8,319,666
+  - 短周期波动 0.41%
+  - 4h 振幅 8.79%
+  - 审计风险 LOW
+- SLX | 分数 19.29 | Alpha Trade 成交额 6312665.52 | 波动 6.76% | 4h 振幅 75.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 6,312,666，流动性 1,573,983
+  - Alpha 列表口径 24h 成交额 10,742,685
+  - 短周期波动 6.76%
+  - 4h 振幅 75.31%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -50,12 +57,14 @@
 
 ## Alpha 日报
 
+- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin
-- Latest Binance News：Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed
-- Latest Activities：Fiat Liquidity Provider Program Promotion for Newly Enrolled Market Makers (2026-06-01)
+- Latest Binance News：Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens
+- Latest Activities：Binance Square: Grab a Share of 100,000 GENIUS Rewards on CreatorPad!
 
 ### 最近 Alpha 上线
 
+- SLX | 4x | 上线 2026-05-25T12:00:00+00:00 | 24h 成交额 10742684.52
 
 ### New Cryptocurrency Listing
 
@@ -68,21 +77,21 @@
 
 ### Latest Binance News
 
-- [Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed](https://www.binance.com/en/support/announcement/detail/8ae1dd80262c49448ed114e499159f20)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The trading start time for Genius Terminal (GENIUS)…
-- [Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22](https://www.binance.com/en/support/announcement/detail/ca0f3a3ff83243b79102b4561c8ccdc2)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
-- [Important Updates on the Funding Rate of SPCXUSDT USDⓈ-M Futures Pre-IPO Perp (2026-05-21)](https://www.binance.com/en/support/announcement/detail/a8dca6743118408caef5a02310de096d)
-  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region. Products…
+- [Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens](https://www.binance.com/en/support/announcement/detail/bb5001e852e94ce39f0e8856f26d9be3)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Wallet is excited to announce the launch of…
+- [Binance OMS Toolkit: The First Institutional Exchange Solution for Trading Technology Providers](https://www.binance.com/en/support/announcement/detail/8b51be4480714986bd51b22c4a7c9763)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is proud to announce the launch of Binance O…
+- [Introducing DYOR: Your Research Hub for Binance Alpha Tokens](https://www.binance.com/en/support/announcement/detail/f0c49008c37f4f438177a624a7df8667)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce the launch of DYOR ,…
 
 ### Latest Activities
 
+- [Binance Square: Grab a Share of 100,000 GENIUS Rewards on CreatorPad!](https://www.binance.com/en/support/announcement/detail/89a6fcb7fcf14806aaaba95e988503b7)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Binance Square i…
 - [Fiat Liquidity Provider Program Promotion for Newly Enrolled Market Makers (2026-06-01)](https://www.binance.com/en/support/announcement/detail/4e621e14484e4130adb6f1c4ad034fbd)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is pleased to introduce a limited-time promo…
 - [Word of the Day: Test Your Knowledge on “Binance AI Safety” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/8a6408922e3c41369ebca2615e3ac75b)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
-- [BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $200K Worth of Rewards (2026-05-22)](https://www.binance.com/en/support/announcement/detail/076cb95fec7a4b0d94b13bc3379ce2b0)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
