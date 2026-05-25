@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-25T00:11:56.293383+00:00
+- 生成时间：2026-05-25T04:54:05.473659+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1329691999.62
+- 四倍分 24h 总成交额：1324910173.21
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：162158（按 8200 / 人）
+- 估算参与人数：161574（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 1080662219.07 | 列表口径 17812201.51 | 涨跌 15.72% | 振幅 30.88% | 估算人数 131788
-- B2 | Alpha Trade 成交额 231416481.90 | 列表口径 13411869.48 | 涨跌 -28.73% | 振幅 47.22% | 估算人数 28222
-- NEX | Alpha Trade 成交额 10394691.18 | 列表口径 7600367.68 | 涨跌 -1.42% | 振幅 14.44% | 估算人数 1268
-- ZEST | Alpha Trade 成交额 6618940.25 | 列表口径 24816972.89 | 涨跌 8.35% | 振幅 24.26% | 估算人数 807
-- SHARE | Alpha Trade 成交额 304906.55 | 列表口径 3070713.19 | 涨跌 6.38% | 振幅 16.54% | 估算人数 37
-- UAI | Alpha Trade 成交额 210993.39 | 列表口径 1846213.30 | 涨跌 1.73% | 振幅 17.59% | 估算人数 26
-- GWEI | Alpha Trade 成交额 50790.13 | 列表口径 11099.20 | 涨跌 2.66% | 振幅 5.71% | 估算人数 6
-- BR | Alpha Trade 成交额 32977.15 | 列表口径 30940.55 | 涨跌 -2.70% | 振幅 10.05% | 估算人数 4
+- BILL | Alpha Trade 成交额 1122303589.09 | 列表口径 17389621.30 | 涨跌 19.61% | 振幅 30.88% | 估算人数 136866
+- B2 | Alpha Trade 成交额 184982831.09 | 列表口径 13248119.30 | 涨跌 -27.31% | 振幅 43.69% | 估算人数 22559
+- NEX | Alpha Trade 成交额 10718400.93 | 列表口径 7759981.68 | 涨跌 2.15% | 振幅 14.44% | 估算人数 1307
+- ZEST | Alpha Trade 成交额 6286884.63 | 列表口径 20682955.13 | 涨跌 14.59% | 振幅 23.92% | 估算人数 767
+- SHARE | Alpha Trade 成交额 335451.19 | 列表口径 3237783.09 | 涨跌 6.01% | 振幅 16.53% | 估算人数 41
+- UAI | Alpha Trade 成交额 213102.94 | 列表口径 2048772.46 | 涨跌 3.96% | 振幅 17.59% | 估算人数 26
+- GWEI | Alpha Trade 成交额 51203.64 | 列表口径 12609.20 | 涨跌 -0.01% | 振幅 5.47% | 估算人数 6
+- BR | Alpha Trade 成交额 18709.71 | 列表口径 27662.30 | 涨跌 -1.03% | 振幅 10.05% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- BILL | 分数 63.21 | Alpha Trade 成交额 1080662219.07 | 波动 1.09% | 4h 振幅 11.07% | 审计 MID
-  - Alpha Trade 24h 成交额 1,080,662,219，流动性 2,289,838
-  - Alpha 列表口径 24h 成交额 17,812,202
-  - 短周期波动 1.09%
-  - 4h 振幅 11.07%
-  - 审计风险 MID
-- ZEST | 分数 53.65 | Alpha Trade 成交额 6618940.25 | 波动 0.70% | 4h 振幅 4.27% | 审计 LOW
-  - Alpha Trade 24h 成交额 6,618,940，流动性 2,512,937
-  - Alpha 列表口径 24h 成交额 24,816,973
-  - 短周期波动 0.70%
-  - 4h 振幅 4.27%
-  - 审计风险 LOW
-- B2 | 分数 52.33 | Alpha Trade 成交额 231416481.90 | 波动 0.59% | 4h 振幅 5.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 231,416,482，流动性 912,320
-  - Alpha 列表口径 24h 成交额 13,411,869
+- BILL | 分数 74.33 | Alpha Trade 成交额 1122303589.09 | 波动 0.59% | 4h 振幅 5.09% | 审计 MID
+  - Alpha Trade 24h 成交额 1,122,303,589，流动性 2,283,916
+  - Alpha 列表口径 24h 成交额 17,389,621
   - 短周期波动 0.59%
-  - 4h 振幅 5.82%
+  - 4h 振幅 5.09%
+  - 审计风险 MID
+- NEX | 分数 47.51 | Alpha Trade 成交额 10718400.93 | 波动 0.37% | 4h 振幅 3.70% | 审计 LOW
+  - Alpha Trade 24h 成交额 10,718,401，流动性 1,579,668
+  - Alpha 列表口径 24h 成交额 7,759,982
+  - 短周期波动 0.37%
+  - 4h 振幅 3.70%
   - 审计风险 LOW
-- NEX | 分数 49.23 | Alpha Trade 成交额 10394691.18 | 波动 0.52% | 4h 振幅 4.19% | 审计 LOW
-  - Alpha Trade 24h 成交额 10,394,691，流动性 1,594,602
-  - Alpha 列表口径 24h 成交额 7,600,368
-  - 短周期波动 0.52%
-  - 4h 振幅 4.19%
+- B2 | 分数 45.82 | Alpha Trade 成交额 184982831.09 | 波动 0.33% | 4h 振幅 5.81% | 审计 LOW
+  - Alpha Trade 24h 成交额 184,982,831，流动性 904,827
+  - Alpha 列表口径 24h 成交额 13,248,119
+  - 短周期波动 0.33%
+  - 4h 振幅 5.81%
+  - 审计风险 LOW
+- ZEST | 分数 31.47 | Alpha Trade 成交额 6286884.63 | 波动 0.76% | 4h 振幅 5.51% | 审计 LOW
+  - Alpha Trade 24h 成交额 6,286,885，流动性 2,520,970
+  - Alpha 列表口径 24h 成交额 20,682,955
+  - 短周期波动 0.76%
+  - 4h 振幅 5.51%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -52,7 +52,7 @@
 
 - 官方最新上新关注：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed
-- Latest Activities：BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $200K Worth of Rewards (2026-05-22)
+- Latest Activities：Fiat Liquidity Provider Program Promotion for Newly Enrolled Market Makers (2026-06-01)
 
 ### 最近 Alpha 上线
 
@@ -77,12 +77,12 @@
 
 ### Latest Activities
 
+- [Fiat Liquidity Provider Program Promotion for Newly Enrolled Market Makers (2026-06-01)](https://www.binance.com/en/support/announcement/detail/4e621e14484e4130adb6f1c4ad034fbd)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is pleased to introduce a limited-time promo…
+- [Word of the Day: Test Your Knowledge on “Binance AI Safety” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/8a6408922e3c41369ebca2615e3ac75b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [BSquared Network Trading Competition: Trade BSquared Network (B2) and Share $200K Worth of Rewards (2026-05-22)](https://www.binance.com/en/support/announcement/detail/076cb95fec7a4b0d94b13bc3379ce2b0)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Join the Spot Altcoin Trading Festival: Trade to Share Up to 500 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/c953f2ee497d449aad65e21b36df2aa1)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to a…
-- [Binance Square: Post Your TradFi Insights, Win Your Prize!](https://www.binance.com/en/support/announcement/detail/b0ebc825228848e3a3a8a77f33efc1c0)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Square invites you to share your original En…
 
 ## Warnings
 
