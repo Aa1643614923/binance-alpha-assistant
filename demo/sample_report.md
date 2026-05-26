@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-26T00:13:52.113449+00:00
+- 生成时间：2026-05-26T04:37:04.225766+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1463773579.02
+- 四倍分 24h 总成交额：1451108388.51
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：178509（按 8200 / 人）
+- 估算参与人数：176964（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 1237796052.79 | 列表口径 13989982.14 | 涨跌 -20.15% | 振幅 42.95% | 估算人数 150951
-- B2 | Alpha Trade 成交额 172453916.89 | 列表口径 6158184.09 | 涨跌 -8.29% | 振幅 13.61% | 估算人数 21031
-- SLX | Alpha Trade 成交额 37623514.02 | 列表口径 92420320.40 | 涨跌 57.58% | 振幅 191.36% | 估算人数 4588
-- NEX | Alpha Trade 成交额 11963602.14 | 列表口径 9373228.73 | 涨跌 -16.45% | 振幅 29.02% | 估算人数 1459
-- ZEST | Alpha Trade 成交额 3394290.96 | 列表口径 16885960.14 | 涨跌 -6.07% | 振幅 24.05% | 估算人数 414
-- SHARE | Alpha Trade 成交额 338358.12 | 列表口径 2048874.59 | 涨跌 -11.50% | 振幅 16.28% | 估算人数 41
-- UAI | Alpha Trade 成交额 112502.56 | 列表口径 1258837.84 | 涨跌 -5.16% | 振幅 12.65% | 估算人数 14
-- BR | Alpha Trade 成交额 55458.45 | 列表口径 31529.16 | 涨跌 2.23% | 振幅 8.92% | 估算人数 7
-- GWEI | Alpha Trade 成交额 35883.11 | 列表口径 61423.03 | 涨跌 -3.69% | 振幅 27.17% | 估算人数 4
+- BILL | Alpha Trade 成交额 1209700192.57 | 列表口径 14238668.35 | 涨跌 -23.92% | 振幅 49.65% | 估算人数 147524
+- B2 | Alpha Trade 成交额 183041960.25 | 列表口径 5923046.40 | 涨跌 -2.98% | 振幅 13.32% | 估算人数 22322
+- SLX | Alpha Trade 成交额 42644324.29 | 列表口径 122493314.45 | 涨跌 26.49% | 振幅 191.36% | 估算人数 5201
+- NEX | Alpha Trade 成交额 11591363.76 | 列表口径 9420824.55 | 涨跌 -12.91% | 振幅 28.43% | 估算人数 1414
+- ZEST | Alpha Trade 成交额 3621216.14 | 列表口径 20499374.92 | 涨跌 3.12% | 振幅 23.23% | 估算人数 442
+- SHARE | Alpha Trade 成交额 306231.56 | 列表口径 1940391.27 | 涨跌 -12.30% | 振幅 16.25% | 估算人数 37
+- UAI | Alpha Trade 成交额 115483.94 | 列表口径 1094067.59 | 涨跌 -8.27% | 振幅 14.24% | 估算人数 14
+- BR | Alpha Trade 成交额 53266.77 | 列表口径 34126.65 | 涨跌 0.11% | 振幅 8.92% | 估算人数 6
+- GWEI | Alpha Trade 成交额 34349.23 | 列表口径 66355.46 | 涨跌 -0.24% | 振幅 25.76% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- BILL | 分数 83.06 | Alpha Trade 成交额 1237796052.79 | 波动 0.58% | 4h 振幅 6.78% | 审计 MID
-  - Alpha Trade 24h 成交额 1,237,796,053，流动性 2,142,442
-  - Alpha 列表口径 24h 成交额 13,989,982
-  - 短周期波动 0.58%
-  - 4h 振幅 6.78%
+- BILL | 分数 88.81 | Alpha Trade 成交额 1209700192.57 | 波动 0.63% | 4h 振幅 7.66% | 审计 MID
+  - Alpha Trade 24h 成交额 1,209,700,193，流动性 2,124,793
+  - Alpha 列表口径 24h 成交额 14,238,668
+  - 短周期波动 0.63%
+  - 4h 振幅 7.66%
   - 审计风险 MID
-- ZEST | 分数 54.68 | Alpha Trade 成交额 3394290.96 | 波动 0.54% | 4h 振幅 3.48% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,394,291，流动性 2,455,712
-  - Alpha 列表口径 24h 成交额 16,885,960
-  - 短周期波动 0.54%
-  - 4h 振幅 3.48%
+- B2 | 分数 55.55 | Alpha Trade 成交额 183041960.25 | 波动 0.36% | 4h 振幅 4.75% | 审计 LOW
+  - Alpha Trade 24h 成交额 183,041,960，流动性 887,972
+  - Alpha 列表口径 24h 成交额 5,923,046
+  - 短周期波动 0.36%
+  - 4h 振幅 4.75%
   - 审计风险 LOW
-- B2 | 分数 52.88 | Alpha Trade 成交额 172453916.89 | 波动 0.30% | 4h 振幅 6.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 172,453,917，流动性 873,156
-  - Alpha 列表口径 24h 成交额 6,158,184
-  - 短周期波动 0.30%
-  - 4h 振幅 6.44%
+- ZEST | 分数 42.60 | Alpha Trade 成交额 3621216.14 | 波动 0.90% | 4h 振幅 11.83% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,621,216，流动性 1,998,885
+  - Alpha 列表口径 24h 成交额 20,499,375
+  - 短周期波动 0.90%
+  - 4h 振幅 11.83%
   - 审计风险 LOW
-- NEX | 分数 27.37 | Alpha Trade 成交额 11963602.14 | 波动 1.04% | 4h 振幅 8.99% | 审计 LOW
-  - Alpha Trade 24h 成交额 11,963,602，流动性 1,499,151
-  - Alpha 列表口径 24h 成交额 9,373,229
-  - 短周期波动 1.04%
-  - 4h 振幅 8.99%
+- NEX | 分数 39.18 | Alpha Trade 成交额 11591363.76 | 波动 0.75% | 4h 振幅 11.20% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,591,364，流动性 1,521,216
+  - Alpha 列表口径 24h 成交额 9,420,825
+  - 短周期波动 0.75%
+  - 4h 振幅 11.20%
   - 审计风险 LOW
-- SLX | 分数 23.37 | Alpha Trade 成交额 37623514.02 | 波动 1.18% | 4h 振幅 15.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 37,623,514，流动性 1,571,694
-  - Alpha 列表口径 24h 成交额 92,420,320
-  - 短周期波动 1.18%
-  - 4h 振幅 15.97%
+- SLX | 分数 24.61 | Alpha Trade 成交额 42644324.29 | 波动 1.38% | 4h 振幅 19.82% | 审计 LOW
+  - Alpha Trade 24h 成交额 42,644,324，流动性 1,503,495
+  - Alpha 列表口径 24h 成交额 122,493,314
+  - 短周期波动 1.38%
+  - 4h 振幅 19.82%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -58,22 +58,22 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin
+- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-26)
 - Latest Binance News：Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens
 - Latest Activities：Binance Square: Grab a Share of 100,000 GENIUS Rewards on CreatorPad!
 
 ### 最近 Alpha 上线
 
-- SLX | 4x | 上线 2026-05-25T12:00:00+00:00 | 24h 成交额 92420320.40
+- SLX | 4x | 上线 2026-05-25T12:00:00+00:00 | 24h 成交额 122493314.45
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-26)](https://www.binance.com/en/support/announcement/detail/f3a598a5ab4344af993f67a9c3f4544a)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add Genius Terminal (GENIUS) and OpenGradient (OPG) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/en/support/announcement/detail/6b7d36a6472f4f60803a1d048d1c33e8)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Genius Ter…
 - [Binance Will List Genius Terminal (GENIUS) and OpenGradient (OPG) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/4de6272354be421ba51ea042fd273a8d)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
-- [Introducing Gensyn (AIGENSYN) on Binance HODLer Airdrops! Earn AIGENSYN With Retroactive BNB Simple Earn Subscriptions](https://www.binance.com/en/support/announcement/detail/8c6cfaeddbd04f1595f658ac1dfbd0e7)
-  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure the safety of your funds. This is a general a…
 
 ### Latest Binance News
 
