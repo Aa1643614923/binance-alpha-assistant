@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-27T03:45:37.312176+00:00
+- 生成时间：2026-05-27T07:51:50.943132+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1354503867.57
+- 四倍分 24h 总成交额：1444780536.40
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：165183（按 8200 / 人）
+- 估算参与人数：176193（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 966773481.66 | 列表口径 8471009.73 | 涨跌 -3.86% | 振幅 96.71% | 估算人数 117899
-- B2 | Alpha Trade 成交额 238070988.06 | 列表口径 2342573.35 | 涨跌 0.40% | 振幅 6.32% | 估算人数 29033
-- ZEST | Alpha Trade 成交额 115611616.98 | 列表口径 36431856.69 | 涨跌 10.59% | 振幅 19.69% | 估算人数 14099
-- SLX | Alpha Trade 成交额 28499002.18 | 列表口径 110599048.67 | 涨跌 15.33% | 振幅 54.36% | 估算人数 3475
-- NEX | Alpha Trade 成交额 5305204.23 | 列表口径 6278096.03 | 涨跌 -7.21% | 振幅 26.01% | 估算人数 647
-- UAI | Alpha Trade 成交额 80567.73 | 列表口径 1039653.74 | 涨跌 -3.93% | 振幅 15.34% | 估算人数 10
-- SHARE | Alpha Trade 成交额 67510.22 | 列表口径 1809649.93 | 涨跌 -7.31% | 振幅 9.11% | 估算人数 8
-- BR | Alpha Trade 成交额 61540.42 | 列表口径 44449.50 | 涨跌 2.64% | 振幅 12.03% | 估算人数 8
-- GWEI | Alpha Trade 成交额 33956.09 | 列表口径 15700.60 | 涨跌 -6.39% | 振幅 13.75% | 估算人数 4
+- BILL | Alpha Trade 成交额 980466450.42 | 列表口径 8162592.52 | 涨跌 -10.18% | 振幅 108.72% | 估算人数 119569
+- B2 | Alpha Trade 成交额 219822935.07 | 列表口径 2546530.92 | 涨跌 -3.64% | 振幅 6.89% | 估算人数 26808
+- ZEST | Alpha Trade 成交额 212442477.59 | 列表口径 24209195.54 | 涨跌 6.71% | 振幅 18.31% | 估算人数 25908
+- SLX | Alpha Trade 成交额 27073987.79 | 列表口径 113106695.65 | 涨跌 22.34% | 振幅 47.25% | 估算人数 3302
+- NEX | Alpha Trade 成交额 4742415.80 | 列表口径 5199552.08 | 涨跌 -7.04% | 振幅 26.01% | 估算人数 578
+- UAI | Alpha Trade 成交额 70628.01 | 列表口径 1134126.50 | 涨跌 -2.65% | 振幅 15.34% | 估算人数 9
+- SHARE | Alpha Trade 成交额 66527.34 | 列表口径 1871568.71 | 涨跌 -6.11% | 振幅 10.26% | 估算人数 8
+- BR | Alpha Trade 成交额 58319.48 | 列表口径 51918.52 | 涨跌 4.21% | 振幅 10.53% | 估算人数 7
+- GWEI | Alpha Trade 成交额 36794.90 | 列表口径 17209.00 | 涨跌 -2.55% | 振幅 13.75% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- BILL | 分数 69.78 | Alpha Trade 成交额 966773481.66 | 波动 0.74% | 4h 振幅 13.18% | 审计 MID
-  - Alpha Trade 24h 成交额 966,773,482，流动性 2,104,192
-  - Alpha 列表口径 24h 成交额 8,471,010
-  - 短周期波动 0.74%
-  - 4h 振幅 13.18%
+- BILL | 分数 77.63 | Alpha Trade 成交额 980466450.42 | 波动 0.56% | 4h 振幅 7.04% | 审计 MID
+  - Alpha Trade 24h 成交额 980,466,450，流动性 2,091,945
+  - Alpha 列表口径 24h 成交额 8,162,593
+  - 短周期波动 0.56%
+  - 4h 振幅 7.04%
   - 审计风险 MID
-- B2 | 分数 57.88 | Alpha Trade 成交额 238070988.06 | 波动 0.25% | 4h 振幅 3.29% | 审计 LOW
-  - Alpha Trade 24h 成交额 238,070,988，流动性 884,349
-  - Alpha 列表口径 24h 成交额 2,342,573
-  - 短周期波动 0.25%
-  - 4h 振幅 3.29%
+- B2 | 分数 57.34 | Alpha Trade 成交额 219822935.07 | 波动 0.39% | 4h 振幅 4.66% | 审计 LOW
+  - Alpha Trade 24h 成交额 219,822,935，流动性 864,075
+  - Alpha 列表口径 24h 成交额 2,546,531
+  - 短周期波动 0.39%
+  - 4h 振幅 4.66%
   - 审计风险 LOW
-- SLX | 分数 39.98 | Alpha Trade 成交额 28499002.18 | 波动 0.76% | 4h 振幅 7.72% | 审计 LOW
-  - Alpha Trade 24h 成交额 28,499,002，流动性 1,588,883
-  - Alpha 列表口径 24h 成交额 110,599,049
-  - 短周期波动 0.76%
-  - 4h 振幅 7.72%
+- ZEST | 分数 52.88 | Alpha Trade 成交额 212442477.59 | 波动 0.53% | 4h 振幅 5.29% | 审计 LOW
+  - Alpha Trade 24h 成交额 212,442,478，流动性 2,220,094
+  - Alpha 列表口径 24h 成交额 24,209,196
+  - 短周期波动 0.53%
+  - 4h 振幅 5.29%
   - 审计风险 LOW
-- NEX | 分数 38.74 | Alpha Trade 成交额 5305204.23 | 波动 0.58% | 4h 振幅 3.95% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,305,204，流动性 1,460,315
-  - Alpha 列表口径 24h 成交额 6,278,096
-  - 短周期波动 0.58%
-  - 4h 振幅 3.95%
+- NEX | 分数 34.86 | Alpha Trade 成交额 4742415.80 | 波动 0.55% | 4h 振幅 6.14% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,742,416，流动性 1,474,707
+  - Alpha 列表口径 24h 成交额 5,199,552
+  - 短周期波动 0.55%
+  - 4h 振幅 6.14%
   - 审计风险 LOW
-- ZEST | 分数 36.47 | Alpha Trade 成交额 115611616.98 | 波动 0.92% | 4h 振幅 9.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 115,611,617，流动性 2,226,108
-  - Alpha 列表口径 24h 成交额 36,431,857
-  - 短周期波动 0.92%
-  - 4h 振幅 9.62%
+- SLX | 分数 30.80 | Alpha Trade 成交额 27073987.79 | 波动 0.63% | 4h 振幅 16.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 27,073,988，流动性 1,661,671
+  - Alpha 列表口径 24h 成交额 113,106,696
+  - 短周期波动 0.63%
+  - 4h 振幅 16.91%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,13 +59,13 @@
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch OPENAIUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-26)
-- Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-29)
+- Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-27)
 - Latest Activities：Binance Alpha Trading Competition: Trade Zest Protocol (ZEST) and Share $200K Worth of Rewards (2026-05-26)
 
 ### 最近 Alpha 上线
 
-- CTR | 2x | 上线 2026-05-26T13:00:00+00:00 | 24h 成交额 11704126.03
-- SLX | 4x | 上线 2026-05-25T12:00:00+00:00 | 24h 成交额 110599048.67
+- CTR | 2x | 上线 2026-05-26T13:00:00+00:00 | 24h 成交额 12195013.27
+- SLX | 4x | 上线 2026-05-25T12:00:00+00:00 | 24h 成交额 113106695.65
 
 ### New Cryptocurrency Listing
 
@@ -78,12 +78,12 @@
 
 ### Latest Binance News
 
+- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-05-27)](https://www.binance.com/en/support/announcement/detail/51eee8b9d9ba45e996f637c0e4d7f9c8)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-29)](https://www.binance.com/en/support/announcement/detail/6a7aff2596ed4593af4fb924ad687286)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 - [Binance Wallet Introduces Event Rush — Trade Real-World Events Like Tokens](https://www.binance.com/en/support/announcement/detail/bb5001e852e94ce39f0e8856f26d9be3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Wallet is excited to announce the launch of…
-- [Binance OMS Toolkit: The First Institutional Exchange Solution for Trading Technology Providers](https://www.binance.com/en/support/announcement/detail/8b51be4480714986bd51b22c4a7c9763)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is proud to announce the launch of Binance O…
 
 ### Latest Activities
 
