@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-29T04:38:50.444460+00:00
+- 生成时间：2026-05-29T08:30:09.780370+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1599887210.17
+- 四倍分 24h 总成交额：1587463791.34
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：195108（按 8200 / 人）
+- 估算参与人数：193593（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 940528932.48 | 列表口径 10960431.41 | 涨跌 -17.44% | 振幅 34.07% | 估算人数 114699
-- ZEST | Alpha Trade 成交额 328012750.90 | 列表口径 11014676.46 | 涨跌 6.02% | 振幅 25.94% | 估算人数 40002
-- B2 | Alpha Trade 成交额 254519366.74 | 列表口径 3713970.73 | 涨跌 1.01% | 振幅 14.59% | 估算人数 31039
-- SLX | Alpha Trade 成交额 40016852.35 | 列表口径 113848712.12 | 涨跌 8.90% | 振幅 19.75% | 估算人数 4880
-- NEX | Alpha Trade 成交额 21145089.48 | 列表口径 7554132.63 | 涨跌 1.26% | 振幅 18.31% | 估算人数 2579
-- QAIT | Alpha Trade 成交额 15439004.32 | 列表口径 48025357.82 | 涨跌 608.64% | 振幅 1220.72% | 估算人数 1883
-- UAI | Alpha Trade 成交额 78068.93 | 列表口径 1230788.14 | 涨跌 9.28% | 振幅 11.70% | 估算人数 10
-- SHARE | Alpha Trade 成交额 66791.07 | 列表口径 2023238.15 | 涨跌 3.00% | 振幅 6.97% | 估算人数 8
-- BR | Alpha Trade 成交额 54766.60 | 列表口径 21237.20 | 涨跌 -6.35% | 振幅 14.49% | 估算人数 7
-- GWEI | Alpha Trade 成交额 25587.30 | 列表口径 16946.76 | 涨跌 0.51% | 振幅 12.45% | 估算人数 3
+- BILL | Alpha Trade 成交额 949750807.00 | 列表口径 8984700.37 | 涨跌 -18.47% | 振幅 31.31% | 估算人数 115823
+- ZEST | Alpha Trade 成交额 310649706.94 | 列表口径 9627571.43 | 涨跌 0.77% | 振幅 25.94% | 估算人数 37884
+- B2 | Alpha Trade 成交额 244514904.98 | 列表口径 3964804.37 | 涨跌 -1.31% | 振幅 14.59% | 估算人数 29819
+- SLX | Alpha Trade 成交额 37689140.38 | 列表口径 109616744.82 | 涨跌 9.68% | 振幅 15.76% | 估算人数 4596
+- NEX | Alpha Trade 成交额 28623952.27 | 列表口径 8472458.16 | 涨跌 5.53% | 振幅 13.04% | 估算人数 3491
+- QAIT | Alpha Trade 成交额 16029461.49 | 列表口径 50707233.50 | 涨跌 660.43% | 振幅 1220.72% | 估算人数 1955
+- SHARE | Alpha Trade 成交额 70554.09 | 列表口径 1983417.36 | 涨跌 0.01% | 振幅 5.71% | 估算人数 9
+- UAI | Alpha Trade 成交额 58703.55 | 列表口径 1001823.19 | 涨跌 -1.97% | 振幅 6.16% | 估算人数 7
+- BR | Alpha Trade 成交额 45779.21 | 列表口径 17241.29 | 涨跌 -3.44% | 振幅 7.84% | 估算人数 6
+- GWEI | Alpha Trade 成交额 30781.43 | 列表口径 15658.95 | 涨跌 5.17% | 振幅 10.54% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- BILL | 分数 69.48 | Alpha Trade 成交额 940528932.48 | 波动 1.12% | 4h 振幅 15.94% | 审计 MID
-  - Alpha Trade 24h 成交额 940,528,932，流动性 2,061,223
-  - Alpha 列表口径 24h 成交额 10,960,431
-  - 短周期波动 1.12%
-  - 4h 振幅 15.94%
+- BILL | 分数 87.52 | Alpha Trade 成交额 949750807.00 | 波动 0.61% | 4h 振幅 5.94% | 审计 MID
+  - Alpha Trade 24h 成交额 949,750,807，流动性 2,047,327
+  - Alpha 列表口径 24h 成交额 8,984,700
+  - 短周期波动 0.61%
+  - 4h 振幅 5.94%
   - 审计风险 MID
-- B2 | 分数 58.37 | Alpha Trade 成交额 254519366.74 | 波动 0.28% | 4h 振幅 3.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 254,519,367，流动性 869,646
-  - Alpha 列表口径 24h 成交额 3,713,971
-  - 短周期波动 0.28%
-  - 4h 振幅 3.03%
-  - 审计风险 LOW
-- SLX | 分数 56.96 | Alpha Trade 成交额 40016852.35 | 波动 0.36% | 4h 振幅 4.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 40,016,852，流动性 1,433,882
-  - Alpha 列表口径 24h 成交额 113,848,712
+- ZEST | 分数 66.70 | Alpha Trade 成交额 310649706.94 | 波动 0.36% | 4h 振幅 4.83% | 审计 LOW
+  - Alpha Trade 24h 成交额 310,649,707，流动性 2,270,050
+  - Alpha 列表口径 24h 成交额 9,627,571
   - 短周期波动 0.36%
-  - 4h 振幅 4.46%
+  - 4h 振幅 4.83%
   - 审计风险 LOW
-- ZEST | 分数 56.09 | Alpha Trade 成交额 328012750.90 | 波动 0.76% | 4h 振幅 9.68% | 审计 LOW
-  - Alpha Trade 24h 成交额 328,012,751，流动性 2,294,791
-  - Alpha 列表口径 24h 成交额 11,014,676
-  - 短周期波动 0.76%
-  - 4h 振幅 9.68%
+- SLX | 分数 58.02 | Alpha Trade 成交额 37689140.38 | 波动 0.29% | 4h 振幅 6.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 37,689,140，流动性 1,458,133
+  - Alpha 列表口径 24h 成交额 109,616,745
+  - 短周期波动 0.29%
+  - 4h 振幅 6.31%
   - 审计风险 LOW
-- NEX | 分数 45.20 | Alpha Trade 成交额 21145089.48 | 波动 0.50% | 4h 振幅 4.08% | 审计 LOW
-  - Alpha Trade 24h 成交额 21,145,089，流动性 1,463,306
-  - Alpha 列表口径 24h 成交额 7,554,133
-  - 短周期波动 0.50%
-  - 4h 振幅 4.08%
+- B2 | 分数 57.91 | Alpha Trade 成交额 244514904.98 | 波动 0.30% | 4h 振幅 3.81% | 审计 LOW
+  - Alpha Trade 24h 成交额 244,514,905，流动性 857,508
+  - Alpha 列表口径 24h 成交额 3,964,804
+  - 短周期波动 0.30%
+  - 4h 振幅 3.81%
+  - 审计风险 LOW
+- NEX | 分数 42.15 | Alpha Trade 成交额 28623952.27 | 波动 0.67% | 4h 振幅 8.46% | 审计 LOW
+  - Alpha Trade 24h 成交额 28,623,952，流动性 1,472,911
+  - Alpha 列表口径 24h 成交额 8,472,458
+  - 短周期波动 0.67%
+  - 4h 振幅 8.46%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,22 +59,22 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined CTRUSDT Perpetual Contract (2026-05-28)
+- 官方最新上新关注：Introducing Genius Terminal (GENIUS) on Binance HODLer Airdrops! Earn GENIUS With Retroactive BNB Simple Earn Subscriptions
 - Latest Binance News：Important Updates for the Binance P2P Block Zone in LATAM
 - Latest Activities：Balkans Referral Rush: Refer a Friend and Get 9 USDT Each!
 
 ### 最近 Alpha 上线
 
-- QAIT | 4x | 上线 2026-05-28T15:00:00+00:00 | 24h 成交额 48025357.82
-- CTR | 2x | 上线 2026-05-26T13:00:00+00:00 | 24h 成交额 12006203.58
+- QAIT | 4x | 上线 2026-05-28T15:00:00+00:00 | 24h 成交额 50707233.50
+- CTR | 2x | 上线 2026-05-26T13:00:00+00:00 | 24h 成交额 12235170.96
 
 ### New Cryptocurrency Listing
 
-- [Binance Futures Will Launch USDⓈ-Margined CTRUSDT Perpetual Contract (2026-05-28)](https://www.binance.com/en/support/announcement/detail/ee40eb721abc460cb7edca6df04d782b)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch OPENAIUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-26)](https://www.binance.com/en/support/announcement/detail/94f88766c6c84d68a07f006bc076ba6a)
+- [Introducing Genius Terminal (GENIUS) on Binance HODLer Airdrops! Earn GENIUS With Retroactive BNB Simple Earn Subscriptions](https://www.binance.com/en/support/announcement/detail/455eedc320bd43e28e2326f58d4aac2a)
+  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure the safety of your funds. This is a general a…
+- [Binance Futures Will Launch QNTXUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-29)](https://www.binance.com/en/support/announcement/detail/3bdaff694bde45ccb443709336c8686d)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region.&nbsp; Fe…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-26)](https://www.binance.com/en/support/announcement/detail/f3a598a5ab4344af993f67a9c3f4544a)
+- [Binance Futures Will Launch USDⓈ-Margined CTRUSDT Perpetual Contract (2026-05-28)](https://www.binance.com/en/support/announcement/detail/ee40eb721abc460cb7edca6df04d782b)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
