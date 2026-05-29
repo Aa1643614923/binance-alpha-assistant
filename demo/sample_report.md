@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-29T08:30:09.780370+00:00
+- 生成时间：2026-05-29T11:51:39.172175+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1587463791.34
+- 四倍分 24h 总成交额：1591029141.20
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：193593（按 8200 / 人）
+- 估算参与人数：194028（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 949750807.00 | 列表口径 8984700.37 | 涨跌 -18.47% | 振幅 31.31% | 估算人数 115823
-- ZEST | Alpha Trade 成交额 310649706.94 | 列表口径 9627571.43 | 涨跌 0.77% | 振幅 25.94% | 估算人数 37884
-- B2 | Alpha Trade 成交额 244514904.98 | 列表口径 3964804.37 | 涨跌 -1.31% | 振幅 14.59% | 估算人数 29819
-- SLX | Alpha Trade 成交额 37689140.38 | 列表口径 109616744.82 | 涨跌 9.68% | 振幅 15.76% | 估算人数 4596
-- NEX | Alpha Trade 成交额 28623952.27 | 列表口径 8472458.16 | 涨跌 5.53% | 振幅 13.04% | 估算人数 3491
-- QAIT | Alpha Trade 成交额 16029461.49 | 列表口径 50707233.50 | 涨跌 660.43% | 振幅 1220.72% | 估算人数 1955
-- SHARE | Alpha Trade 成交额 70554.09 | 列表口径 1983417.36 | 涨跌 0.01% | 振幅 5.71% | 估算人数 9
-- UAI | Alpha Trade 成交额 58703.55 | 列表口径 1001823.19 | 涨跌 -1.97% | 振幅 6.16% | 估算人数 7
-- BR | Alpha Trade 成交额 45779.21 | 列表口径 17241.29 | 涨跌 -3.44% | 振幅 7.84% | 估算人数 6
-- GWEI | Alpha Trade 成交额 30781.43 | 列表口径 15658.95 | 涨跌 5.17% | 振幅 10.54% | 估算人数 4
+- BILL | Alpha Trade 成交额 938379614.73 | 列表口径 8523913.05 | 涨跌 -15.34% | 振幅 29.21% | 估算人数 114437
+- B2 | Alpha Trade 成交额 286065792.69 | 列表口径 3325621.83 | 涨跌 1.46% | 振幅 9.39% | 估算人数 34886
+- ZEST | Alpha Trade 成交额 268912631.26 | 列表口径 9450252.45 | 涨跌 -4.48% | 振幅 25.94% | 估算人数 32794
+- NEX | Alpha Trade 成交额 43261467.47 | 列表口径 9264193.45 | 涨跌 -4.57% | 振幅 16.12% | 估算人数 5276
+- SLX | Alpha Trade 成交额 37608825.64 | 列表口径 101124433.04 | 涨跌 -0.52% | 振幅 34.28% | 估算人数 4586
+- QAIT | Alpha Trade 成交额 16601005.00 | 列表口径 53769581.45 | 涨跌 714.63% | 振幅 1220.72% | 估算人数 2025
+- SHARE | Alpha Trade 成交额 72804.43 | 列表口径 2062977.28 | 涨跌 0.05% | 振幅 5.56% | 估算人数 9
+- UAI | Alpha Trade 成交额 57060.67 | 列表口径 909631.47 | 涨跌 -1.87% | 振幅 8.02% | 估算人数 7
+- BR | Alpha Trade 成交额 37953.42 | 列表口径 18614.44 | 涨跌 -6.54% | 振幅 9.18% | 估算人数 5
+- GWEI | Alpha Trade 成交额 31985.90 | 列表口径 13907.63 | 涨跌 -1.95% | 振幅 9.02% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- BILL | 分数 87.52 | Alpha Trade 成交额 949750807.00 | 波动 0.61% | 4h 振幅 5.94% | 审计 MID
-  - Alpha Trade 24h 成交额 949,750,807，流动性 2,047,327
-  - Alpha 列表口径 24h 成交额 8,984,700
-  - 短周期波动 0.61%
-  - 4h 振幅 5.94%
+- BILL | 分数 89.13 | Alpha Trade 成交额 938379614.73 | 波动 0.40% | 4h 振幅 5.58% | 审计 MID
+  - Alpha Trade 24h 成交额 938,379,615，流动性 2,056,110
+  - Alpha 列表口径 24h 成交额 8,523,913
+  - 短周期波动 0.40%
+  - 4h 振幅 5.58%
   - 审计风险 MID
-- ZEST | 分数 66.70 | Alpha Trade 成交额 310649706.94 | 波动 0.36% | 4h 振幅 4.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 310,649,707，流动性 2,270,050
-  - Alpha 列表口径 24h 成交额 9,627,571
-  - 短周期波动 0.36%
-  - 4h 振幅 4.83%
+- B2 | 分数 59.21 | Alpha Trade 成交额 286065792.69 | 波动 0.20% | 4h 振幅 2.81% | 审计 LOW
+  - Alpha Trade 24h 成交额 286,065,793，流动性 862,308
+  - Alpha 列表口径 24h 成交额 3,325,622
+  - 短周期波动 0.20%
+  - 4h 振幅 2.81%
   - 审计风险 LOW
-- SLX | 分数 58.02 | Alpha Trade 成交额 37689140.38 | 波动 0.29% | 4h 振幅 6.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 37,689,140，流动性 1,458,133
-  - Alpha 列表口径 24h 成交额 109,616,745
-  - 短周期波动 0.29%
-  - 4h 振幅 6.31%
+- ZEST | 分数 55.12 | Alpha Trade 成交额 268912631.26 | 波动 0.77% | 4h 振幅 9.68% | 审计 LOW
+  - Alpha Trade 24h 成交额 268,912,631，流动性 2,217,958
+  - Alpha 列表口径 24h 成交额 9,450,252
+  - 短周期波动 0.77%
+  - 4h 振幅 9.68%
   - 审计风险 LOW
-- B2 | 分数 57.91 | Alpha Trade 成交额 244514904.98 | 波动 0.30% | 4h 振幅 3.81% | 审计 LOW
-  - Alpha Trade 24h 成交额 244,514,905，流动性 857,508
-  - Alpha 列表口径 24h 成交额 3,964,804
-  - 短周期波动 0.30%
-  - 4h 振幅 3.81%
+- SLX | 分数 54.72 | Alpha Trade 成交额 37608825.64 | 波动 0.51% | 4h 振幅 4.19% | 审计 LOW
+  - Alpha Trade 24h 成交额 37,608,826，流动性 1,421,146
+  - Alpha 列表口径 24h 成交额 101,124,433
+  - 短周期波动 0.51%
+  - 4h 振幅 4.19%
   - 审计风险 LOW
-- NEX | 分数 42.15 | Alpha Trade 成交额 28623952.27 | 波动 0.67% | 4h 振幅 8.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 28,623,952，流动性 1,472,911
-  - Alpha 列表口径 24h 成交额 8,472,458
-  - 短周期波动 0.67%
-  - 4h 振幅 8.46%
+- NEX | 分数 35.06 | Alpha Trade 成交额 43261467.47 | 波动 0.95% | 4h 振幅 10.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 43,261,467，流动性 1,446,862
+  - Alpha 列表口径 24h 成交额 9,264,193
+  - 短周期波动 0.95%
+  - 4h 振幅 10.98%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -61,12 +61,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Introducing Genius Terminal (GENIUS) on Binance HODLer Airdrops! Earn GENIUS With Retroactive BNB Simple Earn Subscriptions
 - Latest Binance News：Important Updates for the Binance P2P Block Zone in LATAM
-- Latest Activities：Balkans Referral Rush: Refer a Friend and Get 9 USDT Each!
+- Latest Activities：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
 
 ### 最近 Alpha 上线
 
-- QAIT | 4x | 上线 2026-05-28T15:00:00+00:00 | 24h 成交额 50707233.50
-- CTR | 2x | 上线 2026-05-26T13:00:00+00:00 | 24h 成交额 12235170.96
+- QAIT | 4x | 上线 2026-05-28T15:00:00+00:00 | 24h 成交额 53769581.45
+- CTR | 2x | 上线 2026-05-26T13:00:00+00:00 | 24h 成交额 9231976.19
 
 ### New Cryptocurrency Listing
 
@@ -88,12 +88,12 @@
 
 ### Latest Activities
 
+- [MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/0e9b4c9a121245bb8afbcd0a9143d55a)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Balkans Referral Rush: Refer a Friend and Get 9 USDT Each!](https://www.binance.com/en/support/announcement/detail/5060780cb3194a2c98033b05f63b9105)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to launch the “Balkans Referral R…
 - [CIS User Exclusive: Solve Summer Mystery! Gifts are Ready—Up to 300 USDT in Surprise Boxes](https://www.binance.com/en/support/announcement/detail/5c0d0e98e48f45c1a2324d268e41c212)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
-- [Binance Wallet Launches Prediction Markets Trial Protection Campaign – Phase 3](https://www.binance.com/en/support/announcement/detail/db2abfa716de40cd930400ad418583a4)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 
 ## Warnings
 
