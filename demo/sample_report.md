@@ -1,55 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-30T23:43:12.818507+00:00
-- 四倍分代币数：10
-- 四倍分 24h 总成交额：1679572654.16
+- 生成时间：2026-05-31T01:53:59.116239+00:00
+- 四倍分代币数：9
+- 四倍分 24h 总成交额：1705829244.14
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：204826（按 8200 / 人）
+- 估算参与人数：208028（按 8200 / 人）
 
 ## 四倍分代币
 
-- BILL | Alpha Trade 成交额 782089305.50 | 列表口径 5251831.37 | 涨跌 3.64% | 振幅 15.64% | 估算人数 95377
-- B2 | Alpha Trade 成交额 524414457.24 | 列表口径 1907975.77 | 涨跌 1.05% | 振幅 6.73% | 估算人数 63953
-- ZEST | Alpha Trade 成交额 124457732.43 | 列表口径 6332688.33 | 涨跌 -11.33% | 振幅 17.11% | 估算人数 15178
-- QAIT | Alpha Trade 成交额 122867422.32 | 列表口径 20281808.36 | 涨跌 12.32% | 振幅 31.99% | 估算人数 14984
-- NEX | Alpha Trade 成交额 96801694.58 | 列表口径 6674559.82 | 涨跌 -2.92% | 振幅 7.46% | 估算人数 11805
-- SLX | Alpha Trade 成交额 28728968.35 | 列表口径 84335310.79 | 涨跌 -9.44% | 振幅 11.72% | 估算人数 3504
-- UAI | Alpha Trade 成交额 95915.65 | 列表口径 1206561.57 | 涨跌 0.40% | 振幅 12.86% | 估算人数 12
-- BR | Alpha Trade 成交额 42293.99 | 列表口径 13045.57 | 涨跌 -2.81% | 振幅 13.99% | 估算人数 5
-- GWEI | Alpha Trade 成交额 40303.45 | 列表口径 10769.07 | 涨跌 -1.14% | 振幅 9.29% | 估算人数 5
-- SHARE | Alpha Trade 成交额 34560.65 | 列表口径 1724134.79 | 涨跌 0.31% | 振幅 1.63% | 估算人数 4
+- BILL | Alpha Trade 成交额 761347793.38 | 列表口径 5173333.97 | 涨跌 8.98% | 振幅 15.64% | 估算人数 92847
+- B2 | Alpha Trade 成交额 558839899.03 | 列表口径 1786552.92 | 涨跌 0.67% | 振幅 6.36% | 估算人数 68151
+- QAIT | Alpha Trade 成交额 122891515.97 | 列表口径 19854404.44 | 涨跌 7.37% | 振幅 31.99% | 估算人数 14987
+- ZEST | Alpha Trade 成交额 122700203.24 | 列表口径 5924942.70 | 涨跌 -6.25% | 振幅 11.46% | 估算人数 14963
+- NEX | Alpha Trade 成交额 99800364.65 | 列表口径 6715763.25 | 涨跌 -0.22% | 振幅 7.46% | 估算人数 12171
+- SLX | Alpha Trade 成交额 40140392.45 | 列表口径 75060867.05 | 涨跌 -7.38% | 振幅 11.88% | 估算人数 4895
+- BR | Alpha Trade 成交额 40051.21 | 列表口径 13025.54 | 涨跌 -2.71% | 振幅 13.99% | 估算人数 5
+- GWEI | Alpha Trade 成交额 38635.26 | 列表口径 11085.42 | 涨跌 -0.99% | 振幅 9.01% | 估算人数 5
+- SHARE | Alpha Trade 成交额 30388.96 | 列表口径 1767229.30 | 涨跌 0.92% | 振幅 1.55% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- BILL | 分数 87.47 | Alpha Trade 成交额 782089305.50 | 波动 0.35% | 4h 振幅 3.00% | 审计 MID
-  - Alpha Trade 24h 成交额 782,089,306，流动性 2,058,728
-  - Alpha 列表口径 24h 成交额 5,251,831
-  - 短周期波动 0.35%
-  - 4h 振幅 3.00%
+- BILL | 分数 87.11 | Alpha Trade 成交额 761347793.38 | 波动 0.31% | 4h 振幅 5.38% | 审计 MID
+  - Alpha Trade 24h 成交额 761,347,793，流动性 2,079,792
+  - Alpha 列表口径 24h 成交额 5,173,334
+  - 短周期波动 0.31%
+  - 4h 振幅 5.38%
   - 审计风险 MID
-- B2 | 分数 68.35 | Alpha Trade 成交额 524414457.24 | 波动 0.10% | 4h 振幅 1.08% | 审计 LOW
-  - Alpha Trade 24h 成交额 524,414,457，流动性 903,358
-  - Alpha 列表口径 24h 成交额 1,907,976
-  - 短周期波动 0.10%
-  - 4h 振幅 1.08%
+- B2 | 分数 69.88 | Alpha Trade 成交额 558839899.03 | 波动 0.13% | 4h 振幅 1.99% | 审计 LOW
+  - Alpha Trade 24h 成交额 558,839,899，流动性 910,749
+  - Alpha 列表口径 24h 成交额 1,786,553
+  - 短周期波动 0.13%
+  - 4h 振幅 1.99%
   - 审计风险 LOW
-- ZEST | 分数 53.51 | Alpha Trade 成交额 124457732.43 | 波动 0.45% | 4h 振幅 3.69% | 审计 LOW
-  - Alpha Trade 24h 成交额 124,457,732，流动性 2,135,855
-  - Alpha 列表口径 24h 成交额 6,332,688
-  - 短周期波动 0.45%
-  - 4h 振幅 3.69%
+- ZEST | 分数 58.05 | Alpha Trade 成交额 122700203.24 | 波动 0.31% | 4h 振幅 3.18% | 审计 LOW
+  - Alpha Trade 24h 成交额 122,700,203，流动性 2,141,859
+  - Alpha 列表口径 24h 成交额 5,924,943
+  - 短周期波动 0.31%
+  - 4h 振幅 3.18%
   - 审计风险 LOW
-- NEX | 分数 49.53 | Alpha Trade 成交额 96801694.58 | 波动 0.20% | 4h 振幅 1.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 96,801,695，流动性 1,454,597
-  - Alpha 列表口径 24h 成交额 6,674,560
-  - 短周期波动 0.20%
-  - 4h 振幅 1.62%
+- NEX | 分数 46.61 | Alpha Trade 成交额 99800364.65 | 波动 0.24% | 4h 振幅 4.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 99,800,365，流动性 1,469,850
+  - Alpha 列表口径 24h 成交额 6,715,763
+  - 短周期波动 0.24%
+  - 4h 振幅 4.57%
   - 审计风险 LOW
-- SLX | 分数 49.27 | Alpha Trade 成交额 28728968.35 | 波动 0.26% | 4h 振幅 5.32% | 审计 LOW
-  - Alpha Trade 24h 成交额 28,728,968，流动性 1,365,098
-  - Alpha 列表口径 24h 成交额 84,335,311
-  - 短周期波动 0.26%
-  - 4h 振幅 5.32%
+- SLX | 分数 45.53 | Alpha Trade 成交额 40140392.45 | 波动 0.36% | 4h 振幅 8.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 40,140,392，流动性 1,364,023
+  - Alpha 列表口径 24h 成交额 75,060,867
+  - 短周期波动 0.36%
+  - 4h 振幅 8.31%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -65,7 +64,7 @@
 
 ### 最近 Alpha 上线
 
-- QAIT | 4x | 上线 2026-05-28T15:00:00+00:00 | 24h 成交额 20281808.36
+- QAIT | 4x | 上线 2026-05-28T15:00:00+00:00 | 24h 成交额 19854404.44
 
 ### New Cryptocurrency Listing
 
@@ -97,7 +96,6 @@
 ## Warnings
 
 - alpha_ticker:ALPHA_588U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_461U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_162U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_118U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - futures_exchange_info: all fallback endpoints failed: https://www.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/exchangeInfo | https://fapi.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/exchangeInfo
