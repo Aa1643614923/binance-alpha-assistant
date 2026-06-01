@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-05-31T23:48:06.348147+00:00
+- 生成时间：2026-06-01T02:04:48.434791+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1620755850.61
+- 四倍分 24h 总成交额：1590826251.25
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：197653（按 8200 / 人）
+- 估算参与人数：194003（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 728110645.43 | 列表口径 2445801.83 | 涨跌 -5.82% | 振幅 17.09% | 估算人数 88794
-- BILL | Alpha Trade 成交额 499296190.52 | 列表口径 5572096.23 | 涨跌 9.40% | 振幅 17.86% | 估算人数 60890
-- ZEST | Alpha Trade 成交额 149996891.72 | 列表口径 3761322.84 | 涨跌 -6.81% | 振幅 16.09% | 估算人数 18292
-- QAIT | Alpha Trade 成交额 142348487.04 | 列表口径 11344869.87 | 涨跌 -2.89% | 振幅 18.80% | 估算人数 17360
-- NEX | Alpha Trade 成交额 79304961.69 | 列表口径 4331544.23 | 涨跌 2.14% | 振幅 8.50% | 估算人数 9671
-- SLX | Alpha Trade 成交额 21586793.46 | 列表口径 96250348.20 | 涨跌 -4.87% | 振幅 43.00% | 估算人数 2633
-- GWEI | Alpha Trade 成交额 44959.55 | 列表口径 106006.15 | 涨跌 -8.62% | 振幅 11.41% | 估算人数 5
-- SHARE | Alpha Trade 成交额 42786.92 | 列表口径 1740897.49 | 涨跌 1.62% | 振幅 3.69% | 估算人数 5
-- BR | Alpha Trade 成交额 24134.27 | 列表口径 3803.13 | 涨跌 -0.27% | 振幅 4.66% | 估算人数 3
+- B2 | Alpha Trade 成交额 739429606.54 | 列表口径 2539271.03 | 涨跌 -5.40% | 振幅 17.09% | 估算人数 90174
+- BILL | Alpha Trade 成交额 471529249.76 | 列表口径 5679095.07 | 涨跌 7.10% | 振幅 16.97% | 估算人数 57504
+- ZEST | Alpha Trade 成交额 150283951.73 | 列表口径 4043059.69 | 涨跌 -10.65% | 振幅 23.01% | 估算人数 18327
+- QAIT | Alpha Trade 成交额 142357869.18 | 列表口径 11659938.27 | 涨跌 0.31% | 振幅 18.80% | 估算人数 17361
+- NEX | Alpha Trade 成交额 76681936.18 | 列表口径 4232316.61 | 涨跌 2.17% | 振幅 8.50% | 估算人数 9351
+- SLX | Alpha Trade 成交额 10430117.34 | 列表口径 101790715.37 | 涨跌 -6.16% | 振幅 43.00% | 估算人数 1272
+- GWEI | Alpha Trade 成交额 44334.74 | 列表口径 105983.72 | 涨跌 -6.91% | 振幅 10.75% | 估算人数 5
+- SHARE | Alpha Trade 成交额 43598.44 | 列表口径 1708665.25 | 涨跌 2.08% | 振幅 3.77% | 估算人数 5
+- BR | Alpha Trade 成交额 25587.34 | 列表口径 4315.17 | 涨跌 -1.12% | 振幅 4.66% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- BILL | 分数 82.65 | Alpha Trade 成交额 499296190.52 | 波动 0.34% | 4h 振幅 2.26% | 审计 MID
-  - Alpha Trade 24h 成交额 499,296,191，流动性 2,083,950
-  - Alpha 列表口径 24h 成交额 5,572,096
-  - 短周期波动 0.34%
-  - 4h 振幅 2.26%
+- BILL | 分数 77.44 | Alpha Trade 成交额 471529249.76 | 波动 0.43% | 4h 振幅 3.47% | 审计 MID
+  - Alpha Trade 24h 成交额 471,529,250，流动性 2,093,017
+  - Alpha 列表口径 24h 成交额 5,679,095
+  - 短周期波动 0.43%
+  - 4h 振幅 3.47%
   - 审计风险 MID
-- B2 | 分数 68.05 | Alpha Trade 成交额 728110645.43 | 波动 0.35% | 4h 振幅 3.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 728,110,645，流动性 865,767
-  - Alpha 列表口径 24h 成交额 2,445,802
-  - 短周期波动 0.35%
-  - 4h 振幅 3.77%
+- B2 | 分数 72.08 | Alpha Trade 成交额 739429606.54 | 波动 0.29% | 4h 振幅 3.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 739,429,607，流动性 867,017
+  - Alpha 列表口径 24h 成交额 2,539,271
+  - 短周期波动 0.29%
+  - 4h 振幅 3.31%
   - 审计风险 LOW
-- SLX | 分数 54.15 | Alpha Trade 成交额 21586793.46 | 波动 0.21% | 4h 振幅 4.47% | 审计 LOW
-  - Alpha Trade 24h 成交额 21,586,793，流动性 1,379,617
-  - Alpha 列表口径 24h 成交额 96,250,348
-  - 短周期波动 0.21%
-  - 4h 振幅 4.47%
+- SLX | 分数 59.04 | Alpha Trade 成交额 10430117.34 | 波动 0.19% | 4h 振幅 2.00% | 审计 LOW
+  - Alpha Trade 24h 成交额 10,430,117，流动性 1,380,892
+  - Alpha 列表口径 24h 成交额 101,790,715
+  - 短周期波动 0.19%
+  - 4h 振幅 2.00%
   - 审计风险 LOW
-- NEX | 分数 48.41 | Alpha Trade 成交额 79304961.69 | 波动 0.27% | 4h 振幅 3.09% | 审计 LOW
-  - Alpha Trade 24h 成交额 79,304,962，流动性 1,464,313
-  - Alpha 列表口径 24h 成交额 4,331,544
-  - 短周期波动 0.27%
-  - 4h 振幅 3.09%
+- NEX | 分数 46.31 | Alpha Trade 成交额 76681936.18 | 波动 0.29% | 4h 振幅 5.04% | 审计 LOW
+  - Alpha Trade 24h 成交额 76,681,936，流动性 1,479,023
+  - Alpha 列表口径 24h 成交额 4,232,317
+  - 短周期波动 0.29%
+  - 4h 振幅 5.04%
   - 审计风险 LOW
-- ZEST | 分数 35.92 | Alpha Trade 成交额 149996891.72 | 波动 0.71% | 4h 振幅 6.22% | 审计 LOW
-  - Alpha Trade 24h 成交额 149,996,892，流动性 2,083,079
-  - Alpha 列表口径 24h 成交额 3,761,323
-  - 短周期波动 0.71%
-  - 4h 振幅 6.22%
+- QAIT | 分数 37.12 | Alpha Trade 成交额 142357869.18 | 波动 0.62% | 4h 振幅 7.17% | 审计 LOW
+  - Alpha Trade 24h 成交额 142,357,869，流动性 1,615,763
+  - Alpha 列表口径 24h 成交额 11,659,938
+  - 短周期波动 0.62%
+  - 4h 振幅 7.17%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,7 +59,7 @@
 
 - 官方最新上新关注：Introducing Genius Terminal (GENIUS) on Binance HODLer Airdrops! Earn GENIUS With Retroactive BNB Simple Earn Subscriptions
 - Latest Binance News：Important Updates for the Binance P2P Block Zone in LATAM
-- Latest Activities：MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers
+- Latest Activities：Binance Earn June Monthly Challenge: Earn Up to 5,888 USDC Rewards and 33.65% APR on Dual Investment
 
 ### 最近 Alpha 上线
 
@@ -84,12 +84,12 @@
 
 ### Latest Activities
 
+- [Binance Earn June Monthly Challenge: Earn Up to 5,888 USDC Rewards and 33.65% APR on Dual Investment](https://www.binance.com/en/support/announcement/detail/ee4bbdd56a9442cfbf240ea0a9b68a87)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance Earn prese…
 - [MEME Trading Tournament: Trade to Share Up to 300 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/0e9b4c9a121245bb8afbcd0a9143d55a)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Balkans Referral Rush: Refer a Friend and Get 9 USDT Each!](https://www.binance.com/en/support/announcement/detail/5060780cb3194a2c98033b05f63b9105)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to launch the “Balkans Referral R…
-- [CIS User Exclusive: Solve Summer Mystery! Gifts are Ready—Up to 300 USDT in Surprise Boxes](https://www.binance.com/en/support/announcement/detail/5c0d0e98e48f45c1a2324d268e41c212)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 
 ## Warnings
 
