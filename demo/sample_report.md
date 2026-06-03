@@ -1,56 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-03T07:16:25.847093+00:00
+- 生成时间：2026-06-03T12:15:20.737977+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：1386118604.90
+- 四倍分 24h 总成交额：1474445165.54
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：169039（按 8200 / 人）
+- 估算参与人数：179810（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 1063470400.50 | 列表口径 3028961.70 | 涨跌 4.45% | 振幅 13.79% | 估算人数 129692
-- ZEST | Alpha Trade 成交额 234906316.81 | 列表口径 4982520.72 | 涨跌 -3.12% | 振幅 20.65% | 估算人数 28647
-- NEX | Alpha Trade 成交额 45152886.19 | 列表口径 7309849.85 | 涨跌 -3.93% | 振幅 9.08% | 估算人数 5506
-- SLX | Alpha Trade 成交额 36105137.06 | 列表口径 9466728.15 | 涨跌 9.43% | 振幅 33.83% | 估算人数 4403
-- QAIT | Alpha Trade 成交额 5712072.71 | 列表口径 2397627.36 | 涨跌 1.27% | 振幅 34.95% | 估算人数 697
-- RTX | Alpha Trade 成交额 282578.03 | 列表口径 2622599.03 | 涨跌 -21.53% | 振幅 29.51% | 估算人数 34
-- FOLKS | Alpha Trade 成交额 185335.81 | 列表口径 1071294.50 | 涨跌 -1.13% | 振幅 8.30% | 估算人数 23
-- FOREST | Alpha Trade 成交额 157574.67 | 列表口径 786879.30 | 涨跌 -42.42% | 振幅 86.49% | 估算人数 19
-- SHARE | Alpha Trade 成交额 59052.69 | 列表口径 1654857.59 | 涨跌 -3.88% | 振幅 5.79% | 估算人数 7
-- GWEI | Alpha Trade 成交额 49722.09 | 列表口径 451617.66 | 涨跌 0.43% | 振幅 9.86% | 估算人数 6
-- BR | Alpha Trade 成交额 37528.36 | 列表口径 12832.12 | 涨跌 -3.54% | 振幅 11.74% | 估算人数 5
+- B2 | Alpha Trade 成交额 1084641682.27 | 列表口径 3423330.55 | 涨跌 4.06% | 振幅 10.08% | 估算人数 132273
+- ZEST | Alpha Trade 成交额 276378564.43 | 列表口径 4739257.40 | 涨跌 -0.17% | 振幅 17.26% | 估算人数 33705
+- SLX | Alpha Trade 成交额 57526135.40 | 列表口径 8388133.31 | 涨跌 -8.20% | 振幅 28.90% | 估算人数 7015
+- NEX | Alpha Trade 成交额 50125589.48 | 列表口径 5899469.33 | 涨跌 -7.67% | 振幅 12.02% | 估算人数 6113
+- QAIT | Alpha Trade 成交额 5049775.68 | 列表口径 2541638.98 | 涨跌 -7.37% | 振幅 46.40% | 估算人数 616
+- FOREST | Alpha Trade 成交额 249052.95 | 列表口径 1055699.55 | 涨跌 -30.19% | 振幅 82.29% | 估算人数 30
+- FOLKS | Alpha Trade 成交额 198034.93 | 列表口径 1120480.17 | 涨跌 -1.04% | 振幅 8.30% | 估算人数 24
+- RTX | Alpha Trade 成交额 118382.18 | 列表口径 2645393.62 | 涨跌 -9.91% | 振幅 15.06% | 估算人数 14
+- BR | Alpha Trade 成交额 58772.18 | 列表口径 40513.15 | 涨跌 10.12% | 振幅 33.03% | 估算人数 7
+- SHARE | Alpha Trade 成交额 52114.37 | 列表口径 1752011.58 | 涨跌 -5.44% | 振幅 5.92% | 估算人数 6
+- GWEI | Alpha Trade 成交额 47061.67 | 列表口径 412941.13 | 涨跌 2.42% | 振幅 9.86% | 估算人数 6
 
 ## 稳定刷分推荐
 
-- B2 | 分数 80.00 | Alpha Trade 成交额 1063470400.50 | 波动 0.17% | 4h 振幅 1.92% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,063,470,400，流动性 878,254
-  - Alpha 列表口径 24h 成交额 3,028,962
-  - 短周期波动 0.17%
-  - 4h 振幅 1.92%
+- B2 | 分数 79.57 | Alpha Trade 成交额 1084641682.27 | 波动 0.18% | 4h 振幅 2.85% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,084,641,682，流动性 877,582
+  - Alpha 列表口径 24h 成交额 3,423,331
+  - 短周期波动 0.18%
+  - 4h 振幅 2.85%
   - 审计风险 LOW
-- NEX | 分数 50.13 | Alpha Trade 成交额 45152886.19 | 波动 0.20% | 4h 振幅 2.22% | 审计 LOW
-  - Alpha Trade 24h 成交额 45,152,886，流动性 1,448,700
-  - Alpha 列表口径 24h 成交额 7,309,850
-  - 短周期波动 0.20%
-  - 4h 振幅 2.22%
+- ZEST | 分数 58.53 | Alpha Trade 成交额 276378564.43 | 波动 0.40% | 4h 振幅 3.78% | 审计 LOW
+  - Alpha Trade 24h 成交额 276,378,564，流动性 1,817,247
+  - Alpha 列表口径 24h 成交额 4,739,257
+  - 短周期波动 0.40%
+  - 4h 振幅 3.78%
   - 审计风险 LOW
-- SLX | 分数 45.36 | Alpha Trade 成交额 36105137.06 | 波动 0.53% | 4h 振幅 6.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 36,105,137，流动性 1,345,311
-  - Alpha 列表口径 24h 成交额 9,466,728
-  - 短周期波动 0.53%
-  - 4h 振幅 6.03%
+- NEX | 分数 51.97 | Alpha Trade 成交额 50125589.48 | 波动 0.26% | 4h 振幅 2.44% | 审计 LOW
+  - Alpha Trade 24h 成交额 50,125,589，流动性 1,446,043
+  - Alpha 列表口径 24h 成交额 5,899,469
+  - 短周期波动 0.26%
+  - 4h 振幅 2.44%
   - 审计风险 LOW
-- QAIT | 分数 40.72 | Alpha Trade 成交额 5712072.71 | 波动 0.42% | 4h 振幅 5.25% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,712,073，流动性 1,596,285
-  - Alpha 列表口径 24h 成交额 2,397,627
-  - 短周期波动 0.42%
-  - 4h 振幅 5.25%
+- SLX | 分数 49.74 | Alpha Trade 成交额 57526135.40 | 波动 0.47% | 4h 振幅 7.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 57,526,135，流动性 1,355,223
+  - Alpha 列表口径 24h 成交额 8,388,133
+  - 短周期波动 0.47%
+  - 4h 振幅 7.38%
   - 审计风险 LOW
-- ZEST | 分数 35.79 | Alpha Trade 成交额 234906316.81 | 波动 0.80% | 4h 振幅 12.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 234,906,317，流动性 2,127,395
-  - Alpha 列表口径 24h 成交额 4,982,521
-  - 短周期波动 0.80%
-  - 4h 振幅 12.71%
+- QAIT | 分数 24.70 | Alpha Trade 成交额 5049775.68 | 波动 0.83% | 4h 振幅 12.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,049,776，流动性 1,568,296
+  - Alpha 列表口径 24h 成交额 2,541,639
+  - 短周期波动 0.83%
+  - 4h 振幅 12.24%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,8 +60,8 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-03)
-- Latest Binance News：Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)
-- Latest Activities：Binance Convert Weekly Accumulation Challenge: Convert Daily to Share 35,000 USDC in Rewards!
+- Latest Binance News：Binance Updates Fiat Liquidity Provider Program (2026-06-04)
+- Latest Activities：Binance Wallet × Predict.fun: Exclusive Basketball Predict Points Campaign
 
 ### 最近 Alpha 上线
 
@@ -77,21 +77,21 @@
 
 ### Latest Binance News
 
+- [Binance Updates Fiat Liquidity Provider Program (2026-06-04)](https://www.binance.com/en/support/announcement/detail/c44afeb363734e6c9c733c4b798fe9f8)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update its Fiat Liquidity Provider Prog…
 - [Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)](https://www.binance.com/en/support/announcement/detail/74b2a407f07d43138466cd2aa0e5f5d6)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Important Update: Compliance and Eligibility Requirements of Binance Referral Program](https://www.binance.com/en/support/announcement/detail/45800a2dd0b7490d85e9173a51d2bd81)
   - Products and services referred to in this announcement may not be available in your location. Fellow Binancians, To comply with applicable regulatory obligations and to maintain t…
-- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)](https://www.binance.com/en/support/announcement/detail/fcf3698a42104ba2b52e5c475d155321)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 
 ### Latest Activities
 
-- [Binance Convert Weekly Accumulation Challenge: Convert Daily to Share 35,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/2504fae5fa1d474caf9233f0b39e76c0)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Convert is launc…
-- [Binance Introduces Limited-Time Trading Fee Discount for USD1-Margined Perpetual Contracts (2026-06-03)](https://www.binance.com/en/support/announcement/detail/623b1a7037a0471c9be319738d479a6b)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures is intro…
-- [Binance Card June Cashback Boost: Spend to Earn Extra Rewards in U!](https://www.binance.com/en/support/announcement/detail/900452675ca546b784aede1ea4dd1b24)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Card is ex…
+- [Binance Wallet × Predict.fun: Exclusive Basketball Predict Points Campaign](https://www.binance.com/en/support/announcement/detail/711c92f75e4a4a74a21060ca4c8bcffb)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
+- [Join the Spot Altcoin Trading Festival: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/77b2ebc98e9948a5bcf371143dd8084d)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians Binance is thrilled to an…
+- [Limited-Time: Trade Stocks & ETFs with up to 50% Lower Fees!](https://www.binance.com/en/support/announcement/detail/e187a603a2084c4cafe8acd651dca160)
+  - This is a general informational announcement and is not a promotion. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp;…
 
 ## Warnings
 
