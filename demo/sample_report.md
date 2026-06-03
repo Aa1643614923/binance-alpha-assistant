@@ -1,54 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-03T02:14:00.845109+00:00
-- 四倍分代币数：9
-- 四倍分 24h 总成交额：1476257128.75
+- 生成时间：2026-06-03T07:16:25.847093+00:00
+- 四倍分代币数：11
+- 四倍分 24h 总成交额：1386118604.90
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：180031（按 8200 / 人）
+- 估算参与人数：169039（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 980948689.17 | 列表口径 2936538.22 | 涨跌 5.94% | 振幅 13.79% | 估算人数 119628
-- ZEST | Alpha Trade 成交额 214601922.41 | 列表口径 4982040.28 | 涨跌 -3.19% | 振幅 24.67% | 估算人数 26171
-- QAIT | Alpha Trade 成交额 150373146.00 | 列表口径 3325226.68 | 涨跌 0.95% | 振幅 34.95% | 估算人数 18338
-- SLX | Alpha Trade 成交额 91722493.71 | 列表口径 10046358.30 | 涨跌 0.59% | 振幅 33.83% | 估算人数 11186
-- NEX | Alpha Trade 成交额 37909084.65 | 列表口径 7159429.58 | 涨跌 -1.09% | 振幅 8.78% | 估算人数 4623
-- RTX | Alpha Trade 成交额 565951.23 | 列表口径 2991936.73 | 涨跌 -26.75% | 振幅 36.63% | 估算人数 69
-- SHARE | Alpha Trade 成交额 62436.28 | 列表口径 1737253.06 | 涨跌 -6.90% | 振幅 7.93% | 估算人数 8
-- GWEI | Alpha Trade 成交额 41336.10 | 列表口径 627810.91 | 涨跌 2.62% | 振幅 12.86% | 估算人数 5
-- BR | Alpha Trade 成交额 32069.22 | 列表口径 13035.51 | 涨跌 -4.40% | 振幅 11.74% | 估算人数 4
+- B2 | Alpha Trade 成交额 1063470400.50 | 列表口径 3028961.70 | 涨跌 4.45% | 振幅 13.79% | 估算人数 129692
+- ZEST | Alpha Trade 成交额 234906316.81 | 列表口径 4982520.72 | 涨跌 -3.12% | 振幅 20.65% | 估算人数 28647
+- NEX | Alpha Trade 成交额 45152886.19 | 列表口径 7309849.85 | 涨跌 -3.93% | 振幅 9.08% | 估算人数 5506
+- SLX | Alpha Trade 成交额 36105137.06 | 列表口径 9466728.15 | 涨跌 9.43% | 振幅 33.83% | 估算人数 4403
+- QAIT | Alpha Trade 成交额 5712072.71 | 列表口径 2397627.36 | 涨跌 1.27% | 振幅 34.95% | 估算人数 697
+- RTX | Alpha Trade 成交额 282578.03 | 列表口径 2622599.03 | 涨跌 -21.53% | 振幅 29.51% | 估算人数 34
+- FOLKS | Alpha Trade 成交额 185335.81 | 列表口径 1071294.50 | 涨跌 -1.13% | 振幅 8.30% | 估算人数 23
+- FOREST | Alpha Trade 成交额 157574.67 | 列表口径 786879.30 | 涨跌 -42.42% | 振幅 86.49% | 估算人数 19
+- SHARE | Alpha Trade 成交额 59052.69 | 列表口径 1654857.59 | 涨跌 -3.88% | 振幅 5.79% | 估算人数 7
+- GWEI | Alpha Trade 成交额 49722.09 | 列表口径 451617.66 | 涨跌 0.43% | 振幅 9.86% | 估算人数 6
+- BR | Alpha Trade 成交额 37528.36 | 列表口径 12832.12 | 涨跌 -3.54% | 振幅 11.74% | 估算人数 5
 
 ## 稳定刷分推荐
 
-- B2 | 分数 66.67 | Alpha Trade 成交额 980948689.17 | 波动 0.52% | 4h 振幅 5.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 980,948,689，流动性 888,334
-  - Alpha 列表口径 24h 成交额 2,936,538
-  - 短周期波动 0.52%
-  - 4h 振幅 5.49%
+- B2 | 分数 80.00 | Alpha Trade 成交额 1063470400.50 | 波动 0.17% | 4h 振幅 1.92% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,063,470,400，流动性 878,254
+  - Alpha 列表口径 24h 成交额 3,028,962
+  - 短周期波动 0.17%
+  - 4h 振幅 1.92%
   - 审计风险 LOW
-- RTX | 分数 57.56 | Alpha Trade 成交额 565951.23 | 波动 0.27% | 4h 振幅 4.96% | 审计 LOW
-  - Alpha Trade 24h 成交额 565,951，流动性 1,186,132
-  - Alpha 列表口径 24h 成交额 2,991,937
-  - 短周期波动 0.27%
-  - 4h 振幅 4.96%
+- NEX | 分数 50.13 | Alpha Trade 成交额 45152886.19 | 波动 0.20% | 4h 振幅 2.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 45,152,886，流动性 1,448,700
+  - Alpha 列表口径 24h 成交额 7,309,850
+  - 短周期波动 0.20%
+  - 4h 振幅 2.22%
   - 审计风险 LOW
-- QAIT | 分数 52.15 | Alpha Trade 成交额 150373146.00 | 波动 0.33% | 4h 振幅 4.47% | 审计 LOW
-  - Alpha Trade 24h 成交额 150,373,146，流动性 1,600,491
-  - Alpha 列表口径 24h 成交额 3,325,227
-  - 短周期波动 0.33%
-  - 4h 振幅 4.47%
+- SLX | 分数 45.36 | Alpha Trade 成交额 36105137.06 | 波动 0.53% | 4h 振幅 6.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 36,105,137，流动性 1,345,311
+  - Alpha 列表口径 24h 成交额 9,466,728
+  - 短周期波动 0.53%
+  - 4h 振幅 6.03%
   - 审计风险 LOW
-- NEX | 分数 51.30 | Alpha Trade 成交额 37909084.65 | 波动 0.26% | 4h 振幅 2.06% | 审计 LOW
-  - Alpha Trade 24h 成交额 37,909,085，流动性 1,455,997
-  - Alpha 列表口径 24h 成交额 7,159,430
-  - 短周期波动 0.26%
-  - 4h 振幅 2.06%
+- QAIT | 分数 40.72 | Alpha Trade 成交额 5712072.71 | 波动 0.42% | 4h 振幅 5.25% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,712,073，流动性 1,596,285
+  - Alpha 列表口径 24h 成交额 2,397,627
+  - 短周期波动 0.42%
+  - 4h 振幅 5.25%
   - 审计风险 LOW
-- ZEST | 分数 48.62 | Alpha Trade 成交额 214601922.41 | 波动 0.76% | 4h 振幅 8.43% | 审计 LOW
-  - Alpha Trade 24h 成交额 214,601,922，流动性 2,081,361
-  - Alpha 列表口径 24h 成交额 4,982,040
-  - 短周期波动 0.76%
-  - 4h 振幅 8.43%
+- ZEST | 分数 35.79 | Alpha Trade 成交额 234906316.81 | 波动 0.80% | 4h 振幅 12.71% | 审计 LOW
+  - Alpha Trade 24h 成交额 234,906,317，流动性 2,127,395
+  - Alpha 列表口径 24h 成交额 4,982,521
+  - 短周期波动 0.80%
+  - 4h 振幅 12.71%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -57,45 +59,47 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch ANTHROPICUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-06-02)
-- Latest Binance News：Binance NFT Upgrade to Binance Wallet and Limited Time Withdrawal Fee Reimbursement
-- Latest Activities：Binance Card June Cashback Boost: Spend to Earn Extra Rewards in U!
+- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-03)
+- Latest Binance News：Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)
+- Latest Activities：Binance Convert Weekly Accumulation Challenge: Convert Daily to Share 35,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-03)](https://www.binance.com/en/support/announcement/detail/d77e2d77ea21405d9ef2cd7c6974ea5f)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
+- [Binance Adds USDT/AED Spot Trading Pair](https://www.binance.com/en/support/announcement/detail/66d54f75b3a041ff991ddd179ab6ed39)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the list…
 - [Binance Futures Will Launch ANTHROPICUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-06-02)](https://www.binance.com/en/support/announcement/detail/2b9ff1e1acf8433793bc40c59a0cb852)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region.&nbsp; Fe…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-02)](https://www.binance.com/en/support/announcement/detail/ed2c6a6160c64eb397b534af90b9d66a)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch USDⓈ-Margined SLXUSDT Perpetual Contract (2026-06-01)](https://www.binance.com/en/support/announcement/detail/4299caec4ca4407cb282707154a97ffe)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
-- [Binance NFT Upgrade to Binance Wallet and Limited Time Withdrawal Fee Reimbursement](https://www.binance.com/en/support/announcement/detail/0b6eb93d6c934fa48dadd49b1bdf452f)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To provide a more seamless and integrated NFT experi…
-- [Binance Wallet Prediction Markets Integrates Predict Points (PP)](https://www.binance.com/en/support/announcement/detail/87903e71b9d9451db6f7ee4fade3fb66)
-  - This is a general announcement. The products and services referred to herein may not be available in your region. Fellow Binancians, Binance Wallet Prediction Markets has official…
-- [Notice on Position Mode Upgrade for Binance COIN-M Futures (2026-06-15)](https://www.binance.com/en/support/announcement/detail/c5e9263fcf734a148e5d525ed287dedc)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, The position mode setting in Binance COIN…
+- [Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)](https://www.binance.com/en/support/announcement/detail/74b2a407f07d43138466cd2aa0e5f5d6)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
+- [Important Update: Compliance and Eligibility Requirements of Binance Referral Program](https://www.binance.com/en/support/announcement/detail/45800a2dd0b7490d85e9173a51d2bd81)
+  - Products and services referred to in this announcement may not be available in your location. Fellow Binancians, To comply with applicable regulatory obligations and to maintain t…
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)](https://www.binance.com/en/support/announcement/detail/fcf3698a42104ba2b52e5c475d155321)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 
 ### Latest Activities
 
+- [Binance Convert Weekly Accumulation Challenge: Convert Daily to Share 35,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/2504fae5fa1d474caf9233f0b39e76c0)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Convert is launc…
+- [Binance Introduces Limited-Time Trading Fee Discount for USD1-Margined Perpetual Contracts (2026-06-03)](https://www.binance.com/en/support/announcement/detail/623b1a7037a0471c9be319738d479a6b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures is intro…
 - [Binance Card June Cashback Boost: Spend to Earn Extra Rewards in U!](https://www.binance.com/en/support/announcement/detail/900452675ca546b784aede1ea4dd1b24)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Card is ex…
-- [June Referral Tournament – Invite Friends, Share Up to 110,000 USDC](https://www.binance.com/en/support/announcement/detail/4511697adf3f4767811c923cba7ee3b7)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is thrille…
-- [STRAX Trading Tournament: Trade to Share Up to 200,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/dee030ef33fd477d84a380e142eda0cf)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
 - alpha_ticker:ALPHA_588U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_503U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_462U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_162U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_348U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_118U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - futures_exchange_info: all fallback endpoints failed: https://www.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/exchangeInfo | https://fapi.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/exchangeInfo
 - futures_ticker_24hr: all fallback endpoints failed: https://www.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/ticker/24hr | https://fapi.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/ticker/24hr
