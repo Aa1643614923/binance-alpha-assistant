@@ -1,56 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-04T09:11:21.344691+00:00
+- 生成时间：2026-06-04T12:20:56.685067+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：1453965329.95
+- 四倍分 24h 总成交额：1384353460.32
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：177313（按 8200 / 人）
+- 估算参与人数：168824（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 1104504600.57 | 列表口径 3123890.85 | 涨跌 -0.27% | 振幅 6.46% | 估算人数 134696
-- ZEST | Alpha Trade 成交额 178594858.52 | 列表口径 2860117.84 | 涨跌 -12.57% | 振幅 20.48% | 估算人数 21780
-- QAIT | Alpha Trade 成交额 87451916.93 | 列表口径 2998373.58 | 涨跌 -6.83% | 振幅 18.65% | 估算人数 10665
-- SLX | Alpha Trade 成交额 46439775.25 | 列表口径 8267372.40 | 涨跌 -33.76% | 振幅 62.21% | 估算人数 5663
-- NEX | Alpha Trade 成交额 36483846.65 | 列表口径 6409205.09 | 涨跌 -14.21% | 振幅 19.27% | 估算人数 4449
-- FOREST | Alpha Trade 成交额 144731.85 | 列表口径 890707.55 | 涨跌 -1.08% | 振幅 26.38% | 估算人数 18
-- FOLKS | Alpha Trade 成交额 114331.00 | 列表口径 572714.18 | 涨跌 -4.75% | 振幅 9.76% | 估算人数 14
-- BR | Alpha Trade 成交额 108621.89 | 列表口径 112572.60 | 涨跌 -4.72% | 振幅 33.89% | 估算人数 13
-- GWEI | Alpha Trade 成交额 46168.92 | 列表口径 296185.03 | 涨跌 -2.76% | 振幅 14.99% | 估算人数 6
-- SHARE | Alpha Trade 成交额 43613.65 | 列表口径 1852205.79 | 涨跌 0.52% | 振幅 4.34% | 估算人数 5
-- RTX | Alpha Trade 成交额 32864.72 | 列表口径 2025118.66 | 涨跌 -6.81% | 振幅 13.21% | 估算人数 4
+- B2 | Alpha Trade 成交额 1092417675.05 | 列表口径 3166784.96 | 涨跌 -2.28% | 振幅 8.19% | 估算人数 133222
+- ZEST | Alpha Trade 成交额 126455507.89 | 列表口径 2740384.05 | 涨跌 -14.52% | 振幅 18.88% | 估算人数 15421
+- QAIT | Alpha Trade 成交额 87694886.02 | 列表口径 2780917.00 | 涨跌 2.09% | 振幅 17.98% | 估算人数 10694
+- SLX | Alpha Trade 成交额 38724367.16 | 列表口径 7817365.97 | 涨跌 -29.47% | 振幅 57.41% | 估算人数 4722
+- NEX | Alpha Trade 成交额 38551425.76 | 列表口径 6477818.09 | 涨跌 -14.29% | 振幅 19.22% | 估算人数 4701
+- FOREST | Alpha Trade 成交额 182788.81 | 列表口径 1086537.99 | 涨跌 20.14% | 振幅 45.31% | 估算人数 22
+- FOLKS | Alpha Trade 成交额 101695.55 | 列表口径 568476.92 | 涨跌 -8.09% | 振幅 11.75% | 估算人数 12
+- BR | Alpha Trade 成交额 89919.03 | 列表口径 85689.34 | 涨跌 -14.45% | 振幅 30.83% | 估算人数 11
+- SHARE | Alpha Trade 成交额 59705.81 | 列表口径 1726875.42 | 涨跌 0.69% | 振幅 4.34% | 估算人数 7
+- GWEI | Alpha Trade 成交额 43838.39 | 列表口径 463144.53 | 涨跌 -0.84% | 振幅 15.87% | 估算人数 5
+- RTX | Alpha Trade 成交额 31650.84 | 列表口径 1748425.39 | 涨跌 -8.65% | 振幅 15.10% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- B2 | 分数 80.00 | Alpha Trade 成交额 1104504600.57 | 波动 0.20% | 4h 振幅 2.24% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,104,504,601，流动性 844,470
-  - Alpha 列表口径 24h 成交额 3,123,891
-  - 短周期波动 0.20%
-  - 4h 振幅 2.24%
+- B2 | 分数 80.00 | Alpha Trade 成交额 1092417675.05 | 波动 0.18% | 4h 振幅 2.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,092,417,675，流动性 843,407
+  - Alpha 列表口径 24h 成交额 3,166,785
+  - 短周期波动 0.18%
+  - 4h 振幅 2.57%
   - 审计风险 LOW
-- NEX | 分数 41.15 | Alpha Trade 成交额 36483846.65 | 波动 0.55% | 4h 振幅 3.90% | 审计 LOW
-  - Alpha Trade 24h 成交额 36,483,847，流动性 1,360,351
-  - Alpha 列表口径 24h 成交额 6,409,205
-  - 短周期波动 0.55%
-  - 4h 振幅 3.90%
+- QAIT | 分数 51.00 | Alpha Trade 成交额 87694886.02 | 波动 0.34% | 4h 振幅 2.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 87,694,886，流动性 1,549,517
+  - Alpha 列表口径 24h 成交额 2,780,917
+  - 短周期波动 0.34%
+  - 4h 振幅 2.64%
   - 审计风险 LOW
-- ZEST | 分数 40.34 | Alpha Trade 成交额 178594858.52 | 波动 0.84% | 4h 振幅 6.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 178,594,859，流动性 1,728,586
-  - Alpha 列表口径 24h 成交额 2,860,118
-  - 短周期波动 0.84%
-  - 4h 振幅 6.62%
+- ZEST | 分数 44.35 | Alpha Trade 成交额 126455507.89 | 波动 0.50% | 4h 振幅 4.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 126,455,508，流动性 1,717,576
+  - Alpha 列表口径 24h 成交额 2,740,384
+  - 短周期波动 0.50%
+  - 4h 振幅 4.65%
   - 审计风险 LOW
-- SLX | 分数 36.89 | Alpha Trade 成交额 46439775.25 | 波动 0.72% | 4h 振幅 9.46% | 审计 LOW
-  - Alpha Trade 24h 成交额 46,439,775，流动性 1,204,220
-  - Alpha 列表口径 24h 成交额 8,267,372
-  - 短周期波动 0.72%
-  - 4h 振幅 9.46%
+- NEX | 分数 43.59 | Alpha Trade 成交额 38551425.76 | 波动 0.34% | 4h 振幅 3.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 38,551,426，流动性 1,354,587
+  - Alpha 列表口径 24h 成交额 6,477,818
+  - 短周期波动 0.34%
+  - 4h 振幅 3.79%
   - 审计风险 LOW
-- QAIT | 分数 28.37 | Alpha Trade 成交额 87451916.93 | 波动 0.94% | 4h 振幅 8.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 87,451,917，流动性 1,550,230
-  - Alpha 列表口径 24h 成交额 2,998,374
-  - 短周期波动 0.94%
-  - 4h 振幅 8.59%
+- SLX | 分数 30.88 | Alpha Trade 成交额 38724367.16 | 波动 0.68% | 4h 振幅 6.47% | 审计 LOW
+  - Alpha Trade 24h 成交额 38,724,367，流动性 1,205,004
+  - Alpha 列表口径 24h 成交额 7,817,366
+  - 短周期波动 0.68%
+  - 4h 振幅 6.47%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,8 +60,8 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-03)
-- Latest Binance News：Binance Updates Fiat Liquidity Provider Program (2026-06-04)
-- Latest Activities：HOME Trading Tournament: Trade to Share Up to 10,000,000 HOME Token Vouchers
+- Latest Binance News：Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns
+- Latest Activities：Binance Alpha Trading Competition: Trade Irys (IRYS) and Share $100K Worth of Rewards (2026-06-04)
 
 ### 最近 Alpha 上线
 
@@ -77,21 +77,21 @@
 
 ### Latest Binance News
 
+- [Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns](https://www.binance.com/en/support/announcement/detail/c551fe705be942888cb7b27493482dd8)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance announces the launch of an upgraded OTC trad…
 - [Binance Updates Fiat Liquidity Provider Program (2026-06-04)](https://www.binance.com/en/support/announcement/detail/c44afeb363734e6c9c733c4b798fe9f8)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update its Fiat Liquidity Provider Prog…
 - [Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)](https://www.binance.com/en/support/announcement/detail/74b2a407f07d43138466cd2aa0e5f5d6)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Important Update: Compliance and Eligibility Requirements of Binance Referral Program](https://www.binance.com/en/support/announcement/detail/45800a2dd0b7490d85e9173a51d2bd81)
-  - Products and services referred to in this announcement may not be available in your location. Fellow Binancians, To comply with applicable regulatory obligations and to maintain t…
 
 ### Latest Activities
 
-- [HOME Trading Tournament: Trade to Share Up to 10,000,000 HOME Token Vouchers](https://www.binance.com/en/support/announcement/detail/30f2af3a81a44defa911befcda238531)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Binance Earn: Enjoy Up to 6% APR with USDT Flexible Products (2026-06-04)](https://www.binance.com/en/support/announcement/detail/7c272e07830b47fa9378827c5b15de81)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [Binance Wallet × Predict.fun: Exclusive Basketball Predict Points Campaign](https://www.binance.com/en/support/announcement/detail/711c92f75e4a4a74a21060ca4c8bcffb)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
+- [Binance Alpha Trading Competition: Trade Irys (IRYS) and Share $100K Worth of Rewards (2026-06-04)](https://www.binance.com/en/support/announcement/detail/e03b8b6a88284e579613a37542b5eb7c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
+- [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This June 2026!](https://www.binance.com/en/support/announcement/detail/0f4e34d888884475ba1a240c8ccf674e)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitc…
+- [Binance Square: Ask, Answer & Win with Stocks & ETFs Insights](https://www.binance.com/en/support/announcement/detail/e48ee189805b49d099648f496916bcfe)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp;&nbsp;&nbsp; With Binance’s official laun…
 
 ## Warnings
 
