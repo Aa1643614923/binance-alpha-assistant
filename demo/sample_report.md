@@ -1,56 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-05T06:17:10.198657+00:00
-- 四倍分代币数：11
-- 四倍分 24h 总成交额：1457426632.45
+- 生成时间：2026-06-05T10:27:20.943498+00:00
+- 四倍分代币数：12
+- 四倍分 24h 总成交额：1446143090.20
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：177735（按 8200 / 人）
+- 估算参与人数：176359（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 1086484629.94 | 列表口径 2693272.67 | 涨跌 -2.17% | 振幅 6.93% | 估算人数 132498
-- NEX | Alpha Trade 成交额 156324537.61 | 列表口径 8607659.70 | 涨跌 4.33% | 振幅 13.17% | 估算人数 19064
-- QAIT | Alpha Trade 成交额 90167424.53 | 列表口径 5748228.78 | 涨跌 33.31% | 振幅 46.07% | 估算人数 10996
-- ZEST | Alpha Trade 成交额 84861460.58 | 列表口径 32177526.83 | 涨跌 88.21% | 振幅 320.21% | 估算人数 10349
-- SLX | Alpha Trade 成交额 38855826.16 | 列表口径 4647928.09 | 涨跌 -18.80% | 振幅 29.12% | 估算人数 4739
-- FOREST | Alpha Trade 成交额 442900.74 | 列表口径 2215247.75 | 涨跌 -2.20% | 振幅 76.17% | 估算人数 54
-- SHARE | Alpha Trade 成交额 102580.88 | 列表口径 1734489.98 | 涨跌 1.69% | 振幅 5.37% | 估算人数 13
-- BR | Alpha Trade 成交额 69293.21 | 列表口径 18044.70 | 涨跌 -15.30% | 振幅 18.34% | 估算人数 8
-- FOLKS | Alpha Trade 成交额 54132.05 | 列表口径 557850.67 | 涨跌 -5.66% | 振幅 7.43% | 估算人数 7
-- GWEI | Alpha Trade 成交额 36356.34 | 列表口径 621795.81 | 涨跌 -2.02% | 振幅 7.63% | 估算人数 4
-- RTX | Alpha Trade 成交额 27490.42 | 列表口径 1342557.12 | 涨跌 -5.65% | 振幅 9.51% | 估算人数 3
+- B2 | Alpha Trade 成交额 1053260241.38 | 列表口径 3044261.46 | 涨跌 -4.17% | 振幅 8.28% | 估算人数 128446
+- NEX | Alpha Trade 成交额 187606186.34 | 列表口径 10172346.80 | 涨跌 11.70% | 振幅 18.29% | 估算人数 22879
+- QAIT | Alpha Trade 成交额 96395496.95 | 列表口径 8549736.73 | 涨跌 26.89% | 振幅 45.36% | 估算人数 11756
+- ZEST | Alpha Trade 成交额 73681165.05 | 列表口径 34479592.54 | 涨跌 92.60% | 振幅 320.21% | 估算人数 8986
+- SLX | Alpha Trade 成交额 34079026.05 | 列表口径 4891650.57 | 涨跌 -20.98% | 振幅 34.15% | 估算人数 4156
+- FOREST | Alpha Trade 成交额 457605.16 | 列表口径 2237976.70 | 涨跌 14.90% | 振幅 76.17% | 估算人数 56
+- TRIA | Alpha Trade 成交额 369892.80 | 列表口径 2950611.32 | 涨跌 -3.21% | 振幅 19.63% | 估算人数 45
+- SHARE | Alpha Trade 成交额 93956.91 | 列表口径 1592620.00 | 涨跌 -1.83% | 振幅 6.47% | 估算人数 11
+- FOLKS | Alpha Trade 成交额 69215.40 | 列表口径 591815.60 | 涨跌 -2.51% | 振幅 8.56% | 估算人数 8
+- BR | Alpha Trade 成交额 66643.43 | 列表口径 14099.30 | 涨跌 -5.96% | 振幅 16.91% | 估算人数 8
+- GWEI | Alpha Trade 成交额 34692.48 | 列表口径 593580.78 | 涨跌 2.66% | 振幅 7.54% | 估算人数 4
+- RTX | Alpha Trade 成交额 28968.24 | 列表口径 1314423.81 | 涨跌 -3.50% | 振幅 9.51% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- B2 | 分数 80.00 | Alpha Trade 成交额 1086484629.94 | 波动 0.13% | 4h 振幅 1.87% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,086,484,630，流动性 827,614
-  - Alpha 列表口径 24h 成交额 2,693,273
-  - 短周期波动 0.13%
-  - 4h 振幅 1.87%
+- B2 | 分数 80.00 | Alpha Trade 成交额 1053260241.38 | 波动 0.34% | 4h 振幅 4.04% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,053,260,241，流动性 816,390
+  - Alpha 列表口径 24h 成交额 3,044,261
+  - 短周期波动 0.34%
+  - 4h 振幅 4.04%
   - 审计风险 LOW
-- SLX | 分数 50.72 | Alpha Trade 成交额 38855826.16 | 波动 0.71% | 4h 振幅 7.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 38,855,826，流动性 1,191,527
-  - Alpha 列表口径 24h 成交额 4,647,928
-  - 短周期波动 0.71%
-  - 4h 振幅 7.03%
+- SLX | 分数 48.90 | Alpha Trade 成交额 34079026.05 | 波动 0.72% | 4h 振幅 5.32% | 审计 LOW
+  - Alpha Trade 24h 成交额 34,079,026，流动性 1,180,618
+  - Alpha 列表口径 24h 成交额 4,891,651
+  - 短周期波动 0.72%
+  - 4h 振幅 5.32%
   - 审计风险 LOW
-- NEX | 分数 50.09 | Alpha Trade 成交额 156324537.61 | 波动 0.28% | 4h 振幅 2.74% | 审计 LOW
-  - Alpha Trade 24h 成交额 156,324,538，流动性 1,405,508
-  - Alpha 列表口径 24h 成交额 8,607,660
-  - 短周期波动 0.28%
-  - 4h 振幅 2.74%
+- NEX | 分数 42.80 | Alpha Trade 成交额 187606186.34 | 波动 0.64% | 4h 振幅 8.08% | 审计 LOW
+  - Alpha Trade 24h 成交额 187,606,186，流动性 1,415,722
+  - Alpha 列表口径 24h 成交额 10,172,347
+  - 短周期波动 0.64%
+  - 4h 振幅 8.08%
   - 审计风险 LOW
-- ZEST | 分数 34.75 | Alpha Trade 成交额 84861460.58 | 波动 2.31% | 4h 振幅 23.52% | 审计 LOW
-  - Alpha Trade 24h 成交额 84,861,461，流动性 2,305,659
-  - Alpha 列表口径 24h 成交额 32,177,527
-  - 短周期波动 2.31%
-  - 4h 振幅 23.52%
+- ZEST | 分数 32.23 | Alpha Trade 成交额 73681165.05 | 波动 1.36% | 4h 振幅 12.37% | 审计 LOW
+  - Alpha Trade 24h 成交额 73,681,165，流动性 2,272,153
+  - Alpha 列表口径 24h 成交额 34,479,593
+  - 短周期波动 1.36%
+  - 4h 振幅 12.37%
   - 审计风险 LOW
-- QAIT | 分数 28.86 | Alpha Trade 成交额 90167424.53 | 波动 1.62% | 4h 振幅 33.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 90,167,425，流动性 1,663,459
-  - Alpha 列表口径 24h 成交额 5,748,229
-  - 短周期波动 1.62%
-  - 4h 振幅 33.65%
+- QAIT | 分数 25.28 | Alpha Trade 成交额 96395496.95 | 波动 1.24% | 4h 振幅 13.07% | 审计 LOW
+  - Alpha Trade 24h 成交额 96,395,497，流动性 1,657,276
+  - Alpha 列表口径 24h 成交额 8,549,737
+  - 短周期波动 1.24%
+  - 4h 振幅 13.07%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,7 +61,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)
-- Latest Binance News：Binance Futures Will Convert QNTXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-04)
+- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)
 - Latest Activities：From Crypto to Wall Street: U.S. Stocks & ETFs - Share Up to 10M USDC
 
 ### 最近 Alpha 上线
@@ -77,12 +78,12 @@
 
 ### Latest Binance News
 
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-06)](https://www.binance.com/en/support/announcement/detail/d38329a5dd4843c584ed2cc0784166f9)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve us…
+- [Binance Margin: Important Updates on Cross Margin Classic](https://www.binance.com/en/support/announcement/detail/4bd0c5b16c8a442c84dbbe7dd3acb814)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, At 2026-06-15 08:00 (UTC) , Binance Margin will upda…
 - [Binance Futures Will Convert QNTXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-04)](https://www.binance.com/en/support/announcement/detail/2d70d8d34f474c6692a110388c32eff8)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will convert USDⓈ-Margined…
-- [Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns](https://www.binance.com/en/support/announcement/detail/c551fe705be942888cb7b27493482dd8)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance announces the launch of an upgraded OTC trad…
-- [Binance Updates Fiat Liquidity Provider Program (2026-06-04)](https://www.binance.com/en/support/announcement/detail/c44afeb363734e6c9c733c4b798fe9f8)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update its Fiat Liquidity Provider Prog…
 
 ### Latest Activities
 
@@ -95,6 +96,7 @@
 
 ## Warnings
 
+- alpha_ticker:ALPHA_669U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_588U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_503U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_462U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
