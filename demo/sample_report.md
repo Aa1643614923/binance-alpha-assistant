@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-10T10:41:00.476401+00:00
+- 生成时间：2026-06-10T14:02:34.291951+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1290509536.64
+- 四倍分 24h 总成交额：1282617524.43
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：157379（按 8200 / 人）
+- 估算参与人数：156417（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 1026370185.90 | 列表口径 2512571.36 | 涨跌 -8.33% | 振幅 10.83% | 估算人数 125167
-- QAIT | Alpha Trade 成交额 93008574.21 | 列表口径 20701374.24 | 涨跌 10.34% | 振幅 38.10% | 估算人数 11343
-- SLX | Alpha Trade 成交额 64404638.72 | 列表口径 3986848.14 | 涨跌 -15.43% | 振幅 32.64% | 估算人数 7854
-- NEX | Alpha Trade 成交额 63158122.08 | 列表口径 3358647.45 | 涨跌 5.85% | 振幅 15.22% | 估算人数 7702
-- ZEST | Alpha Trade 成交额 42322037.78 | 列表口径 4323090.70 | 涨跌 -3.77% | 振幅 9.89% | 估算人数 5161
-- FOLKS | Alpha Trade 成交额 469021.42 | 列表口径 3419296.29 | 涨跌 5.76% | 振幅 12.05% | 估算人数 57
-- BLESS | Alpha Trade 成交额 379291.52 | 列表口径 3699007.65 | 涨跌 -7.70% | 振幅 25.51% | 估算人数 46
-- KGEN | Alpha Trade 成交额 151274.58 | 列表口径 1544832.22 | 涨跌 -9.93% | 振幅 21.02% | 估算人数 18
-- GWEI | Alpha Trade 成交额 144751.20 | 列表口径 54180.76 | 涨跌 -5.35% | 振幅 32.15% | 估算人数 18
-- FOREST | Alpha Trade 成交额 60454.65 | 列表口径 353009.96 | 涨跌 2.96% | 振幅 33.19% | 估算人数 7
-- TRIA | Alpha Trade 成交额 22348.64 | 列表口径 717758.25 | 涨跌 -5.93% | 振幅 8.63% | 估算人数 3
-- RTX | Alpha Trade 成交额 18835.96 | 列表口径 1952958.64 | 涨跌 -6.55% | 振幅 14.29% | 估算人数 2
+- B2 | Alpha Trade 成交额 1040478681.18 | 列表口径 2910631.86 | 涨跌 -4.82% | 振幅 10.02% | 估算人数 126888
+- QAIT | Alpha Trade 成交额 96467590.19 | 列表口径 20838254.47 | 涨跌 13.25% | 振幅 34.98% | 估算人数 11764
+- NEX | Alpha Trade 成交额 68694907.45 | 列表口径 4042435.83 | 涨跌 10.95% | 振幅 15.22% | 估算人数 8377
+- SLX | Alpha Trade 成交额 68197199.88 | 列表口径 3327516.86 | 涨跌 -16.71% | 振幅 36.70% | 估算人数 8317
+- ZEST | Alpha Trade 成交额 7534251.52 | 列表口径 4023725.81 | 涨跌 2.26% | 振幅 9.65% | 估算人数 919
+- FOLKS | Alpha Trade 成交额 545868.70 | 列表口径 3879802.92 | 涨跌 18.89% | 振幅 25.95% | 估算人数 67
+- BLESS | Alpha Trade 成交额 360017.07 | 列表口径 3252751.20 | 涨跌 1.71% | 振幅 25.51% | 估算人数 44
+- GWEI | Alpha Trade 成交额 119596.90 | 列表口径 49153.97 | 涨跌 -0.67% | 振幅 15.62% | 估算人数 15
+- KGEN | Alpha Trade 成交额 109148.82 | 列表口径 1464309.18 | 涨跌 -8.30% | 振幅 16.42% | 估算人数 13
+- FOREST | Alpha Trade 成交额 57282.41 | 列表口径 322720.97 | 涨跌 -1.41% | 振幅 33.19% | 估算人数 7
+- RTX | Alpha Trade 成交额 29837.51 | 列表口径 2212703.63 | 涨跌 5.17% | 振幅 16.38% | 估算人数 4
+- TRIA | Alpha Trade 成交额 23142.79 | 列表口径 711251.71 | 涨跌 -6.47% | 振幅 9.45% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- B2 | 分数 79.34 | Alpha Trade 成交额 1026370185.90 | 波动 0.35% | 4h 振幅 5.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,026,370,186，流动性 792,565
-  - Alpha 列表口径 24h 成交额 2,512,571
-  - 短周期波动 0.35%
-  - 4h 振幅 5.62%
+- B2 | 分数 80.00 | Alpha Trade 成交额 1040478681.18 | 波动 0.27% | 4h 振幅 3.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,040,478,681，流动性 806,956
+  - Alpha 列表口径 24h 成交额 2,910,632
+  - 短周期波动 0.27%
+  - 4h 振幅 3.76%
   - 审计风险 LOW
-- ZEST | 分数 55.80 | Alpha Trade 成交额 42322037.78 | 波动 0.57% | 4h 振幅 4.88% | 审计 LOW
-  - Alpha Trade 24h 成交额 42,322,038，流动性 2,339,497
-  - Alpha 列表口径 24h 成交额 4,323,091
-  - 短周期波动 0.57%
-  - 4h 振幅 4.88%
+- SLX | 分数 51.41 | Alpha Trade 成交额 68197199.88 | 波动 0.58% | 4h 振幅 5.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 68,197,200，流动性 1,169,288
+  - Alpha 列表口径 24h 成交额 3,327,517
+  - 短周期波动 0.58%
+  - 4h 振幅 5.53%
   - 审计风险 LOW
-- SLX | 分数 53.76 | Alpha Trade 成交额 64404638.72 | 波动 0.60% | 4h 振幅 5.20% | 审计 LOW
-  - Alpha Trade 24h 成交额 64,404,639，流动性 1,167,017
-  - Alpha 列表口径 24h 成交额 3,986,848
-  - 短周期波动 0.60%
-  - 4h 振幅 5.20%
+- ZEST | 分数 50.94 | Alpha Trade 成交额 7534251.52 | 波动 0.56% | 4h 振幅 8.18% | 审计 LOW
+  - Alpha Trade 24h 成交额 7,534,252，流动性 2,350,030
+  - Alpha 列表口径 24h 成交额 4,023,726
+  - 短周期波动 0.56%
+  - 4h 振幅 8.18%
   - 审计风险 LOW
-- NEX | 分数 34.68 | Alpha Trade 成交额 63158122.08 | 波动 0.79% | 4h 振幅 10.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 63,158,122，流动性 1,390,459
-  - Alpha 列表口径 24h 成交额 3,358,647
-  - 短周期波动 0.79%
-  - 4h 振幅 10.89%
+- QAIT | 分数 43.08 | Alpha Trade 成交额 96467590.19 | 波动 0.66% | 4h 振幅 5.23% | 审计 LOW
+  - Alpha Trade 24h 成交额 96,467,590，流动性 1,682,710
+  - Alpha 列表口径 24h 成交额 20,838,254
+  - 短周期波动 0.66%
+  - 4h 振幅 5.23%
   - 审计风险 LOW
-- QAIT | 分数 22.83 | Alpha Trade 成交额 93008574.21 | 波动 1.29% | 4h 振幅 16.12% | 审计 LOW
-  - Alpha Trade 24h 成交额 93,008,574，流动性 1,685,080
-  - Alpha 列表口径 24h 成交额 20,701,374
-  - 短周期波动 1.29%
-  - 4h 振幅 16.12%
+- NEX | 分数 34.13 | Alpha Trade 成交额 68694907.45 | 波动 0.84% | 4h 振幅 7.90% | 审计 LOW
+  - Alpha Trade 24h 成交额 68,694,907，流动性 1,417,764
+  - Alpha 列表口径 24h 成交额 4,042,436
+  - 短周期波动 0.84%
+  - 4h 振幅 7.90%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -61,8 +61,8 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-10)
-- Latest Binance News：Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-10)
-- Latest Activities：XAUT Trading Tournament: Trade to Share Up to 400,000 USDC Token Vouchers
+- Latest Binance News：Notice on Binance Futures COIN-M System Upgrade (2026-06-30)
+- Latest Activities：Binance Football Challenge 2026: Make Your Daily Picks to Win a Share of a $4,000,000 Valued Prize Pool
 
 ### 最近 Alpha 上线
 
@@ -78,21 +78,21 @@
 
 ### Latest Binance News
 
+- [Notice on Binance Futures COIN-M System Upgrade (2026-06-30)](https://www.binance.com/en/support/announcement/detail/2a84dfd7643f4dc18084e45e8691b69e)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures COIN-M is undergoing a te…
 - [Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-10)](https://www.binance.com/en/support/announcement/detail/71e6ac61324f493094abc8c568091514)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-10 & 2026-06-12)](https://www.binance.com/en/support/announcement/detail/3d7ade5e0521477cbe75ca92a913c211)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
-- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-06-12)](https://www.binance.com/en/support/announcement/detail/4d11138559ff4598b60965c479517934)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 
 ### Latest Activities
 
+- [Binance Football Challenge 2026: Make Your Daily Picks to Win a Share of a $4,000,000 Valued Prize Pool](https://www.binance.com/en/support/announcement/detail/a6f02526afd1466ab72fe29af4c84c67)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply&nbsp; Fellow Binancians, Football season is…
 - [XAUT Trading Tournament: Trade to Share Up to 400,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/836fb54e92044caab159c342222dfabb)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [MENA Exclusive: Invite and Earn Together — Share in 50,000 USDC Rewards](https://www.binance.com/en/support/announcement/detail/08e5e3d8310242e5a2294b805af47d85)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the MENA Exclusive: Invite and Earn To…
-- [Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign and Win a Share of 100,000 U Token Rewards](https://www.binance.com/en/support/announcement/detail/39e4f49b1f3e4f968a5ead463c74d2cd)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
 
 ## Warnings
 
