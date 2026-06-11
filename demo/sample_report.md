@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-11T11:51:33.803872+00:00
+- 生成时间：2026-06-11T15:40:36.632708+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1419326649.29
+- 四倍分 24h 总成交额：1398988522.26
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：173089（按 8200 / 人）
+- 估算参与人数：170608（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 1115186785.01 | 列表口径 2632379.74 | 涨跌 -0.46% | 振幅 7.51% | 估算人数 135998
-- QAIT | Alpha Trade 成交额 100614429.20 | 列表口径 7165309.73 | 涨跌 -8.91% | 振幅 27.15% | 估算人数 12270
-- NEX | Alpha Trade 成交额 96902210.90 | 列表口径 6925719.12 | 涨跌 11.94% | 振幅 20.02% | 估算人数 11817
-- SLX | Alpha Trade 成交额 96860220.86 | 列表口径 1860205.34 | 涨跌 -2.62% | 振幅 22.19% | 估算人数 11812
-- ZEST | Alpha Trade 成交额 7396827.61 | 列表口径 5986987.46 | 涨跌 17.90% | 振幅 31.47% | 估算人数 902
-- FOLKS | Alpha Trade 成交额 1844673.95 | 列表口径 13859699.76 | 涨跌 33.98% | 振幅 47.31% | 估算人数 225
-- BLESS | Alpha Trade 成交额 204812.35 | 列表口径 1705555.61 | 涨跌 -6.42% | 振幅 29.77% | 估算人数 25
-- GWEI | Alpha Trade 成交额 111793.96 | 列表口径 40017.93 | 涨跌 -2.53% | 振幅 29.64% | 估算人数 14
-- TRIA | Alpha Trade 成交额 57085.64 | 列表口径 1004751.23 | 涨跌 -0.27% | 振幅 8.22% | 估算人数 7
-- KGEN | Alpha Trade 成交额 55256.12 | 列表口径 924497.52 | 涨跌 4.34% | 振幅 9.69% | 估算人数 7
-- FOREST | Alpha Trade 成交额 47509.75 | 列表口径 287630.09 | 涨跌 6.56% | 振幅 17.00% | 估算人数 6
-- RTX | Alpha Trade 成交额 45043.94 | 列表口径 2025311.95 | 涨跌 4.54% | 振幅 9.12% | 估算人数 5
+- B2 | Alpha Trade 成交额 1099929710.81 | 列表口径 2349859.82 | 涨跌 -1.02% | 振幅 7.51% | 估算人数 134138
+- NEX | Alpha Trade 成交额 106446718.70 | 列表口径 7070700.51 | 涨跌 7.38% | 振幅 19.23% | 估算人数 12981
+- QAIT | Alpha Trade 成交额 94493262.48 | 列表口径 8189974.79 | 涨跌 -8.73% | 振幅 28.36% | 估算人数 11524
+- SLX | Alpha Trade 成交额 88728685.11 | 列表口径 1755060.09 | 涨跌 -8.54% | 振幅 20.82% | 估算人数 10821
+- ZEST | Alpha Trade 成交额 6901263.63 | 列表口径 6226860.51 | 涨跌 6.12% | 振幅 30.23% | 估算人数 842
+- FOLKS | Alpha Trade 成交额 1976928.38 | 列表口径 13889424.77 | 涨跌 12.25% | 振幅 35.87% | 估算人数 241
+- BLESS | Alpha Trade 成交额 195776.22 | 列表口径 1656122.48 | 涨跌 -9.99% | 振幅 29.77% | 估算人数 24
+- FOREST | Alpha Trade 成交额 101641.46 | 列表口径 447395.06 | 涨跌 20.79% | 振幅 42.92% | 估算人数 12
+- GWEI | Alpha Trade 成交额 63717.97 | 列表口径 38748.15 | 涨跌 -4.17% | 振幅 29.55% | 估算人数 8
+- TRIA | Alpha Trade 成交额 62437.08 | 列表口径 1028714.46 | 涨跌 -1.21% | 振幅 8.04% | 估算人数 8
+- KGEN | Alpha Trade 成交额 54126.67 | 列表口径 961852.80 | 涨跌 5.64% | 振幅 10.34% | 估算人数 7
+- RTX | Alpha Trade 成交额 34253.77 | 列表口径 1572800.98 | 涨跌 0.17% | 振幅 5.25% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- B2 | 分数 80.00 | Alpha Trade 成交额 1115186785.01 | 波动 0.16% | 4h 振幅 2.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,115,186,785，流动性 802,940
-  - Alpha 列表口径 24h 成交额 2,632,380
-  - 短周期波动 0.16%
-  - 4h 振幅 2.31%
+- B2 | 分数 81.16 | Alpha Trade 成交额 1099929710.81 | 波动 0.14% | 4h 振幅 1.63% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,099,929,711，流动性 798,339
+  - Alpha 列表口径 24h 成交额 2,349,860
+  - 短周期波动 0.14%
+  - 4h 振幅 1.63%
   - 审计风险 LOW
-- SLX | 分数 56.56 | Alpha Trade 成交额 96860220.86 | 波动 0.29% | 4h 振幅 3.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 96,860,221，流动性 1,161,110
-  - Alpha 列表口径 24h 成交额 1,860,205
-  - 短周期波动 0.29%
-  - 4h 振幅 3.16%
+- SLX | 分数 53.49 | Alpha Trade 成交额 88728685.11 | 波动 0.39% | 4h 振幅 3.88% | 审计 LOW
+  - Alpha Trade 24h 成交额 88,728,685，流动性 1,158,055
+  - Alpha 列表口径 24h 成交额 1,755,060
+  - 短周期波动 0.39%
+  - 4h 振幅 3.88%
   - 审计风险 LOW
-- NEX | 分数 45.89 | Alpha Trade 成交额 96902210.90 | 波动 0.32% | 4h 振幅 3.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 96,902,211，流动性 1,447,314
-  - Alpha 列表口径 24h 成交额 6,925,719
-  - 短周期波动 0.32%
-  - 4h 振幅 3.82%
+- NEX | 分数 39.69 | Alpha Trade 成交额 106446718.70 | 波动 0.44% | 4h 振幅 7.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 106,446,719，流动性 1,427,273
+  - Alpha 列表口径 24h 成交额 7,070,701
+  - 短周期波动 0.44%
+  - 4h 振幅 7.11%
   - 审计风险 LOW
-- ZEST | 分数 32.29 | Alpha Trade 成交额 7396827.61 | 波动 1.03% | 4h 振幅 10.74% | 审计 LOW
-  - Alpha Trade 24h 成交额 7,396,828，流动性 2,414,557
-  - Alpha 列表口径 24h 成交额 5,986,987
-  - 短周期波动 1.03%
-  - 4h 振幅 10.74%
+- QAIT | 分数 35.48 | Alpha Trade 成交额 94493262.48 | 波动 0.79% | 4h 振幅 8.25% | 审计 LOW
+  - Alpha Trade 24h 成交额 94,493,262，流动性 1,646,684
+  - Alpha 列表口径 24h 成交额 8,189,975
+  - 短周期波动 0.79%
+  - 4h 振幅 8.25%
   - 审计风险 LOW
-- QAIT | 分数 26.88 | Alpha Trade 成交额 100614429.20 | 波动 0.98% | 4h 振幅 12.99% | 审计 LOW
-  - Alpha Trade 24h 成交额 100,614,429，流动性 1,642,819
-  - Alpha 列表口径 24h 成交额 7,165,310
-  - 短周期波动 0.98%
-  - 4h 振幅 12.99%
+- ZEST | 分数 34.16 | Alpha Trade 成交额 6901263.63 | 波动 0.88% | 4h 振幅 10.84% | 审计 LOW
+  - Alpha Trade 24h 成交额 6,901,264，流动性 2,333,406
+  - Alpha 列表口径 24h 成交额 6,226,861
+  - 短周期波动 0.88%
+  - 4h 振幅 10.84%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,8 +60,8 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-11)
-- Latest Binance News：Binance Commits $250,000 to Support Frontline Ebola Disease Response in the DRC and Uganda
+- 官方最新上新关注：Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-11
+- Latest Binance News：Introducing bStocks: Tokenized Securities 1:1 Backing with 24/7 Trading
 - Latest Activities：Binance Alpha Trading Competition: Trade Billions Network (BILL) and Share $200K Worth of Rewards (2026-06-11)
 
 ### 最近 Alpha 上线
@@ -69,21 +69,21 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-11](https://www.binance.com/en/support/announcement/detail/5646e3f9ea6b4c989cb76aa18bd99245)
+  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-11)](https://www.binance.com/en/support/announcement/detail/f622c1f2a1a94ba1894d9a9e265fb4b9)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-10)](https://www.binance.com/en/support/announcement/detail/b893d3539ae34c47856013b1f3cc94fb)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-09)](https://www.binance.com/en/support/announcement/detail/f598c7bb87d74b8c995b9f67bf210be1)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
+- [Introducing bStocks: Tokenized Securities 1:1 Backing with 24/7 Trading](https://www.binance.com/en/support/announcement/detail/2c0c92ed15ac42d1b14bb1eac00d22bb)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Commits $250,000 to Support Frontline Ebola Disease Response in the DRC and Uganda](https://www.binance.com/en/support/announcement/detail/3d73a069180a474e9d6b69ffff140aa1)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is committing $2…
 - [Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12](https://www.binance.com/en/support/announcement/detail/3470731ce77d4cfea1e2d9b591b0f4bb)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered…
-- [Notice on Binance Futures COIN-M System Upgrade (2026-06-30)](https://www.binance.com/en/support/announcement/detail/2a84dfd7643f4dc18084e45e8691b69e)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures COIN-M is undergoing a te…
 
 ### Latest Activities
 
