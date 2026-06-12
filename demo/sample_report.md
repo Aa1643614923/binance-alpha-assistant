@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-12T05:13:26.097775+00:00
+- 生成时间：2026-06-12T09:14:51.943262+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1412914593.29
+- 四倍分 24h 总成交额：1385666490.42
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：172307（按 8200 / 人）
+- 估算参与人数：168984（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 1126132159.22 | 列表口径 2019297.44 | 涨跌 -3.31% | 振幅 5.02% | 估算人数 137333
-- QAIT | Alpha Trade 成交额 119106911.81 | 列表口径 11338766.96 | 涨跌 -15.16% | 振幅 31.16% | 估算人数 14525
-- NEX | Alpha Trade 成交额 88163515.71 | 列表口径 5581319.94 | 涨跌 -8.32% | 振幅 12.56% | 估算人数 10752
-- SLX | Alpha Trade 成交额 72939820.50 | 列表口径 1377899.22 | 涨跌 0.91% | 振幅 12.84% | 估算人数 8895
-- ZEST | Alpha Trade 成交额 4965982.21 | 列表口径 5271345.56 | 涨跌 -8.94% | 振幅 24.80% | 估算人数 606
-- FOLKS | Alpha Trade 成交额 1056296.29 | 列表口径 8299233.74 | 涨跌 -5.89% | 振幅 29.15% | 估算人数 129
-- FOREST | Alpha Trade 成交额 162872.38 | 列表口径 643522.19 | 涨跌 15.59% | 振幅 37.70% | 估算人数 20
-- BLESS | Alpha Trade 成交额 120829.55 | 列表口径 1493837.96 | 涨跌 -3.94% | 振幅 12.71% | 估算人数 15
-- GWEI | Alpha Trade 成交额 109264.63 | 列表口径 76908.25 | 涨跌 -5.19% | 振幅 36.36% | 估算人数 13
-- KGEN | Alpha Trade 成交额 82306.67 | 列表口径 1245694.08 | 涨跌 7.17% | 振幅 18.46% | 估算人数 10
-- TRIA | Alpha Trade 成交额 44797.09 | 列表口径 947287.88 | 涨跌 -0.02% | 振幅 12.36% | 估算人数 5
-- RTX | Alpha Trade 成交额 29837.23 | 列表口径 1224876.20 | 涨跌 1.42% | 振幅 3.12% | 估算人数 4
+- B2 | Alpha Trade 成交额 1080296283.81 | 列表口径 1682378.61 | 涨跌 -1.48% | 振幅 4.75% | 估算人数 131743
+- QAIT | Alpha Trade 成交额 163180820.79 | 列表口径 11908436.81 | 涨跌 -10.59% | 振幅 20.91% | 估算人数 19900
+- SLX | Alpha Trade 成交额 72996058.78 | 列表口径 1298827.16 | 涨跌 1.20% | 振幅 12.84% | 估算人数 8902
+- NEX | Alpha Trade 成交额 63330448.71 | 列表口径 4902997.08 | 涨跌 -7.90% | 振幅 12.56% | 估算人数 7723
+- ZEST | Alpha Trade 成交额 4161772.25 | 列表口径 5380162.53 | 涨跌 -11.09% | 振幅 24.80% | 估算人数 508
+- FOLKS | Alpha Trade 成交额 1116712.74 | 列表口径 7915190.05 | 涨跌 -13.95% | 振幅 32.26% | 估算人数 136
+- FOREST | Alpha Trade 成交额 171231.29 | 列表口径 699729.52 | 涨跌 3.68% | 振幅 34.88% | 估算人数 21
+- GWEI | Alpha Trade 成交额 132204.93 | 列表口径 67660.11 | 涨跌 -2.54% | 振幅 36.36% | 估算人数 16
+- BLESS | Alpha Trade 成交额 125236.03 | 列表口径 1560747.11 | 涨跌 -4.98% | 振幅 18.39% | 估算人数 15
+- KGEN | Alpha Trade 成交额 77160.56 | 列表口径 1248345.93 | 涨跌 9.00% | 振幅 18.21% | 估算人数 9
+- TRIA | Alpha Trade 成交额 44284.44 | 列表口径 928928.33 | 涨跌 -0.51% | 振幅 12.36% | 估算人数 5
+- RTX | Alpha Trade 成交额 34276.10 | 列表口径 997635.94 | 涨跌 0.83% | 振幅 3.12% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- B2 | 分数 81.68 | Alpha Trade 成交额 1126132159.22 | 波动 0.19% | 4h 振幅 2.58% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,126,132,159，流动性 795,301
-  - Alpha 列表口径 24h 成交额 2,019,297
-  - 短周期波动 0.19%
-  - 4h 振幅 2.58%
+- B2 | 分数 84.24 | Alpha Trade 成交额 1080296283.81 | 波动 0.24% | 4h 振幅 2.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,080,296,284，流动性 795,105
+  - Alpha 列表口径 24h 成交额 1,682,379
+  - 短周期波动 0.24%
+  - 4h 振幅 2.38%
   - 审计风险 LOW
-- SLX | 分数 51.32 | Alpha Trade 成交额 72939820.50 | 波动 0.49% | 4h 振幅 3.74% | 审计 LOW
-  - Alpha Trade 24h 成交额 72,939,821，流动性 1,158,487
-  - Alpha 列表口径 24h 成交额 1,377,899
-  - 短周期波动 0.49%
-  - 4h 振幅 3.74%
+- SLX | 分数 60.14 | Alpha Trade 成交额 72996058.78 | 波动 0.38% | 4h 振幅 3.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 72,996,059，流动性 1,156,984
+  - Alpha 列表口径 24h 成交额 1,298,827
+  - 短周期波动 0.38%
+  - 4h 振幅 3.91%
   - 审计风险 LOW
-- ZEST | 分数 50.31 | Alpha Trade 成交额 4965982.21 | 波动 0.49% | 4h 振幅 3.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,965,982，流动性 2,323,869
-  - Alpha 列表口径 24h 成交额 5,271,346
-  - 短周期波动 0.49%
-  - 4h 振幅 3.64%
+- NEX | 分数 52.14 | Alpha Trade 成交额 63330448.71 | 波动 0.27% | 4h 振幅 2.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 63,330,449，流动性 1,402,901
+  - Alpha 列表口径 24h 成交额 4,902,997
+  - 短周期波动 0.27%
+  - 4h 振幅 2.65%
   - 审计风险 LOW
-- QAIT | 分数 48.68 | Alpha Trade 成交额 119106911.81 | 波动 0.42% | 4h 振幅 4.10% | 审计 LOW
-  - Alpha Trade 24h 成交额 119,106,912，流动性 1,625,933
-  - Alpha 列表口径 24h 成交额 11,338,767
-  - 短周期波动 0.42%
-  - 4h 振幅 4.10%
+- QAIT | 分数 50.12 | Alpha Trade 成交额 163180820.79 | 波动 0.66% | 4h 振幅 5.80% | 审计 LOW
+  - Alpha Trade 24h 成交额 163,180,821，流动性 1,615,067
+  - Alpha 列表口径 24h 成交额 11,908,437
+  - 短周期波动 0.66%
+  - 4h 振幅 5.80%
   - 审计风险 LOW
-- NEX | 分数 46.96 | Alpha Trade 成交额 88163515.71 | 波动 0.23% | 4h 振幅 5.01% | 审计 LOW
-  - Alpha Trade 24h 成交额 88,163,516，流动性 1,399,326
-  - Alpha 列表口径 24h 成交额 5,581,320
-  - 短周期波动 0.23%
-  - 4h 振幅 5.01%
+- ZEST | 分数 48.31 | Alpha Trade 成交额 4161772.25 | 波动 0.81% | 4h 振幅 6.37% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,161,772，流动性 2,347,230
+  - Alpha 列表口径 24h 成交额 5,380,163
+  - 短周期波动 0.81%
+  - 4h 振幅 6.37%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -62,7 +62,7 @@
 
 - 官方最新上新关注：Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-11
 - Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-13)
-- Latest Activities：Trade bStocks Together: Invite Friends and Share Up to $1,000,000 Worth of SPCXB Token!
+- Latest Activities：Binance Traders League Season 3: Trade NIGHT to Share Up to 400,000 USDC Token Vouchers
 
 ### 最近 Alpha 上线
 
@@ -87,12 +87,12 @@
 
 ### Latest Activities
 
-- [Trade bStocks Together: Invite Friends and Share Up to $1,000,000 Worth of SPCXB Token!](https://www.binance.com/en/support/announcement/detail/d9c3577e8ed249a88af7ec55a3d3a284)
-  - bStocks Tokenized Securities are classified as Certificates representing certain Financial Instruments (paragraph 92, Schedule 1 to FSMR). bStocks are offered through an Approved…
-- [Binance Alpha Trading Competition: Trade Billions Network (BILL) and Share $200K Worth of Rewards (2026-06-11)](https://www.binance.com/en/support/announcement/detail/08a45ae29cc94500bd71c91f8f626b13)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
-- [THE $2M PREDICT CUP: Join via Binance to Compete for the 2M USDT Prize Pool and Share 3,000,000 Predict Points Rewards](https://www.binance.com/en/support/announcement/detail/76d2b291ccda473a81ed1aecf1e1304f)
-  - This is a general announcement. The products, services, and activities referred to may not be available in your region. Please refer to the applicable terms and conditions. Fellow…
+- [Binance Traders League Season 3: Trade NIGHT to Share Up to 400,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/fb059dad6e4f47178e054fe47cc3ca52)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
+- [Binance Earn: Enjoy Up to 10% APR with KGST Flexible Products – 80,000 KGST Limit Available! (2026-06-14)](https://www.binance.com/en/support/announcement/detail/c73710dcc9b14c68ba0e117e3c03ca0d)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
+- [Join the 2026 Binance Wallet Football Trading Cup: Invite, Trade, and Win a share of 100,000 USDT!](https://www.binance.com/en/support/announcement/detail/ff188abbdcd74f3fa8f94de32c27ce87)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
 
 ## Warnings
 
