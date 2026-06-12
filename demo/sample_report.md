@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-12T15:52:51.033631+00:00
+- 生成时间：2026-06-12T18:04:00.376669+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1385726616.82
+- 四倍分 24h 总成交额：1413371354.73
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：168991（按 8200 / 人）
+- 估算参与人数：172362（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 1040576295.92 | 列表口径 1575781.03 | 涨跌 -3.24% | 振幅 6.63% | 估算人数 126900
-- QAIT | Alpha Trade 成交额 254767359.03 | 列表口径 10261876.81 | 涨跌 -12.02% | 振幅 18.03% | 估算人数 31069
-- SLX | Alpha Trade 成交额 70188809.02 | 列表口径 1155385.45 | 涨跌 0.66% | 振幅 12.84% | 估算人数 8560
-- NEX | Alpha Trade 成交额 16060767.46 | 列表口径 3736537.78 | 涨跌 -7.36% | 振幅 9.35% | 估算人数 1959
-- ZEST | Alpha Trade 成交额 2739773.45 | 列表口径 4660889.23 | 涨跌 -3.15% | 振幅 13.17% | 估算人数 334
-- FOLKS | Alpha Trade 成交额 800860.30 | 列表口径 6687889.48 | 涨跌 -18.88% | 振幅 36.13% | 估算人数 98
-- GWEI | Alpha Trade 成交额 214822.39 | 列表口径 76202.05 | 涨跌 6.65% | 振幅 36.36% | 估算人数 26
-- FOREST | Alpha Trade 成交额 128656.04 | 列表口径 567952.56 | 涨跌 -8.69% | 振幅 24.12% | 估算人数 16
-- BLESS | Alpha Trade 成交额 106877.20 | 列表口径 1344611.78 | 涨跌 -5.30% | 振幅 16.40% | 估算人数 13
-- KGEN | Alpha Trade 成交额 78223.71 | 列表口径 1253668.00 | 涨跌 1.33% | 振幅 15.08% | 估算人数 10
-- TRIA | Alpha Trade 成交额 39555.11 | 列表口径 901016.22 | 涨跌 -3.42% | 振幅 14.74% | 估算人数 5
-- RTX | Alpha Trade 成交额 24617.19 | 列表口径 836386.36 | 涨跌 0.11% | 振幅 2.20% | 估算人数 3
+- B2 | Alpha Trade 成交额 1053052277.88 | 列表口径 1736883.12 | 涨跌 -2.12% | 振幅 7.47% | 估算人数 128421
+- QAIT | Alpha Trade 成交额 270177610.22 | 列表口径 8232490.87 | 涨跌 -12.00% | 振幅 17.14% | 估算人数 32948
+- SLX | Alpha Trade 成交额 70593511.98 | 列表口径 1155113.27 | 涨跌 1.44% | 振幅 12.71% | 估算人数 8609
+- NEX | Alpha Trade 成交额 15530734.29 | 列表口径 3649901.79 | 涨跌 -7.80% | 振幅 19.43% | 估算人数 1894
+- ZEST | Alpha Trade 成交额 2590444.04 | 列表口径 4351234.49 | 涨跌 -1.39% | 振幅 13.17% | 估算人数 316
+- FOLKS | Alpha Trade 成交额 811339.38 | 列表口径 6158841.63 | 涨跌 -19.64% | 振幅 36.13% | 估算人数 99
+- GWEI | Alpha Trade 成交额 277418.29 | 列表口径 109981.70 | 涨跌 7.70% | 振幅 44.81% | 估算人数 34
+- BLESS | Alpha Trade 成交额 99347.83 | 列表口径 1324456.49 | 涨跌 -5.71% | 振幅 15.92% | 估算人数 12
+- FOREST | Alpha Trade 成交额 98733.67 | 列表口径 509833.99 | 涨跌 -5.37% | 振幅 24.12% | 估算人数 12
+- KGEN | Alpha Trade 成交额 74510.69 | 列表口径 1119165.94 | 涨跌 -2.02% | 振幅 11.78% | 估算人数 9
+- TRIA | Alpha Trade 成交额 41521.65 | 列表口径 938390.53 | 涨跌 -11.11% | 振幅 21.35% | 估算人数 5
+- RTX | Alpha Trade 成交额 23904.80 | 列表口径 896570.08 | 涨跌 0.27% | 振幅 2.20% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- B2 | 分数 81.80 | Alpha Trade 成交额 1040576295.92 | 波动 0.15% | 4h 振幅 2.02% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,040,576,296，流动性 788,495
-  - Alpha 列表口径 24h 成交额 1,575,781
-  - 短周期波动 0.15%
-  - 4h 振幅 2.02%
-  - 审计风险 LOW
-- SLX | 分数 55.41 | Alpha Trade 成交额 70188809.02 | 波动 0.36% | 4h 振幅 3.07% | 审计 LOW
-  - Alpha Trade 24h 成交额 70,188,809，流动性 1,149,864
-  - Alpha 列表口径 24h 成交额 1,155,385
-  - 短周期波动 0.36%
-  - 4h 振幅 3.07%
-  - 审计风险 LOW
-- ZEST | 分数 51.12 | Alpha Trade 成交额 2739773.45 | 波动 0.43% | 4h 振幅 4.01% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,739,773，流动性 2,293,516
-  - Alpha 列表口径 24h 成交额 4,660,889
-  - 短周期波动 0.43%
-  - 4h 振幅 4.01%
-  - 审计风险 LOW
-- QAIT | 分数 50.00 | Alpha Trade 成交额 254767359.03 | 波动 0.32% | 4h 振幅 5.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 254,767,359，流动性 1,581,846
-  - Alpha 列表口径 24h 成交额 10,261,877
+- B2 | 分数 78.01 | Alpha Trade 成交额 1053052277.88 | 波动 0.32% | 4h 振幅 3.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,053,052,278，流动性 794,791
+  - Alpha 列表口径 24h 成交额 1,736,883
   - 短周期波动 0.32%
-  - 4h 振幅 5.49%
+  - 4h 振幅 3.38%
   - 审计风险 LOW
-- NEX | 分数 45.71 | Alpha Trade 成交额 16060767.46 | 波动 0.28% | 4h 振幅 3.07% | 审计 LOW
-  - Alpha Trade 24h 成交额 16,060,767，流动性 1,380,357
-  - Alpha 列表口径 24h 成交额 3,736,538
-  - 短周期波动 0.28%
-  - 4h 振幅 3.07%
+- QAIT | 分数 55.11 | Alpha Trade 成交额 270177610.22 | 波动 0.25% | 4h 振幅 4.17% | 审计 LOW
+  - Alpha Trade 24h 成交额 270,177,610，流动性 1,584,667
+  - Alpha 列表口径 24h 成交额 8,232,491
+  - 短周期波动 0.25%
+  - 4h 振幅 4.17%
+  - 审计风险 LOW
+- ZEST | 分数 51.07 | Alpha Trade 成交额 2590444.04 | 波动 0.48% | 4h 振幅 3.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,590,444，流动性 2,305,192
+  - Alpha 列表口径 24h 成交额 4,351,234
+  - 短周期波动 0.48%
+  - 4h 振幅 3.79%
+  - 审计风险 LOW
+- SLX | 分数 49.75 | Alpha Trade 成交额 70593511.98 | 波动 0.46% | 4h 振幅 5.23% | 审计 LOW
+  - Alpha Trade 24h 成交额 70,593,512，流动性 1,152,969
+  - Alpha 列表口径 24h 成交额 1,155,113
+  - 短周期波动 0.46%
+  - 4h 振幅 5.23%
+  - 审计风险 LOW
+- NEX | 分数 49.46 | Alpha Trade 成交额 15530734.29 | 波动 0.27% | 4h 振幅 2.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 15,530,734，流动性 1,378,584
+  - Alpha 列表口径 24h 成交额 3,649,902
+  - 短周期波动 0.27%
+  - 4h 振幅 2.53%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,8 +60,8 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-11
-- Latest Binance News：Important Notice: Binance Wallet SPCXx IPO Campaign Cancellation and Next Steps
+- 官方最新上新关注：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12
+- Latest Binance News：Binance Futures Will Convert SPCXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-12)
 - Latest Activities：Extension to the USD1 Airdrop Campaign (2026-06-12)
 
 ### 最近 Alpha 上线
@@ -69,21 +69,21 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12](https://www.binance.com/en/support/announcement/detail/191cb96109f24c5c85362631a55a45d3)
+  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 - [Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-11](https://www.binance.com/en/support/announcement/detail/5646e3f9ea6b4c989cb76aa18bd99245)
   - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-11)](https://www.binance.com/en/support/announcement/detail/f622c1f2a1a94ba1894d9a9e265fb4b9)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-10)](https://www.binance.com/en/support/announcement/detail/b893d3539ae34c47856013b1f3cc94fb)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
+- [Binance Futures Will Convert SPCXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-12)](https://www.binance.com/en/support/announcement/detail/8ad8bd3442964b3c90e67ee3de96ec0e)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will convert USDⓈ-Margined…
 - [Important Notice: Binance Wallet SPCXx IPO Campaign Cancellation and Next Steps](https://www.binance.com/en/support/announcement/detail/73745bb4cc9d49528cfb2b3f2b354f0f)
   - This is a general announcement. The products and services referred to herein may not be available in your region. Fellow Binancians, We thank the community for the interest in the…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-13)](https://www.binance.com/en/support/announcement/detail/6baee79f009c4f39b8aa62d8a09a24df)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve us…
-- [bStocks Now Available on Binance Convert From Just 0.01 USDC Equivalent](https://www.binance.com/en/support/announcement/detail/e87980ae86524568ba511a08ab92ea44)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are Tokenized securities issued by BTech Holdings Limited, a Bi…
 
 ### Latest Activities
 
