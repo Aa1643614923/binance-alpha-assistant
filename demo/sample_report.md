@@ -1,50 +1,50 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-15T01:43:03.885458+00:00
+- 生成时间：2026-06-15T07:02:14.496252+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：1309728558.62
+- 四倍分 24h 总成交额：1285245465.53
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：159723（按 8200 / 人）
+- 估算参与人数：156737（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1135678065.84 | 列表口径 11260135.44 | 涨跌 -6.67% | 振幅 17.19% | 估算人数 138497
-- SLX | Alpha Trade 成交额 99405700.98 | 列表口径 2485194.70 | 涨跌 8.15% | 振幅 17.87% | 估算人数 12123
-- NEX | Alpha Trade 成交额 73531924.86 | 列表口径 2397683.56 | 涨跌 6.00% | 振幅 6.65% | 估算人数 8967
-- ZEST | Alpha Trade 成交额 730844.74 | 列表口径 2194901.85 | 涨跌 -1.30% | 振幅 7.25% | 估算人数 89
-- FOLKS | Alpha Trade 成交额 144443.45 | 列表口径 1289466.40 | 涨跌 -6.05% | 振幅 12.71% | 估算人数 18
-- GWEI | Alpha Trade 成交额 72004.01 | 列表口径 41374.11 | 涨跌 3.08% | 振幅 10.18% | 估算人数 9
-- BLESS | Alpha Trade 成交额 53906.62 | 列表口径 434151.25 | 涨跌 -2.99% | 振幅 11.85% | 估算人数 7
-- TRIA | Alpha Trade 成交额 50743.57 | 列表口径 1821945.35 | 涨跌 12.45% | 振幅 17.25% | 估算人数 6
-- KGEN | Alpha Trade 成交额 29793.79 | 列表口径 724210.47 | 涨跌 1.29% | 振幅 6.15% | 估算人数 4
-- FOREST | Alpha Trade 成交额 18333.27 | 列表口径 183193.07 | 涨跌 0.32% | 振幅 13.41% | 估算人数 2
-- RTX | Alpha Trade 成交额 12797.48 | 列表口径 573437.55 | 涨跌 -0.18% | 振幅 1.85% | 估算人数 2
+- QAIT | Alpha Trade 成交额 1153327185.18 | 列表口径 9564365.20 | 涨跌 -2.60% | 振幅 10.41% | 估算人数 140650
+- SLX | Alpha Trade 成交额 77877087.53 | 列表口径 2463039.33 | 涨跌 1.98% | 振幅 15.69% | 估算人数 9497
+- NEX | Alpha Trade 成交额 52946853.13 | 列表口径 3068612.60 | 涨跌 8.11% | 振幅 11.69% | 估算人数 6457
+- ZEST | Alpha Trade 成交额 654767.66 | 列表口径 1960559.21 | 涨跌 -2.07% | 振幅 6.02% | 估算人数 80
+- FOLKS | Alpha Trade 成交额 139191.91 | 列表口径 1155883.85 | 涨跌 -1.25% | 振幅 11.65% | 估算人数 17
+- GWEI | Alpha Trade 成交额 97149.46 | 列表口径 45359.66 | 涨跌 -6.14% | 振幅 16.66% | 估算人数 12
+- BLESS | Alpha Trade 成交额 62935.26 | 列表口径 578126.44 | 涨跌 1.08% | 振幅 11.81% | 估算人数 8
+- TRIA | Alpha Trade 成交额 56853.24 | 列表口径 1867896.83 | 涨跌 10.75% | 振幅 18.74% | 估算人数 7
+- RTX | Alpha Trade 成交额 42027.11 | 列表口径 607018.64 | 涨跌 -0.20% | 振幅 1.14% | 估算人数 5
+- KGEN | Alpha Trade 成交额 24114.84 | 列表口径 708608.91 | 涨跌 -3.38% | 振幅 5.89% | 估算人数 3
+- FOREST | Alpha Trade 成交额 17300.19 | 列表口径 177550.32 | 涨跌 -3.88% | 振幅 17.59% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 67.13 | Alpha Trade 成交额 1135678065.84 | 波动 0.31% | 4h 振幅 2.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,135,678,066，流动性 1,660,918
-  - Alpha 列表口径 24h 成交额 11,260,135
-  - 短周期波动 0.31%
-  - 4h 振幅 2.49%
+- QAIT | 分数 62.83 | Alpha Trade 成交额 1153327185.18 | 波动 0.32% | 4h 振幅 3.81% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,153,327,185，流动性 1,636,846
+  - Alpha 列表口径 24h 成交额 9,564,365
+  - 短周期波动 0.32%
+  - 4h 振幅 3.81%
   - 审计风险 LOW
-- NEX | 分数 42.73 | Alpha Trade 成交额 73531924.86 | 波动 0.20% | 4h 振幅 4.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 73,531,925，流动性 1,420,533
-  - Alpha 列表口径 24h 成交额 2,397,684
-  - 短周期波动 0.20%
-  - 4h 振幅 4.71%
+- ZEST | 分数 60.00 | Alpha Trade 成交额 654767.66 | 波动 0.28% | 4h 振幅 1.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 654,768，流动性 2,310,051
+  - Alpha 列表口径 24h 成交额 1,960,559
+  - 短周期波动 0.28%
+  - 4h 振幅 1.86%
   - 审计风险 LOW
-- ZEST | 分数 41.91 | Alpha Trade 成交额 730844.74 | 波动 0.41% | 4h 振幅 4.57% | 审计 LOW
-  - Alpha Trade 24h 成交额 730,845，流动性 2,326,182
-  - Alpha 列表口径 24h 成交额 2,194,902
-  - 短周期波动 0.41%
-  - 4h 振幅 4.57%
+- NEX | 分数 35.45 | Alpha Trade 成交额 52946853.13 | 波动 0.33% | 4h 振幅 3.36% | 审计 LOW
+  - Alpha Trade 24h 成交额 52,946,853，流动性 1,427,896
+  - Alpha 列表口径 24h 成交额 3,068,613
+  - 短周期波动 0.33%
+  - 4h 振幅 3.36%
   - 审计风险 LOW
-- SLX | 分数 27.17 | Alpha Trade 成交额 99405700.98 | 波动 0.49% | 4h 振幅 8.12% | 审计 LOW
-  - Alpha Trade 24h 成交额 99,405,701，流动性 1,184,661
-  - Alpha 列表口径 24h 成交额 2,485,195
-  - 短周期波动 0.49%
-  - 4h 振幅 8.12%
+- SLX | 分数 26.67 | Alpha Trade 成交额 77877087.53 | 波动 0.48% | 4h 振幅 4.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 77,877,088，流动性 1,181,993
+  - Alpha 列表口径 24h 成交额 2,463,039
+  - 短周期波动 0.48%
+  - 4h 振幅 4.64%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -55,7 +55,7 @@
 
 - 官方最新上新关注：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12
 - Latest Binance News：Binance Futures Will Convert SPCXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-12)
-- Latest Activities：Extension to the USD1 Airdrop Campaign (2026-06-12)
+- Latest Activities：Word of the Day: Test Your Knowledge on “bStocks” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
@@ -80,12 +80,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “bStocks” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/ff84d61931b44acabd8e6b3011c51ad8)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [Extension to the USD1 Airdrop Campaign (2026-06-12)](https://www.binance.com/en/support/announcement/detail/2ad1574014174cf3aabc0c6d5847ed5a)
   - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 - [Binance Alpha Trading Competition: Trade Perle (PRL) and Share $200K Worth of Rewards (2026-06-12)](https://www.binance.com/en/support/announcement/detail/d4ffb99dbaae432fa096523a6138c709)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
-- [Binance Traders League Season 3: Trade NIGHT to Share Up to 400,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/fb059dad6e4f47178e054fe47cc3ca52)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
