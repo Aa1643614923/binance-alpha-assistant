@@ -1,50 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-17T00:01:58.653441+00:00
+- 生成时间：2026-06-17T05:07:39.200888+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：1360276220.08
+- 四倍分 24h 总成交额：1356417704.78
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：165887（按 8200 / 人）
+- 估算参与人数：165417（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1289770118.03 | 列表口径 4226795.73 | 涨跌 -1.88% | 振幅 6.72% | 估算人数 157289
-- GWEI | Alpha Trade 成交额 36075341.20 | 列表口径 168455.18 | 涨跌 -15.90% | 振幅 27.08% | 估算人数 4399
-- NEX | Alpha Trade 成交额 22924929.33 | 列表口径 3038636.33 | 涨跌 -3.38% | 振幅 4.40% | 估算人数 2796
-- SLX | Alpha Trade 成交额 9813238.50 | 列表口径 841929.05 | 涨跌 -1.75% | 振幅 8.80% | 估算人数 1197
-- ZEST | Alpha Trade 成交额 447054.20 | 列表口径 2092104.50 | 涨跌 -3.92% | 振幅 12.94% | 估算人数 55
-- BLESS | Alpha Trade 成交额 371117.43 | 列表口径 2782455.32 | 涨跌 37.45% | 振幅 41.43% | 估算人数 45
-- RTX | Alpha Trade 成交额 342915.13 | 列表口径 9826510.37 | 涨跌 15.38% | 振幅 46.84% | 估算人数 42
-- TRIA | Alpha Trade 成交额 281485.15 | 列表口径 4755246.49 | 涨跌 37.13% | 振幅 50.28% | 估算人数 34
-- FOLKS | Alpha Trade 成交额 178987.40 | 列表口径 1770464.36 | 涨跌 -4.08% | 振幅 31.41% | 估算人数 22
-- KGEN | Alpha Trade 成交额 45432.52 | 列表口径 624657.21 | 涨跌 -2.70% | 振幅 6.27% | 估算人数 6
-- FOREST | Alpha Trade 成交额 25601.18 | 列表口径 188356.97 | 涨跌 -0.54% | 振幅 11.84% | 估算人数 3
+- QAIT | Alpha Trade 成交额 1271080939.34 | 列表口径 4416370.04 | 涨跌 -0.20% | 振幅 7.88% | 估算人数 155010
+- GWEI | Alpha Trade 成交额 50299948.92 | 列表口径 175348.59 | 涨跌 -15.39% | 振幅 25.40% | 估算人数 6134
+- NEX | Alpha Trade 成交额 23629967.73 | 列表口径 2430170.91 | 涨跌 -1.17% | 振幅 3.29% | 估算人数 2882
+- SLX | Alpha Trade 成交额 9194402.90 | 列表口径 791328.23 | 涨跌 0.12% | 振幅 9.42% | 估算人数 1121
+- BLESS | Alpha Trade 成交额 636407.51 | 列表口径 4974443.13 | 涨跌 42.49% | 振幅 60.87% | 估算人数 78
+- ZEST | Alpha Trade 成交额 552232.26 | 列表口径 2575082.82 | 涨跌 -0.73% | 振幅 12.24% | 估算人数 67
+- RTX | Alpha Trade 成交额 397548.46 | 列表口径 11983386.11 | 涨跌 29.32% | 振幅 46.84% | 估算人数 48
+- TRIA | Alpha Trade 成交额 350543.70 | 列表口径 5914452.69 | 涨跌 48.15% | 振幅 48.69% | 估算人数 43
+- FOLKS | Alpha Trade 成交额 197238.88 | 列表口径 1243682.08 | 涨跌 11.80% | 振幅 19.49% | 估算人数 24
+- KGEN | Alpha Trade 成交额 55262.68 | 列表口径 757314.09 | 涨跌 6.48% | 振幅 14.60% | 估算人数 7
+- FOREST | Alpha Trade 成交额 23212.40 | 列表口径 169376.09 | 涨跌 1.22% | 振幅 11.17% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 76.12 | Alpha Trade 成交额 1289770118.03 | 波动 0.19% | 4h 振幅 1.56% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,289,770,118，流动性 1,651,877
-  - Alpha 列表口径 24h 成交额 4,226,796
-  - 短周期波动 0.19%
-  - 4h 振幅 1.56%
+- QAIT | 分数 68.80 | Alpha Trade 成交额 1271080939.34 | 波动 0.39% | 4h 振幅 4.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,271,080,939，流动性 1,637,058
+  - Alpha 列表口径 24h 成交额 4,416,370
+  - 短周期波动 0.39%
+  - 4h 振幅 4.91%
   - 审计风险 LOW
-- NEX | 分数 50.88 | Alpha Trade 成交额 22924929.33 | 波动 0.07% | 4h 振幅 0.69% | 审计 LOW
-  - Alpha Trade 24h 成交额 22,924,929，流动性 1,398,812
-  - Alpha 列表口径 24h 成交额 3,038,636
-  - 短周期波动 0.07%
-  - 4h 振幅 0.69%
+- SLX | 分数 57.04 | Alpha Trade 成交额 9194402.90 | 波动 0.34% | 4h 振幅 2.15% | 审计 LOW
+  - Alpha Trade 24h 成交额 9,194,403，流动性 1,156,158
+  - Alpha 列表口径 24h 成交额 791,328
+  - 短周期波动 0.34%
+  - 4h 振幅 2.15%
   - 审计风险 LOW
-- SLX | 分数 42.35 | Alpha Trade 成交额 9813238.50 | 波动 0.23% | 4h 振幅 1.74% | 审计 LOW
-  - Alpha Trade 24h 成交额 9,813,239，流动性 1,160,190
-  - Alpha 列表口径 24h 成交额 841,929
-  - 短周期波动 0.23%
-  - 4h 振幅 1.74%
+- NEX | 分数 51.74 | Alpha Trade 成交额 23629967.73 | 波动 0.09% | 4h 振幅 0.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 23,629,968，流动性 1,398,120
+  - Alpha 列表口径 24h 成交额 2,430,171
+  - 短周期波动 0.09%
+  - 4h 振幅 0.86%
   - 审计风险 LOW
-- GWEI | 分数 20.57 | Alpha Trade 成交额 36075341.20 | 波动 0.40% | 4h 振幅 3.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 36,075,341，流动性 1,407,364
-  - Alpha 列表口径 24h 成交额 168,455
-  - 短周期波动 0.40%
-  - 4h 振幅 3.82%
+- ZEST | 分数 50.93 | Alpha Trade 成交额 552232.26 | 波动 0.37% | 4h 振幅 4.50% | 审计 LOW
+  - Alpha Trade 24h 成交额 552,232，流动性 2,312,462
+  - Alpha 列表口径 24h 成交额 2,575,083
+  - 短周期波动 0.37%
+  - 4h 振幅 4.50%
+  - 审计风险 LOW
+- GWEI | 分数 42.83 | Alpha Trade 成交额 50299948.92 | 波动 0.42% | 4h 振幅 3.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 50,299,949，流动性 1,408,700
+  - Alpha 列表口径 24h 成交额 175,349
+  - 短周期波动 0.42%
+  - 4h 振幅 3.28%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -54,7 +60,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12
-- Latest Binance News：Binance Margin: New Convert Option for Close Position
+- Latest Binance News：Announcement on the Extension of the Zero Trading Service Fee and Zero On-Chain Gas Fee Promotion for ONDO Tokenized Securities
 - Latest Activities：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-06-16)
 
 ### 最近 Alpha 上线
@@ -71,12 +77,12 @@
 
 ### Latest Binance News
 
+- [Announcement on the Extension of the Zero Trading Service Fee and Zero On-Chain Gas Fee Promotion for ONDO Tokenized Securities](https://www.binance.com/en/support/announcement/detail/9e19cc4aee0b4b549a6c9d13c06af28c)
+  - This is a general announcement. This announcement is not intended for users in jurisdictions where access to or trading in tokenized securities is restricted or prohibited. Partic…
+- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-06-19)](https://www.binance.com/en/support/announcement/detail/d1954a75b8514a2d91b9135a13348df5)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 - [Binance Margin: New Convert Option for Close Position](https://www.binance.com/en/support/announcement/detail/568b96e7109548048ba17f67a231defd)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, After 2026-06-17 10:00 (UTC) , Binance Margin will g…
-- [Binance Banking Triparty: 0% Fee Promotion Extended Through 2026 & Revised Tiered Fees from 2027](https://www.binance.com/en/support/announcement/detail/c57c265f0846472fb22648762e68e9e2)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We are pleased to share two updates to the Binance B…
-- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-17)](https://www.binance.com/en/support/announcement/detail/60b48c91060a42df97240dba45cca2e9)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve us…
 
 ### Latest Activities
 
