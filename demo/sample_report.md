@@ -1,56 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-18T06:27:23.310283+00:00
+- 生成时间：2026-06-18T10:56:20.534709+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：1420180090.61
+- 四倍分 24h 总成交额：1403737566.79
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：173193（按 8200 / 人）
+- 估算参与人数：171188（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1233496838.26 | 列表口径 5702150.38 | 涨跌 -2.50% | 振幅 9.84% | 估算人数 150426
-- GWEI | Alpha Trade 成交额 140496621.72 | 列表口径 73671.48 | 涨跌 -3.71% | 振幅 14.79% | 估算人数 17134
-- O | Alpha Trade 成交额 21253072.47 | 列表口径 73598779.41 | 涨跌 1149.40% | 振幅 1609.28% | 估算人数 2592
-- NEX | Alpha Trade 成交额 19138881.41 | 列表口径 2472947.28 | 涨跌 6.99% | 振幅 12.06% | 估算人数 2334
-- SLX | Alpha Trade 成交额 4232543.63 | 列表口径 1520477.74 | 涨跌 -17.80% | 振幅 29.94% | 估算人数 516
-- FOLKS | Alpha Trade 成交额 462094.35 | 列表口径 2738508.87 | 涨跌 31.29% | 振幅 46.13% | 估算人数 56
-- RTX | Alpha Trade 成交额 402219.75 | 列表口径 12766576.51 | 涨跌 -4.32% | 振幅 23.39% | 估算人数 49
-- BLESS | Alpha Trade 成交额 396453.68 | 列表口径 4375374.01 | 涨跌 -9.51% | 振幅 26.24% | 估算人数 48
-- TRIA | Alpha Trade 成交额 191583.15 | 列表口径 4294280.93 | 涨跌 -3.74% | 振幅 16.57% | 估算人数 23
-- KGEN | Alpha Trade 成交额 87488.81 | 列表口径 1397190.19 | 涨跌 1.49% | 振幅 16.97% | 估算人数 11
-- FOREST | Alpha Trade 成交额 22293.39 | 列表口径 101068.41 | 涨跌 -9.36% | 振幅 15.82% | 估算人数 3
+- QAIT | Alpha Trade 成交额 1234155496.68 | 列表口径 6011052.11 | 涨跌 -2.83% | 振幅 10.04% | 估算人数 150507
+- GWEI | Alpha Trade 成交额 122044909.33 | 列表口径 66691.68 | 涨跌 -8.99% | 振幅 18.15% | 估算人数 14884
+- O | Alpha Trade 成交额 23413265.86 | 列表口径 82207178.72 | 涨跌 1261.69% | 振幅 1609.28% | 估算人数 2855
+- NEX | Alpha Trade 成交额 18703394.51 | 列表口径 2615584.83 | 涨跌 5.20% | 振幅 11.09% | 估算人数 2281
+- SLX | Alpha Trade 成交额 3773163.80 | 列表口径 1659163.41 | 涨跌 -13.94% | 振幅 29.23% | 估算人数 460
+- FOLKS | Alpha Trade 成交额 601119.09 | 列表口径 3549159.06 | 涨跌 27.11% | 振幅 43.86% | 估算人数 73
+- RTX | Alpha Trade 成交额 523998.83 | 列表口径 12323794.45 | 涨跌 -13.19% | 振幅 18.31% | 估算人数 64
+- BLESS | Alpha Trade 成交额 335631.18 | 列表口径 3732079.74 | 涨跌 -5.30% | 振幅 29.14% | 估算人数 41
+- TRIA | Alpha Trade 成交额 101747.27 | 列表口径 2727642.96 | 涨跌 -6.70% | 振幅 17.53% | 估算人数 12
+- KGEN | Alpha Trade 成交额 61252.33 | 列表口径 1181587.36 | 涨跌 -3.26% | 振幅 9.84% | 估算人数 7
+- FOREST | Alpha Trade 成交额 23587.91 | 列表口径 99499.68 | 涨跌 -7.54% | 振幅 14.18% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 72.88 | Alpha Trade 成交额 1233496838.26 | 波动 0.24% | 4h 振幅 2.56% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,233,496,838，流动性 1,629,116
-  - Alpha 列表口径 24h 成交额 5,702,150
-  - 短周期波动 0.24%
-  - 4h 振幅 2.56%
+- QAIT | 分数 74.33 | Alpha Trade 成交额 1234155496.68 | 波动 0.28% | 4h 振幅 2.14% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,234,155,497，流动性 1,630,251
+  - Alpha 列表口径 24h 成交额 6,011,052
+  - 短周期波动 0.28%
+  - 4h 振幅 2.14%
   - 审计风险 LOW
-- SLX | 分数 51.73 | Alpha Trade 成交额 4232543.63 | 波动 0.50% | 4h 振幅 4.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,232,544，流动性 1,118,673
-  - Alpha 列表口径 24h 成交额 1,520,478
-  - 短周期波动 0.50%
-  - 4h 振幅 4.44%
+- SLX | 分数 49.76 | Alpha Trade 成交额 3773163.80 | 波动 0.49% | 4h 振幅 3.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,773,164，流动性 1,121,810
+  - Alpha 列表口径 24h 成交额 1,659,163
+  - 短周期波动 0.49%
+  - 4h 振幅 3.24%
   - 审计风险 LOW
-- NEX | 分数 43.46 | Alpha Trade 成交额 19138881.41 | 波动 0.44% | 4h 振幅 3.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 19,138,881，流动性 1,429,258
-  - Alpha 列表口径 24h 成交额 2,472,947
-  - 短周期波动 0.44%
-  - 4h 振幅 3.62%
+- NEX | 分数 47.74 | Alpha Trade 成交额 18703394.51 | 波动 0.21% | 4h 振幅 3.29% | 审计 LOW
+  - Alpha Trade 24h 成交额 18,703,395，流动性 1,422,806
+  - Alpha 列表口径 24h 成交额 2,615,585
+  - 短周期波动 0.21%
+  - 4h 振幅 3.29%
   - 审计风险 LOW
-- GWEI | 分数 43.18 | Alpha Trade 成交额 140496621.72 | 波动 0.50% | 4h 振幅 6.15% | 审计 LOW
-  - Alpha Trade 24h 成交额 140,496,622，流动性 1,412,982
-  - Alpha 列表口径 24h 成交额 73,671
-  - 短周期波动 0.50%
-  - 4h 振幅 6.15%
+- RTX | 分数 47.33 | Alpha Trade 成交额 523998.83 | 波动 0.98% | 4h 振幅 6.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 523,999，流动性 1,404,415
+  - Alpha 列表口径 24h 成交额 12,323,794
+  - 短周期波动 0.98%
+  - 4h 振幅 6.86%
   - 审计风险 LOW
-- O | 分数 30.35 | Alpha Trade 成交额 21253072.47 | 波动 2.38% | 4h 振幅 24.81% | 审计 LOW
-  - Alpha Trade 24h 成交额 21,253,072，流动性 2,751,061
-  - Alpha 列表口径 24h 成交额 73,598,779
-  - 短周期波动 2.38%
-  - 4h 振幅 24.81%
+- GWEI | 分数 45.72 | Alpha Trade 成交额 122044909.33 | 波动 0.31% | 4h 振幅 5.51% | 审计 LOW
+  - Alpha Trade 24h 成交额 122,044,909，流动性 1,411,614
+  - Alpha 列表口径 24h 成交额 66,692
+  - 短周期波动 0.31%
+  - 4h 振幅 5.51%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,41 +60,41 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will List USDⓈ-M & COIN-M Quarterly 1225 Delivery Contracts
-- Latest Binance News：Trading Made Simpler: Binance Convert is Now Accessible on Buy/Sell Page
-- Latest Activities：Binance Football Content Challenge: Show Your Spirit and Share 500 USDC in Rewards!
+- 官方最新上新关注：Binance Will List Re (RE) with Seed Tag Applied
+- Latest Binance News：Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time
+- Latest Activities：Binance Traders League Season 3: Trade XPL to Share Up to 600 BNB Token Vouchers
 
 ### 最近 Alpha 上线
 
-- O | 4x | 上线 2026-06-17T14:00:00+00:00 | 24h 成交额 73598779.41
-- H | 1x | 上线 2026-06-17T12:30:00+00:00 | 24h 成交额 7183804.33
+- O | 4x | 上线 2026-06-17T14:00:00+00:00 | 24h 成交额 82207178.72
+- H | 1x | 上线 2026-06-17T12:30:00+00:00 | 24h 成交额 10402785.67
 
 ### New Cryptocurrency Listing
 
+- [Binance Will List Re (RE) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/4f90bec2f7984f71aaa9465830b1c6a6)
+  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
 - [Binance Futures Will List USDⓈ-M & COIN-M Quarterly 1225 Delivery Contracts](https://www.binance.com/en/support/announcement/detail/81092181ec124efea616f591cf335c05)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will list the following USDⓈ-M and C…
 - [Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12](https://www.binance.com/en/support/announcement/detail/191cb96109f24c5c85362631a55a45d3)
   - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
-- [Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-11](https://www.binance.com/en/support/announcement/detail/5646e3f9ea6b4c989cb76aa18bd99245)
-  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 
 ### Latest Binance News
 
-- [Trading Made Simpler: Binance Convert is Now Accessible on Buy/Sell Page](https://www.binance.com/en/support/announcement/detail/7ba1755a4fa544ee8d721bf36307b019)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To provide a more seamless and simplified trading ex…
-- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-06-17)](https://www.binance.com/en/support/announcement/detail/dbad8ece348f4a2aac71f89fa07f97bb)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Binance Wallet Launches Web3 API, Enabling Developers and Institutions to Build on Binance Web3 Infrastructure](https://www.binance.com/en/support/announcement/detail/a9f19002d4584183b83892b002d61f96)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet is…
+- [Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time](https://www.binance.com/en/support/announcement/detail/24d9efcec1024984b94b8526d0e76494)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance VIP is int…
+- [Updates on Tick Size for Spot Trading Pairs (2026-06-25)](https://www.binance.com/en/support/announcement/detail/0be6f26461354fd29e3d9c9cc349a7d5)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve tr…
+- [Binance Futures Will End Last Price Protected Period on USDⓈ-Margined HUSDT Perpetual Contract (2026-06-18)](https://www.binance.com/en/support/announcement/detail/16c1e35bfa7544ce9440e53dbc862473)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will end Last Price Prote…
 
 ### Latest Activities
 
+- [Binance Traders League Season 3: Trade XPL to Share Up to 600 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/8eaa281b417541ff8f2b78d632b2d908)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Binance Football Content Challenge: Show Your Spirit and Share 500 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/ce15da8a3a6647ecbbf1a1e45e8dcee5)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, As football season kicks off, we invite users to joi…
 - [Binance Earn: Subscribe to Discount Buy and Earn Rewards Worth Up to 888 USDC](https://www.binance.com/en/support/announcement/detail/2526d2ed10c14a34a4fa467b34c47ba2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 10,000 U Limit Available (2026-06-19)](https://www.binance.com/en/support/announcement/detail/d4bfeee372e84c9e9fa70558c547a510)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
