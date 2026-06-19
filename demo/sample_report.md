@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-19T05:14:21.637309+00:00
+- 生成时间：2026-06-19T09:54:51.792780+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1360920648.34
+- 四倍分 24h 总成交额：1340399205.06
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：165966（按 8200 / 人）
+- 估算参与人数：163463（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1260734987.93 | 列表口径 4445487.62 | 涨跌 -2.22% | 振幅 8.07% | 估算人数 153748
-- GWEI | Alpha Trade 成交额 88204786.19 | 列表口径 525366.67 | 涨跌 -13.19% | 振幅 117.59% | 估算人数 10757
-- O | Alpha Trade 成交额 8174037.59 | 列表口径 36282716.18 | 涨跌 -0.31% | 振幅 50.50% | 估算人数 997
-- SLX | Alpha Trade 成交额 2550468.24 | 列表口径 1805147.49 | 涨跌 4.10% | 振幅 21.13% | 估算人数 311
-- RTX | Alpha Trade 成交额 1062649.64 | 列表口径 13849649.61 | 涨跌 0.48% | 振幅 9.47% | 估算人数 130
-- BLESS | Alpha Trade 成交额 83826.51 | 列表口径 1840462.18 | 涨跌 -4.21% | 振幅 13.75% | 估算人数 10
-- KGEN | Alpha Trade 成交额 60482.54 | 列表口径 702639.83 | 涨跌 -1.91% | 振幅 11.05% | 估算人数 7
-- TRIA | Alpha Trade 成交额 49409.70 | 列表口径 1675078.63 | 涨跌 -15.32% | 振幅 24.42% | 估算人数 6
+- QAIT | Alpha Trade 成交额 1254769405.52 | 列表口径 4668047.28 | 涨跌 -2.21% | 振幅 7.84% | 估算人数 153021
+- GWEI | Alpha Trade 成交额 74227885.88 | 列表口径 522228.25 | 涨跌 -8.89% | 振幅 117.59% | 估算人数 9052
+- O | Alpha Trade 成交额 7257596.69 | 列表口径 31855428.40 | 涨跌 6.88% | 振幅 35.07% | 估算人数 885
+- SLX | Alpha Trade 成交额 2829565.93 | 列表口径 1756591.17 | 涨跌 6.09% | 振幅 21.13% | 估算人数 345
+- RTX | Alpha Trade 成交额 1122743.31 | 列表口径 13458315.88 | 涨跌 -20.05% | 振幅 30.52% | 估算人数 137
+- BLESS | Alpha Trade 成交额 79394.62 | 列表口径 1756992.68 | 涨跌 -2.24% | 振幅 13.93% | 估算人数 10
+- KGEN | Alpha Trade 成交额 73452.07 | 列表口径 834176.65 | 涨跌 -2.76% | 振幅 10.75% | 估算人数 9
+- TRIA | Alpha Trade 成交额 39161.05 | 列表口径 1575535.00 | 涨跌 -14.18% | 振幅 19.71% | 估算人数 5
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 63.18 | Alpha Trade 成交额 1260734987.93 | 波动 0.35% | 4h 振幅 7.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,260,734,988，流动性 1,622,088
-  - Alpha 列表口径 24h 成交额 4,445,488
-  - 短周期波动 0.35%
-  - 4h 振幅 7.18%
+- QAIT | 分数 71.54 | Alpha Trade 成交额 1254769405.52 | 波动 0.20% | 4h 振幅 1.95% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,254,769,406，流动性 1,621,594
+  - Alpha 列表口径 24h 成交额 4,668,047
+  - 短周期波动 0.20%
+  - 4h 振幅 1.95%
   - 审计风险 LOW
-- RTX | 分数 58.28 | Alpha Trade 成交额 1062649.64 | 波动 0.16% | 4h 振幅 2.25% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,062,650，流动性 1,393,721
-  - Alpha 列表口径 24h 成交额 13,849,650
-  - 短周期波动 0.16%
-  - 4h 振幅 2.25%
+- O | 分数 40.62 | Alpha Trade 成交额 7257596.69 | 波动 1.23% | 4h 振幅 8.87% | 审计 LOW
+  - Alpha Trade 24h 成交额 7,257,597，流动性 2,891,321
+  - Alpha 列表口径 24h 成交额 31,855,428
+  - 短周期波动 1.23%
+  - 4h 振幅 8.87%
   - 审计风险 LOW
-- O | 分数 30.14 | Alpha Trade 成交额 8174037.59 | 波动 1.12% | 4h 振幅 12.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 8,174,038，流动性 2,739,717
-  - Alpha 列表口径 24h 成交额 36,282,716
-  - 短周期波动 1.12%
-  - 4h 振幅 12.18%
+- GWEI | 分数 39.96 | Alpha Trade 成交额 74227885.88 | 波动 0.44% | 4h 振幅 3.85% | 审计 LOW
+  - Alpha Trade 24h 成交额 74,227,886，流动性 1,379,644
+  - Alpha 列表口径 24h 成交额 522,228
+  - 短周期波动 0.44%
+  - 4h 振幅 3.85%
   - 审计风险 LOW
-- GWEI | 分数 28.60 | Alpha Trade 成交额 88204786.19 | 波动 0.65% | 4h 振幅 8.74% | 审计 LOW
-  - Alpha Trade 24h 成交额 88,204,786，流动性 1,379,641
-  - Alpha 列表口径 24h 成交额 525,367
-  - 短周期波动 0.65%
-  - 4h 振幅 8.74%
+- SLX | 分数 38.12 | Alpha Trade 成交额 2829565.93 | 波动 0.73% | 4h 振幅 8.92% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,829,566，流动性 1,136,649
+  - Alpha 列表口径 24h 成交额 1,756,591
+  - 短周期波动 0.73%
+  - 4h 振幅 8.92%
   - 审计风险 LOW
-- SLX | 分数 28.48 | Alpha Trade 成交额 2550468.24 | 波动 0.81% | 4h 振幅 9.94% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,550,468，流动性 1,129,238
-  - Alpha 列表口径 24h 成交额 1,805,147
-  - 短周期波动 0.81%
-  - 4h 振幅 9.94%
+- RTX | 分数 26.47 | Alpha Trade 成交额 1122743.31 | 波动 1.48% | 4h 振幅 21.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,122,743，流动性 1,265,343
+  - Alpha 列表口径 24h 成交额 13,458,316
+  - 短周期波动 1.48%
+  - 4h 振幅 21.91%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -57,24 +57,24 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 3 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-22
+- 官方最新上新关注：Binance Will Add Re (RE) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
 - Latest Binance News：Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time
-- Latest Activities：Binance Traders League Season 3: Trade XPL to Share Up to 600 BNB Token Vouchers
+- Latest Activities：Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers
 
 ### 最近 Alpha 上线
 
-- RE | 1x | 上线 2026-06-18T12:00:00+00:00 | 24h 成交额 3670197.92
-- O | 4x | 上线 2026-06-17T14:00:00+00:00 | 24h 成交额 36282716.18
-- H | 1x | 上线 2026-06-17T12:30:00+00:00 | 24h 成交额 7484440.95
+- RE | 1x | 上线 2026-06-18T12:00:00+00:00 | 24h 成交额 4046955.10
+- O | 4x | 上线 2026-06-17T14:00:00+00:00 | 24h 成交额 31855428.40
+- H | 1x | 上线 2026-06-17T12:30:00+00:00 | 24h 成交额 4860456.47
 
 ### New Cryptocurrency Listing
 
-- [Binance Exchange Adds bStocks Tokenized Securities Trading Pair(s) & Trading Bots Services on Binance Spot - 2026-06-22](https://www.binance.com/en/support/announcement/detail/79bfc2e1c5f943e79d485c8ea87b2794)
-  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 - [Binance Will Add Re (RE) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/en/support/announcement/detail/005d1ef77538417cbe69d4703deb1969)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Re (RE) wi…
 - [Binance Will List Re (RE) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/4f90bec2f7984f71aaa9465830b1c6a6)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
+- [Binance Futures Will List USDⓈ-M & COIN-M Quarterly 1225 Delivery Contracts](https://www.binance.com/en/support/announcement/detail/81092181ec124efea616f591cf335c05)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will list the following USDⓈ-M and C…
 
 ### Latest Binance News
 
@@ -87,12 +87,12 @@
 
 ### Latest Activities
 
+- [Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers](https://www.binance.com/en/support/announcement/detail/fa211572d953433da7f6d39b7f184a72)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
+- [Balkan Exclusive: Binance Alpha Trading Competition - Trade ESPORTS & VELVET and Share 3,650 USDC Rewards](https://www.binance.com/en/support/announcement/detail/4f2ca54fc30c48d6a147060f3cc33d84)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We're excited to launch a Balkan exclusive Binance A…
 - [Binance Traders League Season 3: Trade XPL to Share Up to 600 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/8eaa281b417541ff8f2b78d632b2d908)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Binance Football Content Challenge: Show Your Spirit and Share 500 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/ce15da8a3a6647ecbbf1a1e45e8dcee5)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, As football season kicks off, we invite users to joi…
-- [Binance Earn: Subscribe to Discount Buy and Earn Rewards Worth Up to 888 USDC](https://www.binance.com/en/support/announcement/detail/2526d2ed10c14a34a4fa467b34c47ba2)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 
 ## Warnings
 
