@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-22T11:19:06.350019+00:00
+- 生成时间：2026-06-22T16:07:04.646573+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1214426425.50
+- 四倍分 24h 总成交额：1193508561.17
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：148101（按 8200 / 人）
+- 估算参与人数：145550（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1199452506.97 | 列表口径 5011367.01 | 涨跌 -2.27% | 振幅 6.16% | 估算人数 146275
-- ARX | Alpha Trade 成交额 8043331.62 | 列表口径 19444710.45 | 涨跌 231.39% | 振幅 475.95% | 估算人数 981
-- O | Alpha Trade 成交额 4487000.32 | 列表口径 14744051.25 | 涨跌 5.56% | 振幅 29.84% | 估算人数 547
-- RTX | Alpha Trade 成交额 1228075.91 | 列表口径 12680991.39 | 涨跌 -10.64% | 振幅 21.12% | 估算人数 150
-- SLX | Alpha Trade 成交额 988176.97 | 列表口径 1538684.81 | 涨跌 6.74% | 振幅 15.66% | 估算人数 121
-- BLESS | Alpha Trade 成交额 133306.90 | 列表口径 2014871.22 | 涨跌 7.81% | 振幅 17.91% | 估算人数 16
-- TRIA | Alpha Trade 成交额 83621.41 | 列表口径 1235672.57 | 涨跌 8.23% | 振幅 18.46% | 估算人数 10
-- KGEN | Alpha Trade 成交额 10405.40 | 列表口径 418156.55 | 涨跌 -2.10% | 振幅 5.21% | 估算人数 1
+- QAIT | Alpha Trade 成交额 1165225821.95 | 列表口径 4804620.94 | 涨跌 -2.24% | 振幅 6.16% | 估算人数 142101
+- ARX | Alpha Trade 成交额 20879577.58 | 列表口径 64526123.76 | 涨跌 114.60% | 振幅 475.95% | 估算人数 2546
+- O | Alpha Trade 成交额 4564088.48 | 列表口径 17424509.82 | 涨跌 0.02% | 振幅 31.82% | 估算人数 557
+- RTX | Alpha Trade 成交额 1456520.49 | 列表口径 12498682.81 | 涨跌 -10.06% | 振幅 24.17% | 估算人数 178
+- SLX | Alpha Trade 成交额 893724.81 | 列表口径 1519775.50 | 涨跌 3.98% | 振幅 15.09% | 估算人数 109
+- BLESS | Alpha Trade 成交额 334726.11 | 列表口径 3331014.08 | 涨跌 17.85% | 振幅 30.18% | 估算人数 41
+- TRIA | Alpha Trade 成交额 127930.07 | 列表口径 1775285.64 | 涨跌 18.46% | 振幅 28.42% | 估算人数 16
+- KGEN | Alpha Trade 成交额 26171.68 | 列表口径 558753.40 | 涨跌 2.85% | 振幅 8.56% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 69.64 | Alpha Trade 成交额 1199452506.97 | 波动 0.15% | 4h 振幅 1.54% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,199,452,507，流动性 1,604,141
-  - Alpha 列表口径 24h 成交额 5,011,367
-  - 短周期波动 0.15%
-  - 4h 振幅 1.54%
+- QAIT | 分数 70.07 | Alpha Trade 成交额 1165225821.95 | 波动 0.10% | 4h 振幅 0.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,165,225,822，流动性 1,604,290
+  - Alpha 列表口径 24h 成交额 4,804,621
+  - 短周期波动 0.10%
+  - 4h 振幅 0.65%
   - 审计风险 LOW
-- O | 分数 67.35 | Alpha Trade 成交额 4487000.32 | 波动 0.93% | 4h 振幅 13.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,487,000，流动性 3,025,884
-  - Alpha 列表口径 24h 成交额 14,744,051
-  - 短周期波动 0.93%
-  - 4h 振幅 13.73%
+- O | 分数 64.60 | Alpha Trade 成交额 4564088.48 | 波动 0.84% | 4h 振幅 11.25% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,564,088，流动性 2,869,131
+  - Alpha 列表口径 24h 成交额 17,424,510
+  - 短周期波动 0.84%
+  - 4h 振幅 11.25%
   - 审计风险 LOW
-- RTX | 分数 49.74 | Alpha Trade 成交额 1228075.91 | 波动 1.22% | 4h 振幅 13.34% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,228,076，流动性 1,228,072
-  - Alpha 列表口径 24h 成交额 12,680,991
-  - 短周期波动 1.22%
-  - 4h 振幅 13.34%
+- RTX | 分数 48.54 | Alpha Trade 成交额 1456520.49 | 波动 1.00% | 4h 振幅 6.15% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,456,520，流动性 1,227,059
+  - Alpha 列表口径 24h 成交额 12,498,683
+  - 短周期波动 1.00%
+  - 4h 振幅 6.15%
   - 审计风险 LOW
-- SLX | 分数 45.72 | Alpha Trade 成交额 988176.97 | 波动 0.85% | 4h 振幅 7.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 988,177，流动性 1,175,033
-  - Alpha 列表口径 24h 成交额 1,538,685
-  - 短周期波动 0.85%
-  - 4h 振幅 7.89%
+- SLX | 分数 46.01 | Alpha Trade 成交额 893724.81 | 波动 0.50% | 4h 振幅 3.70% | 审计 LOW
+  - Alpha Trade 24h 成交额 893,725，流动性 1,174,386
+  - Alpha 列表口径 24h 成交额 1,519,776
+  - 短周期波动 0.50%
+  - 4h 振幅 3.70%
   - 审计风险 LOW
-- ARX | 分数 20.06 | Alpha Trade 成交额 8043331.62 | 波动 4.88% | 4h 振幅 89.47% | 审计 LOW
-  - Alpha Trade 24h 成交额 8,043,332，流动性 1,908,335
-  - Alpha 列表口径 24h 成交额 19,444,710
-  - 短周期波动 4.88%
-  - 4h 振幅 89.47%
-  - 审计风险 LOW
+- ARX | 分数 21.19 | Alpha Trade 成交额 20879577.58 | 波动 3.31% | 4h 振幅 37.56% | 审计 MID
+  - Alpha Trade 24h 成交额 20,879,578，流动性 2,126,084
+  - Alpha 列表口径 24h 成交额 64,526,124
+  - 短周期波动 3.31%
+  - 4h 振幅 37.56%
+  - 审计风险 MID
 
 ## Alpha 合约异动
 
@@ -59,11 +59,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-22)
 - Latest Binance News：Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time
-- Latest Activities：Word of the Day: Test Your Knowledge on “Multi-Asset Superapp” to Unlock BNB Rewards!
+- Latest Activities：Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)
 
 ### 最近 Alpha 上线
 
-- ARX | 4x | 上线 2026-06-22T10:00:00+00:00 | 24h 成交额 19444710.45
+- ARX | 4x | 上线 2026-06-22T10:00:00+00:00 | 24h 成交额 64526123.76
 
 ### New Cryptocurrency Listing
 
@@ -85,12 +85,12 @@
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)](https://www.binance.com/en/support/announcement/detail/d436942bb64949ceb83a20cb5c111076)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [Word of the Day: Test Your Knowledge on “Multi-Asset Superapp” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/8550a50c2d314dc3bdfc2c29fc9cf46a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers](https://www.binance.com/en/support/announcement/detail/fa211572d953433da7f6d39b7f184a72)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Balkan Exclusive: Binance Alpha Trading Competition - Trade ESPORTS & VELVET and Share 3,650 USDC Rewards](https://www.binance.com/en/support/announcement/detail/4f2ca54fc30c48d6a147060f3cc33d84)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We're excited to launch a Balkan exclusive Binance A…
 
 ## Warnings
 
