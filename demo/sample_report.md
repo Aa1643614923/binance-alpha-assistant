@@ -1,46 +1,46 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-24T08:46:23.491719+00:00
+- 生成时间：2026-06-24T11:33:35.075147+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1320140497.47
+- 四倍分 24h 总成交额：1344082855.96
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：160993（按 8200 / 人）
+- 估算参与人数：163913（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1174940093.92 | 列表口径 4511928.58 | 涨跌 0.79% | 振幅 3.85% | 估算人数 143285
-- ARX | Alpha Trade 成交额 142475387.21 | 列表口径 27813625.18 | 涨跌 -24.20% | 振幅 46.50% | 估算人数 17375
-- O | Alpha Trade 成交额 1624199.33 | 列表口径 8160725.04 | 涨跌 -9.93% | 振幅 15.57% | 估算人数 198
-- RTX | Alpha Trade 成交额 567516.04 | 列表口径 13144365.55 | 涨跌 4.02% | 振幅 35.59% | 估算人数 69
-- BLESS | Alpha Trade 成交额 465709.65 | 列表口径 5246141.33 | 涨跌 -21.30% | 振幅 51.00% | 估算人数 57
-- TRIA | Alpha Trade 成交额 51798.07 | 列表口径 1555599.54 | 涨跌 -11.36% | 振幅 19.56% | 估算人数 6
-- KGEN | Alpha Trade 成交额 15793.24 | 列表口径 630906.61 | 涨跌 -1.43% | 振幅 17.64% | 估算人数 2
+- QAIT | Alpha Trade 成交额 1170041594.99 | 列表口径 4469510.16 | 涨跌 0.11% | 振幅 3.85% | 估算人数 142688
+- ARX | Alpha Trade 成交额 168799311.70 | 列表口径 27535865.23 | 涨跌 -19.80% | 振幅 44.25% | 估算人数 20585
+- O | Alpha Trade 成交额 4148917.94 | 列表口径 15213455.19 | 涨跌 29.63% | 振幅 52.10% | 估算人数 506
+- RTX | Alpha Trade 成交额 574659.21 | 列表口径 13258958.30 | 涨跌 1.74% | 振幅 35.59% | 估算人数 70
+- BLESS | Alpha Trade 成交额 454216.33 | 列表口径 4539636.55 | 涨跌 -23.56% | 振幅 52.41% | 估算人数 55
+- TRIA | Alpha Trade 成交额 48839.64 | 列表口径 1361279.00 | 涨跌 -16.30% | 振幅 20.17% | 估算人数 6
+- KGEN | Alpha Trade 成交额 15316.15 | 列表口径 703954.49 | 涨跌 -1.26% | 振幅 17.64% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 70.11 | Alpha Trade 成交额 1174940093.92 | 波动 0.17% | 4h 振幅 1.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,174,940,094，流动性 1,608,967
-  - Alpha 列表口径 24h 成交额 4,511,929
-  - 短周期波动 0.17%
-  - 4h 振幅 1.59%
+- QAIT | 分数 68.79 | Alpha Trade 成交额 1170041594.99 | 波动 0.09% | 4h 振幅 0.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,170,041,595，流动性 1,607,417
+  - Alpha 列表口径 24h 成交额 4,469,510
+  - 短周期波动 0.09%
+  - 4h 振幅 0.98%
   - 审计风险 LOW
-- O | 分数 57.19 | Alpha Trade 成交额 1624199.33 | 波动 0.51% | 4h 振幅 5.37% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,624,199，流动性 2,671,151
-  - Alpha 列表口径 24h 成交额 8,160,725
-  - 短周期波动 0.51%
-  - 4h 振幅 5.37%
-  - 审计风险 LOW
-- ARX | 分数 38.67 | Alpha Trade 成交额 142475387.21 | 波动 0.65% | 4h 振幅 5.37% | 审计 MID
-  - Alpha Trade 24h 成交额 142,475,387，流动性 2,023,279
-  - Alpha 列表口径 24h 成交额 27,813,625
-  - 短周期波动 0.65%
-  - 4h 振幅 5.37%
+- ARX | 分数 52.63 | Alpha Trade 成交额 168799311.70 | 波动 0.57% | 4h 振幅 7.28% | 审计 MID
+  - Alpha Trade 24h 成交额 168,799,312，流动性 1,958,687
+  - Alpha 列表口径 24h 成交额 27,535,865
+  - 短周期波动 0.57%
+  - 4h 振幅 7.28%
   - 审计风险 MID
-- RTX | 分数 25.00 | Alpha Trade 成交额 567516.04 | 波动 0.89% | 4h 振幅 8.58% | 审计 LOW
-  - Alpha Trade 24h 成交额 567,516，流动性 1,244,308
-  - Alpha 列表口径 24h 成交额 13,144,366
-  - 短周期波动 0.89%
-  - 4h 振幅 8.58%
+- RTX | 分数 50.11 | Alpha Trade 成交额 574659.21 | 波动 0.78% | 4h 振幅 8.26% | 审计 LOW
+  - Alpha Trade 24h 成交额 574,659，流动性 1,228,132
+  - Alpha 列表口径 24h 成交额 13,258,958
+  - 短周期波动 0.78%
+  - 4h 振幅 8.26%
+  - 审计风险 LOW
+- O | 分数 42.07 | Alpha Trade 成交额 4148917.94 | 波动 4.13% | 4h 振幅 50.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,148,918，流动性 3,229,641
+  - Alpha 列表口径 24h 成交额 15,213,455
+  - 短周期波动 4.13%
+  - 4h 振幅 50.76%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -50,22 +50,22 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-29)
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-06-24)
-- Latest Activities：Join the 2026 Binance Wallet Football Trading Cup - Trading Volume Campaign Season 2 and Win a Share of 100,000 USDT Token Rewards
+- Latest Activities：Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers
 
 ### 最近 Alpha 上线
 
-- ARX | 4x | 上线 2026-06-22T10:00:00+00:00 | 24h 成交额 27813625.18
+- ARX | 4x | 上线 2026-06-22T10:00:00+00:00 | 24h 成交额 27535865.23
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)](https://www.binance.com/en/support/announcement/detail/a6b7d5a8a14a44c1b6a6a34813c6d93f)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-29)](https://www.binance.com/en/support/announcement/detail/ba04ce1272df4bdf8d2595ccb0e1954b)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Adds New JPY Spot Trading Pairs and Launches Zero Maker Fee Promotion - 2026-06-26](https://www.binance.com/en/support/announcement/detail/d83363b157b24be699c47baa4aa307fa)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices offered on Bin…
-- [Binance Margin Will Add New Pairs - 2026-06-23](https://www.binance.com/en/support/announcement/detail/3af18ad98b3048a3b959ef1405b9d45b)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin wil…
 
 ### Latest Binance News
 
@@ -78,12 +78,12 @@
 
 ### Latest Activities
 
+- [Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/0185629496dc4de68ec4fedf550f3d55)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Join the 2026 Binance Wallet Football Trading Cup - Trading Volume Campaign Season 2 and Win a Share of 100,000 USDT Token Rewards](https://www.binance.com/en/support/announcement/detail/8f98d7ab3dbf4933ba4db5abbb9e876a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
 - [Binance Summer Earn Fiesta: Share $1 Million Worth of Rewards](https://www.binance.com/en/support/announcement/detail/03158af530cf4b5dabcfce813c7b1ba5)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply. Fellow Binancians, Binance Earn is thrilled…
-- [Binance Alpha Trading Competition: Trade Arcium (ARX) and Share $200K Worth of Rewards (2026-06-23)](https://www.binance.com/en/support/announcement/detail/a732ac1b1ebe4bd5a1a1a2d235ef4b14)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 
 ## Warnings
 
