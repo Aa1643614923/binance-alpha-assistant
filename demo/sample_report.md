@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-25T10:51:13.827136+00:00
+- 生成时间：2026-06-25T13:12:13.207001+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1329767220.20
+- 四倍分 24h 总成交额：1330715899.04
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：162167（按 8200 / 人）
+- 估算参与人数：162282（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1207304162.02 | 列表口径 6878827.48 | 涨跌 -5.50% | 振幅 10.37% | 估算人数 147232
-- ARX | Alpha Trade 成交额 92764176.23 | 列表口径 18635510.31 | 涨跌 -15.05% | 振幅 40.98% | 估算人数 11313
-- NES | Alpha Trade 成交额 22009362.18 | 列表口径 63310402.92 | 涨跌 142.35% | 振幅 243.95% | 估算人数 2684
-- O | Alpha Trade 成交额 7032284.54 | 列表口径 35668461.08 | 涨跌 -14.64% | 振幅 51.18% | 估算人数 858
-- RTX | Alpha Trade 成交额 273135.08 | 列表口径 5193523.47 | 涨跌 30.05% | 振幅 40.89% | 估算人数 33
-- BLESS | Alpha Trade 成交额 272629.85 | 列表口径 3067274.62 | 涨跌 10.24% | 振幅 22.48% | 估算人数 33
-- TRIA | Alpha Trade 成交额 87474.27 | 列表口径 1349454.30 | 涨跌 -11.90% | 振幅 16.07% | 估算人数 11
-- KGEN | Alpha Trade 成交额 23996.04 | 列表口径 1426458.16 | 涨跌 -0.58% | 振幅 11.82% | 估算人数 3
+- QAIT | Alpha Trade 成交额 1213093396.10 | 列表口径 6779844.92 | 涨跌 -6.13% | 振幅 10.37% | 估算人数 147938
+- ARX | Alpha Trade 成交额 96690628.08 | 列表口径 17412851.35 | 涨跌 -12.96% | 振幅 32.45% | 估算人数 11792
+- NES | Alpha Trade 成交额 16233333.78 | 列表口径 45627972.41 | 涨跌 -2.55% | 振幅 56.48% | 估算人数 1980
+- O | Alpha Trade 成交额 4057351.15 | 列表口径 29239527.46 | 涨跌 -18.56% | 振幅 55.68% | 估算人数 495
+- BLESS | Alpha Trade 成交额 260441.05 | 列表口径 2933612.41 | 涨跌 -7.34% | 振幅 22.48% | 估算人数 32
+- RTX | Alpha Trade 成交额 244048.93 | 列表口径 5703523.93 | 涨跌 30.61% | 振幅 45.42% | 估算人数 30
+- TRIA | Alpha Trade 成交额 81219.20 | 列表口径 1355492.19 | 涨跌 -12.01% | 振幅 15.41% | 估算人数 10
+- KGEN | Alpha Trade 成交额 55480.75 | 列表口径 1490530.62 | 涨跌 2.91% | 振幅 11.82% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 65.54 | Alpha Trade 成交额 1207304162.02 | 波动 0.26% | 4h 振幅 2.48% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,207,304,162，流动性 1,582,841
-  - Alpha 列表口径 24h 成交额 6,878,827
-  - 短周期波动 0.26%
-  - 4h 振幅 2.48%
+- QAIT | 分数 65.84 | Alpha Trade 成交额 1213093396.10 | 波动 0.12% | 4h 振幅 1.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,213,093,396，流动性 1,579,179
+  - Alpha 列表口径 24h 成交额 6,779,845
+  - 短周期波动 0.12%
+  - 4h 振幅 1.39%
   - 审计风险 LOW
-- O | 分数 59.57 | Alpha Trade 成交额 7032284.54 | 波动 0.78% | 4h 振幅 10.60% | 审计 LOW
-  - Alpha Trade 24h 成交额 7,032,285，流动性 2,654,301
-  - Alpha 列表口径 24h 成交额 35,668,461
-  - 短周期波动 0.78%
-  - 4h 振幅 10.60%
+- O | 分数 65.84 | Alpha Trade 成交额 4057351.15 | 波动 0.63% | 4h 振幅 5.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,057,351，流动性 2,651,845
+  - Alpha 列表口径 24h 成交额 29,239,527
+  - 短周期波动 0.63%
+  - 4h 振幅 5.57%
   - 审计风险 LOW
-- ARX | 分数 47.58 | Alpha Trade 成交额 92764176.23 | 波动 0.54% | 4h 振幅 9.07% | 审计 MID
-  - Alpha Trade 24h 成交额 92,764,176，流动性 1,857,404
-  - Alpha 列表口径 24h 成交额 18,635,510
-  - 短周期波动 0.54%
-  - 4h 振幅 9.07%
+- ARX | 分数 49.38 | Alpha Trade 成交额 96690628.08 | 波动 0.55% | 4h 振幅 5.35% | 审计 MID
+  - Alpha Trade 24h 成交额 96,690,628，流动性 1,840,834
+  - Alpha 列表口径 24h 成交额 17,412,851
+  - 短周期波动 0.55%
+  - 4h 振幅 5.35%
   - 审计风险 MID
-- NES | 分数 12.63 | Alpha Trade 成交额 22009362.18 | 波动 1.25% | 4h 振幅 19.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 22,009,362，流动性 1,553,092
-  - Alpha 列表口径 24h 成交额 63,310,403
-  - 短周期波动 1.25%
-  - 4h 振幅 19.16%
+- NES | 分数 12.59 | Alpha Trade 成交额 16233333.78 | 波动 1.68% | 4h 振幅 17.21% | 审计 LOW
+  - Alpha Trade 24h 成交额 16,233,334，流动性 1,532,354
+  - Alpha 列表口径 24h 成交额 45,627,972
+  - 短周期波动 1.68%
+  - 4h 振幅 17.21%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -53,11 +53,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)
 - Latest Binance News：Recurring Transactions for bStocks Now Available on Binance Convert
-- Latest Activities：Binance Traders League Season 3: Trade CHR or ETH to Share Up to 200,000 USDC Token Vouchers
+- Latest Activities：Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)
 
 ### 最近 Alpha 上线
 
-- NES | 4x | 上线 2026-06-24T12:00:00+00:00 | 24h 成交额 63310402.92
+- NES | 4x | 上线 2026-06-24T12:00:00+00:00 | 24h 成交额 45627972.41
 
 ### New Cryptocurrency Listing
 
@@ -79,12 +79,12 @@
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-06-25)](https://www.binance.com/en/support/announcement/detail/e8f70e77ae8944c8af486bcbacbc4814)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [Binance Traders League Season 3: Trade CHR or ETH to Share Up to 200,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/3844a2dd88e347bebd00ea5aa8d99ac4)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/0185629496dc4de68ec4fedf550f3d55)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Join the 2026 Binance Wallet Football Trading Cup - Trading Volume Campaign Season 2 and Win a Share of 100,000 USDT Token Rewards](https://www.binance.com/en/support/announcement/detail/8f98d7ab3dbf4933ba4db5abbb9e876a)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
 
 ## Warnings
 
