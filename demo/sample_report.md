@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-25T08:03:00.334933+00:00
+- 生成时间：2026-06-25T10:51:13.827136+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1315353289.33
+- 四倍分 24h 总成交额：1329767220.20
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：160409（按 8200 / 人）
+- 估算参与人数：162167（按 8200 / 人）
 
 ## 四倍分代币
 
-- QAIT | Alpha Trade 成交额 1182557585.80 | 列表口径 6775587.41 | 涨跌 -6.45% | 振幅 10.37% | 估算人数 144214
-- ARX | Alpha Trade 成交额 103535841.68 | 列表口径 20158806.14 | 涨跌 -15.59% | 振幅 45.60% | 估算人数 12626
-- NES | Alpha Trade 成交额 20799924.92 | 列表口径 59585542.45 | 涨跌 117.25% | 振幅 243.95% | 估算人数 2537
-- O | Alpha Trade 成交额 7780792.28 | 列表口径 35830271.43 | 涨跌 16.95% | 振幅 61.67% | 估算人数 949
-- RTX | Alpha Trade 成交额 321160.28 | 列表口径 5840236.17 | 涨跌 24.37% | 振幅 40.89% | 估算人数 39
-- BLESS | Alpha Trade 成交额 252701.75 | 列表口径 2512693.62 | 涨跌 8.96% | 振幅 19.40% | 估算人数 31
-- TRIA | Alpha Trade 成交额 78811.90 | 列表口径 1305509.23 | 涨跌 -9.97% | 振幅 18.39% | 估算人数 10
-- KGEN | Alpha Trade 成交额 26470.72 | 列表口径 1448520.60 | 涨跌 -0.49% | 振幅 19.45% | 估算人数 3
+- QAIT | Alpha Trade 成交额 1207304162.02 | 列表口径 6878827.48 | 涨跌 -5.50% | 振幅 10.37% | 估算人数 147232
+- ARX | Alpha Trade 成交额 92764176.23 | 列表口径 18635510.31 | 涨跌 -15.05% | 振幅 40.98% | 估算人数 11313
+- NES | Alpha Trade 成交额 22009362.18 | 列表口径 63310402.92 | 涨跌 142.35% | 振幅 243.95% | 估算人数 2684
+- O | Alpha Trade 成交额 7032284.54 | 列表口径 35668461.08 | 涨跌 -14.64% | 振幅 51.18% | 估算人数 858
+- RTX | Alpha Trade 成交额 273135.08 | 列表口径 5193523.47 | 涨跌 30.05% | 振幅 40.89% | 估算人数 33
+- BLESS | Alpha Trade 成交额 272629.85 | 列表口径 3067274.62 | 涨跌 10.24% | 振幅 22.48% | 估算人数 33
+- TRIA | Alpha Trade 成交额 87474.27 | 列表口径 1349454.30 | 涨跌 -11.90% | 振幅 16.07% | 估算人数 11
+- KGEN | Alpha Trade 成交额 23996.04 | 列表口径 1426458.16 | 涨跌 -0.58% | 振幅 11.82% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- QAIT | 分数 66.05 | Alpha Trade 成交额 1182557585.80 | 波动 0.28% | 4h 振幅 3.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,182,557,586，流动性 1,578,411
-  - Alpha 列表口径 24h 成交额 6,775,587
-  - 短周期波动 0.28%
-  - 4h 振幅 3.82%
+- QAIT | 分数 65.54 | Alpha Trade 成交额 1207304162.02 | 波动 0.26% | 4h 振幅 2.48% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,207,304,162，流动性 1,582,841
+  - Alpha 列表口径 24h 成交额 6,878,827
+  - 短周期波动 0.26%
+  - 4h 振幅 2.48%
   - 审计风险 LOW
-- O | 分数 51.53 | Alpha Trade 成交额 7780792.28 | 波动 0.84% | 4h 振幅 7.40% | 审计 LOW
-  - Alpha Trade 24h 成交额 7,780,792，流动性 2,744,238
-  - Alpha 列表口径 24h 成交额 35,830,271
-  - 短周期波动 0.84%
-  - 4h 振幅 7.40%
+- O | 分数 59.57 | Alpha Trade 成交额 7032284.54 | 波动 0.78% | 4h 振幅 10.60% | 审计 LOW
+  - Alpha Trade 24h 成交额 7,032,285，流动性 2,654,301
+  - Alpha 列表口径 24h 成交额 35,668,461
+  - 短周期波动 0.78%
+  - 4h 振幅 10.60%
   - 审计风险 LOW
-- ARX | 分数 30.76 | Alpha Trade 成交额 103535841.68 | 波动 0.79% | 4h 振幅 11.54% | 审计 MID
-  - Alpha Trade 24h 成交额 103,535,842，流动性 1,888,359
-  - Alpha 列表口径 24h 成交额 20,158,806
-  - 短周期波动 0.79%
-  - 4h 振幅 11.54%
+- ARX | 分数 47.58 | Alpha Trade 成交额 92764176.23 | 波动 0.54% | 4h 振幅 9.07% | 审计 MID
+  - Alpha Trade 24h 成交额 92,764,176，流动性 1,857,404
+  - Alpha 列表口径 24h 成交额 18,635,510
+  - 短周期波动 0.54%
+  - 4h 振幅 9.07%
   - 审计风险 MID
-- NES | 分数 12.53 | Alpha Trade 成交额 20799924.92 | 波动 0.86% | 4h 振幅 12.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 20,799,925，流动性 1,513,793
-  - Alpha 列表口径 24h 成交额 59,585,542
-  - 短周期波动 0.86%
-  - 4h 振幅 12.44%
+- NES | 分数 12.63 | Alpha Trade 成交额 22009362.18 | 波动 1.25% | 4h 振幅 19.16% | 审计 LOW
+  - Alpha Trade 24h 成交额 22,009,362，流动性 1,553,092
+  - Alpha 列表口径 24h 成交额 63,310,403
+  - 短周期波动 1.25%
+  - 4h 振幅 19.16%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -50,15 +50,14 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 2 个。
+- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)
 - Latest Binance News：Recurring Transactions for bStocks Now Available on Binance Convert
-- Latest Activities：Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers
+- Latest Activities：Binance Traders League Season 3: Trade CHR or ETH to Share Up to 200,000 USDC Token Vouchers
 
 ### 最近 Alpha 上线
 
-- NES | 4x | 上线 2026-06-24T12:00:00+00:00 | 24h 成交额 59585542.45
-- ARX | 4x | 上线 2026-06-22T10:00:00+00:00 | 24h 成交额 20158806.14
+- NES | 4x | 上线 2026-06-24T12:00:00+00:00 | 24h 成交额 63310402.92
 
 ### New Cryptocurrency Listing
 
@@ -80,12 +79,12 @@
 
 ### Latest Activities
 
+- [Binance Traders League Season 3: Trade CHR or ETH to Share Up to 200,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/3844a2dd88e347bebd00ea5aa8d99ac4)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/0185629496dc4de68ec4fedf550f3d55)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Join the 2026 Binance Wallet Football Trading Cup - Trading Volume Campaign Season 2 and Win a Share of 100,000 USDT Token Rewards](https://www.binance.com/en/support/announcement/detail/8f98d7ab3dbf4933ba4db5abbb9e876a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
-- [Binance Summer Earn Fiesta: Share $1 Million Worth of Rewards](https://www.binance.com/en/support/announcement/detail/03158af530cf4b5dabcfce813c7b1ba5)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply. Fellow Binancians, Binance Earn is thrilled…
 
 ## Warnings
 
