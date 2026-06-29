@@ -1,52 +1,52 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-29T06:55:18.655386+00:00
+- 生成时间：2026-06-29T12:01:18.924356+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1321056843.58
+- 四倍分 24h 总成交额：1304731801.59
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：161104（按 8200 / 人）
+- 估算参与人数：159114（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1120884001.43 | 列表口径 13672150.73 | 涨跌 -5.15% | 振幅 17.45% | 估算人数 136693
-- KGEN | Alpha Trade 成交额 178141112.16 | 列表口径 1295053.74 | 涨跌 -13.68% | 振幅 25.40% | 估算人数 21725
-- CAP | Alpha Trade 成交额 14693211.06 | 列表口径 13155630.82 | 涨跌 -14.49% | 振幅 35.02% | 估算人数 1792
-- O | Alpha Trade 成交额 4676339.28 | 列表口径 4548101.62 | 涨跌 -12.87% | 振幅 42.71% | 估算人数 570
-- NES | Alpha Trade 成交额 2455923.99 | 列表口径 12269359.02 | 涨跌 0.80% | 振幅 23.92% | 估算人数 300
-- RTX | Alpha Trade 成交额 135869.77 | 列表口径 6625510.54 | 涨跌 -0.52% | 振幅 1.61% | 估算人数 17
-- TRIA | Alpha Trade 成交额 70385.89 | 列表口径 966618.72 | 涨跌 -4.36% | 振幅 10.08% | 估算人数 9
+- ARX | Alpha Trade 成交额 1142592914.20 | 列表口径 14267206.70 | 涨跌 -2.19% | 振幅 120.77% | 估算人数 139341
+- KGEN | Alpha Trade 成交额 142651606.64 | 列表口径 1048516.19 | 涨跌 -14.39% | 振幅 21.07% | 估算人数 17397
+- CAP | Alpha Trade 成交额 13322818.03 | 列表口径 11461058.09 | 涨跌 -17.40% | 振幅 37.43% | 估算人数 1625
+- O | Alpha Trade 成交额 3430939.87 | 列表口径 3451048.53 | 涨跌 5.97% | 振幅 35.65% | 估算人数 418
+- NES | Alpha Trade 成交额 2519268.63 | 列表口径 16714950.73 | 涨跌 -4.43% | 振幅 26.70% | 估算人数 307
+- RTX | Alpha Trade 成交额 149655.72 | 列表口径 7148510.14 | 涨跌 0.42% | 振幅 2.07% | 估算人数 18
+- TRIA | Alpha Trade 成交额 64598.51 | 列表口径 1103970.63 | 涨跌 -0.27% | 振幅 9.63% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- ARX | 分数 83.14 | Alpha Trade 成交额 1120884001.43 | 波动 0.44% | 4h 振幅 5.52% | 审计 MID
-  - Alpha Trade 24h 成交额 1,120,884,001，流动性 1,802,119
-  - Alpha 列表口径 24h 成交额 13,672,151
-  - 短周期波动 0.44%
-  - 4h 振幅 5.52%
+- ARX | 分数 81.48 | Alpha Trade 成交额 1142592914.20 | 波动 0.61% | 4h 振幅 9.91% | 审计 MID
+  - Alpha Trade 24h 成交额 1,142,592,914，流动性 1,811,884
+  - Alpha 列表口径 24h 成交额 14,267,207
+  - 短周期波动 0.61%
+  - 4h 振幅 9.91%
   - 审计风险 MID
-- KGEN | 分数 50.90 | Alpha Trade 成交额 178141112.16 | 波动 0.41% | 4h 振幅 3.14% | 审计 LOW
-  - Alpha Trade 24h 成交额 178,141,112，流动性 756,614
-  - Alpha 列表口径 24h 成交额 1,295,054
-  - 短周期波动 0.41%
-  - 4h 振幅 3.14%
+- KGEN | 分数 50.07 | Alpha Trade 成交额 142651606.64 | 波动 0.30% | 4h 振幅 2.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 142,651,607，流动性 753,638
+  - Alpha 列表口径 24h 成交额 1,048,516
+  - 短周期波动 0.30%
+  - 4h 振幅 2.57%
   - 审计风险 LOW
-- O | 分数 42.11 | Alpha Trade 成交额 4676339.28 | 波动 0.92% | 4h 振幅 9.63% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,676,339，流动性 2,500,463
-  - Alpha 列表口径 24h 成交额 4,548,102
-  - 短周期波动 0.92%
-  - 4h 振幅 9.63%
+- O | 分数 42.07 | Alpha Trade 成交额 3430939.87 | 波动 2.23% | 4h 振幅 31.40% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,430,940，流动性 2,635,567
+  - Alpha 列表口径 24h 成交额 3,451,049
+  - 短周期波动 2.23%
+  - 4h 振幅 31.40%
   - 审计风险 LOW
-- NES | 分数 29.85 | Alpha Trade 成交额 2455923.99 | 波动 0.71% | 4h 振幅 7.22% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,455,924，流动性 1,320,209
-  - Alpha 列表口径 24h 成交额 12,269,359
-  - 短周期波动 0.71%
-  - 4h 振幅 7.22%
+- NES | 分数 40.26 | Alpha Trade 成交额 2519268.63 | 波动 0.74% | 4h 振幅 8.95% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,519,269，流动性 1,278,975
+  - Alpha 列表口径 24h 成交额 16,714,951
+  - 短周期波动 0.74%
+  - 4h 振幅 8.95%
   - 审计风险 LOW
-- CAP | 分数 28.10 | Alpha Trade 成交额 14693211.06 | 波动 0.72% | 4h 振幅 5.90% | 审计 LOW
-  - Alpha Trade 24h 成交额 14,693,211，流动性 1,137,741
-  - Alpha 列表口径 24h 成交额 13,155,631
-  - 短周期波动 0.72%
-  - 4h 振幅 5.90%
+- CAP | 分数 36.64 | Alpha Trade 成交额 13322818.03 | 波动 0.83% | 4h 振幅 7.13% | 审计 LOW
+  - Alpha Trade 24h 成交额 13,322,818，流动性 1,080,814
+  - Alpha 列表口径 24h 成交额 11,461,058
+  - 短周期波动 0.83%
+  - 4h 振幅 7.13%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -55,22 +55,20 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)
+- 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-06-30
 - Latest Binance News：Recurring Transactions for bStocks Now Available on Binance Convert
-- Latest Activities：Binance Double Dip: Deposit & Earn Up to 20% APR on USDT!
+- Latest Activities：Extension of the Limited-Time: Trade Stocks & ETFs with up to 50% Lower Fees!
 
 ### 最近 Alpha 上线
 
-- CAP | 4x | 上线 2026-06-26T12:00:00+00:00 | 24h 成交额 13155630.82
 
 ### New Cryptocurrency Listing
 
+- [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-06-30](https://www.binance.com/en/support/announcement/detail/8057e105f5724d9bbf29ba416f14149e)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of tr…
 - [Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)](https://www.binance.com/en/support/announcement/detail/a444dd2f67da43e0bafdd730fddc3887)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch USDⓈ-Margined OUSDT Perpetual Contract (2026-06-24)](https://www.binance.com/en/support/announcement/detail/a6b7d5a8a14a44c1b6a6a34813c6d93f)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-06-29)](https://www.binance.com/en/support/announcement/detail/ba04ce1272df4bdf8d2595ccb0e1954b)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
@@ -84,12 +82,12 @@
 
 ### Latest Activities
 
+- [Extension of the Limited-Time: Trade Stocks & ETFs with up to 50% Lower Fees!](https://www.binance.com/en/support/announcement/detail/28e0881a7f7144c0aa39636907f2520d)
+  - This is a general informational announcement and is not a promotion. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp;…
 - [Binance Double Dip: Deposit & Earn Up to 20% APR on USDT!](https://www.binance.com/en/support/announcement/detail/718e3eb2f4814b2681c93fb8d029da74)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Word of the Day: Test Your Knowledge on “AI Stock Trading” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/330f735230b7417094a5965fc8981879)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
-- [Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 2,000 USD1 Limit Available! (2026-06-27)](https://www.binance.com/en/support/announcement/detail/d6821242f0d44c7388a42e4514154496)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
