@@ -1,52 +1,52 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-28T23:41:52.793519+00:00
+- 生成时间：2026-06-29T01:55:58.829772+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1341259006.03
+- 四倍分 24h 总成交额：1352768191.84
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：163568（按 8200 / 人）
+- 估算参与人数：164972（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1139125139.04 | 列表口径 14047105.74 | 涨跌 -13.13% | 振幅 22.94% | 估算人数 138918
-- KGEN | Alpha Trade 成交额 178335966.27 | 列表口径 1864848.25 | 涨跌 -17.97% | 振幅 25.40% | 估算人数 21748
-- CAP | Alpha Trade 成交额 15665969.15 | 列表口径 12557428.06 | 涨跌 -9.99% | 振幅 22.52% | 估算人数 1910
-- O | Alpha Trade 成交额 5759935.41 | 列表口径 7306814.03 | 涨跌 18.99% | 振幅 86.88% | 估算人数 702
-- NES | Alpha Trade 成交额 2203252.42 | 列表口径 10757286.94 | 涨跌 11.84% | 振幅 23.92% | 估算人数 269
-- RTX | Alpha Trade 成交额 105900.95 | 列表口径 5336798.57 | 涨跌 -0.87% | 振幅 2.30% | 估算人数 13
-- TRIA | Alpha Trade 成交额 62842.80 | 列表口径 847748.41 | 涨跌 -4.41% | 振幅 11.91% | 估算人数 8
+- ARX | Alpha Trade 成交额 1149965652.90 | 列表口径 13753756.85 | 涨跌 -12.56% | 振幅 17.81% | 估算人数 140240
+- KGEN | Alpha Trade 成交额 178735309.82 | 列表口径 1617472.89 | 涨跌 -12.58% | 振幅 25.40% | 估算人数 21797
+- CAP | Alpha Trade 成交额 15933538.77 | 列表口径 14243701.71 | 涨跌 -9.41% | 振幅 35.02% | 估算人数 1943
+- O | Alpha Trade 成交额 5687589.79 | 列表口径 6559531.80 | 涨跌 23.29% | 振幅 86.88% | 估算人数 694
+- NES | Alpha Trade 成交额 2268981.98 | 列表口径 11765742.29 | 涨跌 11.01% | 振幅 23.92% | 估算人数 277
+- RTX | Alpha Trade 成交额 115422.81 | 列表口径 6192935.95 | 涨跌 0.00% | 振幅 1.61% | 估算人数 14
+- TRIA | Alpha Trade 成交额 61695.77 | 列表口径 886970.13 | 涨跌 -6.33% | 振幅 11.91% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- ARX | 分数 87.57 | Alpha Trade 成交额 1139125139.04 | 波动 0.33% | 4h 振幅 2.40% | 审计 MID
-  - Alpha Trade 24h 成交额 1,139,125,139，流动性 1,798,029
-  - Alpha 列表口径 24h 成交额 14,047,106
-  - 短周期波动 0.33%
-  - 4h 振幅 2.40%
+- ARX | 分数 82.57 | Alpha Trade 成交额 1149965652.90 | 波动 0.55% | 4h 振幅 6.87% | 审计 MID
+  - Alpha Trade 24h 成交额 1,149,965,653，流动性 1,795,006
+  - Alpha 列表口径 24h 成交额 13,753,757
+  - 短周期波动 0.55%
+  - 4h 振幅 6.87%
   - 审计风险 MID
-- O | 分数 47.51 | Alpha Trade 成交额 5759935.41 | 波动 0.79% | 4h 振幅 5.98% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,759,935，流动性 2,559,966
-  - Alpha 列表口径 24h 成交额 7,306,814
-  - 短周期波动 0.79%
-  - 4h 振幅 5.98%
+- KGEN | 分数 50.79 | Alpha Trade 成交额 178735309.82 | 波动 0.49% | 4h 振幅 3.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 178,735,310，流动性 752,128
+  - Alpha 列表口径 24h 成交额 1,617,473
+  - 短周期波动 0.49%
+  - 4h 振幅 3.98%
   - 审计风险 LOW
-- KGEN | 分数 40.92 | Alpha Trade 成交额 178335966.27 | 波动 0.48% | 4h 振幅 4.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 178,335,966，流动性 751,821
-  - Alpha 列表口径 24h 成交额 1,864,848
-  - 短周期波动 0.48%
-  - 4h 振幅 4.82%
+- O | 分数 47.03 | Alpha Trade 成交额 5687589.79 | 波动 1.08% | 4h 振幅 11.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,687,590，流动性 2,582,699
+  - Alpha 列表口径 24h 成交额 6,559,532
+  - 短周期波动 1.08%
+  - 4h 振幅 11.12%
   - 审计风险 LOW
-- NES | 分数 31.07 | Alpha Trade 成交额 2203252.42 | 波动 0.58% | 4h 振幅 6.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,203,252，流动性 1,348,054
-  - Alpha 列表口径 24h 成交额 10,757,287
-  - 短周期波动 0.58%
-  - 4h 振幅 6.62%
+- NES | 分数 35.71 | Alpha Trade 成交额 2268981.98 | 波动 0.78% | 4h 振幅 7.15% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,268,982，流动性 1,346,203
+  - Alpha 列表口径 24h 成交额 11,765,742
+  - 短周期波动 0.78%
+  - 4h 振幅 7.15%
   - 审计风险 LOW
-- CAP | 分数 14.41 | Alpha Trade 成交额 15665969.15 | 波动 0.81% | 4h 振幅 8.85% | 审计 LOW
-  - Alpha Trade 24h 成交额 15,665,969，流动性 1,123,386
-  - Alpha 列表口径 24h 成交额 12,557,428
-  - 短周期波动 0.81%
-  - 4h 振幅 8.85%
+- CAP | 分数 14.25 | Alpha Trade 成交额 15933538.77 | 波动 1.15% | 4h 振幅 13.85% | 审计 LOW
+  - Alpha Trade 24h 成交额 15,933,539，流动性 1,114,147
+  - Alpha 列表口径 24h 成交额 14,243,702
+  - 短周期波动 1.15%
+  - 4h 振幅 13.85%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -58,11 +58,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined CAPUSDT Perpetual Contract (2026-06-27)
 - Latest Binance News：Recurring Transactions for bStocks Now Available on Binance Convert
-- Latest Activities：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 2,000 USD1 Limit Available! (2026-06-27)
+- Latest Activities：Word of the Day: Test Your Knowledge on “AI Stock Trading” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
-- CAP | 4x | 上线 2026-06-26T12:00:00+00:00 | 24h 成交额 12557428.06
+- CAP | 4x | 上线 2026-06-26T12:00:00+00:00 | 24h 成交额 14243701.71
 
 ### New Cryptocurrency Listing
 
@@ -84,12 +84,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “AI Stock Trading” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/330f735230b7417094a5965fc8981879)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 2,000 USD1 Limit Available! (2026-06-27)](https://www.binance.com/en/support/announcement/detail/d6821242f0d44c7388a42e4514154496)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [WLD Airdrop Carnival: Claim Your Share of 30,000 WLD](https://www.binance.com/en/support/announcement/detail/3131a634e28e49bcab073cc2009f8467)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the WLD Airdrop Carnival: Claim Your S…
-- [MENA Spin and Win: Share 50,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/52433165aa0d468d890f31256eb6b6a0)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, This Summer, Binance introduces a brand-new interact…
 
 ## Warnings
 
