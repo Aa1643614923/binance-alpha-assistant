@@ -1,52 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-30T06:09:16.068765+00:00
-- 四倍分代币数：7
-- 四倍分 24h 总成交额：1411076475.82
+- 生成时间：2026-06-30T10:00:48.530805+00:00
+- 四倍分代币数：8
+- 四倍分 24h 总成交额：1436993926.82
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：172082（按 8200 / 人）
+- 估算参与人数：175243（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1124365106.17 | 列表口径 14586691.30 | 涨跌 2.20% | 振幅 137.91% | 估算人数 137118
-- KGEN | Alpha Trade 成交额 268506378.07 | 列表口径 897224.78 | 涨跌 5.17% | 振幅 14.58% | 估算人数 32745
-- CAP | Alpha Trade 成交额 12318377.47 | 列表口径 18552239.87 | 涨跌 2.39% | 振幅 56.96% | 估算人数 1502
-- O | Alpha Trade 成交额 2912943.47 | 列表口径 3136210.59 | 涨跌 9.93% | 振幅 31.67% | 估算人数 355
-- NES | Alpha Trade 成交额 2626351.14 | 列表口径 35306080.64 | 涨跌 -6.51% | 振幅 15.80% | 估算人数 320
-- RTX | Alpha Trade 成交额 293759.51 | 列表口径 3780602.12 | 涨跌 2.57% | 振幅 4.59% | 估算人数 36
-- TRIA | Alpha Trade 成交额 53560.00 | 列表口径 1233266.82 | 涨跌 -4.35% | 振幅 13.08% | 估算人数 7
+- ARX | Alpha Trade 成交额 1171500523.61 | 列表口径 15484909.03 | 涨跌 4.73% | 振幅 1665.26% | 估算人数 142866
+- KGEN | Alpha Trade 成交额 248274468.88 | 列表口径 1158389.72 | 涨跌 15.00% | 振幅 25.19% | 估算人数 30277
+- CAP | Alpha Trade 成交额 12014367.73 | 列表口径 19678904.95 | 涨跌 20.59% | 振幅 50.60% | 估算人数 1465
+- NES | Alpha Trade 成交额 2483117.79 | 列表口径 37235222.99 | 涨跌 -3.63% | 振幅 14.11% | 估算人数 303
+- O | Alpha Trade 成交额 2288230.92 | 列表口径 2287412.33 | 涨跌 -7.57% | 振幅 18.23% | 估算人数 279
+- RTX | Alpha Trade 成交额 313243.80 | 列表口径 3623590.53 | 涨跌 2.18% | 振幅 4.52% | 估算人数 38
+- COLLECT | Alpha Trade 成交额 64119.23 | 列表口径 996978.44 | 涨跌 -7.46% | 振幅 13.27% | 估算人数 8
+- TRIA | Alpha Trade 成交额 55854.84 | 列表口径 1169300.72 | 涨跌 -9.98% | 振幅 15.77% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- ARX | 分数 76.58 | Alpha Trade 成交额 1124365106.17 | 波动 0.75% | 4h 振幅 11.40% | 审计 MID
-  - Alpha Trade 24h 成交额 1,124,365,106，流动性 1,488,208
-  - Alpha 列表口径 24h 成交额 14,586,691
-  - 短周期波动 0.75%
-  - 4h 振幅 11.40%
+- ARX | 分数 83.71 | Alpha Trade 成交额 1171500523.61 | 波动 0.39% | 4h 振幅 3.99% | 审计 MID
+  - Alpha Trade 24h 成交额 1,171,500,524，流动性 1,500,780
+  - Alpha 列表口径 24h 成交额 15,484,909
+  - 短周期波动 0.39%
+  - 4h 振幅 3.99%
   - 审计风险 MID
-- O | 分数 64.76 | Alpha Trade 成交额 2912943.47 | 波动 0.83% | 4h 振幅 9.17% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,912,943，流动性 2,720,684
-  - Alpha 列表口径 24h 成交额 3,136,211
-  - 短周期波动 0.83%
-  - 4h 振幅 9.17%
+- O | 分数 66.48 | Alpha Trade 成交额 2288230.92 | 波动 0.56% | 4h 振幅 4.68% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,288,231，流动性 2,660,552
+  - Alpha 列表口径 24h 成交额 2,287,412
+  - 短周期波动 0.56%
+  - 4h 振幅 4.68%
   - 审计风险 LOW
-- KGEN | 分数 52.21 | Alpha Trade 成交额 268506378.07 | 波动 0.51% | 4h 振幅 4.51% | 审计 LOW
-  - Alpha Trade 24h 成交额 268,506,378，流动性 761,779
-  - Alpha 列表口径 24h 成交额 897,225
-  - 短周期波动 0.51%
-  - 4h 振幅 4.51%
+- NES | 分数 40.41 | Alpha Trade 成交额 2483117.79 | 波动 0.55% | 4h 振幅 6.67% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,483,118，流动性 1,277,608
+  - Alpha 列表口径 24h 成交额 37,235,223
+  - 短周期波动 0.55%
+  - 4h 振幅 6.67%
   - 审计风险 LOW
-- NES | 分数 46.99 | Alpha Trade 成交额 2626351.14 | 波动 0.48% | 4h 振幅 3.81% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,626,351，流动性 1,299,559
-  - Alpha 列表口径 24h 成交额 35,306,081
-  - 短周期波动 0.48%
-  - 4h 振幅 3.81%
+- KGEN | 分数 31.91 | Alpha Trade 成交额 248274468.88 | 波动 0.88% | 4h 振幅 13.43% | 审计 LOW
+  - Alpha Trade 24h 成交额 248,274,469，流动性 772,829
+  - Alpha 列表口径 24h 成交额 1,158,390
+  - 短周期波动 0.88%
+  - 4h 振幅 13.43%
   - 审计风险 LOW
-- CAP | 分数 13.47 | Alpha Trade 成交额 12318377.47 | 波动 1.83% | 4h 振幅 30.25% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,318,377，流动性 1,080,513
-  - Alpha 列表口径 24h 成交额 18,552,240
-  - 短周期波动 1.83%
-  - 4h 振幅 30.25%
+- CAP | 分数 13.54 | Alpha Trade 成交额 12014367.73 | 波动 1.06% | 4h 振幅 20.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,014,368，流动性 1,087,648
+  - Alpha 列表口径 24h 成交额 19,678,905
+  - 短周期波动 1.06%
+  - 4h 振幅 20.11%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -56,8 +57,8 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Exchange Adds bStocks Lumentum (LITEB), Meta (METAB), Microsoft (MSFTB), Palantir (PLTRB) and Invesco QQQ Trust (QQQB) Trading Pair(s) on Binance Spot - 2026-06-30
-- Latest Binance News：Notice on Binance Futures COIN-M System Upgrade (2026-06-30)
-- Latest Activities：Binance Creator Challenge: Try Products, Create Content, and Share Up to $215,000 in Rewards!
+- Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-03)
+- Latest Activities：Binance Square: Grab a Share of 1,000,000 NEWT Rewards on CreatorPad!
 
 ### 最近 Alpha 上线
 
@@ -73,21 +74,21 @@
 
 ### Latest Binance News
 
+- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-03)](https://www.binance.com/en/support/announcement/detail/e5192d7a0d2c4f8c9d4041f69d1b9c0b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
+- [Binance Futures COIN-M System Upgrade Completion Time Will Be Postponed (2026-06-30)](https://www.binance.com/en/support/announcement/detail/98a53406e1ef489fae140ae15106afca)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, The system upgrade completion time for Bi…
 - [Notice on Binance Futures COIN-M System Upgrade (2026-06-30)](https://www.binance.com/en/support/announcement/detail/5876ddeea3a444dbbd8e8cf0bbaa8005)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures COIN-M is undergoing a sy…
-- [Binance Futures Will Adjust The Contract Size of USDⓈ-Margined CRWDUSDT Perpetual Contract (2026-07-02)](https://www.binance.com/en/support/announcement/detail/68134e3f478c4b379fc5558374afc8e6)
-  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules. Products and services referred to here may not be available in your region.&nbsp; Fe…
-- [Supplementary Notice on Binance Futures COIN-M System Upgrade (2026-06-30)](https://www.binance.com/en/support/announcement/detail/c5000c295b0a4051af9e2f0ef59066de)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Besides the affected services listed here…
 
 ### Latest Activities
 
+- [Binance Square: Grab a Share of 1,000,000 NEWT Rewards on CreatorPad!](https://www.binance.com/en/support/announcement/detail/5fa4b6801f7b49ceb1fb59e8aa5350b0)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Binance Square i…
+- [Binance Wallet Launches Event Meme First Trade Protection Campaign](https://www.binance.com/en/support/announcement/detail/179adc4fdfc2468f8169dff59e080b1c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 - [Binance Creator Challenge: Try Products, Create Content, and Share Up to $215,000 in Rewards!](https://www.binance.com/en/support/announcement/detail/25a9906f568e40ebb780af46e116f97d)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
-- [Update on Stocks & ETFs Fee](https://www.binance.com/en/support/announcement/detail/28e0881a7f7144c0aa39636907f2520d)
-  - This is a general informational announcement and is not a promotion. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp;…
-- [Binance Double Dip: Deposit & Earn Up to 20% APR on USDT!](https://www.binance.com/en/support/announcement/detail/718e3eb2f4814b2681c93fb8d029da74)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
