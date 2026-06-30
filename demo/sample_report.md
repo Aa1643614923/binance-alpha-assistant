@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-06-30T12:20:57.451286+00:00
+- 生成时间：2026-06-30T15:06:55.994232+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1455369865.12
+- 四倍分 24h 总成交额：1475724989.19
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：177484（按 8200 / 人）
+- 估算参与人数：179966（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1193744388.44 | 列表口径 15173779.57 | 涨跌 -1.18% | 振幅 1665.26% | 估算人数 145579
-- KGEN | Alpha Trade 成交额 244136820.39 | 列表口径 1546917.86 | 涨跌 17.21% | 振幅 29.62% | 估算人数 29773
-- CAP | Alpha Trade 成交额 12167710.52 | 列表口径 21952136.17 | 涨跌 19.81% | 振幅 50.60% | 估算人数 1484
-- NES | Alpha Trade 成交额 2353574.34 | 列表口径 37379064.89 | 涨跌 -2.80% | 振幅 14.57% | 估算人数 287
-- O | Alpha Trade 成交额 2021682.77 | 列表口径 2009466.05 | 涨跌 2.18% | 振幅 18.23% | 估算人数 247
-- COLLECT | Alpha Trade 成交额 554061.85 | 列表口径 2503354.11 | 涨跌 -11.43% | 振幅 22.05% | 估算人数 68
-- RTX | Alpha Trade 成交额 328441.68 | 列表口径 3727902.69 | 涨跌 2.47% | 振幅 3.36% | 估算人数 40
-- TRIA | Alpha Trade 成交额 63185.14 | 列表口径 1210698.48 | 涨跌 -6.42% | 振幅 15.77% | 估算人数 8
+- ARX | Alpha Trade 成交额 1220961544.01 | 列表口径 15457626.17 | 涨跌 -5.35% | 振幅 1665.26% | 估算人数 148898
+- KGEN | Alpha Trade 成交额 237340367.83 | 列表口径 1712487.02 | 涨跌 4.26% | 振幅 26.31% | 估算人数 28944
+- CAP | Alpha Trade 成交额 12291394.75 | 列表口径 24500088.88 | 涨跌 23.72% | 振幅 50.60% | 估算人数 1499
+- NES | Alpha Trade 成交额 2233532.47 | 列表口径 39835083.01 | 涨跌 -4.80% | 振幅 17.46% | 估算人数 272
+- O | Alpha Trade 成交额 1827415.44 | 列表口径 1968062.26 | 涨跌 -12.17% | 振幅 19.95% | 估算人数 223
+- COLLECT | Alpha Trade 成交额 676376.34 | 列表口径 2718952.97 | 涨跌 -12.32% | 振幅 22.05% | 估算人数 82
+- RTX | Alpha Trade 成交额 326558.06 | 列表口径 4416407.56 | 涨跌 0.40% | 振幅 4.77% | 估算人数 40
+- TRIA | Alpha Trade 成交额 67800.30 | 列表口径 1255865.56 | 涨跌 -3.49% | 振幅 10.10% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.27 | Alpha Trade 成交额 1193744388.44 | 波动 0.45% | 4h 振幅 3.52% | 审计 MID
-  - Alpha Trade 24h 成交额 1,193,744,388，流动性 1,497,057
-  - Alpha 列表口径 24h 成交额 15,173,780
-  - 短周期波动 0.45%
-  - 4h 振幅 3.52%
+- ARX | 分数 80.62 | Alpha Trade 成交额 1220961544.01 | 波动 0.48% | 4h 振幅 4.04% | 审计 MID
+  - Alpha Trade 24h 成交额 1,220,961,544，流动性 1,488,973
+  - Alpha 列表口径 24h 成交额 15,457,626
+  - 短周期波动 0.48%
+  - 4h 振幅 4.04%
   - 审计风险 MID
-- O | 分数 64.91 | Alpha Trade 成交额 2021682.77 | 波动 0.61% | 4h 振幅 4.66% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,021,683，流动性 2,689,856
-  - Alpha 列表口径 24h 成交额 2,009,466
-  - 短周期波动 0.61%
-  - 4h 振幅 4.66%
+- COLLECT | 分数 61.95 | Alpha Trade 成交额 676376.34 | 波动 0.47% | 4h 振幅 5.20% | 审计 LOW
+  - Alpha Trade 24h 成交额 676,376，流动性 1,466,961
+  - Alpha 列表口径 24h 成交额 2,718,953
+  - 短周期波动 0.47%
+  - 4h 振幅 5.20%
   - 审计风险 LOW
-- COLLECT | 分数 45.05 | Alpha Trade 成交额 554061.85 | 波动 0.91% | 4h 振幅 12.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 554,062，流动性 1,492,233
-  - Alpha 列表口径 24h 成交额 2,503,354
-  - 短周期波动 0.91%
-  - 4h 振幅 12.49%
+- O | 分数 57.25 | Alpha Trade 成交额 1827415.44 | 波动 0.78% | 4h 振幅 10.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,827,415，流动性 2,540,367
+  - Alpha 列表口径 24h 成交额 1,968,062
+  - 短周期波动 0.78%
+  - 4h 振幅 10.28%
   - 审计风险 LOW
-- KGEN | 分数 39.44 | Alpha Trade 成交额 244136820.39 | 波动 0.77% | 4h 振幅 8.45% | 审计 LOW
-  - Alpha Trade 24h 成交额 244,136,820，流动性 775,163
-  - Alpha 列表口径 24h 成交额 1,546,918
-  - 短周期波动 0.77%
-  - 4h 振幅 8.45%
+- NES | 分数 43.49 | Alpha Trade 成交额 2233532.47 | 波动 0.57% | 4h 振幅 5.63% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,233,532，流动性 1,251,627
+  - Alpha 列表口径 24h 成交额 39,835,083
+  - 短周期波动 0.57%
+  - 4h 振幅 5.63%
   - 审计风险 LOW
-- NES | 分数 38.97 | Alpha Trade 成交额 2353574.34 | 波动 0.62% | 4h 振幅 8.54% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,353,574，流动性 1,269,519
-  - Alpha 列表口径 24h 成交额 37,379,065
-  - 短周期波动 0.62%
-  - 4h 振幅 8.54%
+- KGEN | 分数 37.00 | Alpha Trade 成交额 237340367.83 | 波动 0.73% | 4h 振幅 13.06% | 审计 LOW
+  - Alpha Trade 24h 成交额 237,340,368，流动性 760,973
+  - Alpha 列表口径 24h 成交额 1,712,487
+  - 短周期波动 0.73%
+  - 4h 振幅 13.06%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -56,7 +56,7 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Exchange Adds bStocks Lumentum (LITEB), Meta (METAB), Microsoft (MSFTB), Palantir (PLTRB) and Invesco QQQ Trust (QQQB) Trading Pair(s) on Binance Spot - 2026-06-30
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)
 - Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-03)
 - Latest Activities：Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-30)
 
@@ -65,12 +65,12 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)](https://www.binance.com/en/support/announcement/detail/25da4614ffff435fa28544b27fd33a39)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Exchange Adds bStocks Lumentum (LITEB), Meta (METAB), Microsoft (MSFTB), Palantir (PLTRB) and Invesco QQQ Trust (QQQB) Trading Pair(s) on Binance Spot - 2026-06-30](https://www.binance.com/en/support/announcement/detail/03b264b679a646119d1a2415b9097bd6)
   - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 - [Introducing OpenGradient (OPG) on Binance HODLer Airdrops! Earn OPG With Retroactive BNB Simple Earn Subscriptions](https://www.binance.com/en/support/announcement/detail/b026c9829d28459cb1f1a95000960a08)
   - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure the safety of your funds. This is a general a…
-- [Binance Margin Will Add New Pairs - 2026-06-30](https://www.binance.com/en/support/announcement/detail/d8400c84767448a2bcb71b7bf3864a97)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Margin wil…
 
 ### Latest Binance News
 
