@@ -1,52 +1,52 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-02T04:36:52.830496+00:00
+- 生成时间：2026-07-02T07:55:51.896411+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1444009483.64
+- 四倍分 24h 总成交额：1426473934.23
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：176099（按 8200 / 人）
+- 估算参与人数：173960（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1247692102.45 | 列表口径 9831054.34 | 涨跌 -16.42% | 振幅 28.69% | 估算人数 152158
-- KGEN | Alpha Trade 成交额 164768773.37 | 列表口径 1553687.15 | 涨跌 -7.79% | 振幅 30.67% | 估算人数 20094
-- NES | Alpha Trade 成交额 24779076.73 | 列表口径 90447196.01 | 涨跌 10.71% | 振幅 24.26% | 估算人数 3022
-- CAP | Alpha Trade 成交额 5217261.93 | 列表口径 8226140.33 | 涨跌 -12.78% | 振幅 15.81% | 估算人数 636
-- O | Alpha Trade 成交额 1203813.92 | 列表口径 1973818.67 | 涨跌 4.28% | 振幅 26.38% | 估算人数 147
-- COLLECT | Alpha Trade 成交额 195938.55 | 列表口径 1763676.86 | 涨跌 -7.07% | 振幅 12.32% | 估算人数 24
-- TRIA | Alpha Trade 成交额 152516.70 | 列表口径 1854616.39 | 涨跌 -6.74% | 振幅 15.95% | 估算人数 19
+- ARX | Alpha Trade 成交额 1206596859.65 | 列表口径 8583596.51 | 涨跌 -17.52% | 振幅 31.38% | 估算人数 147146
+- KGEN | Alpha Trade 成交额 173277278.71 | 列表口径 1534788.53 | 涨跌 -4.06% | 振幅 30.09% | 估算人数 21131
+- NES | Alpha Trade 成交额 39995581.15 | 列表口径 87779077.74 | 涨跌 9.45% | 振幅 24.26% | 估算人数 4878
+- CAP | Alpha Trade 成交额 5115946.15 | 列表口径 7827864.57 | 涨跌 -11.64% | 振幅 21.33% | 估算人数 624
+- O | Alpha Trade 成交额 1163299.50 | 列表口径 1998490.78 | 涨跌 2.01% | 振幅 26.38% | 估算人数 142
+- COLLECT | Alpha Trade 成交额 178467.31 | 列表口径 1566670.70 | 涨跌 -6.72% | 振幅 10.12% | 估算人数 22
+- TRIA | Alpha Trade 成交额 146501.75 | 列表口径 1582602.66 | 涨跌 -1.45% | 振幅 13.42% | 估算人数 18
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.90 | Alpha Trade 成交额 1247692102.45 | 波动 0.40% | 4h 振幅 4.99% | 审计 MID
-  - Alpha Trade 24h 成交额 1,247,692,102，流动性 1,419,191
-  - Alpha 列表口径 24h 成交额 9,831,054
-  - 短周期波动 0.40%
-  - 4h 振幅 4.99%
+- ARX | 分数 80.49 | Alpha Trade 成交额 1206596859.65 | 波动 0.49% | 4h 振幅 5.65% | 审计 MID
+  - Alpha Trade 24h 成交额 1,206,596,860，流动性 1,416,926
+  - Alpha 列表口径 24h 成交额 8,583,597
+  - 短周期波动 0.49%
+  - 4h 振幅 5.65%
   - 审计风险 MID
-- KGEN | 分数 50.28 | Alpha Trade 成交额 164768773.37 | 波动 0.36% | 4h 振幅 3.40% | 审计 LOW
-  - Alpha Trade 24h 成交额 164,768,773，流动性 747,473
-  - Alpha 列表口径 24h 成交额 1,553,687
-  - 短周期波动 0.36%
-  - 4h 振幅 3.40%
+- KGEN | 分数 49.67 | Alpha Trade 成交额 173277278.71 | 波动 0.43% | 4h 振幅 6.16% | 审计 LOW
+  - Alpha Trade 24h 成交额 173,277,279，流动性 751,967
+  - Alpha 列表口径 24h 成交额 1,534,789
+  - 短周期波动 0.43%
+  - 4h 振幅 6.16%
   - 审计风险 LOW
-- O | 分数 42.03 | Alpha Trade 成交额 1203813.92 | 波动 1.22% | 4h 振幅 15.75% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,203,814，流动性 2,664,551
-  - Alpha 列表口径 24h 成交额 1,973,819
-  - 短周期波动 1.22%
-  - 4h 振幅 15.75%
+- NES | 分数 44.05 | Alpha Trade 成交额 39995581.15 | 波动 0.55% | 4h 振幅 5.88% | 审计 LOW
+  - Alpha Trade 24h 成交额 39,995,581，流动性 1,376,341
+  - Alpha 列表口径 24h 成交额 87,779,078
+  - 短周期波动 0.55%
+  - 4h 振幅 5.88%
   - 审计风险 LOW
-- NES | 分数 41.86 | Alpha Trade 成交额 24779076.73 | 波动 0.56% | 4h 振幅 7.13% | 审计 LOW
-  - Alpha Trade 24h 成交额 24,779,077，流动性 1,377,312
-  - Alpha 列表口径 24h 成交额 90,447,196
-  - 短周期波动 0.56%
-  - 4h 振幅 7.13%
+- O | 分数 42.00 | Alpha Trade 成交额 1163299.50 | 波动 0.91% | 4h 振幅 10.93% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,163,300，流动性 2,717,240
+  - Alpha 列表口径 24h 成交额 1,998,491
+  - 短周期波动 0.91%
+  - 4h 振幅 10.93%
   - 审计风险 LOW
-- CAP | 分数 39.90 | Alpha Trade 成交额 5217261.93 | 波动 0.50% | 4h 振幅 3.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,217,262，流动性 1,042,621
-  - Alpha 列表口径 24h 成交额 8,226,140
-  - 短周期波动 0.50%
-  - 4h 振幅 3.31%
+- CAP | 分数 37.17 | Alpha Trade 成交额 5115946.15 | 波动 0.46% | 4h 振幅 7.96% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,115,946，流动性 1,021,955
+  - Alpha 列表口径 24h 成交额 7,827,865
+  - 短周期波动 0.46%
+  - 4h 振幅 7.96%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -55,8 +55,8 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)
-- Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-01)
+- 官方最新上新关注：Binance Will Add Gram (GRAM) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures
+- Latest Binance News：Binance Will Support the Micron (MU) Cash Dividend Distribution via bStocks
 - Latest Activities：Binance Pay: Enjoy 10% Bonus Credits When Buying AI Credits on linkex.ai!
 
 ### 最近 Alpha 上线
@@ -64,21 +64,21 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Will Add Gram (GRAM) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures](https://www.binance.com/en/support/announcement/detail/3da0bd5b07bf497db5788fed38d478b0)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance is excited to announce that Gram (GRAM…
 - [Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)](https://www.binance.com/en/support/announcement/detail/25da4614ffff435fa28544b27fd33a39)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Exchange Adds bStocks Lumentum (LITEB), Meta (METAB), Microsoft (MSFTB), Palantir (PLTRB) and Invesco QQQ Trust (QQQB) Trading Pair(s) on Binance Spot - 2026-06-30](https://www.binance.com/en/support/announcement/detail/03b264b679a646119d1a2415b9097bd6)
   - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
-- [Introducing OpenGradient (OPG) on Binance HODLer Airdrops! Earn OPG With Retroactive BNB Simple Earn Subscriptions](https://www.binance.com/en/support/announcement/detail/b026c9829d28459cb1f1a95000960a08)
-  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure the safety of your funds. This is a general a…
 
 ### Latest Binance News
 
+- [Binance Will Support the Micron (MU) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/352a610187c44c8bbdc63239b47f8e69)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
+- [Binance Will Support Zero Withdrawal Fees for bStocks](https://www.binance.com/en/support/announcement/detail/aeae764257d940078e46771acefe043d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-01)](https://www.binance.com/en/support/announcement/detail/c30b29ddf6c445ecb636be27172165a2)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Notice on Bending Spoons (BSP) on Binance Stocks - 2026-07-01](https://www.binance.com/en/support/announcement/detail/45a5fb47045544988728c1f86b32dcb8)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered…
-- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-03)](https://www.binance.com/en/support/announcement/detail/e5192d7a0d2c4f8c9d4041f69d1b9c0b)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 
 ### Latest Activities
 
