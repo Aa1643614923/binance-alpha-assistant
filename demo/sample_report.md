@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-02T10:45:36.917751+00:00
+- 生成时间：2026-07-02T12:50:48.015532+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1462301406.94
+- 四倍分 24h 总成交额：1519538869.95
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：178329（按 8200 / 人）
+- 估算参与人数：185310（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1221540791.27 | 列表口径 7315562.22 | 涨跌 -15.00% | 振幅 24.61% | 估算人数 148968
-- KGEN | Alpha Trade 成交额 165734370.58 | 列表口径 1547725.81 | 涨跌 -3.79% | 振幅 26.15% | 估算人数 20212
-- NES | Alpha Trade 成交额 68291506.14 | 列表口径 84678374.04 | 涨跌 12.81% | 振幅 23.60% | 估算人数 8328
-- CAP | Alpha Trade 成交额 5132838.75 | 列表口径 7863599.30 | 涨跌 -15.67% | 振幅 25.37% | 估算人数 626
-- O | Alpha Trade 成交额 1096153.68 | 列表口径 1962078.02 | 涨跌 1.23% | 振幅 26.38% | 估算人数 134
-- COLLECT | Alpha Trade 成交额 177711.58 | 列表口径 1492290.93 | 涨跌 -1.04% | 振幅 10.12% | 估算人数 22
-- TRIA | Alpha Trade 成交额 137034.65 | 列表口径 1402188.75 | 涨跌 -1.39% | 振幅 13.08% | 估算人数 17
-- WMTX | Alpha Trade 成交额 96514.20 | 列表口径 5051542.80 | 涨跌 -11.04% | 振幅 17.29% | 估算人数 12
-- ACU | Alpha Trade 成交额 94486.09 | 列表口径 715449.87 | 涨跌 -3.90% | 振幅 10.47% | 估算人数 12
+- ARX | Alpha Trade 成交额 1206387024.14 | 列表口径 6895205.84 | 涨跌 -13.32% | 振幅 24.32% | 估算人数 147120
+- KGEN | Alpha Trade 成交额 188306131.53 | 列表口径 861483.66 | 涨跌 -1.64% | 振幅 12.64% | 估算人数 22964
+- NES | Alpha Trade 成交额 117991272.35 | 列表口径 80158520.89 | 涨跌 10.95% | 振幅 21.27% | 估算人数 14389
+- CAP | Alpha Trade 成交额 5285738.26 | 列表口径 7666006.73 | 涨跌 -14.61% | 振幅 25.37% | 估算人数 645
+- O | Alpha Trade 成交额 1084949.16 | 列表口径 1894870.46 | 涨跌 -1.00% | 振幅 26.38% | 估算人数 132
+- TRIA | Alpha Trade 成交额 133495.67 | 列表口径 1295933.36 | 涨跌 -1.41% | 振幅 13.08% | 估算人数 16
+- COLLECT | Alpha Trade 成交额 128518.21 | 列表口径 1412637.48 | 涨跌 -2.70% | 振幅 10.12% | 估算人数 16
+- WMTX | Alpha Trade 成交额 121815.52 | 列表口径 8289797.41 | 涨跌 -11.16% | 振幅 20.40% | 估算人数 15
+- ACU | Alpha Trade 成交额 99925.11 | 列表口径 768447.29 | 涨跌 -4.03% | 振幅 10.47% | 估算人数 12
 
 ## 稳定刷分推荐
 
-- ARX | 分数 83.10 | Alpha Trade 成交额 1221540791.27 | 波动 0.33% | 4h 振幅 2.52% | 审计 MID
-  - Alpha Trade 24h 成交额 1,221,540,791，流动性 1,419,152
-  - Alpha 列表口径 24h 成交额 7,315,562
-  - 短周期波动 0.33%
-  - 4h 振幅 2.52%
+- ARX | 分数 78.06 | Alpha Trade 成交额 1206387024.14 | 波动 0.34% | 4h 振幅 4.63% | 审计 MID
+  - Alpha Trade 24h 成交额 1,206,387,024，流动性 1,423,545
+  - Alpha 列表口径 24h 成交额 6,895,206
+  - 短周期波动 0.34%
+  - 4h 振幅 4.63%
   - 审计风险 MID
-- O | 分数 41.77 | Alpha Trade 成交额 1096153.68 | 波动 0.73% | 4h 振幅 7.81% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,096,154，流动性 2,634,643
-  - Alpha 列表口径 24h 成交额 1,962,078
-  - 短周期波动 0.73%
-  - 4h 振幅 7.81%
+- NES | 分数 49.23 | Alpha Trade 成交额 117991272.35 | 波动 0.34% | 4h 振幅 3.51% | 审计 LOW
+  - Alpha Trade 24h 成交额 117,991,272，流动性 1,388,194
+  - Alpha 列表口径 24h 成交额 80,158,521
+  - 短周期波动 0.34%
+  - 4h 振幅 3.51%
   - 审计风险 LOW
-- NES | 分数 38.98 | Alpha Trade 成交额 68291506.14 | 波动 0.46% | 4h 振幅 4.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 68,291,506，流动性 1,381,161
-  - Alpha 列表口径 24h 成交额 84,678,374
-  - 短周期波动 0.46%
-  - 4h 振幅 4.62%
+- KGEN | 分数 44.64 | Alpha Trade 成交额 188306131.53 | 波动 0.41% | 4h 振幅 3.56% | 审计 LOW
+  - Alpha Trade 24h 成交额 188,306,132，流动性 749,371
+  - Alpha 列表口径 24h 成交额 861,484
+  - 短周期波动 0.41%
+  - 4h 振幅 3.56%
   - 审计风险 LOW
-- KGEN | 分数 38.28 | Alpha Trade 成交额 165734370.58 | 波动 0.50% | 4h 振幅 4.14% | 审计 LOW
-  - Alpha Trade 24h 成交额 165,734,371，流动性 750,438
-  - Alpha 列表口径 24h 成交额 1,547,726
-  - 短周期波动 0.50%
-  - 4h 振幅 4.14%
+- O | 分数 41.66 | Alpha Trade 成交额 1084949.16 | 波动 0.61% | 4h 振幅 5.71% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,084,949，流动性 2,630,226
+  - Alpha 列表口径 24h 成交额 1,894,870
+  - 短周期波动 0.61%
+  - 4h 振幅 5.71%
   - 审计风险 LOW
-- CAP | 分数 22.45 | Alpha Trade 成交额 5132838.75 | 波动 0.60% | 4h 振幅 6.12% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,132,839，流动性 1,005,688
-  - Alpha 列表口径 24h 成交额 7,863,599
-  - 短周期波动 0.60%
-  - 4h 振幅 6.12%
+- CAP | 分数 33.14 | Alpha Trade 成交额 5285738.26 | 波动 0.43% | 4h 振幅 4.07% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,285,738，流动性 1,006,054
+  - Alpha 列表口径 24h 成交额 7,666,007
+  - 短周期波动 0.43%
+  - 4h 振幅 4.07%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,12 +59,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined ETHUSD1 Perpetual Contract (2026-07-03)
-- Latest Binance News：Update to the USD1 Airdrop Campaign (2026-07-03)
+- Latest Binance News：Binance Convert Recurring Introduces Smart DCA for More Flexible DCA Strategies
 - Latest Activities：Binance Summer Time Challenge: Fill Your 2026 Summer Kit and Share 300 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
-- DATAIP | 1x | 上线 2026-07-02T08:00:00+00:00 | 24h 成交额 3585163.37
+- DATAIP | 1x | 上线 2026-07-02T08:00:00+00:00 | 24h 成交额 4708260.81
 
 ### New Cryptocurrency Listing
 
@@ -77,11 +77,11 @@
 
 ### Latest Binance News
 
+- [Binance Convert Recurring Introduces Smart DCA for More Flexible DCA Strategies](https://www.binance.com/en/support/announcement/detail/e653977d6dda42d390b50a20a33ec7c2)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Important: Smart DCA operates solely…
 - [Update to the USD1 Airdrop Campaign (2026-07-03)](https://www.binance.com/en/support/announcement/detail/a49a60018f33454bbdf6bae58b766b6f)
   - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 - [Binance Will Support the Micron (MU) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/352a610187c44c8bbdc63239b47f8e69)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
-- [Binance Will Support Zero Withdrawal Fees for bStocks](https://www.binance.com/en/support/announcement/detail/aeae764257d940078e46771acefe043d)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 
 ### Latest Activities
