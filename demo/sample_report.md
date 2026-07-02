@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-02T15:06:39.129988+00:00
+- 生成时间：2026-07-02T17:00:31.623030+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1574951645.68
+- 四倍分 24h 总成交额：1591842160.22
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：192067（按 8200 / 人）
+- 估算参与人数：194127（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1209384780.55 | 列表口径 7045868.29 | 涨跌 -12.10% | 振幅 24.32% | 估算人数 147486
-- KGEN | Alpha Trade 成交额 232559801.62 | 列表口径 933991.81 | 涨跌 -1.92% | 振幅 11.16% | 估算人数 28361
-- NES | Alpha Trade 成交额 126175889.14 | 列表口径 75026321.36 | 涨跌 -0.69% | 振幅 15.82% | 估算人数 15387
-- CAP | Alpha Trade 成交额 5357108.67 | 列表口径 7991920.17 | 涨跌 -18.49% | 振幅 29.42% | 估算人数 653
-- O | Alpha Trade 成交额 978548.91 | 列表口径 1728095.12 | 涨跌 -3.95% | 振幅 26.38% | 估算人数 119
-- WMTX | Alpha Trade 成交额 132213.26 | 列表口径 8882241.82 | 涨跌 -10.52% | 振幅 20.40% | 估算人数 16
-- TRIA | Alpha Trade 成交额 131818.70 | 列表口径 1248302.14 | 涨跌 -0.21% | 振幅 10.37% | 估算人数 16
-- COLLECT | Alpha Trade 成交额 121731.73 | 列表口径 1404191.23 | 涨跌 -4.70% | 振幅 10.00% | 估算人数 15
-- ACU | Alpha Trade 成交额 109753.11 | 列表口径 868235.32 | 涨跌 -5.46% | 振幅 10.47% | 估算人数 13
+- ARX | Alpha Trade 成交额 1207373698.17 | 列表口径 7239910.35 | 涨跌 -13.08% | 振幅 22.63% | 估算人数 147241
+- KGEN | Alpha Trade 成交额 248903718.80 | 列表口径 914286.29 | 涨跌 -0.26% | 振幅 11.16% | 估算人数 30354
+- NES | Alpha Trade 成交额 128697323.49 | 列表口径 70312002.37 | 涨跌 4.37% | 振幅 12.81% | 估算人数 15695
+- CAP | Alpha Trade 成交额 5416132.93 | 列表口径 8331208.93 | 涨跌 -14.55% | 振幅 26.47% | 估算人数 661
+- O | Alpha Trade 成交额 944001.71 | 列表口径 1610672.42 | 涨跌 2.65% | 振幅 26.38% | 估算人数 115
+- WMTX | Alpha Trade 成交额 135928.03 | 列表口径 8898310.93 | 涨跌 -11.37% | 振幅 20.40% | 估算人数 17
+- TRIA | Alpha Trade 成交额 133000.12 | 列表口径 1186142.76 | 涨跌 8.54% | 振幅 12.07% | 估算人数 16
+- COLLECT | Alpha Trade 成交额 125268.65 | 列表口径 1429780.06 | 涨跌 -4.33% | 振幅 9.09% | 估算人数 15
+- ACU | Alpha Trade 成交额 113088.32 | 列表口径 928432.05 | 涨跌 -5.56% | 振幅 10.88% | 估算人数 14
 
 ## 稳定刷分推荐
 
-- ARX | 分数 83.30 | Alpha Trade 成交额 1209384780.55 | 波动 0.36% | 4h 振幅 3.30% | 审计 MID
-  - Alpha Trade 24h 成交额 1,209,384,781，流动性 1,429,174
-  - Alpha 列表口径 24h 成交额 7,045,868
-  - 短周期波动 0.36%
-  - 4h 振幅 3.30%
-  - 审计风险 MID
-- O | 分数 50.28 | Alpha Trade 成交额 978548.91 | 波动 0.68% | 4h 振幅 5.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 978,549，流动性 2,619,285
-  - Alpha 列表口径 24h 成交额 1,728,095
-  - 短周期波动 0.68%
-  - 4h 振幅 5.89%
-  - 审计风险 LOW
-- KGEN | 分数 35.02 | Alpha Trade 成交额 232559801.62 | 波动 0.54% | 4h 振幅 6.72% | 审计 LOW
-  - Alpha Trade 24h 成交额 232,559,802，流动性 744,555
-  - Alpha 列表口径 24h 成交额 933,992
+- ARX | 分数 81.12 | Alpha Trade 成交额 1207373698.17 | 波动 0.54% | 4h 振幅 4.73% | 审计 MID
+  - Alpha Trade 24h 成交额 1,207,373,698，流动性 1,425,098
+  - Alpha 列表口径 24h 成交额 7,239,910
   - 短周期波动 0.54%
-  - 4h 振幅 6.72%
+  - 4h 振幅 4.73%
+  - 审计风险 MID
+- O | 分数 56.52 | Alpha Trade 成交额 944001.71 | 波动 0.62% | 4h 振幅 8.89% | 审计 LOW
+  - Alpha Trade 24h 成交额 944,002，流动性 2,751,573
+  - Alpha 列表口径 24h 成交额 1,610,672
+  - 短周期波动 0.62%
+  - 4h 振幅 8.89%
   - 审计风险 LOW
-- NES | 分数 31.22 | Alpha Trade 成交额 126175889.14 | 波动 0.60% | 4h 振幅 6.75% | 审计 LOW
-  - Alpha Trade 24h 成交额 126,175,889，流动性 1,399,066
-  - Alpha 列表口径 24h 成交额 75,026,321
-  - 短周期波动 0.60%
-  - 4h 振幅 6.75%
+- KGEN | 分数 44.73 | Alpha Trade 成交额 248903718.80 | 波动 0.50% | 4h 振幅 7.37% | 审计 LOW
+  - Alpha Trade 24h 成交额 248,903,719，流动性 744,395
+  - Alpha 列表口径 24h 成交额 914,286
+  - 短周期波动 0.50%
+  - 4h 振幅 7.37%
   - 审计风险 LOW
-- CAP | 分数 12.71 | Alpha Trade 成交额 5357108.67 | 波动 0.75% | 4h 振幅 8.75% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,357,109，流动性 990,136
-  - Alpha 列表口径 24h 成交额 7,991,920
-  - 短周期波动 0.75%
-  - 4h 振幅 8.75%
+- NES | 分数 31.14 | Alpha Trade 成交额 128697323.49 | 波动 0.82% | 4h 振幅 6.49% | 审计 LOW
+  - Alpha Trade 24h 成交额 128,697,323，流动性 1,378,115
+  - Alpha 列表口径 24h 成交额 70,312,002
+  - 短周期波动 0.82%
+  - 4h 振幅 6.49%
+  - 审计风险 LOW
+- CAP | 分数 12.77 | Alpha Trade 成交额 5416132.93 | 波动 0.96% | 4h 振幅 8.95% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,416,133，流动性 1,013,553
+  - Alpha 列表口径 24h 成交额 8,331,209
+  - 短周期波动 0.96%
+  - 4h 振幅 8.95%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,12 +59,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined ETHUSD1 Perpetual Contract (2026-07-03)
-- Latest Binance News：Binance Convert Recurring Introduces Smart DCA for More Flexible DCA Strategies
+- Latest Binance News：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-02)
 - Latest Activities：Binance Summer Time Challenge: Fill Your 2026 Summer Kit and Share 300 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
-- DATAIP | 1x | 上线 2026-07-02T08:00:00+00:00 | 24h 成交额 5337453.78
+- DATAIP | 1x | 上线 2026-07-02T08:00:00+00:00 | 24h 成交额 5726762.99
 
 ### New Cryptocurrency Listing
 
@@ -77,12 +77,12 @@
 
 ### Latest Binance News
 
+- [Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-02)](https://www.binance.com/en/support/announcement/detail/0e916c3b0e0f4eee8506ca461f20b7f2)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will apply Last Price Prot…
 - [Binance Convert Recurring Introduces Smart DCA for More Flexible DCA Strategies](https://www.binance.com/en/support/announcement/detail/e653977d6dda42d390b50a20a33ec7c2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Important: Smart DCA operates solely…
 - [Update to the USD1 Airdrop Campaign (2026-07-03)](https://www.binance.com/en/support/announcement/detail/a49a60018f33454bbdf6bae58b766b6f)
   - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
-- [Binance Will Support the Micron (MU) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/352a610187c44c8bbdc63239b47f8e69)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 
 ### Latest Activities
 
