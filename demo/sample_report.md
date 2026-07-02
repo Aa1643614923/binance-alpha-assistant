@@ -1,52 +1,52 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-02T00:20:38.786367+00:00
+- 生成时间：2026-07-02T04:36:52.830496+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1469589315.66
+- 四倍分 24h 总成交额：1444009483.64
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：179218（按 8200 / 人）
+- 估算参与人数：176099（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1275125799.27 | 列表口径 10451659.98 | 涨跌 -11.14% | 振幅 26.78% | 估算人数 155503
-- KGEN | Alpha Trade 成交额 166764449.24 | 列表口径 1549654.40 | 涨跌 -9.48% | 振幅 30.92% | 估算人数 20337
-- NES | Alpha Trade 成交额 20420268.36 | 列表口径 93069037.36 | 涨跌 9.88% | 振幅 29.15% | 估算人数 2490
-- CAP | Alpha Trade 成交额 5706617.58 | 列表口径 9082702.66 | 涨跌 -11.53% | 振幅 17.04% | 估算人数 696
-- O | Alpha Trade 成交额 1135444.46 | 列表口径 1851287.29 | 涨跌 10.11% | 振幅 22.52% | 估算人数 138
-- COLLECT | Alpha Trade 成交额 278184.47 | 列表口径 1935329.13 | 涨跌 -2.78% | 振幅 12.02% | 估算人数 34
-- TRIA | Alpha Trade 成交额 158552.27 | 列表口径 2192645.45 | 涨跌 -6.81% | 振幅 15.95% | 估算人数 19
+- ARX | Alpha Trade 成交额 1247692102.45 | 列表口径 9831054.34 | 涨跌 -16.42% | 振幅 28.69% | 估算人数 152158
+- KGEN | Alpha Trade 成交额 164768773.37 | 列表口径 1553687.15 | 涨跌 -7.79% | 振幅 30.67% | 估算人数 20094
+- NES | Alpha Trade 成交额 24779076.73 | 列表口径 90447196.01 | 涨跌 10.71% | 振幅 24.26% | 估算人数 3022
+- CAP | Alpha Trade 成交额 5217261.93 | 列表口径 8226140.33 | 涨跌 -12.78% | 振幅 15.81% | 估算人数 636
+- O | Alpha Trade 成交额 1203813.92 | 列表口径 1973818.67 | 涨跌 4.28% | 振幅 26.38% | 估算人数 147
+- COLLECT | Alpha Trade 成交额 195938.55 | 列表口径 1763676.86 | 涨跌 -7.07% | 振幅 12.32% | 估算人数 24
+- TRIA | Alpha Trade 成交额 152516.70 | 列表口径 1854616.39 | 涨跌 -6.74% | 振幅 15.95% | 估算人数 19
 
 ## 稳定刷分推荐
 
-- ARX | 分数 82.82 | Alpha Trade 成交额 1275125799.27 | 波动 0.45% | 4h 振幅 3.66% | 审计 MID
-  - Alpha Trade 24h 成交额 1,275,125,799，流动性 1,428,273
-  - Alpha 列表口径 24h 成交额 10,451,660
-  - 短周期波动 0.45%
-  - 4h 振幅 3.66%
+- ARX | 分数 80.90 | Alpha Trade 成交额 1247692102.45 | 波动 0.40% | 4h 振幅 4.99% | 审计 MID
+  - Alpha Trade 24h 成交额 1,247,692,102，流动性 1,419,191
+  - Alpha 列表口径 24h 成交额 9,831,054
+  - 短周期波动 0.40%
+  - 4h 振幅 4.99%
   - 审计风险 MID
-- KGEN | 分数 48.62 | Alpha Trade 成交额 166764449.24 | 波动 0.46% | 4h 振幅 4.60% | 审计 LOW
-  - Alpha Trade 24h 成交额 166,764,449，流动性 744,732
-  - Alpha 列表口径 24h 成交额 1,549,654
-  - 短周期波动 0.46%
-  - 4h 振幅 4.60%
+- KGEN | 分数 50.28 | Alpha Trade 成交额 164768773.37 | 波动 0.36% | 4h 振幅 3.40% | 审计 LOW
+  - Alpha Trade 24h 成交额 164,768,773，流动性 747,473
+  - Alpha 列表口径 24h 成交额 1,553,687
+  - 短周期波动 0.36%
+  - 4h 振幅 3.40%
   - 审计风险 LOW
-- NES | 分数 43.51 | Alpha Trade 成交额 20420268.36 | 波动 0.56% | 4h 振幅 4.08% | 审计 LOW
-  - Alpha Trade 24h 成交额 20,420,268，流动性 1,348,486
-  - Alpha 列表口径 24h 成交额 93,069,037
+- O | 分数 42.03 | Alpha Trade 成交额 1203813.92 | 波动 1.22% | 4h 振幅 15.75% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,203,814，流动性 2,664,551
+  - Alpha 列表口径 24h 成交额 1,973,819
+  - 短周期波动 1.22%
+  - 4h 振幅 15.75%
+  - 审计风险 LOW
+- NES | 分数 41.86 | Alpha Trade 成交额 24779076.73 | 波动 0.56% | 4h 振幅 7.13% | 审计 LOW
+  - Alpha Trade 24h 成交额 24,779,077，流动性 1,377,312
+  - Alpha 列表口径 24h 成交额 90,447,196
   - 短周期波动 0.56%
-  - 4h 振幅 4.08%
+  - 4h 振幅 7.13%
   - 审计风险 LOW
-- O | 分数 42.03 | Alpha Trade 成交额 1135444.46 | 波动 0.91% | 4h 振幅 10.99% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,135,444，流动性 2,750,134
-  - Alpha 列表口径 24h 成交额 1,851,287
-  - 短周期波动 0.91%
-  - 4h 振幅 10.99%
-  - 审计风险 LOW
-- CAP | 分数 34.70 | Alpha Trade 成交额 5706617.58 | 波动 0.54% | 4h 振幅 6.85% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,706,618，流动性 1,044,665
-  - Alpha 列表口径 24h 成交额 9,082,703
-  - 短周期波动 0.54%
-  - 4h 振幅 6.85%
+- CAP | 分数 39.90 | Alpha Trade 成交额 5217261.93 | 波动 0.50% | 4h 振幅 3.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,217,262，流动性 1,042,621
+  - Alpha 列表口径 24h 成交额 8,226,140
+  - 短周期波动 0.50%
+  - 4h 振幅 3.31%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -57,7 +57,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined BTCU and ETHU Perpetual Contracts (2026-07-01)
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-01)
-- Latest Activities：Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)
+- Latest Activities：Binance Pay: Enjoy 10% Bonus Credits When Buying AI Credits on linkex.ai!
 
 ### 最近 Alpha 上线
 
@@ -82,12 +82,12 @@
 
 ### Latest Activities
 
+- [Binance Pay: Enjoy 10% Bonus Credits When Buying AI Credits on linkex.ai!](https://www.binance.com/en/support/announcement/detail/90e26b6eb0384a539c8834f75ac616f8)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Pay is exc…
+- [Binance Introduces Limited-Time Trading Fee Discount for U (United Stables)-Margined Perpetual Contracts (2026-07-02)](https://www.binance.com/en/support/announcement/detail/2d6508a405454beb8ebbb9e0f1a695fe)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures is intro…
 - [Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)](https://www.binance.com/en/support/announcement/detail/2b2c293b1e554409a10296ef396dc0ab)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
-- [South Asia New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR for 7 Days!](https://www.binance.com/en/support/announcement/detail/55baa0469bad48b08e6bc64408e279ac)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Earn is pleased to launch a promotion on Sim…
-- [AIGENSYN Trading Tournament: Trade to Share Up to 10,000,000 AIGENSYN Token Vouchers](https://www.binance.com/en/support/announcement/detail/49d0ae460a9e40009494d07b31577a30)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
