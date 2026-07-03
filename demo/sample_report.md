@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-03T01:22:13.890465+00:00
+- 生成时间：2026-07-03T05:10:24.980331+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1610838267.85
+- 四倍分 24h 总成交额：1686585515.52
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：196444（按 8200 / 人）
+- 估算参与人数：205681（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1214451933.96 | 列表口径 8109311.37 | 涨跌 0.13% | 振幅 11.78% | 估算人数 148104
-- KGEN | Alpha Trade 成交额 258074340.92 | 列表口径 819417.08 | 涨跌 1.84% | 振幅 8.03% | 估算人数 31472
-- NES | Alpha Trade 成交额 131971217.38 | 列表口径 52738981.32 | 涨跌 8.53% | 振幅 16.75% | 估算人数 16094
-- CAP | Alpha Trade 成交额 5020753.64 | 列表口径 7456756.60 | 涨跌 -9.04% | 振幅 20.07% | 估算人数 612
-- O | Alpha Trade 成交额 927024.95 | 列表口径 1530482.98 | 涨跌 2.44% | 振幅 26.16% | 估算人数 113
-- WMTX | Alpha Trade 成交额 139684.04 | 列表口径 12053418.54 | 涨跌 -9.39% | 振幅 20.40% | 估算人数 17
-- ACU | Alpha Trade 成交额 115096.28 | 列表口径 847478.57 | 涨跌 -7.19% | 振幅 10.97% | 估算人数 14
-- COLLECT | Alpha Trade 成交额 76344.07 | 列表口径 1234955.02 | 涨跌 0.51% | 振幅 5.03% | 估算人数 9
-- TRIA | Alpha Trade 成交额 61872.62 | 列表口径 1080565.82 | 涨跌 5.73% | 振幅 7.92% | 估算人数 8
+- ARX | Alpha Trade 成交额 1257120402.78 | 列表口径 8031206.99 | 涨跌 2.34% | 振幅 11.24% | 估算人数 153307
+- KGEN | Alpha Trade 成交额 285671901.38 | 列表口径 790997.34 | 涨跌 -1.54% | 振幅 8.03% | 估算人数 34838
+- NES | Alpha Trade 成交额 137762269.90 | 列表口径 46101139.28 | 涨跌 22.30% | 振幅 29.98% | 估算人数 16800
+- CAP | Alpha Trade 成交额 4828013.31 | 列表口径 7731286.51 | 涨跌 -2.42% | 振幅 18.35% | 估算人数 589
+- O | Alpha Trade 成交额 812025.37 | 列表口径 1401880.90 | 涨跌 0.90% | 振幅 20.06% | 估算人数 99
+- WMTX | Alpha Trade 成交额 146708.81 | 列表口径 12061098.36 | 涨跌 -10.80% | 振幅 19.73% | 估算人数 18
+- ACU | Alpha Trade 成交额 116474.58 | 列表口径 834875.19 | 涨跌 -6.81% | 振幅 10.10% | 估算人数 14
+- COLLECT | Alpha Trade 成交额 66305.84 | 列表口径 1175588.53 | 涨跌 1.19% | 振幅 4.72% | 估算人数 8
+- TRIA | Alpha Trade 成交额 61413.56 | 列表口径 1001404.69 | 涨跌 2.41% | 振幅 6.23% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- ARX | 分数 69.96 | Alpha Trade 成交额 1214451933.96 | 波动 0.47% | 4h 振幅 4.79% | 审计 MID
-  - Alpha Trade 24h 成交额 1,214,451,934，流动性 1,428,556
-  - Alpha 列表口径 24h 成交额 8,109,311
-  - 短周期波动 0.47%
-  - 4h 振幅 4.79%
+- ARX | 分数 80.95 | Alpha Trade 成交额 1257120402.78 | 波动 0.28% | 4h 振幅 3.37% | 审计 MID
+  - Alpha Trade 24h 成交额 1,257,120,403，流动性 1,422,953
+  - Alpha 列表口径 24h 成交额 8,031,207
+  - 短周期波动 0.28%
+  - 4h 振幅 3.37%
   - 审计风险 MID
-- KGEN | 分数 51.08 | Alpha Trade 成交额 258074340.92 | 波动 0.22% | 4h 振幅 2.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 258,074,341，流动性 748,014
-  - Alpha 列表口径 24h 成交额 819,417
-  - 短周期波动 0.22%
-  - 4h 振幅 2.97%
+- O | 分数 56.55 | Alpha Trade 成交额 812025.37 | 波动 0.64% | 4h 振幅 8.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 812,025，流动性 2,644,193
+  - Alpha 列表口径 24h 成交额 1,401,881
+  - 短周期波动 0.64%
+  - 4h 振幅 8.24%
   - 审计风险 LOW
-- O | 分数 49.94 | Alpha Trade 成交额 927024.95 | 波动 0.55% | 4h 振幅 7.37% | 审计 LOW
-  - Alpha Trade 24h 成交额 927,025，流动性 2,766,996
-  - Alpha 列表口径 24h 成交额 1,530,483
-  - 短周期波动 0.55%
-  - 4h 振幅 7.37%
+- KGEN | 分数 51.44 | Alpha Trade 成交额 285671901.38 | 波动 0.19% | 4h 振幅 3.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 285,671,901，流动性 744,393
+  - Alpha 列表口径 24h 成交额 790,997
+  - 短周期波动 0.19%
+  - 4h 振幅 3.28%
   - 审计风险 LOW
-- NES | 分数 20.68 | Alpha Trade 成交额 131971217.38 | 波动 0.80% | 4h 振幅 6.80% | 审计 LOW
-  - Alpha Trade 24h 成交额 131,971,217，流动性 1,412,152
-  - Alpha 列表口径 24h 成交额 52,738,981
-  - 短周期波动 0.80%
-  - 4h 振幅 6.80%
+- CAP | 分数 26.89 | Alpha Trade 成交额 4828013.31 | 波动 0.73% | 4h 振幅 6.88% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,828,013，流动性 1,004,590
+  - Alpha 列表口径 24h 成交额 7,731,287
+  - 短周期波动 0.73%
+  - 4h 振幅 6.88%
   - 审计风险 LOW
-- CAP | 分数 19.93 | Alpha Trade 成交额 5020753.64 | 波动 0.68% | 4h 振幅 5.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,020,754，流动性 1,014,356
-  - Alpha 列表口径 24h 成交额 7,456,757
-  - 短周期波动 0.68%
-  - 4h 振幅 5.97%
+- NES | 分数 20.39 | Alpha Trade 成交额 137762269.90 | 波动 1.00% | 4h 振幅 16.16% | 审计 LOW
+  - Alpha Trade 24h 成交额 137,762,270，流动性 1,472,741
+  - Alpha 列表口径 24h 成交额 46,101,139
+  - 短周期波动 1.00%
+  - 4h 振幅 16.16%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,11 +60,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined ETHUSD1 Perpetual Contract (2026-07-03)
 - Latest Binance News：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-02)
-- Latest Activities：Binance Summer Time Challenge: Fill Your 2026 Summer Kit and Share 300 USDC in Rewards!
+- Latest Activities：Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 10,000 U Limit Available (2026-07-04)
 
 ### 最近 Alpha 上线
 
-- DATAIP | 1x | 上线 2026-07-02T08:00:00+00:00 | 24h 成交额 6190594.19
+- DATAIP | 1x | 上线 2026-07-02T08:00:00+00:00 | 24h 成交额 6361043.96
 
 ### New Cryptocurrency Listing
 
@@ -86,12 +86,12 @@
 
 ### Latest Activities
 
+- [Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 10,000 U Limit Available (2026-07-04)](https://www.binance.com/en/support/announcement/detail/feec1f87990a4c4b8178e775a032645c)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
+- [Binance Traders League Season 3: Trade SENT to Share Up to 20,000,000 SENT Token Vouchers](https://www.binance.com/en/support/announcement/detail/a546b39c5a0f4bcca47eb6205f231a78)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Binance Summer Time Challenge: Fill Your 2026 Summer Kit and Share 300 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/26a11cb577274c6389f8d9168423344f)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Summer 2026 is alr…
-- [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This July 2026!](https://www.binance.com/en/support/announcement/detail/f8f894f86b0d4836b699e99876c878b3)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitc…
-- [XLM Trading Tournament: Trade to Share Up to 500 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/ee68888201534498962fc131dbb899c6)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
