@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-06T05:37:52.251679+00:00
+- 生成时间：2026-07-06T09:42:28.678385+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1549835872.91
+- 四倍分 24h 总成交额：1584035647.52
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：189004（按 8200 / 人）
+- 估算参与人数：193175（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1174379803.36 | 列表口径 13253442.85 | 涨跌 5.33% | 振幅 18.25% | 估算人数 143217
-- KGEN | Alpha Trade 成交额 232716027.73 | 列表口径 323148.66 | 涨跌 3.71% | 振幅 6.22% | 估算人数 28380
-- NES | Alpha Trade 成交额 135492810.66 | 列表口径 65663116.26 | 涨跌 7.46% | 振幅 28.17% | 估算人数 16524
-- CAP | Alpha Trade 成交额 6145026.94 | 列表口径 19115074.71 | 涨跌 -0.47% | 振幅 46.56% | 估算人数 749
-- O | Alpha Trade 成交额 1021684.08 | 列表口径 2414022.46 | 涨跌 -5.88% | 振幅 19.40% | 估算人数 125
-- COLLECT | Alpha Trade 成交额 37126.28 | 列表口径 1093249.62 | 涨跌 -0.48% | 振幅 3.60% | 估算人数 5
-- ACU | Alpha Trade 成交额 32979.51 | 列表口径 251571.54 | 涨跌 -3.26% | 振幅 3.88% | 估算人数 4
-- WMTX | Alpha Trade 成交额 10414.34 | 列表口径 698145.67 | 涨跌 1.11% | 振幅 3.88% | 估算人数 1
+- ARX | Alpha Trade 成交额 1224291085.01 | 列表口径 15186105.24 | 涨跌 -7.52% | 振幅 17.28% | 估算人数 149304
+- KGEN | Alpha Trade 成交额 222232581.39 | 列表口径 287915.21 | 涨跌 -1.46% | 振幅 4.26% | 估算人数 27102
+- NES | Alpha Trade 成交额 130596824.37 | 列表口径 62040035.30 | 涨跌 7.33% | 振幅 28.17% | 估算人数 15926
+- CAP | Alpha Trade 成交额 5942803.43 | 列表口径 17867842.82 | 涨跌 -14.35% | 振幅 48.94% | 估算人数 725
+- O | Alpha Trade 成交额 890156.18 | 列表口径 2092913.23 | 涨跌 -2.94% | 振幅 16.40% | 估算人数 109
+- COLLECT | Alpha Trade 成交额 35734.88 | 列表口径 1133670.25 | 涨跌 0.02% | 振幅 3.60% | 估算人数 4
+- ACU | Alpha Trade 成交额 35342.20 | 列表口径 264517.62 | 涨跌 1.10% | 振幅 3.09% | 估算人数 4
+- WMTX | Alpha Trade 成交额 11120.07 | 列表口径 694254.34 | 涨跌 1.37% | 振幅 3.39% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ARX | 分数 71.02 | Alpha Trade 成交额 1174379803.36 | 波动 0.54% | 4h 振幅 7.86% | 审计 MID
-  - Alpha Trade 24h 成交额 1,174,379,803，流动性 1,411,457
-  - Alpha 列表口径 24h 成交额 13,253,443
-  - 短周期波动 0.54%
-  - 4h 振幅 7.86%
+- ARX | 分数 67.56 | Alpha Trade 成交额 1224291085.01 | 波动 0.53% | 4h 振幅 4.35% | 审计 MID
+  - Alpha Trade 24h 成交额 1,224,291,085，流动性 1,404,313
+  - Alpha 列表口径 24h 成交额 15,186,105
+  - 短周期波动 0.53%
+  - 4h 振幅 4.35%
   - 审计风险 MID
-- O | 分数 62.58 | Alpha Trade 成交额 1021684.08 | 波动 0.56% | 4h 振幅 4.45% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,021,684，流动性 2,795,936
-  - Alpha 列表口径 24h 成交额 2,414,022
-  - 短周期波动 0.56%
-  - 4h 振幅 4.45%
+- O | 分数 55.89 | Alpha Trade 成交额 890156.18 | 波动 0.55% | 4h 振幅 3.99% | 审计 LOW
+  - Alpha Trade 24h 成交额 890,156，流动性 2,795,617
+  - Alpha 列表口径 24h 成交额 2,092,913
+  - 短周期波动 0.55%
+  - 4h 振幅 3.99%
   - 审计风险 LOW
-- KGEN | 分数 50.66 | Alpha Trade 成交额 232716027.73 | 波动 0.31% | 4h 振幅 2.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 232,716,028，流动性 742,473
-  - Alpha 列表口径 24h 成交额 323,149
-  - 短周期波动 0.31%
-  - 4h 振幅 2.65%
+- KGEN | 分数 50.26 | Alpha Trade 成交额 222232581.39 | 波动 0.30% | 4h 振幅 3.17% | 审计 LOW
+  - Alpha Trade 24h 成交额 222,232,581，流动性 739,582
+  - Alpha 列表口径 24h 成交额 287,915
+  - 短周期波动 0.30%
+  - 4h 振幅 3.17%
   - 审计风险 LOW
-- NES | 分数 35.81 | Alpha Trade 成交额 135492810.66 | 波动 0.60% | 4h 振幅 9.56% | 审计 LOW
-  - Alpha Trade 24h 成交额 135,492,811，流动性 1,550,505
-  - Alpha 列表口径 24h 成交额 65,663,116
+- NES | 分数 28.96 | Alpha Trade 成交额 130596824.37 | 波动 0.60% | 4h 振幅 5.83% | 审计 LOW
+  - Alpha Trade 24h 成交额 130,596,824，流动性 1,566,265
+  - Alpha 列表口径 24h 成交额 62,040,035
   - 短周期波动 0.60%
-  - 4h 振幅 9.56%
+  - 4h 振幅 5.83%
   - 审计风险 LOW
-- CAP | 分数 11.85 | Alpha Trade 成交额 6145026.94 | 波动 1.13% | 4h 振幅 11.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 6,145,027，流动性 905,335
-  - Alpha 列表口径 24h 成交额 19,115,075
-  - 短周期波动 1.13%
-  - 4h 振幅 11.49%
+- CAP | 分数 12.11 | Alpha Trade 成交额 5942803.43 | 波动 0.69% | 4h 振幅 7.14% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,942,803，流动性 918,287
+  - Alpha 列表口径 24h 成交额 17,867,843
+  - 短周期波动 0.69%
+  - 4h 振幅 7.14%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -56,20 +56,20 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined DATAIPUSDT and DATAIPUSDC Perpetual Contracts (2026-07-03)
+- 官方最新上新关注：Binance Adds ADTI, ANTA, ATROB, CBRS, DISK, FOTO, KDEF, KMEM, QNT and STRC on Binance Stock Trading - 2026-07-06
 - Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-07 & 2026-07-08)
-- Latest Activities：Word of the Day: Test Your Knowledge on “bStocks on Binance” to Unlock BNB Rewards!
+- Latest Activities：Binance Turns 9: Join Our Anniversary Challenges and Share 7,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
 
 ### New Cryptocurrency Listing
 
+- [Binance Adds ADTI, ANTA, ATROB, CBRS, DISK, FOTO, KDEF, KMEM, QNT and STRC on Binance Stock Trading - 2026-07-06](https://www.binance.com/en/support/announcement/detail/c5b4fca755bd4920bd1a1fc1dcd05cb4)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered…
 - [Binance Futures Will Launch USDⓈ-Margined DATAIPUSDT and DATAIPUSDC Perpetual Contracts (2026-07-03)](https://www.binance.com/en/support/announcement/detail/98d978c5630041c49a6bd317daa791e8)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch USDⓈ-Margined ETHUSD1 Perpetual Contract (2026-07-03)](https://www.binance.com/en/support/announcement/detail/23c9b8e88309409cbcd8509af0b78d10)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-02)](https://www.binance.com/en/support/announcement/detail/d2acaa91c14e4cc598aaee1017efc1ac)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
@@ -83,12 +83,12 @@
 
 ### Latest Activities
 
+- [Binance Turns 9: Join Our Anniversary Challenges and Share 7,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/d3e48e4f8c144f1aaa7a1962196a7a1c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Nine years ago, Binance launched with a mission to i…
+- [Binance 9th Anniversary: Built by You — Explore 9 Landmarks and Complete tasks for a share of a Rewards Pool up to $4,500,000](https://www.binance.com/en/support/announcement/detail/eee0cca2499749c5b3bc03f4b599e168)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Investmen…
 - [Word of the Day: Test Your Knowledge on “bStocks on Binance” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/1be5da00e9c94aa38d740753e1a84134)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
-- [Join the TRON Carnival on Binance Wallet DeFi to Share $4,500,000 in Rewards!](https://www.binance.com/en/support/announcement/detail/a73d2e16c9e14b37b8632e44acfd3162)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is launch…
-- [Binance Alpha Trading Competition: Trade Nexus (NEX) and Share $200K Worth of Rewards (2026-07-03)](https://www.binance.com/en/support/announcement/detail/1e08e39c92954a3a8c4ac0854e142b69)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 
 ## Warnings
 
