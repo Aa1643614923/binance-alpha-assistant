@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-08T16:54:30.030902+00:00
+- 生成时间：2026-07-08T18:18:11.189459+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1585869166.89
+- 四倍分 24h 总成交额：1593507723.19
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：193399（按 8200 / 人）
+- 估算参与人数：194330（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1045828111.14 | 列表口径 3258795.90 | 涨跌 -16.70% | 振幅 24.44% | 估算人数 127540
-- KGEN | Alpha Trade 成交额 290034438.87 | 列表口径 268448.78 | 涨跌 -3.39% | 振幅 8.47% | 估算人数 35370
-- NES | Alpha Trade 成交额 210962041.13 | 列表口径 59868282.38 | 涨跌 10.43% | 振幅 21.32% | 估算人数 25727
-- O | Alpha Trade 成交额 35611068.10 | 列表口径 886368.61 | 涨跌 -1.01% | 振幅 9.73% | 估算人数 4343
-- CAP | Alpha Trade 成交额 2482025.71 | 列表口径 5279818.17 | 涨跌 -6.86% | 振幅 12.96% | 估算人数 303
-- ARTX | Alpha Trade 成交额 434544.41 | 列表口径 1770244.77 | 涨跌 8.53% | 振幅 99.99% | 估算人数 53
-- AKE | Alpha Trade 成交额 348113.72 | 列表口径 610394.92 | 涨跌 -6.18% | 振幅 26.68% | 估算人数 42
-- COLLECT | Alpha Trade 成交额 157026.29 | 列表口径 2408354.77 | 涨跌 -1.18% | 振幅 16.28% | 估算人数 19
-- ACU | Alpha Trade 成交额 6393.58 | 列表口径 264003.84 | 涨跌 -4.92% | 振幅 7.20% | 估算人数 1
-- WMTX | Alpha Trade 成交额 5403.95 | 列表口径 258917.20 | 涨跌 -2.08% | 振幅 3.83% | 估算人数 1
+- ARX | Alpha Trade 成交额 1051558324.70 | 列表口径 3182177.35 | 涨跌 -11.67% | 振幅 19.35% | 估算人数 128239
+- KGEN | Alpha Trade 成交额 290220578.52 | 列表口径 282101.20 | 涨跌 -2.77% | 振幅 8.47% | 估算人数 35393
+- NES | Alpha Trade 成交额 212714006.54 | 列表口径 59653769.66 | 涨跌 3.84% | 振幅 21.32% | 估算人数 25941
+- O | Alpha Trade 成交额 35688138.45 | 列表口径 906945.41 | 涨跌 0.89% | 振幅 19.80% | 估算人数 4352
+- CAP | Alpha Trade 成交额 2406883.04 | 列表口径 4995096.33 | 涨跌 -4.21% | 振幅 12.96% | 估算人数 294
+- ARTX | Alpha Trade 成交额 446419.36 | 列表口径 1838505.67 | 涨跌 10.42% | 振幅 99.99% | 估算人数 54
+- AKE | Alpha Trade 成交额 309865.16 | 列表口径 531376.75 | 涨跌 0.03% | 振幅 26.68% | 估算人数 38
+- COLLECT | Alpha Trade 成交额 151589.49 | 列表口径 2320534.19 | 涨跌 -2.72% | 振幅 16.28% | 估算人数 18
+- ACU | Alpha Trade 成交额 6473.81 | 列表口径 240056.07 | 涨跌 -4.58% | 振幅 5.92% | 估算人数 1
+- WMTX | Alpha Trade 成交额 5444.12 | 列表口径 258540.12 | 涨跌 -2.08% | 振幅 3.73% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ARX | 分数 70.58 | Alpha Trade 成交额 1045828111.14 | 波动 0.39% | 4h 振幅 5.53% | 审计 MID
-  - Alpha Trade 24h 成交额 1,045,828,111，流动性 1,357,811
-  - Alpha 列表口径 24h 成交额 3,258,796
-  - 短周期波动 0.39%
-  - 4h 振幅 5.53%
+- ARX | 分数 70.63 | Alpha Trade 成交额 1051558324.70 | 波动 0.40% | 4h 振幅 5.48% | 审计 MID
+  - Alpha Trade 24h 成交额 1,051,558,325，流动性 1,360,555
+  - Alpha 列表口径 24h 成交额 3,182,177
+  - 短周期波动 0.40%
+  - 4h 振幅 5.48%
   - 审计风险 MID
-- O | 分数 61.31 | Alpha Trade 成交额 35611068.10 | 波动 0.42% | 4h 振幅 3.74% | 审计 LOW
-  - Alpha Trade 24h 成交额 35,611,068，流动性 2,795,688
-  - Alpha 列表口径 24h 成交额 886,369
-  - 短周期波动 0.42%
-  - 4h 振幅 3.74%
+- O | 分数 61.28 | Alpha Trade 成交额 35688138.45 | 波动 0.43% | 4h 振幅 3.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 35,688,138，流动性 2,845,950
+  - Alpha 列表口径 24h 成交额 906,945
+  - 短周期波动 0.43%
+  - 4h 振幅 3.79%
   - 审计风险 LOW
-- KGEN | 分数 52.52 | Alpha Trade 成交额 290034438.87 | 波动 0.18% | 4h 振幅 1.75% | 审计 LOW
-  - Alpha Trade 24h 成交额 290,034,439，流动性 733,162
-  - Alpha 列表口径 24h 成交额 268,449
+- KGEN | 分数 52.49 | Alpha Trade 成交额 290220578.52 | 波动 0.18% | 4h 振幅 1.50% | 审计 LOW
+  - Alpha Trade 24h 成交额 290,220,579，流动性 734,031
+  - Alpha 列表口径 24h 成交额 282,101
   - 短周期波动 0.18%
-  - 4h 振幅 1.75%
+  - 4h 振幅 1.50%
   - 审计风险 LOW
-- NES | 分数 23.17 | Alpha Trade 成交额 210962041.13 | 波动 0.85% | 4h 振幅 8.90% | 审计 LOW
-  - Alpha Trade 24h 成交额 210,962,041，流动性 1,575,798
-  - Alpha 列表口径 24h 成交额 59,868,282
-  - 短周期波动 0.85%
-  - 4h 振幅 8.90%
+- CAP | 分数 22.91 | Alpha Trade 成交额 2406883.04 | 波动 0.72% | 4h 振幅 4.60% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,406,883，流动性 894,389
+  - Alpha 列表口径 24h 成交额 4,995,096
+  - 短周期波动 0.72%
+  - 4h 振幅 4.60%
   - 审计风险 LOW
-- CAP | 分数 21.79 | Alpha Trade 成交额 2482025.71 | 波动 0.70% | 4h 振幅 5.00% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,482,026，流动性 883,443
-  - Alpha 列表口径 24h 成交额 5,279,818
-  - 短周期波动 0.70%
-  - 4h 振幅 5.00%
+- NES | 分数 22.85 | Alpha Trade 成交额 212714006.54 | 波动 0.90% | 4h 振幅 8.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 212,714,007，流动性 1,561,773
+  - Alpha 列表口径 24h 成交额 59,653,770
+  - 短周期波动 0.90%
+  - 4h 振幅 8.86%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,7 +59,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-07
-- Latest Binance News：Binance Charity to Donate $35,000 in USDT to Support Users Affected by the Ghana Floods
+- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)
 - Latest Activities：Binance The Pitch is Yours Phase 2 is Here: Climb the Discord Leaderboard and Share 2,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
@@ -76,12 +76,12 @@
 
 ### Latest Binance News
 
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)](https://www.binance.com/en/support/announcement/detail/83351356ed4c4c80ab9a609e77dd20f2)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve us…
 - [Binance Charity to Donate $35,000 in USDT to Support Users Affected by the Ghana Floods](https://www.binance.com/en/support/announcement/detail/aedd6ae28558413a99f260bc66b35311)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Following the devastatin…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-08)](https://www.binance.com/en/support/announcement/detail/9f7bbb12623a4177a672c245df56b46e)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/e4bbadb04b5046cab29e298f0c61f7bb)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Activities
 
