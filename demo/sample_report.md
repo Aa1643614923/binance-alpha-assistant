@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-08T12:53:40.533330+00:00
+- 生成时间：2026-07-08T15:20:29.755324+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1507837045.79
+- 四倍分 24h 总成交额：1566311081.71
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：183883（按 8200 / 人）
+- 估算参与人数：191014（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1051156321.85 | 列表口径 3162357.48 | 涨跌 -16.28% | 振幅 24.83% | 估算人数 128190
-- KGEN | Alpha Trade 成交额 285666005.21 | 列表口径 253433.18 | 涨跌 -3.10% | 振幅 8.47% | 估算人数 34837
-- NES | Alpha Trade 成交额 140417851.79 | 列表口径 59614314.83 | 涨跌 13.06% | 振幅 27.46% | 估算人数 17124
-- O | Alpha Trade 成交额 27132404.27 | 列表口径 783336.22 | 涨跌 -3.40% | 振幅 9.86% | 估算人数 3309
-- CAP | Alpha Trade 成交额 2399228.80 | 列表口径 6603127.34 | 涨跌 -13.70% | 振幅 22.98% | 估算人数 293
-- AKE | Alpha Trade 成交额 570112.91 | 列表口径 1372578.42 | 涨跌 -5.78% | 振幅 34.20% | 估算人数 70
-- ARTX | Alpha Trade 成交额 361492.09 | 列表口径 1624589.59 | 涨跌 31.55% | 振幅 99.99% | 估算人数 44
-- COLLECT | Alpha Trade 成交额 117947.31 | 列表口径 2127319.98 | 涨跌 5.59% | 振幅 16.28% | 估算人数 14
-- ACU | Alpha Trade 成交额 11087.99 | 列表口径 234505.74 | 涨跌 -4.75% | 振幅 6.20% | 估算人数 1
-- WMTX | Alpha Trade 成交额 4593.56 | 列表口径 271091.04 | 涨跌 -1.52% | 振幅 3.98% | 估算人数 1
+- ARX | Alpha Trade 成交额 1040631883.15 | 列表口径 3249048.53 | 涨跌 -17.85% | 振幅 23.25% | 估算人数 126906
+- KGEN | Alpha Trade 成交额 288008939.02 | 列表口径 270008.73 | 涨跌 -3.63% | 振幅 8.47% | 估算人数 35123
+- NES | Alpha Trade 成交额 200188332.69 | 列表口径 59519834.03 | 涨跌 9.54% | 振幅 23.80% | 估算人数 24413
+- O | Alpha Trade 成交额 34135262.92 | 列表口径 842311.95 | 涨跌 -2.06% | 振幅 9.73% | 估算人数 4163
+- CAP | Alpha Trade 成交额 2397650.24 | 列表口径 5748975.58 | 涨跌 -13.38% | 振幅 16.87% | 估算人数 292
+- ARTX | Alpha Trade 成交额 426225.04 | 列表口径 1776441.30 | 涨跌 15.64% | 振幅 99.99% | 估算人数 52
+- AKE | Alpha Trade 成交额 353235.08 | 列表口径 681593.45 | 涨跌 -6.39% | 振幅 29.77% | 估算人数 43
+- COLLECT | Alpha Trade 成交额 154830.97 | 列表口径 2401558.23 | 涨跌 -2.13% | 振幅 16.28% | 估算人数 19
+- ACU | Alpha Trade 成交额 9271.70 | 列表口径 270844.13 | 涨跌 -4.90% | 振幅 8.47% | 估算人数 1
+- WMTX | Alpha Trade 成交额 5450.90 | 列表口径 261808.34 | 涨跌 -1.30% | 振幅 3.98% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ARX | 分数 75.76 | Alpha Trade 成交额 1051156321.85 | 波动 0.40% | 4h 振幅 4.07% | 审计 MID
-  - Alpha Trade 24h 成交额 1,051,156,322，流动性 1,364,874
-  - Alpha 列表口径 24h 成交额 3,162,357
-  - 短周期波动 0.40%
-  - 4h 振幅 4.07%
+- ARX | 分数 68.68 | Alpha Trade 成交额 1040631883.15 | 波动 0.43% | 4h 振幅 5.66% | 审计 MID
+  - Alpha Trade 24h 成交额 1,040,631,883，流动性 1,357,988
+  - Alpha 列表口径 24h 成交额 3,249,049
+  - 短周期波动 0.43%
+  - 4h 振幅 5.66%
   - 审计风险 MID
-- O | 分数 64.00 | Alpha Trade 成交额 27132404.27 | 波动 0.44% | 4h 振幅 2.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 27,132,404，流动性 2,785,006
-  - Alpha 列表口径 24h 成交额 783,336
-  - 短周期波动 0.44%
-  - 4h 振幅 2.71%
+- O | 分数 57.71 | Alpha Trade 成交额 34135262.92 | 波动 0.49% | 4h 振幅 4.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 34,135,263，流动性 2,776,624
+  - Alpha 列表口径 24h 成交额 842,312
+  - 短周期波动 0.49%
+  - 4h 振幅 4.39%
   - 审计风险 LOW
-- KGEN | 分数 50.88 | Alpha Trade 成交额 285666005.21 | 波动 0.24% | 4h 振幅 4.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 285,666,005，流动性 734,065
-  - Alpha 列表口径 24h 成交额 253,433
-  - 短周期波动 0.24%
-  - 4h 振幅 4.97%
+- KGEN | 分数 52.50 | Alpha Trade 成交额 288008939.02 | 波动 0.20% | 4h 振幅 2.80% | 审计 LOW
+  - Alpha Trade 24h 成交额 288,008,939，流动性 733,444
+  - Alpha 列表口径 24h 成交额 270,009
+  - 短周期波动 0.20%
+  - 4h 振幅 2.80%
   - 审计风险 LOW
-- CAP | 分数 27.76 | Alpha Trade 成交额 2399228.80 | 波动 0.56% | 4h 振幅 6.30% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,399,229，流动性 897,918
-  - Alpha 列表口径 24h 成交额 6,603,127
-  - 短周期波动 0.56%
-  - 4h 振幅 6.30%
+- NES | 分数 22.87 | Alpha Trade 成交额 200188332.69 | 波动 0.73% | 4h 振幅 8.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 200,188,333，流动性 1,561,703
+  - Alpha 列表口径 24h 成交额 59,519,834
+  - 短周期波动 0.73%
+  - 4h 振幅 8.65%
   - 审计风险 LOW
-- AKE | 分数 22.65 | Alpha Trade 成交额 570112.91 | 波动 0.75% | 4h 振幅 10.67% | 审计 LOW
-  - Alpha Trade 24h 成交额 570,113，流动性 592,136
-  - Alpha 列表口径 24h 成交额 1,372,578
-  - 短周期波动 0.75%
-  - 4h 振幅 10.67%
+- CAP | 分数 21.46 | Alpha Trade 成交额 2397650.24 | 波动 0.64% | 4h 振幅 5.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,397,650，流动性 874,782
+  - Alpha 列表口径 24h 成交额 5,748,976
+  - 短周期波动 0.64%
+  - 4h 振幅 5.03%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,7 +60,7 @@
 
 - 官方最新上新关注：Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-07
 - Latest Binance News：Binance Charity to Donate $35,000 in USDT to Support Users Affected by the Ghana Floods
-- Latest Activities：Binance Alpha Trading Competition: Trade Unibase (UB) and Share $200K Worth of Rewards (2026-07-08)
+- Latest Activities：Binance The Pitch is Yours Phase 2 is Here: Climb the Discord Leaderboard and Share 2,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
@@ -85,12 +85,12 @@
 
 ### Latest Activities
 
+- [Binance The Pitch is Yours Phase 2 is Here: Climb the Discord Leaderboard and Share 2,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/0df4d0cd429c4a42953ecc505a0d3aef)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We’re back on the Football Pitch! Due to the incredi…
 - [Binance Alpha Trading Competition: Trade Unibase (UB) and Share $200K Worth of Rewards (2026-07-08)](https://www.binance.com/en/support/announcement/detail/0e2174f5ddeb4f188aa4868b90387a2d)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [Spot Trading Tournament: Trade to Share Up to 500,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/17668cb55d4f4d09931f34b882a663b8)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-07)](https://www.binance.com/en/support/announcement/detail/958162f99c1d4cc6a7f7eaefb1d67587)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 
 ## Warnings
 
