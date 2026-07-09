@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-09T01:16:48.072875+00:00
+- 生成时间：2026-07-09T05:12:53.987485+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1321076002.39
+- 四倍分 24h 总成交额：1401920073.43
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：161107（按 8200 / 人）
+- 估算参与人数：170966（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1067053077.08 | 列表口径 2920536.58 | 涨跌 -4.32% | 振幅 11.15% | 估算人数 130128
-- NES | Alpha Trade 成交额 212929853.78 | 列表口径 56952511.20 | 涨跌 -0.36% | 振幅 16.15% | 估算人数 25967
-- O | Alpha Trade 成交额 37566644.59 | 列表口径 890232.04 | 涨跌 1.61% | 振幅 19.80% | 估算人数 4581
-- CAP | Alpha Trade 成交额 2538398.59 | 列表口径 6290176.88 | 涨跌 7.60% | 振幅 22.16% | 估算人数 310
-- ARTX | Alpha Trade 成交额 548466.48 | 列表口径 2087888.76 | 涨跌 38.23% | 振幅 99.99% | 估算人数 67
-- AKE | Alpha Trade 成交额 287990.40 | 列表口径 471702.00 | 涨跌 0.01% | 振幅 23.69% | 估算人数 35
-- COLLECT | Alpha Trade 成交额 134169.47 | 列表口径 2296587.57 | 涨跌 -1.31% | 振幅 17.06% | 估算人数 16
-- ACU | Alpha Trade 成交额 10469.96 | 列表口径 251383.95 | 涨跌 -2.90% | 振幅 5.92% | 估算人数 1
-- WMTX | Alpha Trade 成交额 6932.03 | 列表口径 350884.22 | 涨跌 -0.76% | 振幅 2.79% | 估算人数 1
+- ARX | Alpha Trade 成交额 1133594130.07 | 列表口径 2058596.84 | 涨跌 0.93% | 振幅 8.09% | 估算人数 138243
+- NES | Alpha Trade 成交额 217117116.49 | 列表口径 53553187.37 | 涨跌 -8.03% | 振幅 16.49% | 估算人数 26478
+- O | Alpha Trade 成交额 47592204.37 | 列表口径 859098.50 | 涨跌 -0.15% | 振幅 19.80% | 估算人数 5804
+- CAP | Alpha Trade 成交额 2533678.10 | 列表口径 7111454.05 | 涨跌 10.09% | 振幅 22.16% | 估算人数 309
+- ARTX | Alpha Trade 成交额 627262.98 | 列表口径 2268085.01 | 涨跌 40.60% | 振幅 106.51% | 估算人数 76
+- AKE | Alpha Trade 成交额 307150.71 | 列表口径 446206.09 | 涨跌 1.46% | 振幅 22.98% | 估算人数 37
+- COLLECT | Alpha Trade 成交额 134087.45 | 列表口径 2221674.10 | 涨跌 -0.48% | 振幅 17.06% | 估算人数 16
+- ACU | Alpha Trade 成交额 9211.69 | 列表口径 261003.31 | 涨跌 -1.82% | 振幅 5.92% | 估算人数 1
+- WMTX | Alpha Trade 成交额 5231.58 | 列表口径 347314.60 | 涨跌 -0.59% | 振幅 2.79% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.49 | Alpha Trade 成交额 1067053077.08 | 波动 0.31% | 4h 振幅 3.06% | 审计 MID
-  - Alpha Trade 24h 成交额 1,067,053,077，流动性 1,362,204
-  - Alpha 列表口径 24h 成交额 2,920,537
-  - 短周期波动 0.31%
-  - 4h 振幅 3.06%
+- ARX | 分数 80.42 | Alpha Trade 成交额 1133594130.07 | 波动 0.33% | 4h 振幅 1.84% | 审计 MID
+  - Alpha Trade 24h 成交额 1,133,594,130，流动性 1,362,902
+  - Alpha 列表口径 24h 成交额 2,058,597
+  - 短周期波动 0.33%
+  - 4h 振幅 1.84%
   - 审计风险 MID
-- O | 分数 69.88 | Alpha Trade 成交额 37566644.59 | 波动 0.38% | 4h 振幅 4.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 37,566,645，流动性 2,810,353
-  - Alpha 列表口径 24h 成交额 890,232
-  - 短周期波动 0.38%
-  - 4h 振幅 4.16%
+- O | 分数 70.38 | Alpha Trade 成交额 47592204.37 | 波动 0.31% | 4h 振幅 3.49% | 审计 LOW
+  - Alpha Trade 24h 成交额 47,592,204，流动性 2,770,050
+  - Alpha 列表口径 24h 成交额 859,098
+  - 短周期波动 0.31%
+  - 4h 振幅 3.49%
   - 审计风险 LOW
-- NES | 分数 47.44 | Alpha Trade 成交额 212929853.78 | 波动 0.57% | 4h 振幅 6.34% | 审计 LOW
-  - Alpha Trade 24h 成交额 212,929,854，流动性 1,564,102
-  - Alpha 列表口径 24h 成交额 56,952,511
-  - 短周期波动 0.57%
-  - 4h 振幅 6.34%
+- NES | 分数 45.47 | Alpha Trade 成交额 217117116.49 | 波动 0.49% | 4h 振幅 5.78% | 审计 LOW
+  - Alpha Trade 24h 成交额 217,117,116，流动性 1,551,932
+  - Alpha 列表口径 24h 成交额 53,553,187
+  - 短周期波动 0.49%
+  - 4h 振幅 5.78%
   - 审计风险 LOW
-- CAP | 分数 31.19 | Alpha Trade 成交额 2538398.59 | 波动 0.79% | 4h 振幅 11.52% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,538,399，流动性 943,357
-  - Alpha 列表口径 24h 成交额 6,290,177
-  - 短周期波动 0.79%
-  - 4h 振幅 11.52%
+- CAP | 分数 22.72 | Alpha Trade 成交额 2533678.10 | 波动 1.01% | 4h 振幅 7.01% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,533,678，流动性 928,402
+  - Alpha 列表口径 24h 成交额 7,111,454
+  - 短周期波动 1.01%
+  - 4h 振幅 7.01%
   - 审计风险 LOW
-- ARTX | 分数 16.91 | Alpha Trade 成交额 548466.48 | 波动 3.14% | 4h 振幅 17.29% | 审计 LOW
-  - Alpha Trade 24h 成交额 548,466，流动性 1,301,882
-  - Alpha 列表口径 24h 成交额 2,087,889
-  - 短周期波动 3.14%
-  - 4h 振幅 17.29%
+- ARTX | 分数 16.71 | Alpha Trade 成交额 627262.98 | 波动 1.27% | 4h 振幅 18.36% | 审计 LOW
+  - Alpha Trade 24h 成交额 627,263，流动性 1,262,461
+  - Alpha 列表口径 24h 成交额 2,268,085
+  - 短周期波动 1.27%
+  - 4h 振幅 18.36%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,7 +59,7 @@
 
 - 官方最新上新关注：Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-07
 - Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)
-- Latest Activities：Binance The Pitch is Yours Phase 2 is Here: Climb the Discord Leaderboard and Share 2,000 USDC in Rewards!
+- Latest Activities：Extension to the USD1 Airdrop Campaign (2026-07-10)
 
 ### 最近 Alpha 上线
 
@@ -84,12 +84,12 @@
 
 ### Latest Activities
 
+- [Extension to the USD1 Airdrop Campaign (2026-07-10)](https://www.binance.com/en/support/announcement/detail/3373ca75019440c58535683d42229d79)
+  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
+- [APAC New Earn User Special: Subscribe to U Simple Earn to Enjoy 20% Bonus APR for 7 days!](https://www.binance.com/en/support/announcement/detail/b43142711a154a669e5f3a012cbcc051)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Earn is pleased to launch a promotion on Sim…
 - [Binance The Pitch is Yours Phase 2 is Here: Climb the Discord Leaderboard and Share 2,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/0df4d0cd429c4a42953ecc505a0d3aef)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We’re back on the Football Pitch! Due to the incredi…
-- [Binance Alpha Trading Competition: Trade Unibase (UB) and Share $200K Worth of Rewards (2026-07-08)](https://www.binance.com/en/support/announcement/detail/0e2174f5ddeb4f188aa4868b90387a2d)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
-- [Spot Trading Tournament: Trade to Share Up to 500,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/17668cb55d4f4d09931f34b882a663b8)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
