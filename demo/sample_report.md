@@ -1,54 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-10T08:42:52.381521+00:00
-- 四倍分代币数：9
-- 四倍分 24h 总成交额：1499499751.45
+- 生成时间：2026-07-10T11:35:37.255984+00:00
+- 四倍分代币数：10
+- 四倍分 24h 总成交额：1472238643.99
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：182866（按 8200 / 人）
+- 估算参与人数：179541（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1096735650.31 | 列表口径 1277988.78 | 涨跌 -2.16% | 振幅 8.17% | 估算人数 133748
-- NES | Alpha Trade 成交额 213493641.09 | 列表口径 44173501.37 | 涨跌 9.42% | 振幅 16.39% | 估算人数 26036
-- O | Alpha Trade 成交额 184929300.64 | 列表口径 614557.23 | 涨跌 0.06% | 振幅 8.53% | 估算人数 22552
-- ARTX | Alpha Trade 成交额 2384887.33 | 列表口径 1962612.63 | 涨跌 -3.62% | 振幅 15.87% | 估算人数 291
-- CAP | Alpha Trade 成交额 1762198.75 | 列表口径 4032805.32 | 涨跌 -6.20% | 振幅 11.16% | 估算人数 215
-- AKE | Alpha Trade 成交额 100766.42 | 列表口径 136192.94 | 涨跌 -1.04% | 振幅 9.38% | 估算人数 12
-- COLLECT | Alpha Trade 成交额 74968.26 | 列表口径 1399512.48 | 涨跌 8.68% | 振幅 12.17% | 估算人数 9
-- ACU | Alpha Trade 成交额 10258.08 | 列表口径 373726.18 | 涨跌 4.51% | 振幅 7.97% | 估算人数 1
-- WMTX | Alpha Trade 成交额 8080.58 | 列表口径 128688.03 | 涨跌 -4.34% | 振幅 6.08% | 估算人数 1
+- ARX | Alpha Trade 成交额 1080550727.93 | 列表口径 1380236.19 | 涨跌 -0.97% | 振幅 7.99% | 估算人数 131774
+- NES | Alpha Trade 成交额 240174751.38 | 列表口径 43848596.78 | 涨跌 14.35% | 振幅 16.39% | 估算人数 29290
+- O | Alpha Trade 成交额 146114853.32 | 列表口径 647147.60 | 涨跌 -3.70% | 振幅 12.64% | 估算人数 17819
+- ARTX | Alpha Trade 成交额 2881321.11 | 列表口径 2778659.06 | 涨跌 -5.75% | 振幅 16.01% | 估算人数 351
+- CAP | Alpha Trade 成交额 1685132.68 | 列表口径 3636788.66 | 涨跌 -3.94% | 振幅 12.82% | 估算人数 206
+- IRYS | Alpha Trade 成交额 611752.53 | 列表口径 1678879.18 | 涨跌 -5.44% | 振幅 15.54% | 估算人数 75
+- AKE | Alpha Trade 成交额 108168.80 | 列表口径 131293.74 | 涨跌 -1.08% | 振幅 8.50% | 估算人数 13
+- COLLECT | Alpha Trade 成交额 93616.52 | 列表口径 1709109.51 | 涨跌 10.94% | 振幅 14.09% | 估算人数 11
+- ACU | Alpha Trade 成交额 10575.32 | 列表口径 383401.21 | 涨跌 1.88% | 振幅 6.31% | 估算人数 1
+- WMTX | Alpha Trade 成交额 7744.39 | 列表口径 147345.37 | 涨跌 -5.56% | 振幅 9.91% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.67 | Alpha Trade 成交额 1096735650.31 | 波动 0.25% | 4h 振幅 2.42% | 审计 MID
-  - Alpha Trade 24h 成交额 1,096,735,650，流动性 1,354,404
-  - Alpha 列表口径 24h 成交额 1,277,989
-  - 短周期波动 0.25%
-  - 4h 振幅 2.42%
+- ARX | 分数 68.40 | Alpha Trade 成交额 1080550727.93 | 波动 0.30% | 4h 振幅 4.54% | 审计 MID
+  - Alpha Trade 24h 成交额 1,080,550,728，流动性 1,358,153
+  - Alpha 列表口径 24h 成交额 1,380,236
+  - 短周期波动 0.30%
+  - 4h 振幅 4.54%
   - 审计风险 MID
-- O | 分数 72.44 | Alpha Trade 成交额 184929300.64 | 波动 0.33% | 4h 振幅 2.96% | 审计 LOW
-  - Alpha Trade 24h 成交额 184,929,301，流动性 2,817,619
-  - Alpha 列表口径 24h 成交额 614,557
-  - 短周期波动 0.33%
-  - 4h 振幅 2.96%
+- O | 分数 51.96 | Alpha Trade 成交额 146114853.32 | 波动 0.47% | 4h 振幅 7.18% | 审计 LOW
+  - Alpha Trade 24h 成交额 146,114,853，流动性 2,715,297
+  - Alpha 列表口径 24h 成交额 647,148
+  - 短周期波动 0.47%
+  - 4h 振幅 7.18%
   - 审计风险 LOW
-- NES | 分数 35.81 | Alpha Trade 成交额 213493641.09 | 波动 0.60% | 4h 振幅 10.28% | 审计 LOW
-  - Alpha Trade 24h 成交额 213,493,641，流动性 1,579,065
-  - Alpha 列表口径 24h 成交额 44,173,501
-  - 短周期波动 0.60%
-  - 4h 振幅 10.28%
+- ARTX | 分数 47.04 | Alpha Trade 成交额 2881321.11 | 波动 0.06% | 4h 振幅 0.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,881,321，流动性 1,249,366
+  - Alpha 列表口径 24h 成交额 2,778,659
+  - 短周期波动 0.06%
+  - 4h 振幅 0.79%
   - 审计风险 LOW
-- CAP | 分数 30.67 | Alpha Trade 成交额 1762198.75 | 波动 0.52% | 4h 振幅 6.39% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,762,199，流动性 908,917
-  - Alpha 列表口径 24h 成交额 4,032,805
-  - 短周期波动 0.52%
+- NES | 分数 34.94 | Alpha Trade 成交额 240174751.38 | 波动 0.47% | 4h 振幅 4.54% | 审计 LOW
+  - Alpha Trade 24h 成交额 240,174,751，流动性 1,580,001
+  - Alpha 列表口径 24h 成交额 43,848,597
+  - 短周期波动 0.47%
+  - 4h 振幅 4.54%
+  - 审计风险 LOW
+- CAP | 分数 16.65 | Alpha Trade 成交额 1685132.68 | 波动 0.57% | 4h 振幅 6.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,685,133，流动性 893,355
+  - Alpha 列表口径 24h 成交额 3,636,789
+  - 短周期波动 0.57%
   - 4h 振幅 6.39%
-  - 审计风险 LOW
-- ARTX | 分数 17.65 | Alpha Trade 成交额 2384887.33 | 波动 1.40% | 4h 振幅 9.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,384,887，流动性 1,251,629
-  - Alpha 列表口径 24h 成交额 1,962,613
-  - 短周期波动 1.40%
-  - 4h 振幅 9.42%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -59,7 +60,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-10)
 - Latest Binance News：Binance Futures Will End Last Price Protected Period on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-10)
-- Latest Activities：Trade XAF/USDT with Zero Fees on Binance P2P for a Limited Time
+- Latest Activities：Binance Alpha Trading Competition: Trade Billions Network (BILL) and Share $300K Worth of Rewards (2026-07-10)
 
 ### 最近 Alpha 上线
 
@@ -84,12 +85,12 @@
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade Billions Network (BILL) and Share $300K Worth of Rewards (2026-07-10)](https://www.binance.com/en/support/announcement/detail/6e011403a2884f3ebb2bc342e970440b)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
+- [Binance Traders League Season 3: Trade TREE to Share Up to 4,500,000 TREE Token Vouchers](https://www.binance.com/en/support/announcement/detail/6635af3aea7f45ada1f891f772b41174)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Trade XAF/USDT with Zero Fees on Binance P2P for a Limited Time](https://www.binance.com/en/support/announcement/detail/d7890b9f64304869be494767c3df6d6c)
   - This is a general announcement. Products and services mentioned here may not be available in your region. Fellow Binancians, We’re excited to launch a limited-time zero-fee tradin…
-- [MENAT New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR!](https://www.binance.com/en/support/announcement/detail/20d7824930534575a79719f6958f0123)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Earn is pleased to launch a promotion on Sim…
-- [Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/8a30c3d96b024789a5802e95babcd816)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Pool is excited…
 
 ## Warnings
 
