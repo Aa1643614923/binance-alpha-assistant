@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-09T23:33:48.539677+00:00
+- 生成时间：2026-07-10T01:12:59.545066+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1531173563.88
+- 四倍分 24h 总成交额：1526773341.52
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：186728（按 8200 / 人）
+- 估算参与人数：186192（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1156713423.12 | 列表口径 1360526.62 | 涨跌 -0.83% | 振幅 10.52% | 估算人数 141063
-- O | Alpha Trade 成交额 203449717.70 | 列表口径 582414.94 | 涨跌 3.75% | 振幅 9.76% | 估算人数 24811
-- NES | Alpha Trade 成交额 166947313.84 | 列表口径 45049657.31 | 涨跌 -9.06% | 振幅 17.42% | 估算人数 20359
-- CAP | Alpha Trade 成交额 2341061.46 | 列表口径 6460361.38 | 涨跌 -4.96% | 振幅 15.41% | 估算人数 285
-- ARTX | Alpha Trade 成交额 1519323.62 | 列表口径 1369068.52 | 涨跌 4.03% | 振幅 26.76% | 估算人数 185
-- AKE | Alpha Trade 成交额 150449.37 | 列表口径 187447.55 | 涨跌 -2.74% | 振幅 9.38% | 估算人数 18
-- COLLECT | Alpha Trade 成交额 34033.69 | 列表口径 901958.52 | 涨跌 5.16% | 振幅 7.78% | 估算人数 4
-- ACU | Alpha Trade 成交额 11893.06 | 列表口径 373919.51 | 涨跌 2.55% | 振幅 6.19% | 估算人数 1
-- WMTX | Alpha Trade 成交额 6348.02 | 列表口径 187686.21 | 涨跌 -5.32% | 振幅 6.81% | 估算人数 1
+- ARX | Alpha Trade 成交额 1150112012.66 | 列表口径 1321601.90 | 涨跌 -2.19% | 振幅 9.96% | 估算人数 140258
+- O | Alpha Trade 成交额 204092086.13 | 列表口径 591315.67 | 涨跌 2.60% | 振幅 9.76% | 估算人数 24889
+- NES | Alpha Trade 成交额 168232641.15 | 列表口径 44510923.74 | 涨跌 -5.33% | 振幅 13.94% | 估算人数 20516
+- CAP | Alpha Trade 成交额 2268880.31 | 列表口径 5786633.91 | 涨跌 -9.60% | 振幅 14.97% | 估算人数 277
+- ARTX | Alpha Trade 成交额 1855159.35 | 列表口径 1433892.27 | 涨跌 6.20% | 振幅 18.63% | 估算人数 226
+- AKE | Alpha Trade 成交额 149906.31 | 列表口径 175152.10 | 涨跌 -1.36% | 振幅 9.38% | 估算人数 18
+- COLLECT | Alpha Trade 成交额 46170.19 | 列表口径 965390.50 | 涨跌 5.24% | 振幅 9.23% | 估算人数 6
+- ACU | Alpha Trade 成交额 10137.40 | 列表口径 357183.36 | 涨跌 3.40% | 振幅 6.11% | 估算人数 1
+- WMTX | Alpha Trade 成交额 6348.02 | 列表口径 95767.81 | 涨跌 -5.15% | 振幅 6.19% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.49 | Alpha Trade 成交额 1156713423.12 | 波动 0.25% | 4h 振幅 1.72% | 审计 MID
-  - Alpha Trade 24h 成交额 1,156,713,423，流动性 1,356,676
-  - Alpha 列表口径 24h 成交额 1,360,527
-  - 短周期波动 0.25%
-  - 4h 振幅 1.72%
+- ARX | 分数 80.55 | Alpha Trade 成交额 1150112012.66 | 波动 0.24% | 4h 振幅 1.87% | 审计 MID
+  - Alpha Trade 24h 成交额 1,150,112,013，流动性 1,357,398
+  - Alpha 列表口径 24h 成交额 1,321,602
+  - 短周期波动 0.24%
+  - 4h 振幅 1.87%
   - 审计风险 MID
-- O | 分数 70.41 | Alpha Trade 成交额 203449717.70 | 波动 0.26% | 4h 振幅 3.09% | 审计 LOW
-  - Alpha Trade 24h 成交额 203,449,718，流动性 2,856,416
-  - Alpha 列表口径 24h 成交额 582,415
-  - 短周期波动 0.26%
-  - 4h 振幅 3.09%
+- O | 分数 72.80 | Alpha Trade 成交额 204092086.13 | 波动 0.25% | 4h 振幅 2.02% | 审计 LOW
+  - Alpha Trade 24h 成交额 204,092,086，流动性 2,855,547
+  - Alpha 列表口径 24h 成交额 591,316
+  - 短周期波动 0.25%
+  - 4h 振幅 2.02%
   - 审计风险 LOW
-- NES | 分数 29.18 | Alpha Trade 成交额 166947313.84 | 波动 0.37% | 4h 振幅 3.29% | 审计 LOW
-  - Alpha Trade 24h 成交额 166,947,314，流动性 1,540,269
-  - Alpha 列表口径 24h 成交额 45,049,657
-  - 短周期波动 0.37%
-  - 4h 振幅 3.29%
+- ARTX | 分数 40.81 | Alpha Trade 成交额 1855159.35 | 波动 0.24% | 4h 振幅 2.87% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,855,159，流动性 1,358,136
+  - Alpha 列表口径 24h 成交额 1,433,892
+  - 短周期波动 0.24%
+  - 4h 振幅 2.87%
   - 审计风险 LOW
-- ARTX | 分数 18.71 | Alpha Trade 成交额 1519323.62 | 波动 0.38% | 4h 振幅 6.45% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,519,324，流动性 1,353,631
-  - Alpha 列表口径 24h 成交额 1,369,069
-  - 短周期波动 0.38%
-  - 4h 振幅 6.45%
+- NES | 分数 32.96 | Alpha Trade 成交额 168232641.15 | 波动 0.35% | 4h 振幅 3.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 168,232,641，流动性 1,539,186
+  - Alpha 列表口径 24h 成交额 44,510,924
+  - 短周期波动 0.35%
+  - 4h 振幅 3.11%
   - 审计风险 LOW
-- CAP | 分数 18.68 | Alpha Trade 成交额 2341061.46 | 波动 0.39% | 4h 振幅 2.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,341,061，流动性 922,387
-  - Alpha 列表口径 24h 成交额 6,460,361
-  - 短周期波动 0.39%
-  - 4h 振幅 2.59%
+- CAP | 分数 10.50 | Alpha Trade 成交额 2268880.31 | 波动 0.48% | 4h 振幅 3.52% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,268,880，流动性 916,028
+  - Alpha 列表口径 24h 成交额 5,786,634
+  - 短周期波动 0.48%
+  - 4h 振幅 3.52%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -58,7 +58,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-09)
-- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)
+- Latest Binance News：Binance Convert: Automate Your bStock Transactions and Receive Rewards From a Pool of Up to 10 MUB
 - Latest Activities：Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
@@ -75,12 +75,12 @@
 
 ### Latest Binance News
 
+- [Binance Convert: Automate Your bStock Transactions and Receive Rewards From a Pool of Up to 10 MUB](https://www.binance.com/en/support/announcement/detail/59df8c4996f341429681208aef4ab13c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)](https://www.binance.com/en/support/announcement/detail/83351356ed4c4c80ab9a609e77dd20f2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve us…
 - [Binance Charity to Donate $35,000 in USDT to Support Users Affected by the Ghana Floods](https://www.binance.com/en/support/announcement/detail/aedd6ae28558413a99f260bc66b35311)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Following the devastatin…
-- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-08)](https://www.binance.com/en/support/announcement/detail/9f7bbb12623a4177a672c245df56b46e)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 
 ### Latest Activities
 
