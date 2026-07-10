@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-10T01:12:59.545066+00:00
+- 生成时间：2026-07-10T05:10:38.648482+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1526773341.52
+- 四倍分 24h 总成交额：1521743428.98
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：186192（按 8200 / 人）
+- 估算参与人数：185578（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1150112012.66 | 列表口径 1321601.90 | 涨跌 -2.19% | 振幅 9.96% | 估算人数 140258
-- O | Alpha Trade 成交额 204092086.13 | 列表口径 591315.67 | 涨跌 2.60% | 振幅 9.76% | 估算人数 24889
-- NES | Alpha Trade 成交额 168232641.15 | 列表口径 44510923.74 | 涨跌 -5.33% | 振幅 13.94% | 估算人数 20516
-- CAP | Alpha Trade 成交额 2268880.31 | 列表口径 5786633.91 | 涨跌 -9.60% | 振幅 14.97% | 估算人数 277
-- ARTX | Alpha Trade 成交额 1855159.35 | 列表口径 1433892.27 | 涨跌 6.20% | 振幅 18.63% | 估算人数 226
-- AKE | Alpha Trade 成交额 149906.31 | 列表口径 175152.10 | 涨跌 -1.36% | 振幅 9.38% | 估算人数 18
-- COLLECT | Alpha Trade 成交额 46170.19 | 列表口径 965390.50 | 涨跌 5.24% | 振幅 9.23% | 估算人数 6
-- ACU | Alpha Trade 成交额 10137.40 | 列表口径 357183.36 | 涨跌 3.40% | 振幅 6.11% | 估算人数 1
-- WMTX | Alpha Trade 成交额 6348.02 | 列表口径 95767.81 | 涨跌 -5.15% | 振幅 6.19% | 估算人数 1
+- ARX | Alpha Trade 成交额 1132610741.22 | 列表口径 1278529.49 | 涨跌 -1.97% | 振幅 9.29% | 估算人数 138123
+- O | Alpha Trade 成交额 210952783.33 | 列表口径 602323.91 | 涨跌 2.74% | 振幅 8.53% | 估算人数 25726
+- NES | Alpha Trade 成交额 173699984.45 | 列表口径 43691785.41 | 涨跌 -2.91% | 振幅 9.52% | 估算人数 21183
+- ARTX | Alpha Trade 成交额 2387313.55 | 列表口径 1783297.36 | 涨跌 6.02% | 振幅 15.22% | 估算人数 291
+- CAP | Alpha Trade 成交额 1911181.55 | 列表口径 4570500.00 | 涨跌 -1.72% | 振幅 14.29% | 估算人数 233
+- AKE | Alpha Trade 成交额 99305.60 | 列表口径 162531.31 | 涨跌 -0.76% | 振幅 9.38% | 估算人数 12
+- COLLECT | Alpha Trade 成交额 67848.46 | 列表口径 1163269.71 | 涨跌 9.79% | 振幅 11.74% | 估算人数 8
+- ACU | Alpha Trade 成交额 10123.60 | 列表口径 365350.31 | 涨跌 4.41% | 振幅 7.97% | 估算人数 1
+- WMTX | Alpha Trade 成交额 4147.22 | 列表口径 115299.78 | 涨跌 -3.40% | 振幅 5.60% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.55 | Alpha Trade 成交额 1150112012.66 | 波动 0.24% | 4h 振幅 1.87% | 审计 MID
-  - Alpha Trade 24h 成交额 1,150,112,013，流动性 1,357,398
-  - Alpha 列表口径 24h 成交额 1,321,602
-  - 短周期波动 0.24%
-  - 4h 振幅 1.87%
+- ARX | 分数 80.52 | Alpha Trade 成交额 1132610741.22 | 波动 0.20% | 4h 振幅 2.09% | 审计 MID
+  - Alpha Trade 24h 成交额 1,132,610,741，流动性 1,357,244
+  - Alpha 列表口径 24h 成交额 1,278,529
+  - 短周期波动 0.20%
+  - 4h 振幅 2.09%
   - 审计风险 MID
-- O | 分数 72.80 | Alpha Trade 成交额 204092086.13 | 波动 0.25% | 4h 振幅 2.02% | 审计 LOW
-  - Alpha Trade 24h 成交额 204,092,086，流动性 2,855,547
-  - Alpha 列表口径 24h 成交额 591,316
-  - 短周期波动 0.25%
-  - 4h 振幅 2.02%
-  - 审计风险 LOW
-- ARTX | 分数 40.81 | Alpha Trade 成交额 1855159.35 | 波动 0.24% | 4h 振幅 2.87% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,855,159，流动性 1,358,136
-  - Alpha 列表口径 24h 成交额 1,433,892
+- O | 分数 72.96 | Alpha Trade 成交额 210952783.33 | 波动 0.24% | 4h 振幅 2.47% | 审计 LOW
+  - Alpha Trade 24h 成交额 210,952,783，流动性 2,837,624
+  - Alpha 列表口径 24h 成交额 602,324
   - 短周期波动 0.24%
-  - 4h 振幅 2.87%
+  - 4h 振幅 2.47%
   - 审计风险 LOW
-- NES | 分数 32.96 | Alpha Trade 成交额 168232641.15 | 波动 0.35% | 4h 振幅 3.11% | 审计 LOW
-  - Alpha Trade 24h 成交额 168,232,641，流动性 1,539,186
-  - Alpha 列表口径 24h 成交额 44,510,924
-  - 短周期波动 0.35%
-  - 4h 振幅 3.11%
+- NES | 分数 37.48 | Alpha Trade 成交额 173699984.45 | 波动 0.44% | 4h 振幅 3.33% | 审计 LOW
+  - Alpha Trade 24h 成交额 173,699,984，流动性 1,541,894
+  - Alpha 列表口径 24h 成交额 43,691,785
+  - 短周期波动 0.44%
+  - 4h 振幅 3.33%
   - 审计风险 LOW
-- CAP | 分数 10.50 | Alpha Trade 成交额 2268880.31 | 波动 0.48% | 4h 振幅 3.52% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,268,880，流动性 916,028
-  - Alpha 列表口径 24h 成交额 5,786,634
-  - 短周期波动 0.48%
-  - 4h 振幅 3.52%
+- CAP | 分数 20.52 | Alpha Trade 成交额 1911181.55 | 波动 0.55% | 4h 振幅 4.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,911,182，流动性 925,417
+  - Alpha 列表口径 24h 成交额 4,570,500
+  - 短周期波动 0.55%
+  - 4h 振幅 4.86%
+  - 审计风险 LOW
+- ARTX | 分数 16.65 | Alpha Trade 成交额 2387313.55 | 波动 0.62% | 4h 振幅 10.72% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,387,314，流动性 1,306,686
+  - Alpha 列表口径 24h 成交额 1,783,297
+  - 短周期波动 0.62%
+  - 4h 振幅 10.72%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -58,8 +58,8 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-09)
-- Latest Binance News：Binance Convert: Automate Your bStock Transactions and Receive Rewards From a Pool of Up to 10 MUB
-- Latest Activities：Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!
+- Latest Binance News：Notice on SK hynix Inc. ADR (SKHYV/​SKHY) on Binance Stocks - 2026-07-10
+- Latest Activities：MENAT New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR!
 
 ### 最近 Alpha 上线
 
@@ -75,21 +75,21 @@
 
 ### Latest Binance News
 
+- [Notice on SK hynix Inc. ADR (SKHYV/​SKHY) on Binance Stocks - 2026-07-10](https://www.binance.com/en/support/announcement/detail/eae13e6f610545e48302901c968033df)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered…
 - [Binance Convert: Automate Your bStock Transactions and Receive Rewards From a Pool of Up to 10 MUB](https://www.binance.com/en/support/announcement/detail/59df8c4996f341429681208aef4ab13c)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-09)](https://www.binance.com/en/support/announcement/detail/83351356ed4c4c80ab9a609e77dd20f2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve us…
-- [Binance Charity to Donate $35,000 in USDT to Support Users Affected by the Ghana Floods](https://www.binance.com/en/support/announcement/detail/aedd6ae28558413a99f260bc66b35311)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Following the devastatin…
 
 ### Latest Activities
 
+- [MENAT New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR!](https://www.binance.com/en/support/announcement/detail/20d7824930534575a79719f6958f0123)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Earn is pleased to launch a promotion on Sim…
 - [Binance 9YA Special: Mine on Binance Pool & Share 4,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/8a30c3d96b024789a5802e95babcd816)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Pool is excited…
 - [Binance 9th Anniversary VIP Campaign: Upgrade, Compete, and Earn Exclusive VIP Rewards](https://www.binance.com/en/support/announcement/detail/a8201185f12c4ef6a26ba8fca24e2f40)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is turning 9, an…
-- [OPN Trading Tournament: Trade to Share Up to 5,000,000 OPN Token Vouchers](https://www.binance.com/en/support/announcement/detail/5abba4a485074f469de641f6cad175e6)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
