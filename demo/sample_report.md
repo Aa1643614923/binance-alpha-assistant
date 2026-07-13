@@ -1,49 +1,49 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-13T01:09:03.007696+00:00
+- 生成时间：2026-07-13T04:46:12.172212+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1487274163.78
+- 四倍分 24h 总成交额：1434741145.64
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：181375（按 8200 / 人）
+- 估算参与人数：174968（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1102546283.99 | 列表口径 1229529.12 | 涨跌 -3.24% | 振幅 23.91% | 估算人数 134457
-- NES | Alpha Trade 成交额 242058207.01 | 列表口径 30167324.96 | 涨跌 -6.68% | 振幅 12.40% | 估算人数 29519
-- O | Alpha Trade 成交额 141592345.36 | 列表口径 323494.81 | 涨跌 -3.83% | 振幅 7.30% | 估算人数 17267
-- CAP | Alpha Trade 成交额 773777.76 | 列表口径 3355761.97 | 涨跌 9.24% | 振幅 22.62% | 估算人数 94
-- ARTX | Alpha Trade 成交额 113461.35 | 列表口径 692419.04 | 涨跌 -15.89% | 振幅 19.51% | 估算人数 14
-- COLLECT | Alpha Trade 成交额 84115.98 | 列表口径 2256994.16 | 涨跌 9.69% | 振幅 11.90% | 估算人数 10
-- IRYS | Alpha Trade 成交额 48549.77 | 列表口径 173759.96 | 涨跌 -0.96% | 振幅 3.51% | 估算人数 6
-- AKE | Alpha Trade 成交额 40065.45 | 列表口径 181086.07 | 涨跌 0.93% | 振幅 13.58% | 估算人数 5
-- ACU | Alpha Trade 成交额 11147.60 | 列表口径 265138.80 | 涨跌 -1.05% | 振幅 4.22% | 估算人数 1
-- WMTX | Alpha Trade 成交额 6209.53 | 列表口径 98876.45 | 涨跌 1.03% | 振幅 2.39% | 估算人数 1
+- ARX | Alpha Trade 成交额 1049202286.28 | 列表口径 1458334.58 | 涨跌 -3.34% | 振幅 23.91% | 估算人数 127951
+- NES | Alpha Trade 成交额 242622781.20 | 列表口径 29296164.29 | 涨跌 -2.19% | 振幅 10.31% | 估算人数 29588
+- O | Alpha Trade 成交额 141716444.99 | 列表口径 275162.12 | 涨跌 -1.90% | 振幅 7.30% | 估算人数 17282
+- CAP | Alpha Trade 成交额 889869.83 | 列表口径 3803102.28 | 涨跌 11.65% | 振幅 23.74% | 估算人数 109
+- COLLECT | Alpha Trade 成交额 131022.90 | 列表口径 2454447.00 | 涨跌 7.33% | 振幅 11.90% | 估算人数 16
+- ARTX | Alpha Trade 成交额 79863.32 | 列表口径 609478.91 | 涨跌 -1.92% | 振幅 15.03% | 估算人数 10
+- AKE | Alpha Trade 成交额 43556.69 | 列表口径 168645.10 | 涨跌 -4.53% | 振幅 11.24% | 估算人数 5
+- IRYS | Alpha Trade 成交额 37136.94 | 列表口径 198913.94 | 涨跌 -4.93% | 振幅 7.05% | 估算人数 5
+- ACU | Alpha Trade 成交额 12520.54 | 列表口径 276330.69 | 涨跌 -0.63% | 振幅 4.22% | 估算人数 2
+- WMTX | Alpha Trade 成交额 5662.96 | 列表口径 83134.60 | 涨跌 -0.69% | 振幅 2.45% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- O | 分数 73.59 | Alpha Trade 成交额 141592345.36 | 波动 0.22% | 4h 振幅 1.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 141,592,345，流动性 2,706,406
-  - Alpha 列表口径 24h 成交额 323,495
+- O | 分数 73.75 | Alpha Trade 成交额 141716444.99 | 波动 0.22% | 4h 振幅 2.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 141,716,445，流动性 2,741,483
+  - Alpha 列表口径 24h 成交额 275,162
   - 短周期波动 0.22%
-  - 4h 振幅 1.59%
+  - 4h 振幅 2.42%
   - 审计风险 LOW
-- ARX | 分数 57.16 | Alpha Trade 成交额 1102546283.99 | 波动 0.55% | 4h 振幅 7.01% | 审计 MID
-  - Alpha Trade 24h 成交额 1,102,546,284，流动性 1,341,029
-  - Alpha 列表口径 24h 成交额 1,229,529
-  - 短周期波动 0.55%
-  - 4h 振幅 7.01%
+- ARX | 分数 52.41 | Alpha Trade 成交额 1049202286.28 | 波动 0.62% | 4h 振幅 7.95% | 审计 MID
+  - Alpha Trade 24h 成交额 1,049,202,286，流动性 1,290,757
+  - Alpha 列表口径 24h 成交额 1,458,335
+  - 短周期波动 0.62%
+  - 4h 振幅 7.95%
   - 审计风险 MID
-- CAP | 分数 25.51 | Alpha Trade 成交额 773777.76 | 波动 0.45% | 4h 振幅 4.21% | 审计 LOW
-  - Alpha Trade 24h 成交额 773,778，流动性 823,939
-  - Alpha 列表口径 24h 成交额 3,355,762
-  - 短周期波动 0.45%
-  - 4h 振幅 4.21%
+- NES | 分数 33.81 | Alpha Trade 成交额 242622781.20 | 波动 0.52% | 4h 振幅 5.32% | 审计 LOW
+  - Alpha Trade 24h 成交额 242,622,781，流动性 1,500,238
+  - Alpha 列表口径 24h 成交额 29,296,164
+  - 短周期波动 0.52%
+  - 4h 振幅 5.32%
   - 审计风险 LOW
-- NES | 分数 22.59 | Alpha Trade 成交额 242058207.01 | 波动 0.64% | 4h 振幅 7.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 242,058,207，流动性 1,493,612
-  - Alpha 列表口径 24h 成交额 30,167,325
-  - 短周期波动 0.64%
-  - 4h 振幅 7.77%
+- CAP | 分数 11.00 | Alpha Trade 成交额 889869.83 | 波动 0.66% | 4h 振幅 7.68% | 审计 LOW
+  - Alpha Trade 24h 成交额 889,870，流动性 841,040
+  - Alpha 列表口径 24h 成交额 3,803,102
+  - 短周期波动 0.66%
+  - 4h 振幅 7.68%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -54,7 +54,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)
 - Latest Binance News：Binance Futures Will End Last Price Protected Period on USDⓈ-Margined GUAUSDT Perpetual Contract (2026-07-10)
-- Latest Activities：Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign Season 3 and Win a Share of Up to 200,000 U Token Rewards
+- Latest Activities：Word of the Day: Test Your Knowledge on “BinanceTurns9” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
@@ -79,12 +79,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “BinanceTurns9” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/5e65409efa694270bb079fcf2584515b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
 - [Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign Season 3 and Win a Share of Up to 200,000 U Token Rewards](https://www.binance.com/en/support/announcement/detail/fa33c5a0d08c4cfc92e237b4ccf79456)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pre…
 - [Binance Alpha Trading Competition: Trade Billions Network (BILL) and Share $300K Worth of Rewards (2026-07-10)](https://www.binance.com/en/support/announcement/detail/6e011403a2884f3ebb2bc342e970440b)
   - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
-- [Binance Traders League Season 3: Trade TREE to Share Up to 4,500,000 TREE Token Vouchers](https://www.binance.com/en/support/announcement/detail/6635af3aea7f45ada1f891f772b41174)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 
 ## Warnings
 
