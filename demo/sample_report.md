@@ -1,49 +1,49 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-14T01:01:57.484609+00:00
+- 生成时间：2026-07-14T04:13:01.306684+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1485666462.78
+- 四倍分 24h 总成交额：1521717117.45
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：181179（按 8200 / 人）
+- 估算参与人数：185575（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1094815660.35 | 列表口径 2029305.72 | 涨跌 0.43% | 振幅 10.52% | 估算人数 133514
-- NES | Alpha Trade 成交额 245428536.53 | 列表口径 42950562.23 | 涨跌 4.54% | 振幅 12.20% | 估算人数 29930
-- O | Alpha Trade 成交额 143971274.62 | 列表口径 1561867.51 | 涨跌 -3.47% | 振幅 19.60% | 估算人数 17557
-- CAP | Alpha Trade 成交额 1232401.12 | 列表口径 4632165.24 | 涨跌 14.41% | 振幅 18.36% | 估算人数 150
-- COLLECT | Alpha Trade 成交额 112527.96 | 列表口径 1713432.55 | 涨跌 -7.01% | 振幅 10.87% | 估算人数 14
-- ARTX | Alpha Trade 成交额 34989.62 | 列表口径 511528.40 | 涨跌 -5.73% | 振幅 7.21% | 估算人数 4
-- IRYS | Alpha Trade 成交额 29647.71 | 列表口径 207267.06 | 涨跌 -3.47% | 振幅 5.59% | 估算人数 4
-- AKE | Alpha Trade 成交额 24677.99 | 列表口径 96418.94 | 涨跌 -1.71% | 振幅 6.07% | 估算人数 3
-- ACU | Alpha Trade 成交额 14398.77 | 列表口径 237394.69 | 涨跌 -2.39% | 振幅 5.36% | 估算人数 2
-- WMTX | Alpha Trade 成交额 2348.11 | 列表口径 33199.81 | 涨跌 -3.20% | 振幅 3.85% | 估算人数 0
+- ARX | Alpha Trade 成交额 1134797824.77 | 列表口径 1800348.98 | 涨跌 -2.13% | 振幅 10.52% | 估算人数 138390
+- NES | Alpha Trade 成交额 244786694.38 | 列表口径 47446941.60 | 涨跌 6.55% | 振幅 12.20% | 估算人数 29852
+- O | Alpha Trade 成交额 140386756.35 | 列表口径 1698516.41 | 涨跌 -5.19% | 振幅 19.60% | 估算人数 17120
+- CAP | Alpha Trade 成交额 1236596.43 | 列表口径 4932324.46 | 涨跌 13.60% | 振幅 19.37% | 估算人数 151
+- AKE | Alpha Trade 成交额 368320.13 | 列表口径 1254844.77 | 涨跌 4.65% | 振幅 23.64% | 估算人数 45
+- COLLECT | Alpha Trade 成交额 75566.52 | 列表口径 1506436.14 | 涨跌 -4.98% | 振幅 7.98% | 估算人数 9
+- ARTX | Alpha Trade 成交额 27193.94 | 列表口径 519884.50 | 涨跌 -4.90% | 振幅 7.18% | 估算人数 3
+- IRYS | Alpha Trade 成交额 24528.39 | 列表口径 177437.15 | 涨跌 -1.84% | 振幅 4.80% | 估算人数 3
+- ACU | Alpha Trade 成交额 11152.95 | 列表口径 231496.80 | 涨跌 -2.21% | 振幅 5.33% | 估算人数 1
+- WMTX | Alpha Trade 成交额 2483.60 | 列表口径 34804.96 | 涨跌 -2.35% | 振幅 3.12% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 68.72 | Alpha Trade 成交额 1094815660.35 | 波动 0.47% | 4h 振幅 4.94% | 审计 MID
-  - Alpha Trade 24h 成交额 1,094,815,660，流动性 1,284,541
-  - Alpha 列表口径 24h 成交额 2,029,306
-  - 短周期波动 0.47%
-  - 4h 振幅 4.94%
+- ARX | 分数 80.81 | Alpha Trade 成交额 1134797824.77 | 波动 0.24% | 4h 振幅 2.80% | 审计 MID
+  - Alpha Trade 24h 成交额 1,134,797,825，流动性 1,281,692
+  - Alpha 列表口径 24h 成交额 1,800,349
+  - 短周期波动 0.24%
+  - 4h 振幅 2.80%
   - 审计风险 MID
-- NES | 分数 53.04 | Alpha Trade 成交额 245428536.53 | 波动 0.41% | 4h 振幅 3.61% | 审计 LOW
-  - Alpha Trade 24h 成交额 245,428,537，流动性 1,521,328
-  - Alpha 列表口径 24h 成交额 42,950,562
-  - 短周期波动 0.41%
-  - 4h 振幅 3.61%
+- O | 分数 60.68 | Alpha Trade 成交额 140386756.35 | 波动 0.54% | 4h 振幅 5.62% | 审计 LOW
+  - Alpha Trade 24h 成交额 140,386,756，流动性 2,590,502
+  - Alpha 列表口径 24h 成交额 1,698,516
+  - 短周期波动 0.54%
+  - 4h 振幅 5.62%
   - 审计风险 LOW
-- O | 分数 47.88 | Alpha Trade 成交额 143971274.62 | 波动 0.52% | 4h 振幅 7.66% | 审计 LOW
-  - Alpha Trade 24h 成交额 143,971,275，流动性 2,625,322
-  - Alpha 列表口径 24h 成交额 1,561,868
-  - 短周期波动 0.52%
-  - 4h 振幅 7.66%
+- NES | 分数 47.28 | Alpha Trade 成交额 244786694.38 | 波动 0.40% | 4h 振幅 3.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 244,786,694，流动性 1,522,433
+  - Alpha 列表口径 24h 成交额 47,446,942
+  - 短周期波动 0.40%
+  - 4h 振幅 3.42%
   - 审计风险 LOW
-- CAP | 分数 14.74 | Alpha Trade 成交额 1232401.12 | 波动 0.55% | 4h 振幅 5.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,232,401，流动性 865,275
-  - Alpha 列表口径 24h 成交额 4,632,165
-  - 短周期波动 0.55%
-  - 4h 振幅 5.97%
+- CAP | 分数 10.57 | Alpha Trade 成交额 1236596.43 | 波动 0.89% | 4h 振幅 10.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,236,596，流动性 866,829
+  - Alpha 列表口径 24h 成交额 4,932,324
+  - 短周期波动 0.89%
+  - 4h 振幅 10.42%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -54,7 +54,7 @@
 
 - 官方最新上新关注：Binance Will Add SKHYB Tokenized Securities as Collateral Assets
 - Latest Binance News：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined KORUUSDT Perpetual Contract (2026-07-15)
-- Latest Activities：Become a Binance P2P Certified Binance Merchant to Unlock Exclusive Benefits!
+- Latest Activities：Binance RWUSD: VIP Exclusive – Enjoy Up to 4.12% APR on RWUSD!
 
 ### 最近 Alpha 上线
 
@@ -79,12 +79,12 @@
 
 ### Latest Activities
 
+- [Binance RWUSD: VIP Exclusive – Enjoy Up to 4.12% APR on RWUSD!](https://www.binance.com/en/support/announcement/detail/8b608e16178f468f84d8d1f91cb8b6c7)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is pl…
 - [Become a Binance P2P Certified Binance Merchant to Unlock Exclusive Benefits!](https://www.binance.com/en/support/announcement/detail/b38bf72f55c94fe280c41fe1043411ab)
   - This is a general announcement. Products and services mentioned here may not be available in your region. Fellow Binancians, To better meet market demand, Binance P2P is launching…
 - [Word of the Day: Test Your Knowledge on “BinanceTurns9” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/5e65409efa694270bb079fcf2584515b)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is pleased…
-- [Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign Season 3 and Win a Share of Up to 200,000 U Token Rewards](https://www.binance.com/en/support/announcement/detail/fa33c5a0d08c4cfc92e237b4ccf79456)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pre…
 
 ## Warnings
 
