@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-15T06:17:13.659083+00:00
+- 生成时间：2026-07-15T08:38:33.675057+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1528259237.47
+- 四倍分 24h 总成交额：1515484921.77
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：186373（按 8200 / 人）
+- 估算参与人数：184815（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1094675111.07 | 列表口径 1443944.12 | 涨跌 -3.11% | 振幅 9.39% | 估算人数 133497
-- NES | Alpha Trade 成交额 235613548.12 | 列表口径 49596331.10 | 涨跌 -4.58% | 振幅 9.83% | 估算人数 28733
-- O | Alpha Trade 成交额 196115828.48 | 列表口径 663503.32 | 涨跌 10.15% | 振幅 14.64% | 估算人数 23917
-- CAP | Alpha Trade 成交额 805864.25 | 列表口径 2440376.57 | 涨跌 -8.48% | 振幅 16.44% | 估算人数 98
-- AKE | Alpha Trade 成交额 655982.43 | 列表口径 1807264.85 | 涨跌 111.02% | 振幅 158.22% | 估算人数 80
-- ON | Alpha Trade 成交额 231166.15 | 列表口径 1889304.02 | 涨跌 -12.89% | 振幅 26.03% | 估算人数 28
-- MPLX | Alpha Trade 成交额 96972.24 | 列表口径 394465.40 | 涨跌 8.88% | 振幅 25.13% | 估算人数 12
-- IRYS | Alpha Trade 成交额 30959.89 | 列表口径 168330.17 | 涨跌 0.46% | 振幅 4.67% | 估算人数 4
-- COLLECT | Alpha Trade 成交额 21106.45 | 列表口径 1037063.57 | 涨跌 5.31% | 振幅 8.85% | 估算人数 3
-- ARTX | Alpha Trade 成交额 7027.37 | 列表口径 738469.18 | 涨跌 -0.01% | 振幅 2.59% | 估算人数 1
-- ACU | Alpha Trade 成交额 5084.93 | 列表口径 506171.96 | 涨跌 4.12% | 振幅 6.49% | 估算人数 1
-- WMTX | Alpha Trade 成交额 586.09 | 列表口径 155444.53 | 涨跌 -0.17% | 振幅 2.19% | 估算人数 0
+- ARX | Alpha Trade 成交额 1085072964.63 | 列表口径 1385252.08 | 涨跌 -3.93% | 振幅 8.65% | 估算人数 132326
+- NES | Alpha Trade 成交额 227747325.62 | 列表口径 47909559.09 | 涨跌 -6.44% | 振幅 9.82% | 估算人数 27774
+- O | Alpha Trade 成交额 198736676.16 | 列表口径 654876.43 | 涨跌 8.59% | 振幅 13.30% | 估算人数 24236
+- AKE | Alpha Trade 成交额 2768388.69 | 列表口径 5919905.48 | 涨跌 232.92% | 振幅 350.12% | 估算人数 338
+- CAP | Alpha Trade 成交额 747432.60 | 列表口径 2400337.86 | 涨跌 -6.88% | 振幅 16.44% | 估算人数 91
+- ON | Alpha Trade 成交额 239478.49 | 列表口径 1572679.31 | 涨跌 -5.78% | 振幅 16.98% | 估算人数 29
+- MPLX | Alpha Trade 成交额 102625.04 | 列表口径 567308.68 | 涨跌 17.69% | 振幅 34.38% | 估算人数 13
+- IRYS | Alpha Trade 成交额 29834.41 | 列表口径 149944.09 | 涨跌 0.14% | 振幅 4.67% | 估算人数 4
+- COLLECT | Alpha Trade 成交额 27491.35 | 列表口径 1140122.26 | 涨跌 6.63% | 振幅 11.34% | 估算人数 3
+- ACU | Alpha Trade 成交额 6068.77 | 列表口径 409935.54 | 涨跌 0.89% | 振幅 3.11% | 估算人数 1
+- ARTX | Alpha Trade 成交额 6047.27 | 列表口径 752428.63 | 涨跌 0.74% | 振幅 2.95% | 估算人数 1
+- WMTX | Alpha Trade 成交额 588.74 | 列表口径 156218.08 | 涨跌 -0.64% | 振幅 2.19% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.64 | Alpha Trade 成交额 1094675111.07 | 波动 0.24% | 4h 振幅 3.12% | 审计 MID
-  - Alpha Trade 24h 成交额 1,094,675,111，流动性 1,267,142
-  - Alpha 列表口径 24h 成交额 1,443,944
-  - 短周期波动 0.24%
-  - 4h 振幅 3.12%
+- ARX | 分数 80.65 | Alpha Trade 成交额 1085072964.63 | 波动 0.26% | 4h 振幅 2.31% | 审计 MID
+  - Alpha Trade 24h 成交额 1,085,072,965，流动性 1,265,197
+  - Alpha 列表口径 24h 成交额 1,385,252
+  - 短周期波动 0.26%
+  - 4h 振幅 2.31%
   - 审计风险 MID
-- O | 分数 74.06 | Alpha Trade 成交额 196115828.48 | 波动 0.41% | 4h 振幅 3.10% | 审计 LOW
-  - Alpha Trade 24h 成交额 196,115,828，流动性 2,796,351
-  - Alpha 列表口径 24h 成交额 663,503
-  - 短周期波动 0.41%
-  - 4h 振幅 3.10%
+- O | 分数 74.90 | Alpha Trade 成交额 198736676.16 | 波动 0.29% | 4h 振幅 2.20% | 审计 LOW
+  - Alpha Trade 24h 成交额 198,736,676，流动性 2,801,662
+  - Alpha 列表口径 24h 成交额 654,876
+  - 短周期波动 0.29%
+  - 4h 振幅 2.20%
   - 审计风险 LOW
-- NES | 分数 52.18 | Alpha Trade 成交额 235613548.12 | 波动 0.28% | 4h 振幅 2.86% | 审计 LOW
-  - Alpha Trade 24h 成交额 235,613,548，流动性 1,503,335
-  - Alpha 列表口径 24h 成交额 49,596,331
-  - 短周期波动 0.28%
-  - 4h 振幅 2.86%
+- NES | 分数 52.17 | Alpha Trade 成交额 227747325.62 | 波动 0.27% | 4h 振幅 3.02% | 审计 LOW
+  - Alpha Trade 24h 成交额 227,747,326，流动性 1,499,163
+  - Alpha 列表口径 24h 成交额 47,909,559
+  - 短周期波动 0.27%
+  - 4h 振幅 3.02%
   - 审计风险 LOW
-- CAP | 分数 38.69 | Alpha Trade 成交额 805864.25 | 波动 0.62% | 4h 振幅 4.32% | 审计 LOW
-  - Alpha Trade 24h 成交额 805,864，流动性 802,759
-  - Alpha 列表口径 24h 成交额 2,440,377
-  - 短周期波动 0.62%
-  - 4h 振幅 4.32%
+- CAP | 分数 39.65 | Alpha Trade 成交额 747432.60 | 波动 0.53% | 4h 振幅 4.67% | 审计 LOW
+  - Alpha Trade 24h 成交额 747,433，流动性 798,689
+  - Alpha 列表口径 24h 成交额 2,400,338
+  - 短周期波动 0.53%
+  - 4h 振幅 4.67%
   - 审计风险 LOW
-- AKE | 分数 20.86 | Alpha Trade 成交额 655982.43 | 波动 4.55% | 4h 振幅 117.32% | 审计 LOW
-  - Alpha Trade 24h 成交额 655,982，流动性 860,101
-  - Alpha 列表口径 24h 成交额 1,807,265
-  - 短周期波动 4.55%
-  - 4h 振幅 117.32%
+- AKE | 分数 23.90 | Alpha Trade 成交额 2768388.69 | 波动 6.43% | 4h 振幅 295.83% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,768,389，流动性 1,154,005
+  - Alpha 列表口径 24h 成交额 5,919,905
+  - 短周期波动 6.43%
+  - 4h 振幅 295.83%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,7 +60,7 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Will Add SKHYB Tokenized Securities as Collateral Assets
+- 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-15)
 - Latest Activities：Binance Wallet DeFi Exclusive: Subscribe to Pharos R25 Axil Prime USDC Vault to Share Up to 13% APR and $300,000 in PROS Rewards
 
@@ -69,12 +69,12 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/62c2a684d09f445295b87797acc71ae8)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
+- [Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-15](https://www.binance.com/en/support/announcement/detail/f198d9602f3b4604a9b15cd0a1529e32)
+  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 - [Binance Will Add SKHYB Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/dbc90c04fc654d848f08b0b974fec233)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
-- [Binance Exchange Adds bStocks Tokenized Securities SK Hynix (SKHYB) on Binance Spot - 2026-07-13](https://www.binance.com/en/support/announcement/detail/c2e92c3c6c8347c197b9091851ec285e)
-  - The trading of SK Hynix is subject to FSRA regulatory approval of the issuer’s prospectus and admission of SKHYB to the FSRA Official List. This content is for general information…
-- [Binance Futures Will Launch USDⓈ-Margined SKHYUSDT Perpetual Contract (2026-07-10)](https://www.binance.com/en/support/announcement/detail/6fe9f6dc91544df88dc24ad41211feff)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
