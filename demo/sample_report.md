@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-15T10:28:27.485856+00:00
+- 生成时间：2026-07-15T12:02:53.906722+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1524590826.40
+- 四倍分 24h 总成交额：1535258285.65
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：185926（按 8200 / 人）
+- 估算参与人数：187227（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1097371105.45 | 列表口径 1337036.19 | 涨跌 -2.82% | 振幅 8.41% | 估算人数 133826
-- NES | Alpha Trade 成交额 228523106.59 | 列表口径 46637729.37 | 涨跌 -1.74% | 振幅 9.82% | 估算人数 27869
-- O | Alpha Trade 成交额 194115902.13 | 列表口径 645736.09 | 涨跌 7.73% | 振幅 13.30% | 估算人数 23673
-- AKE | Alpha Trade 成交额 3417448.95 | 列表口径 7927290.20 | 涨跌 187.15% | 振幅 350.12% | 估算人数 417
-- CAP | Alpha Trade 成交额 746317.47 | 列表口径 2482831.56 | 涨跌 -8.33% | 振幅 16.44% | 估算人数 91
-- ON | Alpha Trade 成交额 237646.79 | 列表口径 1519123.31 | 涨跌 -5.16% | 振幅 15.87% | 估算人数 29
-- MPLX | Alpha Trade 成交额 108299.97 | 列表口径 618507.77 | 涨跌 22.99% | 振幅 38.65% | 估算人数 13
-- COLLECT | Alpha Trade 成交额 39626.41 | 列表口径 1211972.53 | 涨跌 7.06% | 振幅 9.77% | 估算人数 5
-- IRYS | Alpha Trade 成交额 15637.12 | 列表口径 154901.20 | 涨跌 1.94% | 振幅 3.61% | 估算人数 2
-- ARTX | Alpha Trade 成交额 7063.74 | 列表口径 763995.07 | 涨跌 1.57% | 振幅 3.36% | 估算人数 1
-- ACU | Alpha Trade 成交额 6134.41 | 列表口径 352224.67 | 涨跌 -0.68% | 振幅 3.11% | 估算人数 1
-- WMTX | Alpha Trade 成交额 2537.38 | 列表口径 159149.08 | 涨跌 0.68% | 振幅 2.30% | 估算人数 0
+- ARX | Alpha Trade 成交额 1097373259.31 | 列表口径 1238547.05 | 涨跌 -1.39% | 振幅 8.41% | 估算人数 133826
+- NES | Alpha Trade 成交额 249959620.66 | 列表口径 45907206.51 | 涨跌 -3.59% | 振幅 9.82% | 估算人数 30483
+- O | Alpha Trade 成交额 183205862.02 | 列表口径 683160.24 | 涨跌 9.42% | 振幅 12.52% | 估算人数 22342
+- AKE | Alpha Trade 成交额 3775503.15 | 列表口径 8531675.04 | 涨跌 180.64% | 振幅 350.12% | 估算人数 460
+- CAP | Alpha Trade 成交额 721486.85 | 列表口径 2340169.07 | 涨跌 -10.95% | 振幅 14.66% | 估算人数 88
+- ON | Alpha Trade 成交额 101580.61 | 列表口径 1075476.16 | 涨跌 1.10% | 振幅 11.91% | 估算人数 12
+- COLLECT | Alpha Trade 成交额 51398.37 | 列表口径 1243894.42 | 涨跌 7.44% | 振幅 9.70% | 估算人数 6
+- MPLX | Alpha Trade 成交额 35387.06 | 列表口径 391178.20 | 涨跌 21.57% | 振幅 32.15% | 估算人数 4
+- IRYS | Alpha Trade 成交额 17003.31 | 列表口径 172671.25 | 涨跌 2.97% | 振幅 4.72% | 估算人数 2
+- ARTX | Alpha Trade 成交额 8309.97 | 列表口径 775300.46 | 涨跌 1.93% | 振幅 3.82% | 估算人数 1
+- ACU | Alpha Trade 成交额 6182.24 | 列表口径 304305.70 | 涨跌 -1.09% | 振幅 3.11% | 估算人数 1
+- WMTX | Alpha Trade 成交额 2692.11 | 列表口径 155310.60 | 涨跌 0.97% | 振幅 2.30% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.11 | Alpha Trade 成交额 1097371105.45 | 波动 0.31% | 4h 振幅 3.17% | 审计 MID
-  - Alpha Trade 24h 成交额 1,097,371,105，流动性 1,262,102
-  - Alpha 列表口径 24h 成交额 1,337,036
-  - 短周期波动 0.31%
-  - 4h 振幅 3.17%
+- ARX | 分数 79.89 | Alpha Trade 成交额 1097373259.31 | 波动 0.30% | 4h 振幅 2.28% | 审计 MID
+  - Alpha Trade 24h 成交额 1,097,373,259，流动性 1,263,232
+  - Alpha 列表口径 24h 成交额 1,238,547
+  - 短周期波动 0.30%
+  - 4h 振幅 2.28%
   - 审计风险 MID
-- O | 分数 74.82 | Alpha Trade 成交额 194115902.13 | 波动 0.20% | 4h 振幅 1.96% | 审计 LOW
-  - Alpha Trade 24h 成交额 194,115,902，流动性 2,786,927
-  - Alpha 列表口径 24h 成交额 645,736
+- O | 分数 73.83 | Alpha Trade 成交额 183205862.02 | 波动 0.20% | 4h 振幅 3.59% | 审计 LOW
+  - Alpha Trade 24h 成交额 183,205,862，流动性 2,835,762
+  - Alpha 列表口径 24h 成交额 683,160
   - 短周期波动 0.20%
-  - 4h 振幅 1.96%
+  - 4h 振幅 3.59%
   - 审计风险 LOW
-- NES | 分数 52.10 | Alpha Trade 成交额 228523106.59 | 波动 0.24% | 4h 振幅 1.93% | 审计 LOW
-  - Alpha Trade 24h 成交额 228,523,107，流动性 1,501,086
-  - Alpha 列表口径 24h 成交额 46,637,729
-  - 短周期波动 0.24%
-  - 4h 振幅 1.93%
+- NES | 分数 52.24 | Alpha Trade 成交额 249959620.66 | 波动 0.27% | 4h 振幅 1.73% | 审计 LOW
+  - Alpha Trade 24h 成交额 249,959,621，流动性 1,499,704
+  - Alpha 列表口径 24h 成交额 45,907,207
+  - 短周期波动 0.27%
+  - 4h 振幅 1.73%
   - 审计风险 LOW
-- CAP | 分数 39.19 | Alpha Trade 成交额 746317.47 | 波动 0.51% | 4h 振幅 3.76% | 审计 LOW
-  - Alpha Trade 24h 成交额 746,317，流动性 795,177
-  - Alpha 列表口径 24h 成交额 2,482,832
-  - 短周期波动 0.51%
-  - 4h 振幅 3.76%
+- CAP | 分数 38.74 | Alpha Trade 成交额 721486.85 | 波动 0.40% | 4h 振幅 3.97% | 审计 LOW
+  - Alpha Trade 24h 成交额 721,487，流动性 796,233
+  - Alpha 列表口径 24h 成交额 2,340,169
+  - 短周期波动 0.40%
+  - 4h 振幅 3.97%
   - 审计风险 LOW
-- AKE | 分数 23.01 | Alpha Trade 成交额 3417448.95 | 波动 5.31% | 4h 振幅 89.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,417,449，流动性 1,057,534
-  - Alpha 列表口径 24h 成交额 7,927,290
-  - 短周期波动 5.31%
-  - 4h 振幅 89.89%
+- AKE | 分数 22.61 | Alpha Trade 成交额 3775503.15 | 波动 4.25% | 4h 振幅 26.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,775,503，流动性 1,022,079
+  - Alpha 列表口径 24h 成交额 8,531,675
+  - 短周期波动 4.25%
+  - 4h 振幅 26.76%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -62,7 +62,7 @@
 
 - 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
 - Latest Binance News：Updates on Tick Size for Spot Trading Pairs (2026-07-22)
-- Latest Activities：Hold RLUSD in Binance Earn, Margin and Futures Accounts to Share $800,000 Rewards in XRP
+- Latest Activities：Binance Alpha Trading Competition: Trade Bluwhale (BLUAI) and Share $300K Worth of Rewards (2026-07-15)
 
 ### 最近 Alpha 上线
 
@@ -87,12 +87,12 @@
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade Bluwhale (BLUAI) and Share $300K Worth of Rewards (2026-07-15)](https://www.binance.com/en/support/announcement/detail/f99ae2a115d34c32a40522ea3398f787)
+  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 - [Hold RLUSD in Binance Earn, Margin and Futures Accounts to Share $800,000 Rewards in XRP](https://www.binance.com/en/support/announcement/detail/5c32601e5c27466ab39f36dadc258e0a)
   - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 - [RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers](https://www.binance.com/en/support/announcement/detail/6a4a290e9f394efe9fe4c473cd09b4a8)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Binance Wallet DeFi Exclusive: Subscribe to Pharos R25 Axil Prime USDC Vault to Share Up to 13% APR and $300,000 in PROS Rewards](https://www.binance.com/en/support/announcement/detail/71a8504f9b47448f86a75bf000bb7576)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, The Pharos R25 Axil USDC…
 
 ## Warnings
 
