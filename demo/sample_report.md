@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-16T04:25:46.068995+00:00
+- 生成时间：2026-07-16T07:01:27.573356+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1567752219.98
+- 四倍分 24h 总成交额：1550987191.82
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：191189（按 8200 / 人）
+- 估算参与人数：189145（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1151438364.39 | 列表口径 1175562.97 | 涨跌 -1.83% | 振幅 7.75% | 估算人数 140419
-- NES | Alpha Trade 成交额 218982172.09 | 列表口径 45530343.69 | 涨跌 2.41% | 振幅 7.28% | 估算人数 26705
-- O | Alpha Trade 成交额 184574982.48 | 列表口径 482604.73 | 涨跌 -1.32% | 振幅 6.31% | 估算人数 22509
-- AKE | Alpha Trade 成交额 11663564.44 | 列表口径 20268410.19 | 涨跌 315.88% | 振幅 386.71% | 估算人数 1422
-- CAP | Alpha Trade 成交额 812749.50 | 列表口径 4062520.35 | 涨跌 20.73% | 振幅 25.83% | 估算人数 99
-- COLLECT | Alpha Trade 成交额 98851.69 | 列表口径 1282395.63 | 涨跌 1.75% | 振幅 5.54% | 估算人数 12
-- ON | Alpha Trade 成交额 75008.75 | 列表口径 956516.71 | 涨跌 11.51% | 振幅 20.07% | 估算人数 9
-- IRYS | Alpha Trade 成交额 41152.43 | 列表口径 286990.40 | 涨跌 4.01% | 振幅 8.13% | 估算人数 5
-- MPLX | Alpha Trade 成交额 27772.05 | 列表口径 453280.36 | 涨跌 11.62% | 振幅 28.71% | 估算人数 3
-- ARTX | Alpha Trade 成交额 21928.67 | 列表口径 657733.85 | 涨跌 6.94% | 振幅 8.52% | 估算人数 3
-- ACU | Alpha Trade 成交额 11991.28 | 列表口径 182816.96 | 涨跌 0.42% | 振幅 3.94% | 估算人数 1
-- WMTX | Alpha Trade 成交额 3682.22 | 列表口径 50373.02 | 涨跌 -0.38% | 振幅 2.34% | 估算人数 0
+- ARX | Alpha Trade 成交额 1147597990.26 | 列表口径 1223351.61 | 涨跌 -2.30% | 振幅 7.75% | 估算人数 139951
+- O | Alpha Trade 成交额 204911888.91 | 列表口径 454802.54 | 涨跌 -2.73% | 振幅 7.29% | 估算人数 24989
+- NES | Alpha Trade 成交额 184364003.91 | 列表口径 46467233.72 | 涨跌 3.18% | 振幅 9.44% | 估算人数 22483
+- AKE | Alpha Trade 成交额 12877445.82 | 列表口径 21280673.07 | 涨跌 100.04% | 振幅 399.29% | 估算人数 1570
+- CAP | Alpha Trade 成交额 966682.67 | 列表口径 4912397.81 | 涨跌 18.96% | 振幅 25.31% | 估算人数 118
+- COLLECT | Alpha Trade 成交额 98001.34 | 列表口径 1230576.04 | 涨跌 2.81% | 振幅 4.54% | 估算人数 12
+- ON | Alpha Trade 成交额 60290.08 | 列表口径 968989.94 | 涨跌 5.78% | 振幅 20.07% | 估算人数 7
+- IRYS | Alpha Trade 成交额 42918.65 | 列表口径 288498.46 | 涨跌 3.40% | 振幅 8.13% | 估算人数 5
+- MPLX | Alpha Trade 成交额 26585.84 | 列表口径 366587.33 | 涨跌 -0.01% | 振幅 18.37% | 估算人数 3
+- ARTX | Alpha Trade 成交额 22916.64 | 列表口径 617505.73 | 涨跌 5.87% | 振幅 8.06% | 估算人数 3
+- ACU | Alpha Trade 成交额 14785.48 | 列表口径 165094.62 | 涨跌 -1.69% | 振幅 3.94% | 估算人数 2
+- WMTX | Alpha Trade 成交额 3682.22 | 列表口径 49441.39 | 涨跌 -0.46% | 振幅 2.34% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 80.19 | Alpha Trade 成交额 1151438364.39 | 波动 0.15% | 4h 振幅 1.74% | 审计 MID
-  - Alpha Trade 24h 成交额 1,151,438,364，流动性 1,264,794
-  - Alpha 列表口径 24h 成交额 1,175,563
-  - 短周期波动 0.15%
-  - 4h 振幅 1.74%
+- ARX | 分数 80.28 | Alpha Trade 成交额 1147597990.26 | 波动 0.17% | 4h 振幅 1.49% | 审计 MID
+  - Alpha Trade 24h 成交额 1,147,597,990，流动性 1,264,313
+  - Alpha 列表口径 24h 成交额 1,223,352
+  - 短周期波动 0.17%
+  - 4h 振幅 1.49%
   - 审计风险 MID
-- O | 分数 73.38 | Alpha Trade 成交额 184574982.48 | 波动 0.20% | 4h 振幅 1.72% | 审计 LOW
-  - Alpha Trade 24h 成交额 184,574,982，流动性 2,784,513
-  - Alpha 列表口径 24h 成交额 482,605
-  - 短周期波动 0.20%
-  - 4h 振幅 1.72%
+- O | 分数 73.82 | Alpha Trade 成交额 204911888.91 | 波动 0.22% | 4h 振幅 2.54% | 审计 LOW
+  - Alpha Trade 24h 成交额 204,911,889，流动性 2,747,936
+  - Alpha 列表口径 24h 成交额 454,803
+  - 短周期波动 0.22%
+  - 4h 振幅 2.54%
   - 审计风险 LOW
-- NES | 分数 46.00 | Alpha Trade 成交额 218982172.09 | 波动 0.37% | 4h 振幅 3.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 218,982,172，流动性 1,521,528
-  - Alpha 列表口径 24h 成交额 45,530,344
-  - 短周期波动 0.37%
-  - 4h 振幅 3.83%
+- NES | 分数 46.18 | Alpha Trade 成交额 184364003.91 | 波动 0.46% | 4h 振幅 5.21% | 审计 LOW
+  - Alpha Trade 24h 成交额 184,364,004，流动性 1,521,052
+  - Alpha 列表口径 24h 成交额 46,467,234
+  - 短周期波动 0.46%
+  - 4h 振幅 5.21%
   - 审计风险 LOW
-- AKE | 分数 25.47 | Alpha Trade 成交额 11663564.44 | 波动 1.24% | 4h 振幅 14.95% | 审计 LOW
-  - Alpha Trade 24h 成交额 11,663,564，流动性 1,309,186
-  - Alpha 列表口径 24h 成交额 20,268,410
-  - 短周期波动 1.24%
-  - 4h 振幅 14.95%
+- AKE | 分数 26.57 | Alpha Trade 成交额 12877445.82 | 波动 2.21% | 4h 振幅 20.52% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,877,446，流动性 1,399,180
+  - Alpha 列表口径 24h 成交额 21,280,673
+  - 短周期波动 2.21%
+  - 4h 振幅 20.52%
   - 审计风险 LOW
-- CAP | 分数 22.32 | Alpha Trade 成交额 812749.50 | 波动 0.90% | 4h 振幅 7.61% | 审计 LOW
-  - Alpha Trade 24h 成交额 812,750，流动性 859,825
-  - Alpha 列表口径 24h 成交额 4,062,520
-  - 短周期波动 0.90%
-  - 4h 振幅 7.61%
+- CAP | 分数 25.22 | Alpha Trade 成交额 966682.67 | 波动 1.26% | 4h 振幅 10.50% | 审计 LOW
+  - Alpha Trade 24h 成交额 966,683，流动性 859,885
+  - Alpha 列表口径 24h 成交额 4,912,398
+  - 短周期波动 1.26%
+  - 4h 振幅 10.50%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,7 +60,7 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
+- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-16)
 - Latest Binance News：Updates on Tick Size for Spot Trading Pairs (2026-07-22)
 - Latest Activities：Limited-Time: Earn 3x Volume Toward Binance Affiliate Spot Evaluation with bStocks
 
@@ -69,12 +69,12 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-16)](https://www.binance.com/en/support/announcement/detail/0a613aed15cc4cf78898594d7c767661)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/62c2a684d09f445295b87797acc71ae8)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 - [Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-15](https://www.binance.com/en/support/announcement/detail/f198d9602f3b4604a9b15cd0a1529e32)
   - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
-- [Binance Will Add SKHYB Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/dbc90c04fc654d848f08b0b974fec233)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Binance News
 
