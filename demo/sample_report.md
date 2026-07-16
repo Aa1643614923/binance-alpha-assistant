@@ -1,57 +1,58 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-16T09:23:15.618507+00:00
-- 四倍分代币数：12
-- 四倍分 24h 总成交额：1571888796.04
+- 生成时间：2026-07-16T11:16:11.931030+00:00
+- 四倍分代币数：13
+- 四倍分 24h 总成交额：1575159480.00
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：191694（按 8200 / 人）
+- 估算参与人数：192093（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1163169319.59 | 列表口径 1221365.18 | 涨跌 -2.38% | 振幅 7.75% | 估算人数 141850
-- O | Alpha Trade 成交额 240591248.59 | 列表口径 432509.75 | 涨跌 -2.75% | 振幅 8.19% | 估算人数 29340
-- NES | Alpha Trade 成交额 142596670.62 | 列表口径 46993063.54 | 涨跌 4.22% | 振幅 9.44% | 估算人数 17390
-- AKE | Alpha Trade 成交额 24235792.11 | 列表口径 18617408.06 | 涨跌 43.78% | 振幅 262.37% | 估算人数 2956
-- CAP | Alpha Trade 成交额 1016212.12 | 列表口径 5235518.42 | 涨跌 13.65% | 振幅 25.31% | 估算人数 124
-- COLLECT | Alpha Trade 成交额 126860.60 | 列表口径 1764012.58 | 涨跌 13.06% | 振幅 14.94% | 估算人数 15
-- ON | Alpha Trade 成交额 53045.38 | 列表口径 1007073.20 | 涨跌 8.36% | 振幅 20.07% | 估算人数 6
-- IRYS | Alpha Trade 成交额 41950.96 | 列表口径 288534.64 | 涨跌 2.94% | 振幅 7.01% | 估算人数 5
-- ARTX | Alpha Trade 成交额 26631.89 | 列表口径 584434.64 | 涨跌 4.88% | 振幅 7.25% | 估算人数 3
-- MPLX | Alpha Trade 成交额 13713.55 | 列表口径 230663.38 | 涨跌 -8.99% | 振幅 18.37% | 估算人数 2
-- ACU | Alpha Trade 成交额 13589.13 | 列表口径 152389.69 | 涨跌 -0.15% | 振幅 3.24% | 估算人数 2
-- WMTX | Alpha Trade 成交额 3761.49 | 列表口径 215153.77 | 涨跌 -0.08% | 振幅 2.21% | 估算人数 0
+- ARX | Alpha Trade 成交额 1174416688.27 | 列表口径 1202859.98 | 涨跌 -1.95% | 振幅 7.75% | 估算人数 143222
+- O | Alpha Trade 成交额 275407405.02 | 列表口径 414942.73 | 涨跌 -3.76% | 振幅 9.34% | 估算人数 33586
+- NES | Alpha Trade 成交额 96520188.73 | 列表口径 47431469.89 | 涨跌 2.57% | 振幅 9.44% | 估算人数 11771
+- AKE | Alpha Trade 成交额 25560865.29 | 列表口径 21941195.78 | 涨跌 51.94% | 振幅 262.37% | 估算人数 3117
+- BSB | Alpha Trade 成交额 1934918.05 | 列表口径 14522838.14 | 涨跌 -5.19% | 振幅 27.95% | 估算人数 236
+- CAP | Alpha Trade 成交额 1033600.12 | 列表口径 5387203.85 | 涨跌 11.69% | 振幅 25.01% | 估算人数 126
+- COLLECT | Alpha Trade 成交额 135912.98 | 列表口径 2411002.11 | 涨跌 12.57% | 振幅 17.11% | 估算人数 17
+- ON | Alpha Trade 成交额 52222.26 | 列表口径 1075107.91 | 涨跌 9.16% | 振幅 20.07% | 估算人数 6
+- IRYS | Alpha Trade 成交额 43493.55 | 列表口径 296058.24 | 涨跌 2.92% | 振幅 6.27% | 估算人数 5
+- ARTX | Alpha Trade 成交额 28328.20 | 列表口径 588309.41 | 涨跌 2.34% | 振幅 6.36% | 估算人数 3
+- ACU | Alpha Trade 成交额 14324.25 | 列表口径 144785.84 | 涨跌 -0.10% | 振幅 3.24% | 估算人数 2
+- MPLX | Alpha Trade 成交额 9688.65 | 列表口径 183128.09 | 涨跌 -11.93% | 振幅 14.82% | 估算人数 1
+- WMTX | Alpha Trade 成交额 1844.62 | 列表口径 214352.10 | 涨跌 -0.52% | 振幅 2.21% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 79.70 | Alpha Trade 成交额 1163169319.59 | 波动 0.25% | 4h 振幅 3.59% | 审计 MID
-  - Alpha Trade 24h 成交额 1,163,169,320，流动性 1,257,860
-  - Alpha 列表口径 24h 成交额 1,221,365
-  - 短周期波动 0.25%
-  - 4h 振幅 3.59%
+- ARX | 分数 76.80 | Alpha Trade 成交额 1174416688.27 | 波动 0.23% | 4h 振幅 2.71% | 审计 MID
+  - Alpha Trade 24h 成交额 1,174,416,688，流动性 1,255,225
+  - Alpha 列表口径 24h 成交额 1,202,860
+  - 短周期波动 0.23%
+  - 4h 振幅 2.71%
   - 审计风险 MID
-- O | 分数 75.41 | Alpha Trade 成交额 240591248.59 | 波动 0.26% | 4h 振幅 1.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 240,591,249，流动性 2,718,993
-  - Alpha 列表口径 24h 成交额 432,510
+- O | 分数 73.41 | Alpha Trade 成交额 275407405.02 | 波动 0.26% | 4h 振幅 2.45% | 审计 LOW
+  - Alpha Trade 24h 成交额 275,407,405，流动性 2,698,170
+  - Alpha 列表口径 24h 成交额 414,943
   - 短周期波动 0.26%
-  - 4h 振幅 1.82%
+  - 4h 振幅 2.45%
   - 审计风险 LOW
-- NES | 分数 48.49 | Alpha Trade 成交额 142596670.62 | 波动 0.38% | 4h 振幅 2.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 142,596,671，流动性 1,523,911
-  - Alpha 列表口径 24h 成交额 46,993,064
-  - 短周期波动 0.38%
-  - 4h 振幅 2.91%
+- BSB | 分数 51.55 | Alpha Trade 成交额 1934918.05 | 波动 0.86% | 4h 振幅 4.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,934,918，流动性 1,544,962
+  - Alpha 列表口径 24h 成交额 14,522,838
+  - 短周期波动 0.86%
+  - 4h 振幅 4.76%
   - 审计风险 LOW
-- CAP | 分数 34.21 | Alpha Trade 成交额 1016212.12 | 波动 0.71% | 4h 振幅 6.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,016,212，流动性 849,992
-  - Alpha 列表口径 24h 成交额 5,235,518
-  - 短周期波动 0.71%
-  - 4h 振幅 6.18%
+- NES | 分数 45.43 | Alpha Trade 成交额 96520188.73 | 波动 0.43% | 4h 振幅 3.84% | 审计 LOW
+  - Alpha Trade 24h 成交额 96,520,189，流动性 1,515,477
+  - Alpha 列表口径 24h 成交额 47,431,470
+  - 短周期波动 0.43%
+  - 4h 振幅 3.84%
   - 审计风险 LOW
-- AKE | 分数 27.12 | Alpha Trade 成交额 24235792.11 | 波动 2.21% | 4h 振幅 28.24% | 审计 LOW
-  - Alpha Trade 24h 成交额 24,235,792，流动性 1,410,600
-  - Alpha 列表口径 24h 成交额 18,617,408
-  - 短周期波动 2.21%
-  - 4h 振幅 28.24%
+- CAP | 分数 30.68 | Alpha Trade 成交额 1033600.12 | 波动 0.68% | 4h 振幅 7.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,033,600，流动性 835,230
+  - Alpha 列表口径 24h 成交额 5,387,204
+  - 短周期波动 0.68%
+  - 4h 振幅 7.57%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -62,7 +63,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-16)
 - Latest Binance News：Binance Copy Trading Launches Exclusive VIP Trading Fee Privileges for Eligible Lead Traders
-- Latest Activities：KITE Trading Tournament: Trade to Share Up to 5,000,000 KITE Token Vouchers
+- Latest Activities：Trade bStocks & TradFi Futures to Win from the $800,000 Valued Prize Pool
 
 ### 最近 Alpha 上线
 
@@ -87,15 +88,16 @@
 
 ### Latest Activities
 
+- [Trade bStocks & TradFi Futures to Win from the $800,000 Valued Prize Pool](https://www.binance.com/en/support/announcement/detail/ea3fc445d96e4c39bfe128e8291900cb)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [KITE Trading Tournament: Trade to Share Up to 5,000,000 KITE Token Vouchers](https://www.binance.com/en/support/announcement/detail/ad6b0fb9b2fa4671bb02346fbff2b6c2)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
 - [Limited-Time: Earn 3x Volume Toward Binance Affiliate Spot Evaluation with bStocks](https://www.binance.com/en/support/announcement/detail/0d76f6a8091c41b28b45e914174cebde)
   - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
-- [Binance Alpha Trading Competition: Trade Bluwhale (BLUAI) and Share $300K Worth of Rewards (2026-07-15)](https://www.binance.com/en/support/announcement/detail/f99ae2a115d34c32a40522ea3398f787)
-  - This is a general announcement. Products and services referred to here may not be available in your region.Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Walle…
 
 ## Warnings
 
+- alpha_ticker:ALPHA_790U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_474U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_611U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_587U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
