@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-17T06:05:21.765816+00:00
+- 生成时间：2026-07-17T08:25:45.076733+00:00
 - 四倍分代币数：12
-- 四倍分 24h 总成交额：1162799676.88
+- 四倍分 24h 总成交额：1153144596.94
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：141805（按 8200 / 人）
+- 估算参与人数：140627（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1118384423.80 | 列表口径 1011684.43 | 涨跌 1.24% | 振幅 58.34% | 估算人数 136388
-- AKE | Alpha Trade 成交额 32049521.08 | 列表口径 32372195.33 | 涨跌 7.55% | 振幅 250.99% | 估算人数 3908
-- NES | Alpha Trade 成交额 9503129.73 | 列表口径 44343053.03 | 涨跌 -2.23% | 振幅 7.18% | 估算人数 1159
-- BSB | Alpha Trade 成交额 1664139.87 | 列表口径 7692016.03 | 涨跌 0.46% | 振幅 13.85% | 估算人数 203
-- CAP | Alpha Trade 成交额 790834.65 | 列表口径 3952497.44 | 涨跌 -1.78% | 振幅 12.80% | 估算人数 96
-- COLLECT | Alpha Trade 成交额 325504.24 | 列表口径 5743242.99 | 涨跌 1.48% | 振幅 20.56% | 估算人数 40
-- ARTX | Alpha Trade 成交额 22297.13 | 列表口径 555088.38 | 涨跌 -4.29% | 振幅 5.97% | 估算人数 3
-- ON | Alpha Trade 成交额 20442.88 | 列表口径 782823.56 | 涨跌 -4.00% | 振幅 7.69% | 估算人数 2
-- IRYS | Alpha Trade 成交额 18188.45 | 列表口径 182112.37 | 涨跌 -1.51% | 振幅 4.84% | 估算人数 2
-- ACU | Alpha Trade 成交额 12634.87 | 列表口径 203957.80 | 涨跌 -2.29% | 振幅 4.20% | 估算人数 2
-- MPLX | Alpha Trade 成交额 7422.17 | 列表口径 71525.44 | 涨跌 -7.32% | 振幅 12.10% | 估算人数 1
-- WMTX | Alpha Trade 成交额 1138.02 | 列表口径 182073.49 | 涨跌 -1.52% | 振幅 1.79% | 估算人数 0
+- ARX | Alpha Trade 成交额 1116593804.33 | 列表口径 1121479.76 | 涨跌 9.50% | 振幅 65.16% | 估算人数 136170
+- AKE | Alpha Trade 成交额 24628512.10 | 列表口径 36417829.14 | 涨跌 32.42% | 振幅 123.80% | 估算人数 3003
+- NES | Alpha Trade 成交额 9047153.50 | 列表口径 43384472.85 | 涨跌 -3.09% | 振幅 7.98% | 估算人数 1103
+- BSB | Alpha Trade 成交额 1741116.61 | 列表口径 7381652.15 | 涨跌 1.18% | 振幅 13.85% | 估算人数 212
+- CAP | Alpha Trade 成交额 722533.55 | 列表口径 3513438.07 | 涨跌 0.82% | 振幅 11.74% | 估算人数 88
+- COLLECT | Alpha Trade 成交额 335173.52 | 列表口径 6046596.80 | 涨跌 0.28% | 振幅 20.96% | 估算人数 41
+- ARTX | Alpha Trade 成交额 22526.18 | 列表口径 567279.06 | 涨跌 -3.37% | 振幅 5.97% | 估算人数 3
+- ON | Alpha Trade 成交额 18189.77 | 列表口径 688302.05 | 涨跌 0.46% | 振幅 6.07% | 估算人数 2
+- IRYS | Alpha Trade 成交额 17731.11 | 列表口径 179210.91 | 涨跌 1.77% | 振幅 4.84% | 估算人数 2
+- ACU | Alpha Trade 成交额 9720.77 | 列表口径 201874.32 | 涨跌 -1.50% | 振幅 5.18% | 估算人数 1
+- MPLX | Alpha Trade 成交额 7123.56 | 列表口径 58752.37 | 涨跌 -7.75% | 振幅 9.58% | 估算人数 1
+- WMTX | Alpha Trade 成交额 1011.94 | 列表口径 12898.32 | 涨跌 -0.74% | 振幅 2.41% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 83.85 | Alpha Trade 成交额 1118384423.80 | 波动 0.33% | 4h 振幅 3.66% | 审计 MID
-  - Alpha Trade 24h 成交额 1,118,384,424，流动性 1,267,716
-  - Alpha 列表口径 24h 成交额 1,011,684
-  - 短周期波动 0.33%
-  - 4h 振幅 3.66%
-  - 审计风险 MID
-- BSB | 分数 73.60 | Alpha Trade 成交额 1664139.87 | 波动 0.37% | 4h 振幅 3.79% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,664,140，流动性 1,560,563
-  - Alpha 列表口径 24h 成交额 7,692,016
-  - 短周期波动 0.37%
-  - 4h 振幅 3.79%
-  - 审计风险 LOW
-- NES | 分数 57.78 | Alpha Trade 成交额 9503129.73 | 波动 0.31% | 4h 振幅 4.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 9,503,130，流动性 1,511,414
-  - Alpha 列表口径 24h 成交额 44,343,053
+- ARX | 分数 82.80 | Alpha Trade 成交额 1116593804.33 | 波动 0.31% | 4h 振幅 6.17% | 审计 MID
+  - Alpha Trade 24h 成交额 1,116,593,804，流动性 1,278,903
+  - Alpha 列表口径 24h 成交额 1,121,480
   - 短周期波动 0.31%
-  - 4h 振幅 4.31%
+  - 4h 振幅 6.17%
+  - 审计风险 MID
+- BSB | 分数 72.30 | Alpha Trade 成交额 1741116.61 | 波动 0.42% | 4h 振幅 4.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,741,117，流动性 1,559,808
+  - Alpha 列表口径 24h 成交额 7,381,652
+  - 短周期波动 0.42%
+  - 4h 振幅 4.86%
   - 审计风险 LOW
-- CAP | 分数 36.05 | Alpha Trade 成交额 790834.65 | 波动 0.50% | 4h 振幅 3.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 790,835，流动性 849,819
-  - Alpha 列表口径 24h 成交额 3,952,497
-  - 短周期波动 0.50%
-  - 4h 振幅 3.83%
+- NES | 分数 58.75 | Alpha Trade 成交额 9047153.50 | 波动 0.27% | 4h 振幅 2.21% | 审计 LOW
+  - Alpha Trade 24h 成交额 9,047,153，流动性 1,509,184
+  - Alpha 列表口径 24h 成交额 43,384,473
+  - 短周期波动 0.27%
+  - 4h 振幅 2.21%
   - 审计风险 LOW
-- AKE | 分数 32.28 | Alpha Trade 成交额 32049521.08 | 波动 1.22% | 4h 振幅 9.92% | 审计 LOW
-  - Alpha Trade 24h 成交额 32,049,521，流动性 1,323,141
-  - Alpha 列表口径 24h 成交额 32,372,195
-  - 短周期波动 1.22%
-  - 4h 振幅 9.92%
+- AKE | 分数 38.19 | Alpha Trade 成交额 24628512.10 | 波动 1.74% | 4h 振幅 35.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 24,628,512，流动性 1,538,382
+  - Alpha 列表口径 24h 成交额 36,417,829
+  - 短周期波动 1.74%
+  - 4h 振幅 35.79%
+  - 审计风险 LOW
+- CAP | 分数 36.97 | Alpha Trade 成交额 722533.55 | 波动 0.46% | 4h 振幅 5.61% | 审计 LOW
+  - Alpha Trade 24h 成交额 722,534，流动性 854,815
+  - Alpha 列表口径 24h 成交额 3,513,438
+  - 短周期波动 0.46%
+  - 4h 振幅 5.61%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,21 +60,21 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-17)
+- 官方最新上新关注：Binance Will List Aerodrome (AERO) with Seed Tag Applied
 - Latest Binance News：Binance Copy Trading Launches Exclusive VIP Trading Fee Privileges for Eligible Lead Traders
-- Latest Activities：Trade bStocks & TradFi Futures to Win from the $800,000 Valued Prize Pool
+- Latest Activities：Trade bStocks 24/7 and Stand to Win Up to 500 USDT in Token Vouchers
 
 ### 最近 Alpha 上线
 
 
 ### New Cryptocurrency Listing
 
+- [Binance Will List Aerodrome (AERO) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/1631198cd282431bbb5fbd333106a413)
+  - Note: Please do your own research before making any trades for the aforementioned token outside Binance to avoid any scams and ensure safety of your funds. This is a general annou…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-17)](https://www.binance.com/en/support/announcement/detail/18724cba64a048938986a98bbb257258)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-16)](https://www.binance.com/en/support/announcement/detail/0a613aed15cc4cf78898594d7c767661)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/62c2a684d09f445295b87797acc71ae8)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Binance News
 
@@ -87,12 +87,12 @@
 
 ### Latest Activities
 
+- [Trade bStocks 24/7 and Stand to Win Up to 500 USDT in Token Vouchers](https://www.binance.com/en/support/announcement/detail/a0f05249db3e4cb89549ce6093282684)
+  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
+- [Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 8,000 U Limit Available (2026-07-18)](https://www.binance.com/en/support/announcement/detail/5e4f29a63bca4fa6998d3af5fd5fa848)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Disclaimer: Thi…
 - [Trade bStocks & TradFi Futures to Win from the $800,000 Valued Prize Pool](https://www.binance.com/en/support/announcement/detail/ea3fc445d96e4c39bfe128e8291900cb)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [KITE Trading Tournament: Trade to Share Up to 5,000,000 KITE Token Vouchers](https://www.binance.com/en/support/announcement/detail/ad6b0fb9b2fa4671bb02346fbff2b6c2)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is thrilled to l…
-- [Limited-Time: Earn 3x Volume Toward Binance Affiliate Spot Evaluation with bStocks](https://www.binance.com/en/support/announcement/detail/0d76f6a8091c41b28b45e914174cebde)
-  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 
 ## Warnings
 
