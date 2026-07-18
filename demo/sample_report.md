@@ -1,57 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-17T23:27:56.309956+00:00
-- 四倍分代币数：12
-- 四倍分 24h 总成交额：1184663868.41
+- 生成时间：2026-07-18T00:59:31.597730+00:00
+- 四倍分代币数：10
+- 四倍分 24h 总成交额：1174928156.04
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：144471（按 8200 / 人）
+- 估算参与人数：143284（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1150746759.61 | 列表口径 2439171.08 | 涨跌 0.06% | 振幅 19.40% | 估算人数 140335
-- AKE | Alpha Trade 成交额 19363414.39 | 列表口径 80862925.50 | 涨跌 44.99% | 振幅 188.74% | 估算人数 2361
-- NES | Alpha Trade 成交额 12561018.86 | 列表口径 37720705.01 | 涨跌 -4.13% | 振幅 7.57% | 估算人数 1532
-- BSB | Alpha Trade 成交额 1044656.03 | 列表口径 4756767.10 | 涨跌 -5.94% | 振幅 12.00% | 估算人数 127
-- CAP | Alpha Trade 成交额 685681.56 | 列表口径 2831413.92 | 涨跌 1.77% | 振幅 9.91% | 估算人数 84
-- COLLECT | Alpha Trade 成交额 130218.52 | 列表口径 2831886.32 | 涨跌 -18.09% | 振幅 24.63% | 估算人数 16
-- IRYS | Alpha Trade 成交额 51970.29 | 列表口径 215494.01 | 涨跌 -0.92% | 振幅 7.22% | 估算人数 6
-- ARTX | Alpha Trade 成交额 39619.25 | 列表口径 539435.09 | 涨跌 2.57% | 振幅 10.93% | 估算人数 5
-- ON | Alpha Trade 成交额 33758.95 | 列表口径 539853.32 | 涨跌 2.39% | 振幅 5.46% | 估算人数 4
-- ACU | Alpha Trade 成交额 3473.12 | 列表口径 132885.29 | 涨跌 -3.56% | 振幅 3.87% | 估算人数 0
-- MPLX | Alpha Trade 成交额 2111.97 | 列表口径 41247.59 | 涨跌 -3.13% | 振幅 5.21% | 估算人数 0
-- WMTX | Alpha Trade 成交额 1185.86 | 列表口径 329749.46 | 涨跌 -2.45% | 振幅 3.32% | 估算人数 0
+- ARX | Alpha Trade 成交额 1142163182.68 | 列表口径 2525711.30 | 涨跌 2.96% | 振幅 19.40% | 估算人数 139288
+- AKE | Alpha Trade 成交额 18410149.06 | 列表口径 83168284.73 | 涨跌 61.10% | 振幅 188.74% | 估算人数 2245
+- NES | Alpha Trade 成交额 12459926.75 | 列表口径 36873584.04 | 涨跌 -4.81% | 振幅 7.02% | 估算人数 1520
+- BSB | Alpha Trade 成交额 957906.66 | 列表口径 4394372.51 | 涨跌 -0.84% | 振幅 9.38% | 估算人数 117
+- CAP | Alpha Trade 成交额 683653.33 | 列表口径 2810878.66 | 涨跌 0.82% | 振幅 10.07% | 估算人数 83
+- COLLECT | Alpha Trade 成交额 126736.35 | 列表口径 2772942.28 | 涨跌 -15.97% | 振幅 24.64% | 估算人数 15
+- IRYS | Alpha Trade 成交额 51844.85 | 列表口径 211597.41 | 涨跌 -2.87% | 振幅 7.22% | 估算人数 6
+- ON | Alpha Trade 成交额 36876.16 | 列表口径 579953.73 | 涨跌 4.31% | 振幅 7.12% | 估算人数 4
+- ARTX | Alpha Trade 成交额 35767.88 | 列表口径 522978.60 | 涨跌 4.05% | 振幅 10.93% | 估算人数 4
+- MPLX | Alpha Trade 成交额 2112.33 | 列表口径 40475.86 | 涨跌 -3.00% | 振幅 4.91% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 82.41 | Alpha Trade 成交额 1150746759.61 | 波动 0.32% | 4h 振幅 6.38% | 审计 MID
-  - Alpha Trade 24h 成交额 1,150,746,760，流动性 1,258,313
-  - Alpha 列表口径 24h 成交额 2,439,171
-  - 短周期波动 0.32%
-  - 4h 振幅 6.38%
+- ARX | 分数 81.65 | Alpha Trade 成交额 1142163182.68 | 波动 0.38% | 4h 振幅 5.74% | 审计 MID
+  - Alpha Trade 24h 成交额 1,142,163,183，流动性 1,268,340
+  - Alpha 列表口径 24h 成交额 2,525,711
+  - 短周期波动 0.38%
+  - 4h 振幅 5.74%
   - 审计风险 MID
-- BSB | 分数 74.75 | Alpha Trade 成交额 1044656.03 | 波动 0.21% | 4h 振幅 2.01% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,044,656，流动性 1,541,432
-  - Alpha 列表口径 24h 成交额 4,756,767
+- BSB | 分数 71.40 | Alpha Trade 成交额 957906.66 | 波动 0.55% | 4h 振幅 6.55% | 审计 LOW
+  - Alpha Trade 24h 成交额 957,907，流动性 1,563,723
+  - Alpha 列表口径 24h 成交额 4,394,373
+  - 短周期波动 0.55%
+  - 4h 振幅 6.55%
+  - 审计风险 LOW
+- NES | 分数 58.76 | Alpha Trade 成交额 12459926.75 | 波动 0.21% | 4h 振幅 1.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,459,927，流动性 1,510,826
+  - Alpha 列表口径 24h 成交额 36,873,584
   - 短周期波动 0.21%
-  - 4h 振幅 2.01%
+  - 4h 振幅 1.38%
   - 审计风险 LOW
-- NES | 分数 59.39 | Alpha Trade 成交额 12561018.86 | 波动 0.19% | 4h 振幅 1.37% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,561,019，流动性 1,511,656
-  - Alpha 列表口径 24h 成交额 37,720,705
-  - 短周期波动 0.19%
-  - 4h 振幅 1.37%
+- CAP | 分数 38.99 | Alpha Trade 成交额 683653.33 | 波动 0.40% | 4h 振幅 2.55% | 审计 LOW
+  - Alpha Trade 24h 成交额 683,653，流动性 856,055
+  - Alpha 列表口径 24h 成交额 2,810,879
+  - 短周期波动 0.40%
+  - 4h 振幅 2.55%
   - 审计风险 LOW
-- CAP | 分数 39.15 | Alpha Trade 成交额 685681.56 | 波动 0.35% | 4h 振幅 3.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 685,682，流动性 852,151
-  - Alpha 列表口径 24h 成交额 2,831,414
-  - 短周期波动 0.35%
-  - 4h 振幅 3.71%
-  - 审计风险 LOW
-- AKE | 分数 33.33 | Alpha Trade 成交额 19363414.39 | 波动 4.16% | 4h 振幅 47.54% | 审计 LOW
-  - Alpha Trade 24h 成交额 19,363,414，流动性 1,355,023
-  - Alpha 列表口径 24h 成交额 80,862,926
-  - 短周期波动 4.16%
-  - 4h 振幅 47.54%
+- AKE | 分数 32.59 | Alpha Trade 成交额 18410149.06 | 波动 3.74% | 4h 振幅 32.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 18,410,149，流动性 1,346,818
+  - Alpha 列表口径 24h 成交额 83,168,285
+  - 短周期波动 3.74%
+  - 4h 振幅 32.57%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -98,8 +96,6 @@
 
 - alpha_ticker:ALPHA_790U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_474U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_611U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_587U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_444U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_331U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_261U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
