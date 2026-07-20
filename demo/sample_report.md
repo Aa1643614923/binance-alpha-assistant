@@ -1,49 +1,43 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-20T01:09:29.644640+00:00
+- 生成时间：2026-07-20T04:52:34.075971+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1131635124.76
+- 四倍分 24h 总成交额：1091416576.96
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：138004（按 8200 / 人）
+- 估算参与人数：133100（按 8200 / 人）
 
 ## 四倍分代币
 
-- ARX | Alpha Trade 成交额 1118419309.33 | 列表口径 869572.15 | 涨跌 -3.57% | 振幅 22.09% | 估算人数 136393
-- AKE | Alpha Trade 成交额 10143485.15 | 列表口径 73838453.75 | 涨跌 11.07% | 振幅 48.36% | 估算人数 1237
-- NES | Alpha Trade 成交额 1706740.58 | 列表口径 31662227.32 | 涨跌 -0.56% | 振幅 6.14% | 估算人数 208
-- BSB | Alpha Trade 成交额 517574.58 | 列表口径 4370556.09 | 涨跌 1.83% | 振幅 6.92% | 估算人数 63
-- CAP | Alpha Trade 成交额 468324.24 | 列表口径 1923380.77 | 涨跌 -1.81% | 振幅 6.74% | 估算人数 57
-- ON | Alpha Trade 成交额 247241.53 | 列表口径 4062299.72 | 涨跌 16.17% | 振幅 29.05% | 估算人数 30
-- COLLECT | Alpha Trade 成交额 97576.88 | 列表口径 1746644.66 | 涨跌 -3.90% | 振幅 15.32% | 估算人数 12
-- IRYS | Alpha Trade 成交额 25930.81 | 列表口径 148746.23 | 涨跌 -2.62% | 振幅 3.53% | 估算人数 3
-- ARTX | Alpha Trade 成交额 6115.27 | 列表口径 551700.60 | 涨跌 -0.33% | 振幅 2.47% | 估算人数 1
-- MPLX | Alpha Trade 成交额 2826.40 | 列表口径 42368.42 | 涨跌 0.44% | 振幅 1.61% | 估算人数 0
+- ARX | Alpha Trade 成交额 1076598724.09 | 列表口径 1041943.29 | 涨跌 -0.54% | 振幅 21.41% | 估算人数 131293
+- AKE | Alpha Trade 成交额 11765514.08 | 列表口径 72103492.01 | 涨跌 -9.44% | 振幅 69.43% | 估算人数 1435
+- NES | Alpha Trade 成交额 1698216.19 | 列表口径 31120785.86 | 涨跌 -2.24% | 振幅 5.73% | 估算人数 207
+- CAP | Alpha Trade 成交额 485973.55 | 列表口径 2069090.10 | 涨跌 2.23% | 振幅 7.04% | 估算人数 59
+- BSB | Alpha Trade 成交额 476431.66 | 列表口径 4244756.73 | 涨跌 -1.04% | 振幅 6.92% | 估算人数 58
+- ON | Alpha Trade 成交额 267574.42 | 列表口径 4364643.96 | 涨跌 8.38% | 振幅 25.45% | 估算人数 33
+- COLLECT | Alpha Trade 成交额 92520.87 | 列表口径 1573867.77 | 涨跌 -6.04% | 振幅 15.32% | 估算人数 11
+- IRYS | Alpha Trade 成交额 18885.25 | 列表口径 150132.45 | 涨跌 -2.34% | 振幅 4.40% | 估算人数 2
+- ARTX | Alpha Trade 成交额 9831.69 | 列表口径 552105.98 | 涨跌 -0.54% | 振幅 1.68% | 估算人数 1
+- MPLX | Alpha Trade 成交额 2905.16 | 列表口径 52965.74 | 涨跌 0.26% | 振幅 1.63% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- ARX | 分数 70.94 | Alpha Trade 成交额 1118419309.33 | 波动 0.33% | 4h 振幅 3.58% | 审计 MID
-  - Alpha Trade 24h 成交额 1,118,419,309，流动性 1,238,170
-  - Alpha 列表口径 24h 成交额 869,572
-  - 短周期波动 0.33%
-  - 4h 振幅 3.58%
+- ARX | 分数 78.87 | Alpha Trade 成交额 1076598724.09 | 波动 0.78% | 4h 振幅 7.34% | 审计 MID
+  - Alpha Trade 24h 成交额 1,076,598,724，流动性 1,244,732
+  - Alpha 列表口径 24h 成交额 1,041,943
+  - 短周期波动 0.78%
+  - 4h 振幅 7.34%
   - 审计风险 MID
-- BSB | 分数 69.46 | Alpha Trade 成交额 517574.58 | 波动 0.62% | 4h 振幅 5.60% | 审计 LOW
-  - Alpha Trade 24h 成交额 517,575，流动性 1,571,323
-  - Alpha 列表口径 24h 成交额 4,370,556
-  - 短周期波动 0.62%
-  - 4h 振幅 5.60%
+- NES | 分数 60.00 | Alpha Trade 成交额 1698216.19 | 波动 0.26% | 4h 振幅 1.78% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,698,216，流动性 1,482,949
+  - Alpha 列表口径 24h 成交额 31,120,786
+  - 短周期波动 0.26%
+  - 4h 振幅 1.78%
   - 审计风险 LOW
-- NES | 分数 54.54 | Alpha Trade 成交额 1706740.58 | 波动 0.23% | 4h 振幅 1.79% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,706,741，流动性 1,479,920
-  - Alpha 列表口径 24h 成交额 31,662,227
-  - 短周期波动 0.23%
-  - 4h 振幅 1.79%
-  - 审计风险 LOW
-- AKE | 分数 20.54 | Alpha Trade 成交额 10143485.15 | 波动 2.13% | 4h 振幅 29.12% | 审计 LOW
-  - Alpha Trade 24h 成交额 10,143,485，流动性 1,269,318
-  - Alpha 列表口径 24h 成交额 73,838,454
-  - 短周期波动 2.13%
-  - 4h 振幅 29.12%
+- AKE | 分数 21.15 | Alpha Trade 成交额 11765514.08 | 波动 4.39% | 4h 振幅 37.74% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,765,514，流动性 1,117,857
+  - Alpha 列表口径 24h 成交额 72,103,492
+  - 短周期波动 4.39%
+  - 4h 振幅 37.74%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -54,7 +48,7 @@
 
 - 官方最新上新关注：Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：Aerodrome (AERO) Listing Will Be Postponed
-- Latest Activities：LATAM Earn Gala: Get Up to 30% APR for Your USDT
+- Latest Activities：Word of the Day: Test Your Knowledge on “TradFi Meets Crypto” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
@@ -79,12 +73,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “TradFi Meets Crypto” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/47e6cda338844080bac4fb94dd96d4b0)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 - [LATAM Earn Gala: Get Up to 30% APR for Your USDT](https://www.binance.com/en/support/announcement/detail/0d40f2d8e4d847afa2562b44d80e9c1a)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Binance Alpha Trading Competition: Trade Unitas (UP) and Share $300K Worth of Rewards (2026-07-17)](https://www.binance.com/en/support/announcement/detail/c5dd00b8cb0d4f4abc73edd444e3e4c9)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Announcement on the Extension of the Zero Trading Service Fee and Zero On-Chain Gas Fee Promotion for ONDO Tokenized Securities](https://www.binance.com/en/support/announcement/detail/eff92b87a9504b59aad9ad54779f6e80)
-  - This is a general announcement. This announcement is not intended for users in jurisdictions where access to or trading in tokenized securities is restricted or prohibited. Partic…
 
 ## Warnings
 
