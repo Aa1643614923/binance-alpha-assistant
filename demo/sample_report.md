@@ -1,56 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-22T03:41:31.590508+00:00
+- 生成时间：2026-07-22T06:15:43.758669+00:00
 - 四倍分代币数：11
-- 四倍分 24h 总成交额：72651641.61
+- 四倍分 24h 总成交额：151118020.47
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：8860（按 8200 / 人）
+- 估算参与人数：18429（按 8200 / 人）
 
 ## 四倍分代币
 
-- NES | Alpha Trade 成交额 62802126.49 | 列表口径 27462707.46 | 涨跌 5.69% | 振幅 8.06% | 估算人数 7659
-- AKE | Alpha Trade 成交额 6879963.61 | 列表口径 4046568.41 | 涨跌 -9.19% | 振幅 37.14% | 估算人数 839
-- ON | Alpha Trade 成交额 852672.45 | 列表口径 11120682.80 | 涨跌 -24.07% | 振幅 63.05% | 估算人数 104
-- CAP | Alpha Trade 成交额 709054.99 | 列表口径 2233607.95 | 涨跌 1.77% | 振幅 14.06% | 估算人数 86
-- BSB | Alpha Trade 成交额 646200.10 | 列表口径 2793548.66 | 涨跌 6.16% | 振幅 6.99% | 估算人数 79
-- EDGE | Alpha Trade 成交额 291034.35 | 列表口径 2504507.88 | 涨跌 -2.23% | 振幅 8.22% | 估算人数 35
-- BEE | Alpha Trade 成交额 278532.19 | 列表口径 19763374.84 | 涨跌 -60.18% | 振幅 545.58% | 估算人数 34
-- COLLECT | Alpha Trade 成交额 127777.32 | 列表口径 1567961.78 | 涨跌 9.55% | 振幅 15.13% | 估算人数 16
-- IRYS | Alpha Trade 成交额 43191.56 | 列表口径 396552.95 | 涨跌 -6.24% | 振幅 10.56% | 估算人数 5
-- ARTX | Alpha Trade 成交额 19974.71 | 列表口径 476617.22 | 涨跌 0.79% | 振幅 1.71% | 估算人数 2
-- MPLX | Alpha Trade 成交额 1113.85 | 列表口径 33801.80 | 涨跌 -3.36% | 振幅 7.20% | 估算人数 0
+- NES | Alpha Trade 成交额 139084136.34 | 列表口径 26977181.21 | 涨跌 10.23% | 振幅 13.64% | 估算人数 16961
+- AKE | Alpha Trade 成交额 8848725.30 | 列表口径 4750003.32 | 涨跌 8.83% | 振幅 36.58% | 估算人数 1079
+- ON | Alpha Trade 成交额 832772.24 | 列表口径 10448977.82 | 涨跌 -23.79% | 振幅 63.05% | 估算人数 102
+- CAP | Alpha Trade 成交额 805600.76 | 列表口径 2335143.74 | 涨跌 -1.84% | 振幅 14.06% | 估算人数 98
+- BSB | Alpha Trade 成交额 729459.22 | 列表口径 2823021.28 | 涨跌 2.33% | 振幅 5.88% | 估算人数 89
+- EDGE | Alpha Trade 成交额 310118.04 | 列表口径 2516342.31 | 涨跌 -3.36% | 振幅 8.22% | 估算人数 38
+- BEE | Alpha Trade 成交额 306979.10 | 列表口径 12789089.36 | 涨跌 -48.62% | 振幅 538.88% | 估算人数 37
+- COLLECT | Alpha Trade 成交额 138871.16 | 列表口径 1720964.67 | 涨跌 4.63% | 振幅 15.46% | 估算人数 17
+- IRYS | Alpha Trade 成交额 33513.77 | 列表口径 219459.94 | 涨跌 -6.21% | 振幅 7.31% | 估算人数 4
+- ARTX | Alpha Trade 成交额 26587.39 | 列表口径 459817.23 | 涨跌 0.64% | 振幅 2.08% | 估算人数 3
+- MPLX | Alpha Trade 成交额 1257.15 | 列表口径 79882.24 | 涨跌 -5.79% | 振幅 9.99% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- NES | 分数 82.22 | Alpha Trade 成交额 62802126.49 | 波动 0.30% | 4h 振幅 5.16% | 审计 LOW
-  - Alpha Trade 24h 成交额 62,802,126，流动性 1,523,303
-  - Alpha 列表口径 24h 成交额 27,462,707
+- NES | 分数 78.40 | Alpha Trade 成交额 139084136.34 | 波动 0.43% | 4h 振幅 6.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 139,084,136，流动性 1,552,526
+  - Alpha 列表口径 24h 成交额 26,977,181
+  - 短周期波动 0.43%
+  - 4h 振幅 6.39%
+  - 审计风险 LOW
+- BSB | 分数 75.00 | Alpha Trade 成交额 729459.22 | 波动 0.30% | 4h 振幅 3.09% | 审计 LOW
+  - Alpha Trade 24h 成交额 729,459，流动性 1,574,329
+  - Alpha 列表口径 24h 成交额 2,823,021
   - 短周期波动 0.30%
-  - 4h 振幅 5.16%
+  - 4h 振幅 3.09%
   - 审计风险 LOW
-- BSB | 分数 75.00 | Alpha Trade 成交额 646200.10 | 波动 0.28% | 4h 振幅 3.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 646,200，流动性 1,579,628
-  - Alpha 列表口径 24h 成交额 2,793,549
-  - 短周期波动 0.28%
-  - 4h 振幅 3.64%
-  - 审计风险 LOW
-- AKE | 分数 41.40 | Alpha Trade 成交额 6879963.61 | 波动 0.70% | 4h 振幅 10.06% | 审计 LOW
-  - Alpha Trade 24h 成交额 6,879,964，流动性 1,083,603
-  - Alpha 列表口径 24h 成交额 4,046,568
-  - 短周期波动 0.70%
-  - 4h 振幅 10.06%
-  - 审计风险 LOW
-- CAP | 分数 27.95 | Alpha Trade 成交额 709054.99 | 波动 0.75% | 4h 振幅 7.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 709,055，流动性 879,687
-  - Alpha 列表口径 24h 成交额 2,233,608
+- AKE | 分数 33.13 | Alpha Trade 成交额 8848725.30 | 波动 0.75% | 4h 振幅 16.13% | 审计 LOW
+  - Alpha Trade 24h 成交额 8,848,725，流动性 1,162,880
+  - Alpha 列表口径 24h 成交额 4,750,003
   - 短周期波动 0.75%
-  - 4h 振幅 7.97%
+  - 4h 振幅 16.13%
   - 审计风险 LOW
-- ON | 分数 10.08 | Alpha Trade 成交额 852672.45 | 波动 1.34% | 4h 振幅 10.68% | 审计 LOW
-  - Alpha Trade 24h 成交额 852,672，流动性 828,013
-  - Alpha 列表口径 24h 成交额 11,120,683
-  - 短周期波动 1.34%
-  - 4h 振幅 10.68%
+- CAP | 分数 27.86 | Alpha Trade 成交额 805600.76 | 波动 0.61% | 4h 振幅 8.19% | 审计 LOW
+  - Alpha Trade 24h 成交额 805,601，流动性 873,606
+  - Alpha 列表口径 24h 成交额 2,335,144
+  - 短周期波动 0.61%
+  - 4h 振幅 8.19%
+  - 审计风险 LOW
+- ON | 分数 16.70 | Alpha Trade 成交额 832772.24 | 波动 0.84% | 4h 振幅 7.41% | 审计 LOW
+  - Alpha Trade 24h 成交额 832,772，流动性 807,778
+  - Alpha 列表口径 24h 成交额 10,448,978
+  - 短周期波动 0.84%
+  - 4h 振幅 7.41%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -60,7 +60,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-21)
-- Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-24)
+- Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-22)
 - Latest Activities：Binance Alpha Trading Competition: Trade QAIT (QAIT) and Share $200K Worth of Rewards (2026-07-21)
 
 ### 最近 Alpha 上线
@@ -77,12 +77,12 @@
 
 ### Latest Binance News
 
+- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-22)](https://www.binance.com/en/support/announcement/detail/cbdbd9017a2f49ffae2ce26253ff720d)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-24)](https://www.binance.com/en/support/announcement/detail/97b4f93f9c684da2a5701ab09530d3df)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 - [Binance VIP Program Criteria Update: Lower VIP 3 Holding Threshold and Integrate OTC Trading Volume into Spot Volume](https://www.binance.com/en/support/announcement/detail/7eb7da9adde645df9bcd50a9b33c80f8)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is committed to continuously improving the V…
-- [Binance Stocks Now Supports API Trading](https://www.binance.com/en/support/announcement/detail/95d746cb2b5e4d179c50d0026dd7dfbe)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce that API trading is n…
 
 ### Latest Activities
 
