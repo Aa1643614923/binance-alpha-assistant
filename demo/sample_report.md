@@ -1,56 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-23T23:09:35.584182+00:00
-- 四倍分代币数：11
-- 四倍分 24h 总成交额：906483407.19
+- 生成时间：2026-07-24T00:11:01.725086+00:00
+- 四倍分代币数：8
+- 四倍分 24h 总成交额：3205422.71
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：110547（按 8200 / 人）
+- 估算参与人数：391（按 8200 / 人）
 
 ## 四倍分代币
 
-- NES | Alpha Trade 成交额 854366245.19 | 列表口径 15328047.05 | 涨跌 -0.01% | 振幅 6.05% | 估算人数 104191
-- AKE | Alpha Trade 成交额 48784066.83 | 列表口径 76450884.06 | 涨跌 51.37% | 振幅 71.32% | 估算人数 5949
-- BSB | Alpha Trade 成交额 1212808.65 | 列表口径 3971795.11 | 涨跌 -8.23% | 振幅 15.64% | 估算人数 148
-- CAP | Alpha Trade 成交额 1122846.93 | 列表口径 4052826.61 | 涨跌 14.01% | 振幅 20.51% | 估算人数 137
-- ON | Alpha Trade 成交额 626390.73 | 列表口径 11423469.34 | 涨跌 16.18% | 振幅 30.06% | 估算人数 76
-- COLLECT | Alpha Trade 成交额 121025.89 | 列表口径 1920179.21 | 涨跌 10.83% | 振幅 12.03% | 估算人数 15
-- BEE | Alpha Trade 成交额 103665.63 | 列表口径 806487.55 | 涨跌 1.10% | 振幅 10.19% | 估算人数 13
-- EDGE | Alpha Trade 成交额 98819.90 | 列表口径 1903912.20 | 涨跌 -2.02% | 振幅 6.84% | 估算人数 12
-- IRYS | Alpha Trade 成交额 34512.02 | 列表口径 183815.75 | 涨跌 -0.70% | 振幅 3.55% | 估算人数 4
-- ARTX | Alpha Trade 成交额 10100.86 | 列表口径 475980.59 | 涨跌 -1.58% | 振幅 2.20% | 估算人数 1
-- MPLX | Alpha Trade 成交额 2924.54 | 列表口径 18377.26 | 涨跌 -3.04% | 振幅 4.33% | 估算人数 0
+- BSB | Alpha Trade 成交额 1160527.97 | 列表口径 3826174.74 | 涨跌 -8.51% | 振幅 12.20% | 估算人数 142
+- CAP | Alpha Trade 成交额 1072972.93 | 列表口径 4074045.58 | 涨跌 10.96% | 振幅 20.51% | 估算人数 131
+- ON | Alpha Trade 成交额 609422.65 | 列表口径 11262908.40 | 涨跌 14.66% | 振幅 30.06% | 估算人数 74
+- COLLECT | Alpha Trade 成交额 122077.25 | 列表口径 1959628.16 | 涨跌 7.87% | 振幅 10.92% | 估算人数 15
+- BEE | Alpha Trade 成交额 103336.76 | 列表口径 812574.68 | 涨跌 1.15% | 振幅 9.93% | 估算人数 13
+- EDGE | Alpha Trade 成交额 99760.81 | 列表口径 1924502.50 | 涨跌 -1.34% | 振幅 6.84% | 估算人数 12
+- IRYS | Alpha Trade 成交额 34399.80 | 列表口径 177928.17 | 涨跌 -1.89% | 振幅 3.55% | 估算人数 4
+- MPLX | Alpha Trade 成交额 2924.54 | 列表口径 17884.32 | 涨跌 -3.75% | 振幅 4.33% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- NES | 分数 86.20 | Alpha Trade 成交额 854366245.19 | 波动 0.13% | 4h 振幅 0.90% | 审计 LOW
-  - Alpha Trade 24h 成交额 854,366,245，流动性 1,579,710
-  - Alpha 列表口径 24h 成交额 15,328,047
-  - 短周期波动 0.13%
-  - 4h 振幅 0.90%
+- BSB | 分数 100.00 | Alpha Trade 成交额 1160527.97 | 波动 0.39% | 4h 振幅 2.92% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,160,528，流动性 1,551,492
+  - Alpha 列表口径 24h 成交额 3,826,175
+  - 短周期波动 0.39%
+  - 4h 振幅 2.92%
   - 审计风险 LOW
-- BSB | 分数 69.99 | Alpha Trade 成交额 1212808.65 | 波动 0.41% | 4h 振幅 3.14% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,212,809，流动性 1,552,694
-  - Alpha 列表口径 24h 成交额 3,971,795
-  - 短周期波动 0.41%
-  - 4h 振幅 3.14%
+- CAP | 分数 58.58 | Alpha Trade 成交额 1072972.93 | 波动 0.44% | 4h 振幅 3.34% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,072,973，流动性 940,740
+  - Alpha 列表口径 24h 成交额 4,074,046
+  - 短周期波动 0.44%
+  - 4h 振幅 3.34%
   - 审计风险 LOW
-- CAP | 分数 36.76 | Alpha Trade 成交额 1122846.93 | 波动 0.45% | 4h 振幅 3.35% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,122,847，流动性 941,672
-  - Alpha 列表口径 24h 成交额 4,052,827
-  - 短周期波动 0.45%
-  - 4h 振幅 3.35%
-  - 审计风险 LOW
-- ON | 分数 32.44 | Alpha Trade 成交额 626390.73 | 波动 0.88% | 4h 振幅 7.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 626,391，流动性 1,068,081
-  - Alpha 列表口径 24h 成交额 11,423,469
-  - 短周期波动 0.88%
-  - 4h 振幅 7.59%
-  - 审计风险 LOW
-- AKE | 分数 25.87 | Alpha Trade 成交额 48784066.83 | 波动 1.95% | 4h 振幅 21.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 48,784,067，流动性 1,064,949
-  - Alpha 列表口径 24h 成交额 76,450,884
-  - 短周期波动 1.95%
-  - 4h 振幅 21.31%
+- ON | 分数 14.33 | Alpha Trade 成交额 609422.65 | 波动 0.74% | 4h 振幅 7.14% | 审计 LOW
+  - Alpha Trade 24h 成交额 609,423，流动性 1,073,082
+  - Alpha 列表口径 24h 成交额 11,262,908
+  - 短周期波动 0.74%
+  - 4h 振幅 7.14%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -96,9 +81,7 @@
 ## Warnings
 
 - alpha_ticker:ALPHA_790U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_474U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_444U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_331U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_261U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_235U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - futures_exchange_info: all fallback endpoints failed: https://www.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/exchangeInfo | https://fapi.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/exchangeInfo
