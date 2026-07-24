@@ -1,41 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-24T00:11:01.725086+00:00
+- 生成时间：2026-07-24T03:45:53.164638+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：3205422.71
+- 四倍分 24h 总成交额：36754365.08
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：391（按 8200 / 人）
+- 估算参与人数：4482（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 1160527.97 | 列表口径 3826174.74 | 涨跌 -8.51% | 振幅 12.20% | 估算人数 142
-- CAP | Alpha Trade 成交额 1072972.93 | 列表口径 4074045.58 | 涨跌 10.96% | 振幅 20.51% | 估算人数 131
-- ON | Alpha Trade 成交额 609422.65 | 列表口径 11262908.40 | 涨跌 14.66% | 振幅 30.06% | 估算人数 74
-- COLLECT | Alpha Trade 成交额 122077.25 | 列表口径 1959628.16 | 涨跌 7.87% | 振幅 10.92% | 估算人数 15
-- BEE | Alpha Trade 成交额 103336.76 | 列表口径 812574.68 | 涨跌 1.15% | 振幅 9.93% | 估算人数 13
-- EDGE | Alpha Trade 成交额 99760.81 | 列表口径 1924502.50 | 涨跌 -1.34% | 振幅 6.84% | 估算人数 12
-- IRYS | Alpha Trade 成交额 34399.80 | 列表口径 177928.17 | 涨跌 -1.89% | 振幅 3.55% | 估算人数 4
-- MPLX | Alpha Trade 成交额 2924.54 | 列表口径 17884.32 | 涨跌 -3.75% | 振幅 4.33% | 估算人数 0
+- CAP | Alpha Trade 成交额 31718206.23 | 列表口径 5021334.76 | 涨跌 14.76% | 振幅 26.12% | 估算人数 3868
+- ON | Alpha Trade 成交额 3425663.98 | 列表口径 10626228.21 | 涨跌 18.24% | 振幅 26.36% | 估算人数 418
+- BSB | Alpha Trade 成交额 1197304.19 | 列表口径 3667558.03 | 涨跌 -4.86% | 振幅 12.06% | 估算人数 146
+- EDGE | Alpha Trade 成交额 143881.95 | 列表口径 2199617.25 | 涨跌 3.68% | 振幅 7.09% | 估算人数 18
+- COLLECT | Alpha Trade 成交额 125797.80 | 列表口径 1952157.07 | 涨跌 5.01% | 振幅 8.89% | 估算人数 15
+- BEE | Alpha Trade 成交额 103170.07 | 列表口径 816574.24 | 涨跌 -0.41% | 振幅 9.93% | 估算人数 13
+- IRYS | Alpha Trade 成交额 37337.86 | 列表口径 173835.52 | 涨跌 1.02% | 振幅 3.55% | 估算人数 5
+- MPLX | Alpha Trade 成交额 3002.99 | 列表口径 16199.84 | 涨跌 -3.55% | 振幅 3.73% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 1160527.97 | 波动 0.39% | 4h 振幅 2.92% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,160,528，流动性 1,551,492
-  - Alpha 列表口径 24h 成交额 3,826,175
-  - 短周期波动 0.39%
-  - 4h 振幅 2.92%
+- BSB | 分数 75.00 | Alpha Trade 成交额 1197304.19 | 波动 0.26% | 4h 振幅 2.47% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,197,304，流动性 1,556,900
+  - Alpha 列表口径 24h 成交额 3,667,558
+  - 短周期波动 0.26%
+  - 4h 振幅 2.47%
   - 审计风险 LOW
-- CAP | 分数 58.58 | Alpha Trade 成交额 1072972.93 | 波动 0.44% | 4h 振幅 3.34% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,072,973，流动性 940,740
-  - Alpha 列表口径 24h 成交额 4,074,046
-  - 短周期波动 0.44%
-  - 4h 振幅 3.34%
+- CAP | 分数 37.23 | Alpha Trade 成交额 31718206.23 | 波动 0.76% | 4h 振幅 10.60% | 审计 LOW
+  - Alpha Trade 24h 成交额 31,718,206，流动性 960,472
+  - Alpha 列表口径 24h 成交额 5,021,335
+  - 短周期波动 0.76%
+  - 4h 振幅 10.60%
   - 审计风险 LOW
-- ON | 分数 14.33 | Alpha Trade 成交额 609422.65 | 波动 0.74% | 4h 振幅 7.14% | 审计 LOW
-  - Alpha Trade 24h 成交额 609,423，流动性 1,073,082
-  - Alpha 列表口径 24h 成交额 11,262,908
-  - 短周期波动 0.74%
-  - 4h 振幅 7.14%
+- ON | 分数 19.40 | Alpha Trade 成交额 3425663.98 | 波动 0.78% | 4h 振幅 7.25% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,425,664，流动性 1,063,594
+  - Alpha 列表口径 24h 成交额 10,626,228
+  - 短周期波动 0.78%
+  - 4h 振幅 7.25%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -45,7 +45,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch POPMARTUSDT USDⓈ-Margined Perpetual Contract (2026-07-23)
-- Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-22)
+- Latest Binance News：Binance Will Extend the Monitoring Tag to Include ACX, LSK & STX on 2026-07-24
 - Latest Activities：Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-23)
 
 ### 最近 Alpha 上线
@@ -62,12 +62,12 @@
 
 ### Latest Binance News
 
+- [Binance Will Extend the Monitoring Tag to Include ACX, LSK & STX on 2026-07-24](https://www.binance.com/en/support/announcement/detail/12056a79b7f545a3aa03fa5031f77b16)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-22)](https://www.binance.com/en/support/announcement/detail/cbdbd9017a2f49ffae2ce26253ff720d)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-24)](https://www.binance.com/en/support/announcement/detail/97b4f93f9c684da2a5701ab09530d3df)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
-- [Binance VIP Program Criteria Update: Lower VIP 3 Holding Threshold and Integrate OTC Trading Volume into Spot Volume](https://www.binance.com/en/support/announcement/detail/7eb7da9adde645df9bcd50a9b33c80f8)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is committed to continuously improving the V…
 
 ### Latest Activities
 
