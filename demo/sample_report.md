@@ -1,41 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-24T06:14:41.164581+00:00
+- 生成时间：2026-07-24T08:46:06.629428+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：94900686.87
+- 四倍分 24h 总成交额：196917982.72
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：11573（按 8200 / 人）
+- 估算参与人数：24014（按 8200 / 人）
 
 ## 四倍分代币
 
-- CAP | Alpha Trade 成交额 89438678.02 | 列表口径 6103824.93 | 涨跌 15.13% | 振幅 18.57% | 估算人数 10907
-- ON | Alpha Trade 成交额 3529400.69 | 列表口径 8777256.78 | 涨跌 8.24% | 振幅 25.16% | 估算人数 430
-- BSB | Alpha Trade 成交额 1511080.83 | 列表口径 3577027.73 | 涨跌 -6.49% | 振幅 11.36% | 估算人数 184
-- EDGE | Alpha Trade 成交额 169605.26 | 列表口径 2287624.01 | 涨跌 0.93% | 振幅 7.09% | 估算人数 21
-- COLLECT | Alpha Trade 成交额 134118.14 | 列表口径 1932997.36 | 涨跌 4.85% | 振幅 8.89% | 估算人数 16
-- BEE | Alpha Trade 成交额 68310.45 | 列表口径 651891.30 | 涨跌 -2.57% | 振幅 9.93% | 估算人数 8
-- IRYS | Alpha Trade 成交额 46467.33 | 列表口径 178786.35 | 涨跌 0.99% | 振幅 3.98% | 估算人数 6
-- MPLX | Alpha Trade 成交额 3026.15 | 列表口径 16146.35 | 涨跌 -3.33% | 振幅 3.48% | 估算人数 0
+- CAP | Alpha Trade 成交额 190932450.28 | 列表口径 6536246.89 | 涨跌 16.51% | 振幅 17.71% | 估算人数 23284
+- ON | Alpha Trade 成交额 3777816.77 | 列表口径 10051449.83 | 涨跌 4.62% | 振幅 28.94% | 估算人数 461
+- BSB | Alpha Trade 成交额 1758793.93 | 列表口径 3449517.67 | 涨跌 -5.49% | 振幅 9.78% | 估算人数 214
+- EDGE | Alpha Trade 成交额 203549.53 | 列表口径 2334547.50 | 涨跌 3.79% | 振幅 7.35% | 估算人数 25
+- COLLECT | Alpha Trade 成交额 139083.57 | 列表口径 1984357.46 | 涨跌 -7.17% | 振幅 10.02% | 估算人数 17
+- BEE | Alpha Trade 成交额 55812.82 | 列表口径 564920.30 | 涨跌 -0.80% | 振幅 9.93% | 估算人数 7
+- IRYS | Alpha Trade 成交额 48204.08 | 列表口径 177382.25 | 涨跌 0.20% | 振幅 3.98% | 估算人数 6
+- MPLX | Alpha Trade 成交额 2271.75 | 列表口径 14781.44 | 涨跌 -2.34% | 振幅 2.77% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 75.00 | Alpha Trade 成交额 1511080.83 | 波动 0.29% | 4h 振幅 3.78% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,511,081，流动性 1,561,397
-  - Alpha 列表口径 24h 成交额 3,577,028
-  - 短周期波动 0.29%
-  - 4h 振幅 3.78%
+- BSB | 分数 75.00 | Alpha Trade 成交额 1758793.93 | 波动 0.28% | 4h 振幅 2.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,758,794，流动性 1,559,925
+  - Alpha 列表口径 24h 成交额 3,449,518
+  - 短周期波动 0.28%
+  - 4h 振幅 2.31%
   - 审计风险 LOW
-- CAP | 分数 39.43 | Alpha Trade 成交额 89438678.02 | 波动 0.85% | 4h 振幅 8.99% | 审计 LOW
-  - Alpha Trade 24h 成交额 89,438,678，流动性 963,060
-  - Alpha 列表口径 24h 成交额 6,103,825
-  - 短周期波动 0.85%
-  - 4h 振幅 8.99%
+- CAP | 分数 60.72 | Alpha Trade 成交额 190932450.28 | 波动 0.55% | 4h 振幅 9.25% | 审计 LOW
+  - Alpha Trade 24h 成交额 190,932,450，流动性 972,925
+  - Alpha 列表口径 24h 成交额 6,536,247
+  - 短周期波动 0.55%
+  - 4h 振幅 9.25%
   - 审计风险 LOW
-- ON | 分数 15.06 | Alpha Trade 成交额 3529400.69 | 波动 0.83% | 4h 振幅 11.13% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,529,401，流动性 1,076,772
-  - Alpha 列表口径 24h 成交额 8,777,257
-  - 短周期波动 0.83%
-  - 4h 振幅 11.13%
+- ON | 分数 13.19 | Alpha Trade 成交额 3777816.77 | 波动 2.33% | 4h 振幅 23.90% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,777,817，流动性 1,058,792
+  - Alpha 列表口径 24h 成交额 10,051,450
+  - 短周期波动 2.33%
+  - 4h 振幅 23.90%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -46,7 +46,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch POPMARTUSDT USDⓈ-Margined Perpetual Contract (2026-07-23)
 - Latest Binance News：Binance Will Extend the Monitoring Tag to Include ACX, LSK & STX on 2026-07-24
-- Latest Activities：Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-23)
+- Latest Activities：Binance Earn: Enjoy Up to 15% APR with AVA Flexible Products – 50,000 AVA Limit Available!
 
 ### 最近 Alpha 上线
 
@@ -71,12 +71,12 @@
 
 ### Latest Activities
 
+- [Binance Earn: Enjoy Up to 15% APR with AVA Flexible Products – 50,000 AVA Limit Available!](https://www.binance.com/en/support/announcement/detail/1468751ad70446698e95491a208a1a64)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-23)](https://www.binance.com/en/support/announcement/detail/cc164ab36d114ea2a123309c9bbed74f)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Learn & Earn: Complete the Quiz to Share Turtle (TURTLE) Token Rewards!](https://www.binance.com/en/support/announcement/detail/4001837965804103976a2cfc554fbaa9)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce the next round of " B…
-- [Binance Square: Grab a Share of 2,390,000 BABY Rewards on CreatorPad!](https://www.binance.com/en/support/announcement/detail/1685102ec71b4b578a75c12d857d9f90)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Square is pleased to introduce a new c…
 
 ## Warnings
 
