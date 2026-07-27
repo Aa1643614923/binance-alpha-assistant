@@ -1,41 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-27T10:58:22.896301+00:00
+- 生成时间：2026-07-27T13:42:28.834752+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：606494730.14
+- 四倍分 24h 总成交额：605171703.82
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：73963（按 8200 / 人）
+- 估算参与人数：73801（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 598339292.58 | 列表口径 2952330.95 | 涨跌 -2.44% | 振幅 6.39% | 估算人数 72968
-- ON | Alpha Trade 成交额 4654953.38 | 列表口径 7368268.92 | 涨跌 41.22% | 振幅 53.87% | 估算人数 568
-- AEON | Alpha Trade 成交额 2882281.83 | 列表口径 14044048.75 | 涨跌 201.85% | 振幅 259.75% | 估算人数 351
-- EDGE | Alpha Trade 成交额 360808.10 | 列表口径 2323768.91 | 涨跌 -1.84% | 振幅 6.88% | 估算人数 44
-- IRYS | Alpha Trade 成交额 126332.11 | 列表口径 1758118.62 | 涨跌 6.77% | 振幅 19.02% | 估算人数 15
-- COLLECT | Alpha Trade 成交额 102273.55 | 列表口径 1301727.45 | 涨跌 7.43% | 振幅 10.47% | 估算人数 12
-- BEE | Alpha Trade 成交额 22219.00 | 列表口径 424814.47 | 涨跌 3.58% | 振幅 9.75% | 估算人数 3
-- MPLX | Alpha Trade 成交额 6569.59 | 列表口径 36047.01 | 涨跌 -1.14% | 振幅 2.40% | 估算人数 1
+- BSB | Alpha Trade 成交额 593829719.29 | 列表口径 3000468.40 | 涨跌 -3.06% | 振幅 6.39% | 估算人数 72418
+- AEON | Alpha Trade 成交额 6324874.61 | 列表口径 27086692.51 | 涨跌 44.08% | 振幅 259.75% | 估算人数 771
+- ON | Alpha Trade 成交额 4394961.19 | 列表口径 9113124.50 | 涨跌 45.39% | 振幅 59.68% | 估算人数 536
+- EDGE | Alpha Trade 成交额 339884.49 | 列表口径 2635229.30 | 涨跌 -1.57% | 振幅 6.88% | 估算人数 41
+- IRYS | Alpha Trade 成交额 136652.65 | 列表口径 1819788.74 | 涨跌 11.62% | 振幅 19.02% | 估算人数 17
+- COLLECT | Alpha Trade 成交额 118494.17 | 列表口径 1398582.77 | 涨跌 6.75% | 振幅 10.47% | 估算人数 14
+- BEE | Alpha Trade 成交额 21471.77 | 列表口径 379330.24 | 涨跌 4.22% | 振幅 9.30% | 估算人数 3
+- MPLX | Alpha Trade 成交额 5645.64 | 列表口径 35480.67 | 涨跌 -1.35% | 振幅 3.06% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- BSB | 分数 88.20 | Alpha Trade 成交额 598339292.58 | 波动 0.23% | 4h 振幅 3.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 598,339,293，流动性 1,542,292
-  - Alpha 列表口径 24h 成交额 2,952,331
-  - 短周期波动 0.23%
-  - 4h 振幅 3.03%
+- BSB | 分数 95.66 | Alpha Trade 成交额 593829719.29 | 波动 0.21% | 4h 振幅 2.09% | 审计 LOW
+  - Alpha Trade 24h 成交额 593,829,719，流动性 1,540,143
+  - Alpha 列表口径 24h 成交额 3,000,468
+  - 短周期波动 0.21%
+  - 4h 振幅 2.09%
   - 审计风险 LOW
-- AEON | 分数 30.00 | Alpha Trade 成交额 2882281.83 | 波动 1.87% | 4h 振幅 78.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,882,282，流动性 2,310,730
-  - Alpha 列表口径 24h 成交额 14,044,049
-  - 短周期波动 1.87%
+- ON | 分数 33.69 | Alpha Trade 成交额 4394961.19 | 波动 1.22% | 4h 振幅 10.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,394,961，流动性 1,025,131
+  - Alpha 列表口径 24h 成交额 9,113,124
+  - 短周期波动 1.22%
+  - 4h 振幅 10.31%
+  - 审计风险 LOW
+- AEON | 分数 30.08 | Alpha Trade 成交额 6324874.61 | 波动 3.92% | 4h 振幅 78.44% | 审计 LOW
+  - Alpha Trade 24h 成交额 6,324,875，流动性 1,682,743
+  - Alpha 列表口径 24h 成交额 27,086,693
+  - 短周期波动 3.92%
   - 4h 振幅 78.44%
-  - 审计风险 LOW
-- ON | 分数 22.58 | Alpha Trade 成交额 4654953.38 | 波动 1.48% | 4h 振幅 22.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,654,953，流动性 1,008,031
-  - Alpha 列表口径 24h 成交额 7,368,269
-  - 短周期波动 1.48%
-  - 4h 振幅 22.73%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -46,12 +46,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-27)
-- Latest Binance News：Binance Capital Connect — Delisting & Access Criteria
+- Latest Binance News：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading
 - Latest Activities：Word of the Day: Test Your Knowledge on “Binance AI Agent” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
-- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 14044048.75
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 27086692.51
 
 ### New Cryptocurrency Listing
 
@@ -64,12 +64,12 @@
 
 ### Latest Binance News
 
+- [Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading](https://www.binance.com/en/support/announcement/detail/29fbef18add84302bda7d4ff98111262)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Materials not directed at users in restrict…
 - [Binance Capital Connect — Delisting & Access Criteria](https://www.binance.com/en/support/announcement/detail/5a8ae66176794fe79cd0f250b3ec05e5)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Effective 2026-07-27 , Binance is introducing…
 - [Binance Will Support the Nokia (NOK) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/6ec640f5b2e847df894b9c66456824cd)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
-- [Binance Will Extend the Monitoring Tag to Include ACX, LSK & STX on 2026-07-24](https://www.binance.com/en/support/announcement/detail/12056a79b7f545a3aa03fa5031f77b16)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
 
 ### Latest Activities
 
