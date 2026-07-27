@@ -1,34 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-27T07:49:10.881363+00:00
-- 四倍分代币数：7
-- 四倍分 24h 总成交额：611796394.59
+- 生成时间：2026-07-27T10:58:22.896301+00:00
+- 四倍分代币数：8
+- 四倍分 24h 总成交额：606494730.14
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：74609（按 8200 / 人）
+- 估算参与人数：73963（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 605787524.85 | 列表口径 2761356.87 | 涨跌 -3.08% | 振幅 6.39% | 估算人数 73877
-- ON | Alpha Trade 成交额 5373125.86 | 列表口径 5052954.27 | 涨跌 24.39% | 振幅 35.70% | 估算人数 655
-- EDGE | Alpha Trade 成交额 407687.39 | 列表口径 2368887.11 | 涨跌 -0.10% | 振幅 6.90% | 估算人数 50
-- IRYS | Alpha Trade 成交额 112332.17 | 列表口径 1571346.89 | 涨跌 13.06% | 振幅 19.02% | 估算人数 14
-- COLLECT | Alpha Trade 成交额 87867.50 | 列表口径 1044847.51 | 涨跌 7.69% | 振幅 8.55% | 估算人数 11
-- BEE | Alpha Trade 成交额 19533.61 | 列表口径 459288.35 | 涨跌 5.95% | 振幅 11.54% | 估算人数 2
-- MPLX | Alpha Trade 成交额 8323.21 | 列表口径 38602.60 | 涨跌 0.23% | 振幅 2.40% | 估算人数 1
+- BSB | Alpha Trade 成交额 598339292.58 | 列表口径 2952330.95 | 涨跌 -2.44% | 振幅 6.39% | 估算人数 72968
+- ON | Alpha Trade 成交额 4654953.38 | 列表口径 7368268.92 | 涨跌 41.22% | 振幅 53.87% | 估算人数 568
+- AEON | Alpha Trade 成交额 2882281.83 | 列表口径 14044048.75 | 涨跌 201.85% | 振幅 259.75% | 估算人数 351
+- EDGE | Alpha Trade 成交额 360808.10 | 列表口径 2323768.91 | 涨跌 -1.84% | 振幅 6.88% | 估算人数 44
+- IRYS | Alpha Trade 成交额 126332.11 | 列表口径 1758118.62 | 涨跌 6.77% | 振幅 19.02% | 估算人数 15
+- COLLECT | Alpha Trade 成交额 102273.55 | 列表口径 1301727.45 | 涨跌 7.43% | 振幅 10.47% | 估算人数 12
+- BEE | Alpha Trade 成交额 22219.00 | 列表口径 424814.47 | 涨跌 3.58% | 振幅 9.75% | 估算人数 3
+- MPLX | Alpha Trade 成交额 6569.59 | 列表口径 36047.01 | 涨跌 -1.14% | 振幅 2.40% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 605787524.85 | 波动 0.41% | 4h 振幅 5.56% | 审计 LOW
-  - Alpha Trade 24h 成交额 605,787,525，流动性 1,542,705
-  - Alpha 列表口径 24h 成交额 2,761,357
-  - 短周期波动 0.41%
-  - 4h 振幅 5.56%
+- BSB | 分数 88.20 | Alpha Trade 成交额 598339292.58 | 波动 0.23% | 4h 振幅 3.03% | 审计 LOW
+  - Alpha Trade 24h 成交额 598,339,293，流动性 1,542,292
+  - Alpha 列表口径 24h 成交额 2,952,331
+  - 短周期波动 0.23%
+  - 4h 振幅 3.03%
   - 审计风险 LOW
-- ON | 分数 10.00 | Alpha Trade 成交额 5373125.86 | 波动 1.48% | 4h 振幅 20.10% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,373,126，流动性 944,579
-  - Alpha 列表口径 24h 成交额 5,052,954
+- AEON | 分数 30.00 | Alpha Trade 成交额 2882281.83 | 波动 1.87% | 4h 振幅 78.44% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,882,282，流动性 2,310,730
+  - Alpha 列表口径 24h 成交额 14,044,049
+  - 短周期波动 1.87%
+  - 4h 振幅 78.44%
+  - 审计风险 LOW
+- ON | 分数 22.58 | Alpha Trade 成交额 4654953.38 | 波动 1.48% | 4h 振幅 22.73% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,654,953，流动性 1,008,031
+  - Alpha 列表口径 24h 成交额 7,368,269
   - 短周期波动 1.48%
-  - 4h 振幅 20.10%
+  - 4h 振幅 22.73%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -37,30 +44,32 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch POPMARTUSDT USDⓈ-Margined Perpetual Contract (2026-07-23)
-- Latest Binance News：Binance Will Support the Nokia (NOK) Cash Dividend Distribution via bStocks
+- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
+- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-27)
+- Latest Binance News：Binance Capital Connect — Delisting & Access Criteria
 - Latest Activities：Word of the Day: Test Your Knowledge on “Binance AI Agent” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 14044048.75
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-27)](https://www.binance.com/en/support/announcement/detail/a827177a387e4ebea830110ba222ca48)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch POPMARTUSDT USDⓈ-Margined Perpetual Contract (2026-07-23)](https://www.binance.com/en/support/announcement/detail/fcdc949b45a644c78e341c88331a35ef)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets- 2026-07-22](https://www.binance.com/en/support/announcement/detail/dd18d9850f504666b7c91b5c74fe8c10)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
-- [Binance Exchange Adds 10 bStocks Trading Pair(s) on Binance Spot - 2026-07-22](https://www.binance.com/en/support/announcement/detail/ea42cf41150f4e9ab7f1631fa21bba1e)
-  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 
 ### Latest Binance News
 
+- [Binance Capital Connect — Delisting & Access Criteria](https://www.binance.com/en/support/announcement/detail/5a8ae66176794fe79cd0f250b3ec05e5)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Effective 2026-07-27 , Binance is introducing…
 - [Binance Will Support the Nokia (NOK) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/6ec640f5b2e847df894b9c66456824cd)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Will Extend the Monitoring Tag to Include ACX, LSK & STX on 2026-07-24](https://www.binance.com/en/support/announcement/detail/12056a79b7f545a3aa03fa5031f77b16)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
-- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-22)](https://www.binance.com/en/support/announcement/detail/cbdbd9017a2f49ffae2ce26253ff720d)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 
 ### Latest Activities
 
