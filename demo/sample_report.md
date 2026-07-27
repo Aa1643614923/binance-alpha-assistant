@@ -1,40 +1,40 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-27T00:14:36.411442+00:00
+- 生成时间：2026-07-27T04:07:48.193194+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：532543449.12
+- 四倍分 24h 总成交额：601731995.81
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：64944（按 8200 / 人）
+- 估算参与人数：73382（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 503646370.17 | 列表口径 2807043.32 | 涨跌 1.08% | 振幅 3.14% | 估算人数 61420
-- ON | Alpha Trade 成交额 28087898.55 | 列表口径 4541990.29 | 涨跌 -3.31% | 振幅 19.14% | 估算人数 3425
-- EDGE | Alpha Trade 成交额 658599.02 | 列表口径 2622364.97 | 涨跌 -0.20% | 振幅 7.22% | 估算人数 80
-- IRYS | Alpha Trade 成交额 60771.84 | 列表口径 445444.18 | 涨跌 8.48% | 振幅 12.28% | 估算人数 7
-- COLLECT | Alpha Trade 成交额 57928.57 | 列表口径 674893.20 | 涨跌 0.86% | 振幅 3.91% | 估算人数 7
-- BEE | Alpha Trade 成交额 22306.70 | 列表口径 460814.39 | 涨跌 7.15% | 振幅 7.32% | 估算人数 3
-- MPLX | Alpha Trade 成交额 9574.26 | 列表口径 50055.68 | 涨跌 2.50% | 振幅 3.58% | 估算人数 1
+- BSB | Alpha Trade 成交额 589484957.18 | 列表口径 2742085.15 | 涨跌 0.71% | 振幅 2.96% | 估算人数 71888
+- ON | Alpha Trade 成交额 11551757.69 | 列表口径 3836433.22 | 涨跌 4.56% | 振幅 15.51% | 估算人数 1409
+- EDGE | Alpha Trade 成交额 508410.96 | 列表口径 2559029.40 | 涨跌 -1.88% | 振幅 7.22% | 估算人数 62
+- IRYS | Alpha Trade 成交额 100799.89 | 列表口径 1282914.51 | 涨跌 10.18% | 振幅 15.66% | 估算人数 12
+- COLLECT | Alpha Trade 成交额 55406.41 | 列表口径 719944.33 | 涨跌 2.02% | 振幅 5.87% | 估算人数 7
+- BEE | Alpha Trade 成交额 21089.42 | 列表口径 491466.01 | 涨跌 8.18% | 振幅 9.38% | 估算人数 3
+- MPLX | Alpha Trade 成交额 9574.26 | 列表口径 50556.44 | 涨跌 1.03% | 振幅 2.87% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 503646370.17 | 波动 0.11% | 4h 振幅 1.31% | 审计 LOW
-  - Alpha Trade 24h 成交额 503,646,370，流动性 1,554,456
-  - Alpha 列表口径 24h 成交额 2,807,043
-  - 短周期波动 0.11%
-  - 4h 振幅 1.31%
+- BSB | 分数 100.00 | Alpha Trade 成交额 589484957.18 | 波动 0.13% | 4h 振幅 1.29% | 审计 LOW
+  - Alpha Trade 24h 成交额 589,484,957，流动性 1,554,207
+  - Alpha 列表口径 24h 成交额 2,742,085
+  - 短周期波动 0.13%
+  - 4h 振幅 1.29%
   - 审计风险 LOW
-- EDGE | 分数 38.10 | Alpha Trade 成交额 658599.02 | 波动 0.19% | 4h 振幅 1.70% | 审计 LOW
-  - Alpha Trade 24h 成交额 658,599，流动性 1,001,000
-  - Alpha 列表口径 24h 成交额 2,622,365
-  - 短周期波动 0.19%
-  - 4h 振幅 1.70%
+- EDGE | 分数 34.72 | Alpha Trade 成交额 508410.96 | 波动 0.34% | 4h 振幅 2.36% | 审计 LOW
+  - Alpha Trade 24h 成交额 508,411，流动性 1,004,075
+  - Alpha 列表口径 24h 成交额 2,559,029
+  - 短周期波动 0.34%
+  - 4h 振幅 2.36%
   - 审计风险 LOW
-- ON | 分数 11.41 | Alpha Trade 成交额 28087898.55 | 波动 0.47% | 4h 振幅 4.10% | 审计 LOW
-  - Alpha Trade 24h 成交额 28,087,899，流动性 864,294
-  - Alpha 列表口径 24h 成交额 4,541,990
-  - 短周期波动 0.47%
-  - 4h 振幅 4.10%
+- ON | 分数 10.51 | Alpha Trade 成交额 11551757.69 | 波动 0.68% | 4h 振幅 8.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,551,758，流动性 877,491
+  - Alpha 列表口径 24h 成交额 3,836,433
+  - 短周期波动 0.68%
+  - 4h 振幅 8.12%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -45,7 +45,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch POPMARTUSDT USDⓈ-Margined Perpetual Contract (2026-07-23)
 - Latest Binance News：Binance Will Extend the Monitoring Tag to Include ACX, LSK & STX on 2026-07-24
-- Latest Activities：Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)
+- Latest Activities：Word of the Day: Test Your Knowledge on “Binance AI Agent” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
@@ -70,12 +70,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “Binance AI Agent” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/e667efc912174d7b90b01a8ed4d4ae7f)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 - [Binance Earn: Enjoy Up to 8.5% APR with USD1 Flexible Products - 1,500 USD1 Limit Available! (2026-07-24)](https://www.binance.com/en/support/announcement/detail/99692347a9e24f7fa2063a35fc318a24)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Binance Earn: Enjoy Up to 15% APR with AVA Flexible Products – 50,000 AVA Limit Available!](https://www.binance.com/en/support/announcement/detail/1468751ad70446698e95491a208a1a64)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-23)](https://www.binance.com/en/support/announcement/detail/cc164ab36d114ea2a123309c9bbed74f)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
