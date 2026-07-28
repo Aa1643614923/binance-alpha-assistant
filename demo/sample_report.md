@@ -1,41 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-28T06:12:32.395909+00:00
+- 生成时间：2026-07-28T09:07:31.588090+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：636689934.48
+- 四倍分 24h 总成交额：648535096.06
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：77645（按 8200 / 人）
+- 估算参与人数：79090（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 619002396.62 | 列表口径 3647528.72 | 涨跌 -8.23% | 振幅 9.77% | 估算人数 75488
-- AEON | Alpha Trade 成交额 12029617.14 | 列表口径 52819061.33 | 涨跌 46.81% | 振幅 259.75% | 估算人数 1467
-- ON | Alpha Trade 成交额 5092346.65 | 列表口径 21014821.92 | 涨跌 45.03% | 振幅 64.87% | 估算人数 621
-- EDGE | Alpha Trade 成交额 221315.55 | 列表口径 3438442.09 | 涨跌 -2.70% | 振幅 9.01% | 估算人数 27
-- COLLECT | Alpha Trade 成交额 173146.09 | 列表口径 2819486.04 | 涨跌 8.75% | 振幅 12.51% | 估算人数 21
-- IRYS | Alpha Trade 成交额 139038.02 | 列表口径 1521432.08 | 涨跌 -1.63% | 振幅 16.83% | 估算人数 17
-- BEE | Alpha Trade 成交额 30329.85 | 列表口径 364492.01 | 涨跌 -6.52% | 振幅 11.86% | 估算人数 4
-- MPLX | Alpha Trade 成交额 1744.57 | 列表口径 22066.83 | 涨跌 -6.58% | 振幅 7.05% | 估算人数 0
+- BSB | Alpha Trade 成交额 630278111.22 | 列表口径 3200221.51 | 涨跌 -5.90% | 振幅 9.11% | 估算人数 76863
+- AEON | Alpha Trade 成交额 12677485.47 | 列表口径 55870443.71 | 涨跌 62.90% | 振幅 259.75% | 估算人数 1546
+- ON | Alpha Trade 成交额 5103718.83 | 列表口径 22590222.28 | 涨跌 29.85% | 振幅 42.57% | 估算人数 622
+- EDGE | Alpha Trade 成交额 172574.02 | 列表口径 3481099.34 | 涨跌 0.21% | 振幅 9.01% | 估算人数 21
+- COLLECT | Alpha Trade 成交额 151910.56 | 列表口径 2858875.26 | 涨跌 6.36% | 振幅 12.06% | 估算人数 19
+- IRYS | Alpha Trade 成交额 122728.88 | 列表口径 1285329.38 | 涨跌 0.92% | 振幅 17.35% | 估算人数 15
+- BEE | Alpha Trade 成交额 26955.59 | 列表口径 339438.94 | 涨跌 -4.77% | 振幅 11.86% | 估算人数 3
+- MPLX | Alpha Trade 成交额 1611.49 | 列表口径 21079.05 | 涨跌 -5.65% | 振幅 6.00% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 93.80 | Alpha Trade 成交额 619002396.62 | 波动 0.16% | 4h 振幅 2.61% | 审计 LOW
-  - Alpha Trade 24h 成交额 619,002,397，流动性 1,511,625
-  - Alpha 列表口径 24h 成交额 3,647,529
-  - 短周期波动 0.16%
-  - 4h 振幅 2.61%
+- BSB | 分数 92.18 | Alpha Trade 成交额 630278111.22 | 波动 0.20% | 4h 振幅 2.19% | 审计 LOW
+  - Alpha Trade 24h 成交额 630,278,111，流动性 1,517,032
+  - Alpha 列表口径 24h 成交额 3,200,222
+  - 短周期波动 0.20%
+  - 4h 振幅 2.19%
   - 审计风险 LOW
-- AEON | 分数 49.33 | Alpha Trade 成交额 12029617.14 | 波动 1.21% | 4h 振幅 13.33% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,029,617，流动性 1,680,824
-  - Alpha 列表口径 24h 成交额 52,819,061
-  - 短周期波动 1.21%
-  - 4h 振幅 13.33%
+- AEON | 分数 45.83 | Alpha Trade 成交额 12677485.47 | 波动 1.17% | 4h 振幅 16.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,677,485，流动性 1,756,742
+  - Alpha 列表口径 24h 成交额 55,870,444
+  - 短周期波动 1.17%
+  - 4h 振幅 16.24%
   - 审计风险 LOW
-- ON | 分数 10.00 | Alpha Trade 成交额 5092346.65 | 波动 2.60% | 4h 振幅 26.19% | 审计 LOW
-  - Alpha Trade 24h 成交额 5,092,347，流动性 1,134,662
-  - Alpha 列表口径 24h 成交额 21,014,822
-  - 短周期波动 2.60%
-  - 4h 振幅 26.19%
+- ON | 分数 10.00 | Alpha Trade 成交额 5103718.83 | 波动 2.32% | 4h 振幅 19.06% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,103,719，流动性 1,143,907
+  - Alpha 列表口径 24h 成交额 22,590,222
+  - 短周期波动 2.32%
+  - 4h 振幅 19.06%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -46,12 +46,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-07-30
-- Latest Binance News：Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading
+- Latest Binance News：Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)
 - Latest Activities：Word of the Day: Test Your Knowledge on “Binance AI Agent” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
-- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 52819061.33
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 55870443.71
 
 ### New Cryptocurrency Listing
 
@@ -64,12 +64,12 @@
 
 ### Latest Binance News
 
+- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)](https://www.binance.com/en/support/announcement/detail/b4a1a7c64f454abda5b22860cd52c682)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 - [Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading](https://www.binance.com/en/support/announcement/detail/29fbef18add84302bda7d4ff98111262)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Materials not directed at users in restrict…
 - [Binance Capital Connect — Delisting & Access Criteria](https://www.binance.com/en/support/announcement/detail/5a8ae66176794fe79cd0f250b3ec05e5)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Effective 2026-07-27 , Binance is introducing…
-- [Binance Will Support the Nokia (NOK) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/6ec640f5b2e847df894b9c66456824cd)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 
 ### Latest Activities
 
