@@ -1,41 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-29T10:07:26.961240+00:00
+- 生成时间：2026-07-29T12:19:16.767970+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：695778606.18
+- 四倍分 24h 总成交额：701725483.07
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：84851（按 8200 / 人）
+- 估算参与人数：85576（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 678941258.40 | 列表口径 2215170.81 | 涨跌 1.02% | 振幅 3.69% | 估算人数 82798
-- ON | Alpha Trade 成交额 12441340.22 | 列表口径 47055682.80 | 涨跌 11.08% | 振幅 78.14% | 估算人数 1517
-- AEON | Alpha Trade 成交额 3935335.80 | 列表口径 25045442.06 | 涨跌 11.35% | 振幅 35.21% | 估算人数 480
-- COLLECT | Alpha Trade 成交额 223560.21 | 列表口径 2848898.73 | 涨跌 -7.23% | 振幅 15.57% | 估算人数 27
-- EDGE | Alpha Trade 成交额 123821.52 | 列表口径 2081599.55 | 涨跌 -0.37% | 振幅 6.85% | 估算人数 15
-- IRYS | Alpha Trade 成交额 98429.40 | 列表口径 856420.42 | 涨跌 8.06% | 振幅 13.52% | 估算人数 12
-- BEE | Alpha Trade 成交额 14286.89 | 列表口径 249814.38 | 涨跌 0.28% | 振幅 3.23% | 估算人数 2
-- MPLX | Alpha Trade 成交额 573.74 | 列表口径 210729.17 | 涨跌 10.04% | 振幅 18.45% | 估算人数 0
+- BSB | Alpha Trade 成交额 684761990.49 | 列表口径 2283312.91 | 涨跌 0.27% | 振幅 4.12% | 估算人数 83508
+- ON | Alpha Trade 成交额 12522405.56 | 列表口径 49562389.19 | 涨跌 24.70% | 振幅 65.25% | 估算人数 1527
+- AEON | Alpha Trade 成交额 3972468.74 | 列表口径 25024804.33 | 涨跌 7.03% | 振幅 35.21% | 估算人数 484
+- COLLECT | Alpha Trade 成交额 238312.11 | 列表口径 2705921.68 | 涨跌 -7.71% | 振幅 16.35% | 估算人数 29
+- EDGE | Alpha Trade 成交额 114939.45 | 列表口径 2027594.43 | 涨跌 -1.52% | 振幅 6.85% | 估算人数 14
+- IRYS | Alpha Trade 成交额 106034.18 | 列表口径 930563.12 | 涨跌 10.81% | 振幅 12.75% | 估算人数 13
+- BEE | Alpha Trade 成交额 8628.62 | 列表口径 232337.34 | 涨跌 0.50% | 振幅 3.23% | 估算人数 1
+- MPLX | Alpha Trade 成交额 703.92 | 列表口径 200022.35 | 涨跌 5.69% | 振幅 17.36% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 90.35 | Alpha Trade 成交额 678941258.40 | 波动 0.24% | 4h 振幅 2.35% | 审计 LOW
-  - Alpha Trade 24h 成交额 678,941,258，流动性 1,520,370
-  - Alpha 列表口径 24h 成交额 2,215,171
-  - 短周期波动 0.24%
-  - 4h 振幅 2.35%
+- BSB | 分数 88.22 | Alpha Trade 成交额 684761990.49 | 波动 0.16% | 4h 振幅 1.97% | 审计 LOW
+  - Alpha Trade 24h 成交额 684,761,990，流动性 1,516,744
+  - Alpha 列表口径 24h 成交额 2,283,313
+  - 短周期波动 0.16%
+  - 4h 振幅 1.97%
   - 审计风险 LOW
-- AEON | 分数 53.62 | Alpha Trade 成交额 3935335.80 | 波动 1.05% | 4h 振幅 8.08% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,935,336，流动性 1,830,087
-  - Alpha 列表口径 24h 成交额 25,045,442
-  - 短周期波动 1.05%
-  - 4h 振幅 8.08%
+- AEON | 分数 51.95 | Alpha Trade 成交额 3972468.74 | 波动 0.99% | 4h 振幅 11.87% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,972,469，流动性 1,797,643
+  - Alpha 列表口径 24h 成交额 25,024,804
+  - 短周期波动 0.99%
+  - 4h 振幅 11.87%
   - 审计风险 LOW
-- ON | 分数 10.32 | Alpha Trade 成交额 12441340.22 | 波动 2.16% | 4h 振幅 27.08% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,441,340，流动性 1,187,899
-  - Alpha 列表口径 24h 成交额 47,055,683
-  - 短周期波动 2.16%
-  - 4h 振幅 27.08%
+- ON | 分数 10.31 | Alpha Trade 成交额 12522405.56 | 波动 2.02% | 4h 振幅 28.06% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,522,406，流动性 1,320,844
+  - Alpha 列表口径 24h 成交额 49,562,389
+  - 短周期波动 2.02%
+  - 4h 振幅 28.06%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -46,12 +46,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
-- Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-29)
+- Latest Binance News：Binance Launches Commodity Options — Trade Gold and Silver Options with USDT
 - Latest Activities：Binance Alpha Trading Competition: Trade Perle (PRL) and Share $200K Worth of Rewards (2026-07-29)
 
 ### 最近 Alpha 上线
 
-- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 25045442.06
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 25024804.33
 
 ### New Cryptocurrency Listing
 
@@ -64,12 +64,12 @@
 
 ### Latest Binance News
 
+- [Binance Launches Commodity Options — Trade Gold and Silver Options with USDT](https://www.binance.com/en/support/announcement/detail/068cb34c503a417982f8c9c6493ff5bf)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance is bringing traditional markets to cry…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-29)](https://www.binance.com/en/support/announcement/detail/06cf8a403355487695dbf3a5abaa7839)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; &nbsp;Binanc…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-30)](https://www.binance.com/en/support/announcement/detail/731403f07ae7487b907bef649bdda4d6)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
-- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)](https://www.binance.com/en/support/announcement/detail/b4a1a7c64f454abda5b22860cd52c682)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 
 ### Latest Activities
 
