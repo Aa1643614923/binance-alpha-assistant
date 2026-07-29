@@ -1,41 +1,41 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-29T04:31:28.621016+00:00
+- 生成时间：2026-07-29T07:24:17.221192+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：678778532.43
+- 四倍分 24h 总成交额：688383200.11
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：82778（按 8200 / 人）
+- 估算参与人数：83949（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 662703273.05 | 列表口径 2052448.48 | 涨跌 -0.77% | 振幅 3.24% | 估算人数 80817
-- ON | Alpha Trade 成交额 12180004.53 | 列表口径 44114767.35 | 涨跌 41.65% | 振幅 102.72% | 估算人数 1485
-- AEON | Alpha Trade 成交额 3494168.89 | 列表口径 20138096.31 | 涨跌 2.02% | 振幅 19.15% | 估算人数 426
-- COLLECT | Alpha Trade 成交额 165453.60 | 列表口径 2990180.55 | 涨跌 -4.37% | 振幅 10.33% | 估算人数 20
-- EDGE | Alpha Trade 成交额 132648.46 | 列表口径 2508633.82 | 涨跌 -3.50% | 振幅 6.85% | 估算人数 16
-- IRYS | Alpha Trade 成交额 80850.56 | 列表口径 783622.32 | 涨跌 10.25% | 振幅 14.60% | 估算人数 10
-- BEE | Alpha Trade 成交额 21868.21 | 列表口径 277201.34 | 涨跌 0.25% | 振幅 4.15% | 估算人数 3
-- MPLX | Alpha Trade 成交额 265.13 | 列表口径 149214.65 | 涨跌 13.59% | 振幅 16.07% | 估算人数 0
+- BSB | Alpha Trade 成交额 671649146.69 | 列表口径 2218177.00 | 涨跌 0.52% | 振幅 3.61% | 估算人数 81908
+- ON | Alpha Trade 成交额 12212004.72 | 列表口径 44848705.75 | 涨跌 21.81% | 振幅 85.56% | 估算人数 1489
+- AEON | Alpha Trade 成交额 4070725.32 | 列表口径 24066835.06 | 涨跌 18.62% | 振幅 35.21% | 估算人数 496
+- COLLECT | Alpha Trade 成交额 215253.01 | 列表口径 3022980.39 | 涨跌 -6.73% | 振幅 15.24% | 估算人数 26
+- EDGE | Alpha Trade 成交额 128781.45 | 列表口径 2326898.28 | 涨跌 -1.26% | 振幅 6.85% | 估算人数 16
+- IRYS | Alpha Trade 成交额 92703.00 | 列表口径 817884.71 | 涨跌 9.12% | 振幅 14.60% | 估算人数 11
+- BEE | Alpha Trade 成交额 14175.49 | 列表口径 222473.33 | 涨跌 0.75% | 振幅 3.13% | 估算人数 2
+- MPLX | Alpha Trade 成交额 410.44 | 列表口径 208374.94 | 涨跌 14.41% | 振幅 19.25% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 87.43 | Alpha Trade 成交额 662703273.05 | 波动 0.17% | 4h 振幅 3.07% | 审计 LOW
-  - Alpha Trade 24h 成交额 662,703,273，流动性 1,508,681
-  - Alpha 列表口径 24h 成交额 2,052,448
-  - 短周期波动 0.17%
-  - 4h 振幅 3.07%
+- BSB | 分数 89.15 | Alpha Trade 成交额 671649146.69 | 波动 0.27% | 4h 振幅 3.33% | 审计 LOW
+  - Alpha Trade 24h 成交额 671,649,147，流动性 1,516,187
+  - Alpha 列表口径 24h 成交额 2,218,177
+  - 短周期波动 0.27%
+  - 4h 振幅 3.33%
   - 审计风险 LOW
-- AEON | 分数 56.92 | Alpha Trade 成交额 3494168.89 | 波动 0.71% | 4h 振幅 7.48% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,494,169，流动性 1,734,290
-  - Alpha 列表口径 24h 成交额 20,138,096
-  - 短周期波动 0.71%
-  - 4h 振幅 7.48%
+- AEON | 分数 37.46 | Alpha Trade 成交额 4070725.32 | 波动 3.31% | 4h 振幅 21.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,070,725，流动性 1,839,172
+  - Alpha 列表口径 24h 成交额 24,066,835
+  - 短周期波动 3.31%
+  - 4h 振幅 21.98%
   - 审计风险 LOW
-- ON | 分数 10.33 | Alpha Trade 成交额 12180004.53 | 波动 2.79% | 4h 振幅 22.78% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,180,005，流动性 1,375,289
-  - Alpha 列表口径 24h 成交额 44,114,767
-  - 短周期波动 2.79%
-  - 4h 振幅 22.78%
+- ON | 分数 16.41 | Alpha Trade 成交额 12212004.72 | 波动 2.38% | 4h 振幅 31.34% | 审计 LOW
+  - Alpha Trade 24h 成交额 12,212,005，流动性 1,243,934
+  - Alpha 列表口径 24h 成交额 44,848,706
+  - 短周期波动 2.38%
+  - 4h 振幅 31.34%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -45,31 +45,31 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-07-30
-- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-30)
+- 官方最新上新关注：Binance Exchange Adds 10 bStocks Trading Pairs on Binance Spot - 2026-07-29
+- Latest Binance News：Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-29)
 - Latest Activities：Word of the Day: Test Your Knowledge on “Binance AI Agent” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
-- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 20138096.31
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 24066835.06
 
 ### New Cryptocurrency Listing
 
+- [Binance Exchange Adds 10 bStocks Trading Pairs on Binance Spot - 2026-07-29](https://www.binance.com/en/support/announcement/detail/fd3c0f17a7504eb5be1cb1911c6da0cd)
+  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
+- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-29)](https://www.binance.com/en/support/announcement/detail/93b5cd2280874d9cb4303827374b940d)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-07-30](https://www.binance.com/en/support/announcement/detail/30b76da5daf8469a9f71b09a7441691e)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-27)](https://www.binance.com/en/support/announcement/detail/a827177a387e4ebea830110ba222ca48)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Futures Will Launch POPMARTUSDT USDⓈ-Margined Perpetual Contract (2026-07-23)](https://www.binance.com/en/support/announcement/detail/fcdc949b45a644c78e341c88331a35ef)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
+- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-29)](https://www.binance.com/en/support/announcement/detail/06cf8a403355487695dbf3a5abaa7839)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; &nbsp;Binanc…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-30)](https://www.binance.com/en/support/announcement/detail/731403f07ae7487b907bef649bdda4d6)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 - [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)](https://www.binance.com/en/support/announcement/detail/b4a1a7c64f454abda5b22860cd52c682)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
-- [Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading](https://www.binance.com/en/support/announcement/detail/29fbef18add84302bda7d4ff98111262)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Materials not directed at users in restrict…
 
 ### Latest Activities
 
