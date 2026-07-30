@@ -1,32 +1,32 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-30T06:11:31.630737+00:00
+- 生成时间：2026-07-30T09:04:24.146418+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：692295745.77
+- 四倍分 24h 总成交额：684922308.87
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：84426（按 8200 / 人）
+- 估算参与人数：83527（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 688077842.49 | 列表口径 3996870.63 | 涨跌 6.12% | 振幅 10.99% | 估算人数 83912
-- AEON | Alpha Trade 成交额 3984339.47 | 列表口径 25884887.54 | 涨跌 -0.31% | 振幅 20.89% | 估算人数 486
-- EDGE | Alpha Trade 成交额 144027.54 | 列表口径 2100989.66 | 涨跌 1.08% | 振幅 5.27% | 估算人数 18
-- IRYS | Alpha Trade 成交额 81657.42 | 列表口径 780213.82 | 涨跌 -5.51% | 振幅 9.55% | 估算人数 10
-- BEE | Alpha Trade 成交额 7878.85 | 列表口径 202264.03 | 涨跌 -0.89% | 振幅 4.12% | 估算人数 1
+- BSB | Alpha Trade 成交额 681133675.54 | 列表口径 4114881.79 | 涨跌 3.85% | 振幅 9.72% | 估算人数 83065
+- AEON | Alpha Trade 成交额 3571136.84 | 列表口径 23390618.62 | 涨跌 -7.38% | 振幅 20.89% | 估算人数 436
+- EDGE | Alpha Trade 成交额 137034.50 | 列表口径 2133022.76 | 涨跌 2.71% | 振幅 5.58% | 估算人数 17
+- IRYS | Alpha Trade 成交额 71984.53 | 列表口径 748242.16 | 涨跌 -3.72% | 振幅 11.01% | 估算人数 9
+- BEE | Alpha Trade 成交额 8477.47 | 列表口径 178638.91 | 涨跌 0.59% | 振幅 2.94% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- BSB | 分数 80.00 | Alpha Trade 成交额 688077842.49 | 波动 0.48% | 4h 振幅 5.33% | 审计 LOW
-  - Alpha Trade 24h 成交额 688,077,842，流动性 1,535,743
-  - Alpha 列表口径 24h 成交额 3,996,871
-  - 短周期波动 0.48%
-  - 4h 振幅 5.33%
+- BSB | 分数 80.00 | Alpha Trade 成交额 681133675.54 | 波动 0.27% | 4h 振幅 1.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 681,133,676，流动性 1,531,119
+  - Alpha 列表口径 24h 成交额 4,114,882
+  - 短周期波动 0.27%
+  - 4h 振幅 1.98%
   - 审计风险 LOW
-- AEON | 分数 30.00 | Alpha Trade 成交额 3984339.47 | 波动 0.69% | 4h 振幅 6.78% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,984,339，流动性 1,824,563
-  - Alpha 列表口径 24h 成交额 25,884,888
-  - 短周期波动 0.69%
-  - 4h 振幅 6.78%
+- AEON | 分数 30.00 | Alpha Trade 成交额 3571136.84 | 波动 0.74% | 4h 振幅 9.99% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,571,137，流动性 1,764,952
+  - Alpha 列表口径 24h 成交额 23,390,619
+  - 短周期波动 0.74%
+  - 4h 振幅 9.99%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -35,14 +35,15 @@
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
+- 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
-- Latest Binance News：Notice on Jersey Mike’s (JMKE) on Binance Stocks - 2026-07-30
-- Latest Activities：Limited-Time LATAM New User Gift: Deposit & Trade to Get Up to 15 USDT worth of Rewards
+- Latest Binance News：Binance Wallet Alpha Deposit Campaign: Deposit Grvt (GRVT) and Share $20K Worth of Rewards
+- Latest Activities：MIRA Trading Tournament: Trade to Share Up to 10,000,000 MIRA Token Vouchers
 
 ### 最近 Alpha 上线
 
-- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 25884887.54
+- MarsCoin | 1x | 上线 2026-07-30T06:50:04.934000+00:00 | 24h 成交额 20289513.27
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 23390618.62
 
 ### New Cryptocurrency Listing
 
@@ -55,21 +56,21 @@
 
 ### Latest Binance News
 
+- [Binance Wallet Alpha Deposit Campaign: Deposit Grvt (GRVT) and Share $20K Worth of Rewards](https://www.binance.com/en/support/announcement/detail/7de7d813aeb5427f9b28265dc1a671bf)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance Wallet is…
 - [Notice on Jersey Mike’s (JMKE) on Binance Stocks - 2026-07-30](https://www.binance.com/en/support/announcement/detail/159d2f8bf748434c9beb538d0457aa7b)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered…
 - [Binance Launches Commodity Options — Trade Gold and Silver Options with USDT](https://www.binance.com/en/support/announcement/detail/068cb34c503a417982f8c9c6493ff5bf)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance is bringing traditional markets to cry…
-- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-29)](https://www.binance.com/en/support/announcement/detail/06cf8a403355487695dbf3a5abaa7839)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; &nbsp;Binanc…
 
 ### Latest Activities
 
+- [MIRA Trading Tournament: Trade to Share Up to 10,000,000 MIRA Token Vouchers](https://www.binance.com/en/support/announcement/detail/9bac0161c049454588d06963a573b975)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 - [Limited-Time LATAM New User Gift: Deposit & Trade to Get Up to 15 USDT worth of Rewards](https://www.binance.com/en/support/announcement/detail/a9cef16cad954bd7bc2c1103480c2cab)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 - [Binance Alpha Trading Competition: Trade Perle (PRL) and Share $200K Worth of Rewards (2026-07-29)](https://www.binance.com/en/support/announcement/detail/21f8a7399c2542e68452f266ecb0a8ef)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [New Users Exclusive: The Binance Starter Pack: BTC Edition – Get Your Share From a 2 BTC Reward Pool to Start Your Crypto Journey](https://www.binance.com/en/support/announcement/detail/f7a1a14b19384f8db81f1ff393a014f5)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
