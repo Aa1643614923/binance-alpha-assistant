@@ -1,41 +1,32 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-29T23:16:06.144398+00:00
-- 四倍分代币数：8
-- 四倍分 24h 总成交额：723636788.32
+- 生成时间：2026-07-30T00:14:49.464411+00:00
+- 四倍分代币数：5
+- 四倍分 24h 总成交额：714229777.91
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：88248（按 8200 / 人）
+- 估算参与人数：87101（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 710970782.16 | 列表口径 2860701.69 | 涨跌 2.66% | 振幅 5.35% | 估算人数 86704
-- ON | Alpha Trade 成交额 8002646.67 | 列表口径 41649485.84 | 涨跌 -12.90% | 振幅 63.74% | 估算人数 976
-- AEON | Alpha Trade 成交额 4244210.97 | 列表口径 27262912.21 | 涨跌 31.44% | 振幅 35.36% | 估算人数 518
-- COLLECT | Alpha Trade 成交额 170607.07 | 列表口径 2158983.33 | 涨跌 -6.20% | 振幅 12.71% | 估算人数 21
-- EDGE | Alpha Trade 成交额 124814.31 | 列表口径 2394152.23 | 涨跌 -0.38% | 振幅 6.46% | 估算人数 15
-- IRYS | Alpha Trade 成交额 110989.39 | 列表口径 985784.93 | 涨跌 5.55% | 振幅 11.88% | 估算人数 14
-- MPLX | Alpha Trade 成交额 7306.68 | 列表口径 234892.33 | 涨跌 0.67% | 振幅 16.17% | 估算人数 1
-- BEE | Alpha Trade 成交额 5431.08 | 列表口径 235839.84 | 涨跌 0.31% | 振幅 3.74% | 估算人数 1
+- BSB | Alpha Trade 成交额 709628354.23 | 列表口径 2920455.50 | 涨跌 3.71% | 振幅 6.84% | 估算人数 86540
+- AEON | Alpha Trade 成交额 4353931.70 | 列表口径 27796407.31 | 涨跌 21.67% | 振幅 33.14% | 估算人数 531
+- EDGE | Alpha Trade 成交额 128444.08 | 列表口径 2403318.44 | 涨跌 -0.01% | 振幅 6.46% | 估算人数 16
+- IRYS | Alpha Trade 成交额 114040.16 | 列表口径 1027579.55 | 涨跌 6.81% | 振幅 11.46% | 估算人数 14
+- BEE | Alpha Trade 成交额 5007.74 | 列表口径 214913.56 | 涨跌 -1.55% | 振幅 3.74% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- BSB | 分数 85.41 | Alpha Trade 成交额 710970782.16 | 波动 0.24% | 4h 振幅 2.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 710,970,782，流动性 1,522,976
-  - Alpha 列表口径 24h 成交额 2,860,702
-  - 短周期波动 0.24%
-  - 4h 振幅 2.77%
+- BSB | 分数 80.00 | Alpha Trade 成交额 709628354.23 | 波动 0.27% | 4h 振幅 3.77% | 审计 LOW
+  - Alpha Trade 24h 成交额 709,628,354，流动性 1,530,840
+  - Alpha 列表口径 24h 成交额 2,920,456
+  - 短周期波动 0.27%
+  - 4h 振幅 3.77%
   - 审计风险 LOW
-- AEON | 分数 39.00 | Alpha Trade 成交额 4244210.97 | 波动 1.19% | 4h 振幅 11.07% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,244,211，流动性 1,895,949
-  - Alpha 列表口径 24h 成交额 27,262,912
-  - 短周期波动 1.19%
-  - 4h 振幅 11.07%
-  - 审计风险 LOW
-- ON | 分数 16.12 | Alpha Trade 成交额 8002646.67 | 波动 0.91% | 4h 振幅 17.21% | 审计 LOW
-  - Alpha Trade 24h 成交额 8,002,647，流动性 1,384,746
-  - Alpha 列表口径 24h 成交额 41,649,486
-  - 短周期波动 0.91%
-  - 4h 振幅 17.21%
+- AEON | 分数 30.00 | Alpha Trade 成交额 4353931.70 | 波动 0.87% | 4h 振幅 7.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,353,932，流动性 1,859,723
+  - Alpha 列表口径 24h 成交额 27,796,407
+  - 短周期波动 0.87%
+  - 4h 振幅 7.38%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -51,7 +42,7 @@
 
 ### 最近 Alpha 上线
 
-- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 27262912.21
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 27796407.31
 
 ### New Cryptocurrency Listing
 
@@ -83,8 +74,6 @@
 ## Warnings
 
 - alpha_ticker:ALPHA_790U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_444U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_261U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_235U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - futures_exchange_info: all fallback endpoints failed: https://www.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/exchangeInfo | https://fapi.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/exchangeInfo
 - futures_ticker_24hr: all fallback endpoints failed: https://www.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/ticker/24hr | https://fapi.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/ticker/24hr
