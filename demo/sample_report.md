@@ -1,32 +1,32 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-30T03:36:07.673608+00:00
+- 生成时间：2026-07-30T06:11:31.630737+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：701451726.99
+- 四倍分 24h 总成交额：692295745.77
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：85543（按 8200 / 人）
+- 估算参与人数：84426（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 696635568.43 | 列表口径 3547003.81 | 涨跌 9.39% | 振幅 12.39% | 估算人数 84956
-- AEON | Alpha Trade 成交额 4583422.48 | 列表口径 28212501.88 | 涨跌 13.77% | 振幅 29.29% | 估算人数 559
-- EDGE | Alpha Trade 成交额 131631.32 | 列表口径 2195876.36 | 涨跌 5.17% | 振幅 6.39% | 估算人数 16
-- IRYS | Alpha Trade 成交额 96300.07 | 列表口径 922739.48 | 涨跌 -2.55% | 振幅 9.51% | 估算人数 12
-- BEE | Alpha Trade 成交额 4804.69 | 列表口径 199512.68 | 涨跌 0.12% | 振幅 4.12% | 估算人数 1
+- BSB | Alpha Trade 成交额 688077842.49 | 列表口径 3996870.63 | 涨跌 6.12% | 振幅 10.99% | 估算人数 83912
+- AEON | Alpha Trade 成交额 3984339.47 | 列表口径 25884887.54 | 涨跌 -0.31% | 振幅 20.89% | 估算人数 486
+- EDGE | Alpha Trade 成交额 144027.54 | 列表口径 2100989.66 | 涨跌 1.08% | 振幅 5.27% | 估算人数 18
+- IRYS | Alpha Trade 成交额 81657.42 | 列表口径 780213.82 | 涨跌 -5.51% | 振幅 9.55% | 估算人数 10
+- BEE | Alpha Trade 成交额 7878.85 | 列表口径 202264.03 | 涨跌 -0.89% | 振幅 4.12% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- BSB | 分数 80.00 | Alpha Trade 成交额 696635568.43 | 波动 0.42% | 4h 振幅 6.78% | 审计 LOW
-  - Alpha Trade 24h 成交额 696,635,568，流动性 1,548,662
-  - Alpha 列表口径 24h 成交额 3,547,004
-  - 短周期波动 0.42%
-  - 4h 振幅 6.78%
+- BSB | 分数 80.00 | Alpha Trade 成交额 688077842.49 | 波动 0.48% | 4h 振幅 5.33% | 审计 LOW
+  - Alpha Trade 24h 成交额 688,077,842，流动性 1,535,743
+  - Alpha 列表口径 24h 成交额 3,996,871
+  - 短周期波动 0.48%
+  - 4h 振幅 5.33%
   - 审计风险 LOW
-- AEON | 分数 30.00 | Alpha Trade 成交额 4583422.48 | 波动 1.19% | 4h 振幅 10.68% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,583,422，流动性 1,811,119
-  - Alpha 列表口径 24h 成交额 28,212,502
-  - 短周期波动 1.19%
-  - 4h 振幅 10.68%
+- AEON | 分数 30.00 | Alpha Trade 成交额 3984339.47 | 波动 0.69% | 4h 振幅 6.78% | 审计 LOW
+  - Alpha Trade 24h 成交额 3,984,339，流动性 1,824,563
+  - Alpha 列表口径 24h 成交额 25,884,888
+  - 短周期波动 0.69%
+  - 4h 振幅 6.78%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -37,12 +37,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
-- Latest Binance News：Binance Launches Commodity Options — Trade Gold and Silver Options with USDT
+- Latest Binance News：Notice on Jersey Mike’s (JMKE) on Binance Stocks - 2026-07-30
 - Latest Activities：Limited-Time LATAM New User Gift: Deposit & Trade to Get Up to 15 USDT worth of Rewards
 
 ### 最近 Alpha 上线
 
-- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 28212501.88
+- AEON | 4x | 上线 2026-07-27T10:00:00+00:00 | 24h 成交额 25884887.54
 
 ### New Cryptocurrency Listing
 
@@ -55,12 +55,12 @@
 
 ### Latest Binance News
 
+- [Notice on Jersey Mike’s (JMKE) on Binance Stocks - 2026-07-30](https://www.binance.com/en/support/announcement/detail/159d2f8bf748434c9beb538d0457aa7b)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered…
 - [Binance Launches Commodity Options — Trade Gold and Silver Options with USDT](https://www.binance.com/en/support/announcement/detail/068cb34c503a417982f8c9c6493ff5bf)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance is bringing traditional markets to cry…
 - [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-29)](https://www.binance.com/en/support/announcement/detail/06cf8a403355487695dbf3a5abaa7839)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; &nbsp;Binanc…
-- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-07-30)](https://www.binance.com/en/support/announcement/detail/731403f07ae7487b907bef649bdda4d6)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 
 ### Latest Activities
 
