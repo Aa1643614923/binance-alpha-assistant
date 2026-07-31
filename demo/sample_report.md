@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-31T10:15:28.268238+00:00
+- 生成时间：2026-07-31T12:21:21.387728+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：690436699.86
+- 四倍分 24h 总成交额：701248670.94
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：84200（按 8200 / 人）
+- 估算参与人数：85518（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 634046623.92 | 列表口径 2227316.96 | 涨跌 -2.10% | 振幅 4.07% | 估算人数 77323
-- GRVT | Alpha Trade 成交额 54116363.36 | 列表口径 51482703.34 | 涨跌 61.78% | 振幅 269.54% | 估算人数 6600
-- AEON | Alpha Trade 成交额 2025245.19 | 列表口径 28468577.15 | 涨跌 -19.61% | 振幅 140.07% | 估算人数 247
-- EDGE | Alpha Trade 成交额 181177.12 | 列表口径 3242415.53 | 涨跌 -4.64% | 振幅 7.52% | 估算人数 22
-- IRYS | Alpha Trade 成交额 47595.70 | 列表口径 517564.60 | 涨跌 -3.38% | 振幅 6.98% | 估算人数 6
-- BEE | Alpha Trade 成交额 19694.56 | 列表口径 189367.58 | 涨跌 0.74% | 振幅 2.61% | 估算人数 2
+- BSB | Alpha Trade 成交额 636732498.16 | 列表口径 2125771.90 | 涨跌 -1.86% | 振幅 4.07% | 估算人数 77650
+- GRVT | Alpha Trade 成交额 62267911.31 | 列表口径 51232993.61 | 涨跌 -27.57% | 振幅 121.66% | 估算人数 7594
+- AEON | Alpha Trade 成交额 2005969.22 | 列表口径 30233051.29 | 涨跌 -21.84% | 振幅 36.48% | 估算人数 245
+- EDGE | Alpha Trade 成交额 174411.98 | 列表口径 3190191.32 | 涨跌 -5.18% | 振幅 9.17% | 估算人数 21
+- IRYS | Alpha Trade 成交额 45564.50 | 列表口径 501490.59 | 涨跌 -3.82% | 振幅 5.84% | 估算人数 6
+- BEE | Alpha Trade 成交额 22315.77 | 列表口径 157989.96 | 涨跌 -0.11% | 振幅 2.61% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- BSB | 分数 97.97 | Alpha Trade 成交额 634046623.92 | 波动 0.25% | 4h 振幅 1.85% | 审计 LOW
-  - Alpha Trade 24h 成交额 634,046,624，流动性 1,517,101
-  - Alpha 列表口径 24h 成交额 2,227,317
-  - 短周期波动 0.25%
-  - 4h 振幅 1.85%
+- BSB | 分数 100.00 | Alpha Trade 成交额 636732498.16 | 波动 0.15% | 4h 振幅 0.95% | 审计 LOW
+  - Alpha Trade 24h 成交额 636,732,498，流动性 1,516,241
+  - Alpha 列表口径 24h 成交额 2,125,772
+  - 短周期波动 0.15%
+  - 4h 振幅 0.95%
   - 审计风险 LOW
-- AEON | 分数 31.67 | Alpha Trade 成交额 2025245.19 | 波动 1.42% | 4h 振幅 14.55% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,025,245，流动性 1,589,209
-  - Alpha 列表口径 24h 成交额 28,468,577
-  - 短周期波动 1.42%
-  - 4h 振幅 14.55%
+- AEON | 分数 38.57 | Alpha Trade 成交额 2005969.22 | 波动 1.55% | 4h 振幅 18.21% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,005,969，流动性 1,515,235
+  - Alpha 列表口径 24h 成交额 30,233,051
+  - 短周期波动 1.55%
+  - 4h 振幅 18.21%
   - 审计风险 LOW
-- GRVT | 分数 20.71 | Alpha Trade 成交额 54116363.36 | 波动 1.22% | 4h 振幅 7.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 54,116,363，流动性 878,839
-  - Alpha 列表口径 24h 成交额 51,482,703
-  - 短周期波动 1.22%
-  - 4h 振幅 7.91%
+- GRVT | 分数 12.37 | Alpha Trade 成交额 62267911.31 | 波动 1.87% | 4h 振幅 26.50% | 审计 LOW
+  - Alpha Trade 24h 成交额 62,267,911，流动性 971,530
+  - Alpha 列表口径 24h 成交额 51,232,994
+  - 短周期波动 1.87%
+  - 4h 振幅 26.50%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -43,23 +43,23 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined GRVTUSDT Perpetual Contract (2026-07-31)
 - Latest Binance News：Binance Adds TAO and ASTER on Simple Earn Locked Products
 - Latest Activities：Referral Summer Finale: Invite Friends and Earn Up to 8,000 USDC
 
 ### 最近 Alpha 上线
 
-- GRVT | 4x | 上线 2026-07-30T12:00:00+00:00 | 24h 成交额 51482703.34
-- MarsCoin | 1x | 上线 2026-07-30T06:50:04.934000+00:00 | 24h 成交额 29958762.69
+- GRVT | 4x | 上线 2026-07-30T12:00:00+00:00 | 24h 成交额 51232993.61
+- MarsCoin | 1x | 上线 2026-07-30T06:50:04.934000+00:00 | 24h 成交额 20068383.28
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined GRVTUSDT Perpetual Contract (2026-07-31)](https://www.binance.com/en/support/announcement/detail/20536b05b2a34b87a3bae99c45d0dc91)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/6a167ac6ee74496b83a820675aea1dbe)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 - [Binance Exchange Adds 10 bStocks Trading Pairs on Binance Spot - 2026-07-29](https://www.binance.com/en/support/announcement/detail/fd3c0f17a7504eb5be1cb1911c6da0cd)
   - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
-- [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-29)](https://www.binance.com/en/support/announcement/detail/93b5cd2280874d9cb4303827374b940d)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 
 ### Latest Binance News
 
