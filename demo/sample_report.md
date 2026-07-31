@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-07-31T07:37:33.132840+00:00
+- 生成时间：2026-07-31T10:15:28.268238+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：674353728.69
+- 四倍分 24h 总成交额：690436699.86
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：82238（按 8200 / 人）
+- 估算参与人数：84200（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 629789830.21 | 列表口径 2381574.02 | 涨跌 -3.85% | 振幅 4.81% | 估算人数 76804
-- GRVT | Alpha Trade 成交额 42230195.95 | 列表口径 49044273.25 | 涨跌 58.44% | 振幅 269.54% | 估算人数 5150
-- AEON | Alpha Trade 成交额 2087570.38 | 列表口径 25379908.82 | 涨跌 -16.17% | 振幅 114.74% | 估算人数 255
-- EDGE | Alpha Trade 成交额 189234.41 | 列表口径 3381793.36 | 涨跌 -1.38% | 振幅 7.29% | 估算人数 23
-- IRYS | Alpha Trade 成交额 38833.33 | 列表口径 562278.27 | 涨跌 1.21% | 振幅 6.81% | 估算人数 5
-- BEE | Alpha Trade 成交额 18064.41 | 列表口径 214559.67 | 涨跌 1.48% | 振幅 4.82% | 估算人数 2
+- BSB | Alpha Trade 成交额 634046623.92 | 列表口径 2227316.96 | 涨跌 -2.10% | 振幅 4.07% | 估算人数 77323
+- GRVT | Alpha Trade 成交额 54116363.36 | 列表口径 51482703.34 | 涨跌 61.78% | 振幅 269.54% | 估算人数 6600
+- AEON | Alpha Trade 成交额 2025245.19 | 列表口径 28468577.15 | 涨跌 -19.61% | 振幅 140.07% | 估算人数 247
+- EDGE | Alpha Trade 成交额 181177.12 | 列表口径 3242415.53 | 涨跌 -4.64% | 振幅 7.52% | 估算人数 22
+- IRYS | Alpha Trade 成交额 47595.70 | 列表口径 517564.60 | 涨跌 -3.38% | 振幅 6.98% | 估算人数 6
+- BEE | Alpha Trade 成交额 19694.56 | 列表口径 189367.58 | 涨跌 0.74% | 振幅 2.61% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- BSB | 分数 96.19 | Alpha Trade 成交额 629789830.21 | 波动 0.22% | 4h 振幅 2.47% | 审计 LOW
-  - Alpha Trade 24h 成交额 629,789,830，流动性 1,515,343
-  - Alpha 列表口径 24h 成交额 2,381,574
-  - 短周期波动 0.22%
-  - 4h 振幅 2.47%
+- BSB | 分数 97.97 | Alpha Trade 成交额 634046623.92 | 波动 0.25% | 4h 振幅 1.85% | 审计 LOW
+  - Alpha Trade 24h 成交额 634,046,624，流动性 1,517,101
+  - Alpha 列表口径 24h 成交额 2,227,317
+  - 短周期波动 0.25%
+  - 4h 振幅 1.85%
   - 审计风险 LOW
-- AEON | 分数 54.64 | Alpha Trade 成交额 2087570.38 | 波动 0.48% | 4h 振幅 6.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,087,570，流动性 1,663,657
-  - Alpha 列表口径 24h 成交额 25,379,909
-  - 短周期波动 0.48%
-  - 4h 振幅 6.18%
+- AEON | 分数 31.67 | Alpha Trade 成交额 2025245.19 | 波动 1.42% | 4h 振幅 14.55% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,025,245，流动性 1,589,209
+  - Alpha 列表口径 24h 成交额 28,468,577
+  - 短周期波动 1.42%
+  - 4h 振幅 14.55%
   - 审计风险 LOW
-- GRVT | 分数 11.60 | Alpha Trade 成交额 42230195.95 | 波动 1.64% | 4h 振幅 17.48% | 审计 LOW
-  - Alpha Trade 24h 成交额 42,230,196，流动性 884,921
-  - Alpha 列表口径 24h 成交额 49,044,273
-  - 短周期波动 1.64%
-  - 4h 振幅 17.48%
+- GRVT | 分数 20.71 | Alpha Trade 成交额 54116363.36 | 波动 1.22% | 4h 振幅 7.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 54,116,363，流动性 878,839
+  - Alpha 列表口径 24h 成交额 51,482,703
+  - 短周期波动 1.22%
+  - 4h 振幅 7.91%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -45,12 +45,12 @@
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets
 - Latest Binance News：Binance Adds TAO and ASTER on Simple Earn Locked Products
-- Latest Activities：Join the Binance P2P Africa Merchant Trading Competition with 50,000 USDT in Rewards
+- Latest Activities：Referral Summer Finale: Invite Friends and Earn Up to 8,000 USDC
 
 ### 最近 Alpha 上线
 
-- GRVT | 4x | 上线 2026-07-30T12:00:00+00:00 | 24h 成交额 49044273.25
-- MarsCoin | 1x | 上线 2026-07-30T06:50:04.934000+00:00 | 24h 成交额 35042267.40
+- GRVT | 4x | 上线 2026-07-30T12:00:00+00:00 | 24h 成交额 51482703.34
+- MarsCoin | 1x | 上线 2026-07-30T06:50:04.934000+00:00 | 24h 成交额 29958762.69
 
 ### New Cryptocurrency Listing
 
@@ -72,11 +72,11 @@
 
 ### Latest Activities
 
-- [Join the Binance P2P Africa Merchant Trading Competition with 50,000 USDT in Rewards](https://www.binance.com/en/support/announcement/detail/389284fbb5cd47faa288bd169b6e210e)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is launching a month-long campaign designed…
-- [Binance Alpha Trading Competition: Trade Cap (CAP) and Share $200K Worth of Rewards (2026-07-30)](https://www.binance.com/en/support/announcement/detail/b935934fe980452fa96722ecaf30abde)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [MIRA Trading Tournament: Trade to Share Up to 10,000,000 MIRA Token Vouchers](https://www.binance.com/en/support/announcement/detail/9bac0161c049454588d06963a573b975)
+- [Referral Summer Finale: Invite Friends and Earn Up to 8,000 USDC](https://www.binance.com/en/support/announcement/detail/7b29932ca94247f4b8147389d02f2e2a)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, As summer draws to…
+- [Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 8,000 U Limit Available (2026-08-02)](https://www.binance.com/en/support/announcement/detail/d672087469474a45bebd1da774e99d4b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Disclaimer: Thi…
+- [ERA Trading Tournament: Trade to Share Up to 5,000,000 ERA Token Vouchers](https://www.binance.com/en/support/announcement/detail/7300566010cd46f5ba5f6b8ab0fe1afa)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 
 ## Warnings
