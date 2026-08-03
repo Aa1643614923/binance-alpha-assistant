@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-03T10:57:36.209989+00:00
+- 生成时间：2026-08-03T13:45:30.856200+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：768220520.46
+- 四倍分 24h 总成交额：776846179.62
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：93685（按 8200 / 人）
+- 估算参与人数：94737（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 764189447.95 | 列表口径 5790183.87 | 涨跌 1.65% | 振幅 6.69% | 估算人数 93194
-- GRVT | Alpha Trade 成交额 3040671.79 | 列表口径 24305653.48 | 涨跌 4.88% | 振幅 26.23% | 估算人数 371
-- AEON | Alpha Trade 成交额 858215.61 | 列表口径 61399110.37 | 涨跌 -1.90% | 振幅 12.62% | 估算人数 105
-- EDGE | Alpha Trade 成交额 88549.35 | 列表口径 2065341.07 | 涨跌 -3.28% | 振幅 7.99% | 估算人数 11
-- IRYS | Alpha Trade 成交额 40661.54 | 列表口径 515571.84 | 涨跌 1.08% | 振幅 8.52% | 估算人数 5
-- BEE | Alpha Trade 成交额 2974.23 | 列表口径 154170.21 | 涨跌 0.43% | 振幅 5.86% | 估算人数 0
+- BSB | Alpha Trade 成交额 773020772.82 | 列表口径 5113906.97 | 涨跌 -0.81% | 振幅 6.28% | 估算人数 94271
+- GRVT | Alpha Trade 成交额 2821044.93 | 列表口径 23929925.04 | 涨跌 5.94% | 振幅 22.12% | 估算人数 344
+- AEON | Alpha Trade 成交额 872190.77 | 列表口径 62448438.88 | 涨跌 -2.71% | 振幅 12.62% | 估算人数 106
+- EDGE | Alpha Trade 成交额 91469.60 | 列表口径 1990354.91 | 涨跌 -3.40% | 振幅 8.81% | 估算人数 11
+- IRYS | Alpha Trade 成交额 37342.32 | 列表口径 500098.70 | 涨跌 -2.63% | 振幅 8.52% | 估算人数 5
+- BEE | Alpha Trade 成交额 3359.20 | 列表口径 153215.88 | 涨跌 0.34% | 振幅 5.86% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 764189447.95 | 波动 0.21% | 4h 振幅 1.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 764,189,448，流动性 1,530,643
-  - Alpha 列表口径 24h 成交额 5,790,184
-  - 短周期波动 0.21%
-  - 4h 振幅 1.77%
+- BSB | 分数 100.00 | Alpha Trade 成交额 773020772.82 | 波动 0.24% | 4h 振幅 2.88% | 审计 LOW
+  - Alpha Trade 24h 成交额 773,020,773，流动性 1,527,157
+  - Alpha 列表口径 24h 成交额 5,113,907
+  - 短周期波动 0.24%
+  - 4h 振幅 2.88%
   - 审计风险 LOW
-- AEON | 分数 50.80 | Alpha Trade 成交额 858215.61 | 波动 0.33% | 4h 振幅 3.40% | 审计 LOW
-  - Alpha Trade 24h 成交额 858,216，流动性 1,464,903
-  - Alpha 列表口径 24h 成交额 61,399,110
-  - 短周期波动 0.33%
-  - 4h 振幅 3.40%
+- AEON | 分数 41.67 | Alpha Trade 成交额 872190.77 | 波动 0.43% | 4h 振幅 5.66% | 审计 LOW
+  - Alpha Trade 24h 成交额 872,191，流动性 1,438,152
+  - Alpha 列表口径 24h 成交额 62,448,439
+  - 短周期波动 0.43%
+  - 4h 振幅 5.66%
   - 审计风险 LOW
-- GRVT | 分数 10.45 | Alpha Trade 成交额 3040671.79 | 波动 0.72% | 4h 振幅 8.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 3,040,672，流动性 936,200
-  - Alpha 列表口径 24h 成交额 24,305,653
-  - 短周期波动 0.72%
-  - 4h 振幅 8.83%
+- GRVT | 分数 10.50 | Alpha Trade 成交额 2821044.93 | 波动 0.71% | 4h 振幅 6.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,821,045，流动性 929,640
+  - Alpha 列表口径 24h 成交额 23,929,925
+  - 短周期波动 0.71%
+  - 4h 振幅 6.65%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -44,7 +44,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch GIGADEVUSDT USDⓈ-Margined Perpetual Contract (2026-08-03)
 - Latest Binance News：Binance Adds TAO and ASTER on Simple Earn Locked Products
-- Latest Activities：Limited-Time Offer: 16,000 USDC Worth of Rewards for New Convert & Earn Users
+- Latest Activities：SAHARA Airdrop Carnival: Claim Your Share of 2,000,000 SAHARA
 
 ### 最近 Alpha 上线
 
@@ -69,12 +69,12 @@
 
 ### Latest Activities
 
+- [SAHARA Airdrop Carnival: Claim Your Share of 2,000,000 SAHARA](https://www.binance.com/en/support/announcement/detail/64ec1ffecadc4a8f8541e9a06080cc8b)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the SAHARA Airdrop Carnival: Claim You…
 - [Limited-Time Offer: 16,000 USDC Worth of Rewards for New Convert & Earn Users](https://www.binance.com/en/support/announcement/detail/8bc4cb045b7e403f812d331278b5ff5a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Join our Binance C…
 - [Join Binance Wallet On-Chain Trade & Win Campaign Season 5 to Win a Share of $50,000 Worth of Rewards!](https://www.binance.com/en/support/announcement/detail/d3f3c360c13b49ba8381c75f3e228e10)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
-- [Binance Earn August Monthly Leaderboard: Earn Up to 5,888 USDC Rewards on Dual Investment](https://www.binance.com/en/support/announcement/detail/b71b7839dcc1442da2102f9fc3ee18ac)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Binance Earn prese…
 
 ## Warnings
 
