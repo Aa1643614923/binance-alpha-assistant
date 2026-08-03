@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-03T00:12:29.416099+00:00
+- 生成时间：2026-08-03T03:57:55.795835+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：753926066.33
+- 四倍分 24h 总成交额：758690663.75
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：91942（按 8200 / 人）
+- 估算参与人数：92523（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 750175923.57 | 列表口径 5655401.11 | 涨跌 3.16% | 振幅 7.20% | 估算人数 91485
-- GRVT | Alpha Trade 成交额 2963543.99 | 列表口径 13623169.07 | 涨跌 -4.25% | 振幅 23.66% | 估算人数 361
-- AEON | Alpha Trade 成交额 681126.16 | 列表口径 63726487.46 | 涨跌 -0.14% | 振幅 11.64% | 估算人数 83
-- EDGE | Alpha Trade 成交额 54475.27 | 列表口径 1957866.61 | 涨跌 1.11% | 振幅 6.02% | 估算人数 7
-- IRYS | Alpha Trade 成交额 50141.63 | 列表口径 412688.55 | 涨跌 -0.47% | 振幅 5.68% | 估算人数 6
-- BEE | Alpha Trade 成交额 855.71 | 列表口径 148257.91 | 涨跌 1.88% | 振幅 2.62% | 估算人数 0
+- BSB | Alpha Trade 成交额 754868640.22 | 列表口径 6167590.31 | 涨跌 3.29% | 振幅 8.09% | 估算人数 92057
+- GRVT | Alpha Trade 成交额 2991207.32 | 列表口径 19028501.10 | 涨跌 -1.41% | 振幅 26.23% | 估算人数 365
+- AEON | Alpha Trade 成交额 699169.93 | 列表口径 66333770.72 | 涨跌 -2.70% | 振幅 11.64% | 估算人数 85
+- EDGE | Alpha Trade 成交额 82519.74 | 列表口径 1975463.63 | 涨跌 -0.75% | 振幅 5.91% | 估算人数 10
+- IRYS | Alpha Trade 成交额 47497.60 | 列表口径 532038.42 | 涨跌 3.05% | 振幅 8.52% | 估算人数 6
+- BEE | Alpha Trade 成交额 1628.95 | 列表口径 152435.31 | 涨跌 0.39% | 振幅 5.86% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 750175923.57 | 波动 0.17% | 4h 振幅 1.95% | 审计 LOW
-  - Alpha Trade 24h 成交额 750,175,924，流动性 1,540,756
-  - Alpha 列表口径 24h 成交额 5,655,401
-  - 短周期波动 0.17%
-  - 4h 振幅 1.95%
+- BSB | 分数 100.00 | Alpha Trade 成交额 754868640.22 | 波动 0.28% | 4h 振幅 3.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 754,868,640，流动性 1,535,806
+  - Alpha 列表口径 24h 成交额 6,167,590
+  - 短周期波动 0.28%
+  - 4h 振幅 3.28%
   - 审计风险 LOW
-- AEON | 分数 31.35 | Alpha Trade 成交额 681126.16 | 波动 0.69% | 4h 振幅 4.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 681,126，流动性 1,470,966
-  - Alpha 列表口径 24h 成交额 63,726,487
-  - 短周期波动 0.69%
-  - 4h 振幅 4.89%
+- AEON | 分数 47.92 | Alpha Trade 成交额 699169.93 | 波动 0.57% | 4h 振幅 5.15% | 审计 LOW
+  - Alpha Trade 24h 成交额 699,170，流动性 1,454,405
+  - Alpha 列表口径 24h 成交额 66,333,771
+  - 短周期波动 0.57%
+  - 4h 振幅 5.15%
   - 审计风险 LOW
-- GRVT | 分数 10.59 | Alpha Trade 成交额 2963543.99 | 波动 0.68% | 4h 振幅 6.50% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,963,544，流动性 900,802
-  - Alpha 列表口径 24h 成交额 13,623,169
-  - 短周期波动 0.68%
-  - 4h 振幅 6.50%
+- GRVT | 分数 10.41 | Alpha Trade 成交额 2991207.32 | 波动 1.05% | 4h 振幅 12.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,991,207，流动性 907,566
+  - Alpha 列表口径 24h 成交额 19,028,501
+  - 短周期波动 1.05%
+  - 4h 振幅 12.38%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -42,21 +42,21 @@
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined GRVTUSDT Perpetual Contract (2026-07-31)
+- 官方最新上新关注：Binance Futures Will Launch GIGADEVUSDT USDⓈ-Margined Perpetual Contract (2026-08-03)
 - Latest Binance News：Binance Adds TAO and ASTER on Simple Earn Locked Products
-- Latest Activities：August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!
+- Latest Activities：Word of the Day: Test Your Knowledge on “bStocks Crosses $500M AUM” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch GIGADEVUSDT USDⓈ-Margined Perpetual Contract (2026-08-03)](https://www.binance.com/en/support/announcement/detail/e8bfd0c5adaf4d8a880bb1b7327107ef)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch USDⓈ-Margined GRVTUSDT Perpetual Contract (2026-07-31)](https://www.binance.com/en/support/announcement/detail/20536b05b2a34b87a3bae99c45d0dc91)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/6a167ac6ee74496b83a820675aea1dbe)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
-- [Binance Exchange Adds 10 bStocks Trading Pairs on Binance Spot - 2026-07-29](https://www.binance.com/en/support/announcement/detail/fd3c0f17a7504eb5be1cb1911c6da0cd)
-  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 
 ### Latest Binance News
 
@@ -69,12 +69,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “bStocks Crosses $500M AUM” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/5b70a94972a14536be1baca3417a102d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 - [August Affiliate Dual-Star Program: Refer & Trade to Share the 500,000 USDC Prize Pool!](https://www.binance.com/en/support/announcement/detail/838d84c494834383a11537f02fda0e60)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is thrille…
 - [Referral Summer Finale: Invite Friends and Earn Up to 8,000 USDC](https://www.binance.com/en/support/announcement/detail/7b29932ca94247f4b8147389d02f2e2a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, As summer draws to…
-- [Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 8,000 U Limit Available (2026-08-02)](https://www.binance.com/en/support/announcement/detail/d672087469474a45bebd1da774e99d4b)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Disclaimer: Thi…
 
 ## Warnings
 
