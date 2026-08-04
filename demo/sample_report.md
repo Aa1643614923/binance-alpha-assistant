@@ -1,33 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-04T10:02:16.928868+00:00
+- 生成时间：2026-08-04T12:12:36.698481+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：756766423.97
+- 四倍分 24h 总成交额：746460430.87
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：92289（按 8200 / 人）
+- 估算参与人数：91032（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 754500149.50 | 列表口径 3392354.82 | 涨跌 3.55% | 振幅 7.83% | 估算人数 92012
-- GRVT | Alpha Trade 成交额 1656644.93 | 列表口径 10553769.02 | 涨跌 -2.80% | 振幅 9.48% | 估算人数 202
-- AEON | Alpha Trade 成交额 497785.02 | 列表口径 26034203.12 | 涨跌 -5.16% | 振幅 11.55% | 估算人数 61
-- EDGE | Alpha Trade 成交额 75645.61 | 列表口径 2316260.25 | 涨跌 4.30% | 振幅 8.69% | 估算人数 9
-- IRYS | Alpha Trade 成交额 31672.18 | 列表口径 291563.29 | 涨跌 -10.49% | 振幅 13.57% | 估算人数 4
-- BEE | Alpha Trade 成交额 4526.74 | 列表口径 161055.66 | 涨跌 -3.75% | 振幅 4.53% | 估算人数 1
+- BSB | Alpha Trade 成交额 744076638.81 | 列表口径 3428502.20 | 涨跌 5.60% | 振幅 7.83% | 估算人数 90741
+- GRVT | Alpha Trade 成交额 1742996.55 | 列表口径 12075036.87 | 涨跌 -1.25% | 振幅 9.48% | 估算人数 213
+- AEON | Alpha Trade 成交额 531470.47 | 列表口径 26350280.96 | 涨跌 -9.67% | 振幅 13.50% | 估算人数 65
+- EDGE | Alpha Trade 成交额 72519.83 | 列表口径 2297322.35 | 涨跌 6.05% | 振幅 8.69% | 估算人数 9
+- IRYS | Alpha Trade 成交额 32018.39 | 列表口径 287592.70 | 涨跌 -7.49% | 振幅 10.97% | 估算人数 4
+- BEE | Alpha Trade 成交额 4786.82 | 列表口径 168900.35 | 涨跌 -2.42% | 振幅 4.53% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- BSB | 分数 90.00 | Alpha Trade 成交额 754500149.50 | 波动 0.27% | 4h 振幅 3.29% | 审计 LOW
-  - Alpha Trade 24h 成交额 754,500,149，流动性 1,515,147
-  - Alpha 列表口径 24h 成交额 3,392,355
-  - 短周期波动 0.27%
-  - 4h 振幅 3.29%
+- BSB | 分数 99.80 | Alpha Trade 成交额 744076638.81 | 波动 0.31% | 4h 振幅 3.24% | 审计 LOW
+  - Alpha Trade 24h 成交额 744,076,639，流动性 1,521,142
+  - Alpha 列表口径 24h 成交额 3,428,502
+  - 短周期波动 0.31%
+  - 4h 振幅 3.24%
   - 审计风险 LOW
-- GRVT | 分数 20.00 | Alpha Trade 成交额 1656644.93 | 波动 0.44% | 4h 振幅 2.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,656,645，流动性 941,038
-  - Alpha 列表口径 24h 成交额 10,553,769
-  - 短周期波动 0.44%
-  - 4h 振幅 2.71%
+- GRVT | 分数 35.91 | Alpha Trade 成交额 1742996.55 | 波动 0.38% | 4h 振幅 3.14% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,742,997，流动性 943,338
+  - Alpha 列表口径 24h 成交额 12,075,037
+  - 短周期波动 0.38%
+  - 4h 振幅 3.14%
+  - 审计风险 LOW
+- AEON | 分数 28.75 | Alpha Trade 成交额 531470.47 | 波动 0.66% | 4h 振幅 8.23% | 审计 LOW
+  - Alpha Trade 24h 成交额 531,470，流动性 1,377,713
+  - Alpha 列表口径 24h 成交额 26,350,281
+  - 短周期波动 0.66%
+  - 4h 振幅 8.23%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -38,7 +44,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch GIGADEVUSDT USDⓈ-Margined Perpetual Contract (2026-08-03)
 - Latest Binance News：Introducing Binance Lite Loan: Simple Borrowing, Unlock Instant Liquidity
-- Latest Activities：SAHARA Airdrop Carnival: Claim Your Share of 2,000,000 SAHARA
+- Latest Activities：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)
 
 ### 最近 Alpha 上线
 
@@ -63,12 +69,12 @@
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)](https://www.binance.com/en/support/announcement/detail/7344e0bd9d244ff89c1a1642800da931)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [SAHARA Airdrop Carnival: Claim Your Share of 2,000,000 SAHARA](https://www.binance.com/en/support/announcement/detail/64ec1ffecadc4a8f8541e9a06080cc8b)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the SAHARA Airdrop Carnival: Claim You…
 - [Limited-Time Offer: 16,000 USDC Worth of Rewards for New Convert & Earn Users](https://www.binance.com/en/support/announcement/detail/8bc4cb045b7e403f812d331278b5ff5a)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Join our Binance C…
-- [Join Binance Wallet On-Chain Trade & Win Campaign Season 5 to Win a Share of $50,000 Worth of Rewards!](https://www.binance.com/en/support/announcement/detail/d3f3c360c13b49ba8381c75f3e228e10)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
 
 ## Warnings
 
