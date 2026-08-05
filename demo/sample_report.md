@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-05T01:05:44.142544+00:00
+- 生成时间：2026-08-05T04:26:35.686519+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：828939134.23
+- 四倍分 24h 总成交额：818476490.16
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：101090（按 8200 / 人）
+- 估算参与人数：99814（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 725726089.54 | 列表口径 6049264.53 | 涨跌 2.17% | 振幅 9.15% | 估算人数 88503
-- GRVT | Alpha Trade 成交额 102437420.73 | 列表口径 14349068.06 | 涨跌 -1.39% | 振幅 7.59% | 估算人数 12492
-- AEON | Alpha Trade 成交额 669106.27 | 列表口径 36775362.21 | 涨跌 -11.48% | 振幅 18.25% | 估算人数 82
-- EDGE | Alpha Trade 成交额 71231.44 | 列表口径 1698431.72 | 涨跌 0.34% | 振幅 3.76% | 估算人数 9
-- IRYS | Alpha Trade 成交额 32799.49 | 列表口径 339313.83 | 涨跌 -1.24% | 振幅 7.46% | 估算人数 4
-- BEE | Alpha Trade 成交额 2486.75 | 列表口径 129426.21 | 涨跌 0.76% | 振幅 2.57% | 估算人数 0
+- BSB | Alpha Trade 成交额 701008520.03 | 列表口径 6623310.61 | 涨跌 5.54% | 振幅 9.15% | 估算人数 85489
+- GRVT | Alpha Trade 成交额 116717436.95 | 列表口径 12217972.03 | 涨跌 -1.56% | 振幅 5.26% | 估算人数 14234
+- AEON | Alpha Trade 成交额 644435.32 | 列表口径 42093590.04 | 涨跌 -13.39% | 振幅 16.61% | 估算人数 79
+- EDGE | Alpha Trade 成交额 70384.33 | 列表口径 1267370.99 | 涨跌 1.12% | 振幅 2.96% | 估算人数 9
+- IRYS | Alpha Trade 成交额 33218.95 | 列表口径 350361.41 | 涨跌 1.22% | 振幅 7.42% | 估算人数 4
+- BEE | Alpha Trade 成交额 2494.59 | 列表口径 141790.70 | 涨跌 0.97% | 振幅 3.24% | 估算人数 0
 
 ## 稳定刷分推荐
 
-- BSB | 分数 86.72 | Alpha Trade 成交额 725726089.54 | 波动 0.33% | 4h 振幅 3.51% | 审计 LOW
-  - Alpha Trade 24h 成交额 725,726,090，流动性 1,523,005
-  - Alpha 列表口径 24h 成交额 6,049,265
+- BSB | 分数 73.68 | Alpha Trade 成交额 701008520.03 | 波动 0.32% | 4h 振幅 4.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 701,008,520，流动性 1,533,824
+  - Alpha 列表口径 24h 成交额 6,623,311
+  - 短周期波动 0.32%
+  - 4h 振幅 4.22%
+  - 审计风险 LOW
+- AEON | 分数 52.87 | Alpha Trade 成交额 644435.32 | 波动 0.31% | 4h 振幅 3.32% | 审计 LOW
+  - Alpha Trade 24h 成交额 644,435，流动性 1,338,082
+  - Alpha 列表口径 24h 成交额 42,093,590
+  - 短周期波动 0.31%
+  - 4h 振幅 3.32%
+  - 审计风险 LOW
+- GRVT | 分数 24.14 | Alpha Trade 成交额 116717436.95 | 波动 0.33% | 4h 振幅 2.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 116,717,437，流动性 924,245
+  - Alpha 列表口径 24h 成交额 12,217,972
   - 短周期波动 0.33%
-  - 4h 振幅 3.51%
-  - 审计风险 LOW
-- AEON | 分数 57.99 | Alpha Trade 成交额 669106.27 | 波动 0.30% | 4h 振幅 1.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 669,106，流动性 1,354,291
-  - Alpha 列表口径 24h 成交额 36,775,362
-  - 短周期波动 0.30%
-  - 4h 振幅 1.91%
-  - 审计风险 LOW
-- GRVT | 分数 13.51 | Alpha Trade 成交额 102437420.73 | 波动 0.42% | 4h 振幅 3.79% | 审计 LOW
-  - Alpha Trade 24h 成交额 102,437,421，流动性 922,047
-  - Alpha 列表口径 24h 成交额 14,349,068
-  - 短周期波动 0.42%
-  - 4h 振幅 3.79%
+  - 4h 振幅 2.64%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -43,31 +43,31 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
-- 官方最新上新关注：Binance Futures Will Launch GIGADEVUSDT USDⓈ-Margined Perpetual Contract (2026-08-03)
-- Latest Binance News：Introducing Binance Lite Loan: Simple Borrowing, Unlock Instant Liquidity
+- 官方最新上新关注：Binance Exchange Adds 10 bStocks Trading Pairs on Binance Spot - 2026-08-05
+- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-06)
 - Latest Activities：Binance Alpha Trading Competition: Trade Grvt (GRVT) and Share $200K Worth of Rewards (2026-08-04)
 
 ### 最近 Alpha 上线
 
-- QUID | 2x | 上线 2026-08-04T13:00:00+00:00 | 24h 成交额 16594569.42
+- QUID | 2x | 上线 2026-08-04T13:00:00+00:00 | 24h 成交额 17468739.95
 
 ### New Cryptocurrency Listing
 
+- [Binance Exchange Adds 10 bStocks Trading Pairs on Binance Spot - 2026-08-05](https://www.binance.com/en/support/announcement/detail/ae96da838d754f91bced1501de728f03)
+  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 - [Binance Futures Will Launch GIGADEVUSDT USDⓈ-Margined Perpetual Contract (2026-08-03)](https://www.binance.com/en/support/announcement/detail/e8bfd0c5adaf4d8a880bb1b7327107ef)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch USDⓈ-Margined GRVTUSDT Perpetual Contract (2026-07-31)](https://www.binance.com/en/support/announcement/detail/20536b05b2a34b87a3bae99c45d0dc91)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets](https://www.binance.com/en/support/announcement/detail/6a167ac6ee74496b83a820675aea1dbe)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Binance News
 
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-06)](https://www.binance.com/en/support/announcement/detail/be5c80d75197412b86d0faa1c5efd146)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
+- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-08-05)](https://www.binance.com/en/support/announcement/detail/27c496cf161d418988b7a797a624a10e)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Introducing Binance Lite Loan: Simple Borrowing, Unlock Instant Liquidity](https://www.binance.com/en/support/announcement/detail/80c706f4cd784e5f9cf51a330675c880)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Loans is excited…
-- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-08-07)](https://www.binance.com/en/support/announcement/detail/4bf81e4829b64eacae3caa802ec6fc59)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
-- [Binance Adds TAO and ASTER on Simple Earn Locked Products](https://www.binance.com/en/support/announcement/detail/f8f60e4d440e4d16a2965ccdfb7befb1)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Simple Earn is a…
 
 ### Latest Activities
 
