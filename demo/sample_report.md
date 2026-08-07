@@ -1,33 +1,33 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-06T15:33:39.072603+00:00
+- 生成时间：2026-08-07T00:34:18.011350+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：891775961.29
+- 四倍分 24h 总成交额：868565059.37
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：108753（按 8200 / 人）
+- 估算参与人数：105923（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 691354524.61 | 列表口径 7442031.38 | 涨跌 12.06% | 振幅 20.10% | 估算人数 84312
-- GRVT | Alpha Trade 成交额 199542104.12 | 列表口径 5120573.99 | 涨跌 -8.04% | 振幅 24.36% | 估算人数 24334
-- AEON | Alpha Trade 成交额 423343.30 | 列表口径 46758122.42 | 涨跌 -1.59% | 振幅 8.79% | 估算人数 52
-- AGT | Alpha Trade 成交额 220850.80 | 列表口径 2144748.07 | 涨跌 -10.57% | 振幅 20.20% | 估算人数 27
-- AIA | Alpha Trade 成交额 211759.55 | 列表口径 1033558.02 | 涨跌 -3.02% | 振幅 14.06% | 估算人数 26
-- IRYS | Alpha Trade 成交额 23378.91 | 列表口径 340466.40 | 涨跌 6.51% | 振幅 10.04% | 估算人数 3
+- BSB | Alpha Trade 成交额 676765867.34 | 列表口径 6808120.88 | 涨跌 20.54% | 振幅 22.71% | 估算人数 82532
+- GRVT | Alpha Trade 成交额 190872542.75 | 列表口径 4570950.01 | 涨跌 -0.49% | 振幅 12.52% | 估算人数 23277
+- AEON | Alpha Trade 成交额 418787.39 | 列表口径 53974973.32 | 涨跌 -2.99% | 振幅 8.72% | 估算人数 51
+- AGT | Alpha Trade 成交额 257050.72 | 列表口径 2566124.70 | 涨跌 -9.87% | 振幅 20.20% | 估算人数 31
+- AIA | Alpha Trade 成交额 209593.41 | 列表口径 1062860.22 | 涨跌 -0.73% | 振幅 14.06% | 估算人数 26
+- IRYS | Alpha Trade 成交额 41217.76 | 列表口径 394410.89 | 涨跌 11.02% | 振幅 11.10% | 估算人数 5
 
 ## 稳定刷分推荐
 
-- BSB | 分数 70.00 | Alpha Trade 成交额 691354524.61 | 波动 0.59% | 4h 振幅 10.84% | 审计 LOW
-  - Alpha Trade 24h 成交额 691,354,525，流动性 1,574,729
-  - Alpha 列表口径 24h 成交额 7,442,031
-  - 短周期波动 0.59%
-  - 4h 振幅 10.84%
+- BSB | 分数 70.00 | Alpha Trade 成交额 676765867.34 | 波动 0.69% | 4h 振幅 6.39% | 审计 LOW
+  - Alpha Trade 24h 成交额 676,765,867，流动性 1,597,157
+  - Alpha 列表口径 24h 成交额 6,808,121
+  - 短周期波动 0.69%
+  - 4h 振幅 6.39%
   - 审计风险 LOW
-- GRVT | 分数 40.00 | Alpha Trade 成交额 199542104.12 | 波动 0.46% | 4h 振幅 3.10% | 审计 LOW
-  - Alpha Trade 24h 成交额 199,542,104，流动性 836,328
-  - Alpha 列表口径 24h 成交额 5,120,574
-  - 短周期波动 0.46%
-  - 4h 振幅 3.10%
+- GRVT | 分数 40.00 | Alpha Trade 成交额 190872542.75 | 波动 0.31% | 4h 振幅 3.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 190,872,543，流动性 898,277
+  - Alpha 列表口径 24h 成交额 4,570,950
+  - 短周期波动 0.31%
+  - 4h 振幅 3.11%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -39,11 +39,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-06)
 - Latest Binance News：Binance Will Support the Apple (AAPL) and IBM (IBM) Cash Dividend Distribution via bStocks
-- Latest Activities：Binance Alpha Trading Competition: Trade Power Protocol (POWER) and Share $200K Worth of Rewards (2026-08-06)
+- Latest Activities：Extension to the USD1 Airdrop Campaign (2026-08-07)
 
 ### 最近 Alpha 上线
 
-- QUID | 2x | 上线 2026-08-04T13:00:00+00:00 | 24h 成交额 81600382.00
+- QUID | 2x | 上线 2026-08-04T13:00:00+00:00 | 24h 成交额 74811434.04
 
 ### New Cryptocurrency Listing
 
@@ -65,12 +65,12 @@
 
 ### Latest Activities
 
+- [Extension to the USD1 Airdrop Campaign (2026-08-07)](https://www.binance.com/en/support/announcement/detail/79f451fec45544f8ad941647165f22a8)
+  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 - [Binance Alpha Trading Competition: Trade Power Protocol (POWER) and Share $200K Worth of Rewards (2026-08-06)](https://www.binance.com/en/support/announcement/detail/8bd4e92286d8474fa440091eea5672ff)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [MMT Trading Tournament: Trade to Share Up to 2,000,000 MMT Token Vouchers](https://www.binance.com/en/support/announcement/detail/93cc46505d6b46c9be248138b836cb7c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-- [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This August 2026!](https://www.binance.com/en/support/announcement/detail/4891daf7e06d49bc93d74f59c586dfc7)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitc…
 
 ## Warnings
 
