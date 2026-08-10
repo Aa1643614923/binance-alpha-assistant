@@ -1,38 +1,32 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-10T00:00:48.993295+00:00
+- 生成时间：2026-08-10T02:28:21.156373+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：1267074047.36
+- 四倍分 24h 总成交额：1265357691.61
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：154521（按 8200 / 人）
+- 估算参与人数：154312（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 749182571.00 | 列表口径 5807076.86 | 涨跌 4.83% | 振幅 14.90% | 估算人数 91364
-- BSB | Alpha Trade 成交额 517201865.52 | 列表口径 4295287.34 | 涨跌 -12.43% | 振幅 20.56% | 估算人数 63073
-- AEON | Alpha Trade 成交额 508879.44 | 列表口径 28087904.65 | 涨跌 -14.12% | 振幅 21.68% | 估算人数 62
-- AGT | Alpha Trade 成交额 104230.20 | 列表口径 2500058.02 | 涨跌 -3.11% | 振幅 32.20% | 估算人数 13
-- AIA | Alpha Trade 成交额 76501.20 | 列表口径 683586.04 | 涨跌 -1.33% | 振幅 7.18% | 估算人数 9
+- GRVT | Alpha Trade 成交额 719331410.75 | 列表口径 5880358.66 | 涨跌 13.49% | 振幅 17.00% | 估算人数 87723
+- BSB | Alpha Trade 成交额 545375101.66 | 列表口径 4578959.74 | 涨跌 -9.95% | 振幅 16.01% | 估算人数 66509
+- AEON | Alpha Trade 成交额 439879.95 | 列表口径 27146744.16 | 涨跌 -14.74% | 振幅 21.13% | 估算人数 54
+- AIA | Alpha Trade 成交额 107737.25 | 列表口径 850774.41 | 涨跌 1.49% | 振幅 9.52% | 估算人数 13
+- AGT | Alpha Trade 成交额 103561.99 | 列表口径 2557094.08 | 涨跌 -5.78% | 振幅 32.20% | 估算人数 13
 
 ## 稳定刷分推荐
 
-- BSB | 分数 92.25 | Alpha Trade 成交额 517201865.52 | 波动 0.29% | 4h 振幅 3.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 517,201,866，流动性 1,551,278
-  - Alpha 列表口径 24h 成交额 4,295,287
-  - 短周期波动 0.29%
-  - 4h 振幅 3.44%
+- BSB | 分数 75.00 | Alpha Trade 成交额 545375101.66 | 波动 0.36% | 4h 振幅 4.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 545,375,102，流动性 1,541,497
+  - Alpha 列表口径 24h 成交额 4,578,960
+  - 短周期波动 0.36%
+  - 4h 振幅 4.05%
   - 审计风险 LOW
-- GRVT | 分数 43.04 | Alpha Trade 成交额 749182571.00 | 波动 0.45% | 4h 振幅 10.80% | 审计 LOW
-  - Alpha Trade 24h 成交额 749,182,571，流动性 840,506
-  - Alpha 列表口径 24h 成交额 5,807,077
-  - 短周期波动 0.45%
-  - 4h 振幅 10.80%
-  - 审计风险 LOW
-- AEON | 分数 31.60 | Alpha Trade 成交额 508879.44 | 波动 0.55% | 4h 振幅 5.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 508,879，流动性 1,268,229
-  - Alpha 列表口径 24h 成交额 28,087,905
-  - 短周期波动 0.55%
-  - 4h 振幅 5.62%
+- GRVT | 分数 35.00 | Alpha Trade 成交额 719331410.75 | 波动 0.62% | 4h 振幅 7.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 719,331,411，流动性 850,695
+  - Alpha 列表口径 24h 成交额 5,880,359
+  - 短周期波动 0.62%
+  - 4h 振幅 7.98%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -43,7 +37,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-06)
 - Latest Binance News：Binance Will Support the Apple (AAPL) and IBM (IBM) Cash Dividend Distribution via bStocks
-- Latest Activities：Extension to the USD1 Airdrop Campaign (2026-08-07)
+- Latest Activities：Word of the Day: Test Your Knowledge on “Crypto’s Yield Infrastructure” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
@@ -68,12 +62,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “Crypto’s Yield Infrastructure” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/af589a057c82445c9c1c888d257aa979)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 - [Extension to the USD1 Airdrop Campaign (2026-08-07)](https://www.binance.com/en/support/announcement/detail/79f451fec45544f8ad941647165f22a8)
   - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 - [Binance Alpha Trading Competition: Trade Power Protocol (POWER) and Share $200K Worth of Rewards (2026-08-06)](https://www.binance.com/en/support/announcement/detail/8bd4e92286d8474fa440091eea5672ff)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [MMT Trading Tournament: Trade to Share Up to 2,000,000 MMT Token Vouchers](https://www.binance.com/en/support/announcement/detail/93cc46505d6b46c9be248138b836cb7c)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 
 ## Warnings
 
