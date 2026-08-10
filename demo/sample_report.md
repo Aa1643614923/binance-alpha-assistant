@@ -1,32 +1,32 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-10T07:00:17.161280+00:00
+- 生成时间：2026-08-10T08:47:29.007462+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：1236681860.15
+- 四倍分 24h 总成交额：1226839366.95
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：150815（按 8200 / 人）
+- 估算参与人数：149615（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 664494030.78 | 列表口径 5565970.11 | 涨跌 -6.65% | 振幅 14.41% | 估算人数 81036
-- GRVT | Alpha Trade 成交额 571610910.64 | 列表口径 6476086.99 | 涨跌 23.14% | 振幅 30.10% | 估算人数 69709
-- AEON | Alpha Trade 成交额 342158.15 | 列表口径 26215322.19 | 涨跌 -8.27% | 振幅 14.47% | 估算人数 42
-- AIA | Alpha Trade 成交额 128943.02 | 列表口径 827104.28 | 涨跌 0.88% | 振幅 9.52% | 估算人数 16
-- AGT | Alpha Trade 成交额 105817.55 | 列表口径 2583999.69 | 涨跌 -8.31% | 振幅 32.20% | 估算人数 13
+- BSB | Alpha Trade 成交额 706354448.50 | 列表口径 5688641.34 | 涨跌 -5.14% | 振幅 11.64% | 估算人数 86141
+- GRVT | Alpha Trade 成交额 519964532.21 | 列表口径 6969027.66 | 涨跌 39.02% | 振幅 48.70% | 估算人数 63410
+- AEON | Alpha Trade 成交额 296777.10 | 列表口径 25746771.18 | 涨跌 -6.61% | 振幅 10.13% | 估算人数 36
+- AIA | Alpha Trade 成交额 121419.41 | 列表口径 796419.10 | 涨跌 2.30% | 振幅 9.52% | 估算人数 15
+- AGT | Alpha Trade 成交额 102189.74 | 列表口径 2548896.02 | 涨跌 -9.23% | 振幅 32.20% | 估算人数 12
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 664494030.78 | 波动 0.39% | 4h 振幅 5.81% | 审计 LOW
-  - Alpha Trade 24h 成交额 664,494,031，流动性 1,557,213
-  - Alpha 列表口径 24h 成交额 5,565,970
-  - 短周期波动 0.39%
-  - 4h 振幅 5.81%
+- BSB | 分数 100.00 | Alpha Trade 成交额 706354448.50 | 波动 0.37% | 4h 振幅 5.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 706,354,448，流动性 1,562,045
+  - Alpha 列表口径 24h 成交额 5,688,641
+  - 短周期波动 0.37%
+  - 4h 振幅 5.53%
   - 审计风险 LOW
-- GRVT | 分数 10.00 | Alpha Trade 成交额 571610910.64 | 波动 0.90% | 4h 振幅 9.47% | 审计 LOW
-  - Alpha Trade 24h 成交额 571,610,911，流动性 868,791
-  - Alpha 列表口径 24h 成交额 6,476,087
-  - 短周期波动 0.90%
-  - 4h 振幅 9.47%
+- GRVT | 分数 10.00 | Alpha Trade 成交额 519964532.21 | 波动 1.46% | 4h 振幅 22.34% | 审计 LOW
+  - Alpha Trade 24h 成交额 519,964,532，流动性 869,090
+  - Alpha 列表口径 24h 成交额 6,969,028
+  - 短周期波动 1.46%
+  - 4h 振幅 22.34%
   - 审计风险 LOW
 
 ## Alpha 合约异动
@@ -37,7 +37,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-06)
 - Latest Binance News：Binance Will Support the Apple (AAPL) and IBM (IBM) Cash Dividend Distribution via bStocks
-- Latest Activities：Word of the Day: Test Your Knowledge on “Crypto’s Yield Infrastructure” to Unlock BNB Rewards!
+- Latest Activities：Pick the Closing Price of the Magnificent 7 & Share 2,100 USDC!
 
 ### 最近 Alpha 上线
 
@@ -62,12 +62,12 @@
 
 ### Latest Activities
 
+- [Pick the Closing Price of the Magnificent 7 & Share 2,100 USDC!](https://www.binance.com/en/support/announcement/detail/fed0ff49b6a3444998f41681bd3a8d95)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Think you know whe…
+- [Binance Flexible Loan: Borrow USDT, USDC, or ACE to Get a Chance to Win a Share of 500,000 ACE Rewards and a Flexible Loan Interest-Free Voucher!](https://www.binance.com/en/support/announcement/detail/3dd2add94bba4b67b027b00787039914)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Loans is thrilled to launch the August Flexi…
 - [Word of the Day: Test Your Knowledge on “Crypto’s Yield Infrastructure” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/af589a057c82445c9c1c888d257aa979)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
-- [Extension to the USD1 Airdrop Campaign (2026-08-07)](https://www.binance.com/en/support/announcement/detail/79f451fec45544f8ad941647165f22a8)
-  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
-- [Binance Alpha Trading Competition: Trade Power Protocol (POWER) and Share $200K Worth of Rewards (2026-08-06)](https://www.binance.com/en/support/announcement/detail/8bd4e92286d8474fa440091eea5672ff)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
