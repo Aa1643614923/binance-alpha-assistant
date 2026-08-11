@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-11T13:44:37.560611+00:00
+- 生成时间：2026-08-11T14:45:40.866675+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1206890486.90
+- 四倍分 24h 总成交额：1224126897.99
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：147182（按 8200 / 人）
+- 估算参与人数：149284（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 1005609817.93 | 列表口径 5562705.97 | 涨跌 -8.30% | 振幅 11.21% | 估算人数 122635
-- GRVT | Alpha Trade 成交额 187621189.06 | 列表口径 7091627.02 | 涨跌 -11.71% | 振幅 28.71% | 估算人数 22881
-- DOS | Alpha Trade 成交额 13225422.68 | 列表口径 29006509.21 | 涨跌 6.83% | 振幅 238.50% | 估算人数 1613
-- AEON | Alpha Trade 成交额 257027.46 | 列表口径 28794448.23 | 涨跌 -6.62% | 振幅 10.06% | 估算人数 31
-- AGT | Alpha Trade 成交额 124757.23 | 列表口径 2342029.19 | 涨跌 17.45% | 振幅 18.45% | 估算人数 15
-- AIA | Alpha Trade 成交额 52272.54 | 列表口径 583725.38 | 涨跌 0.28% | 振幅 5.36% | 估算人数 6
+- BSB | Alpha Trade 成交额 999327590.22 | 列表口径 5312523.65 | 涨跌 -6.35% | 振幅 10.27% | 估算人数 121869
+- GRVT | Alpha Trade 成交额 211566184.05 | 列表口径 7027051.39 | 涨跌 -13.88% | 振幅 28.71% | 估算人数 25801
+- DOS | Alpha Trade 成交额 12783473.89 | 列表口径 29768764.30 | 涨跌 20.79% | 振幅 238.50% | 估算人数 1559
+- AEON | Alpha Trade 成交额 260328.13 | 列表口径 28736490.98 | 涨跌 -6.97% | 振幅 9.12% | 估算人数 32
+- AGT | Alpha Trade 成交额 140756.99 | 列表口径 2644022.01 | 涨跌 6.11% | 振幅 17.91% | 估算人数 17
+- AIA | Alpha Trade 成交额 48564.72 | 列表口径 585976.41 | 涨跌 0.69% | 振幅 5.36% | 估算人数 6
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 1005609817.93 | 波动 0.28% | 4h 振幅 3.86% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,005,609,818，流动性 1,537,136
-  - Alpha 列表口径 24h 成交额 5,562,706
-  - 短周期波动 0.28%
-  - 4h 振幅 3.86%
+- BSB | 分数 100.00 | Alpha Trade 成交额 999327590.22 | 波动 0.29% | 4h 振幅 3.35% | 审计 LOW
+  - Alpha Trade 24h 成交额 999,327,590，流动性 1,543,300
+  - Alpha 列表口径 24h 成交额 5,312,524
+  - 短周期波动 0.29%
+  - 4h 振幅 3.35%
   - 审计风险 LOW
-- GRVT | 分数 31.04 | Alpha Trade 成交额 187621189.06 | 波动 1.02% | 4h 振幅 12.19% | 审计 LOW
-  - Alpha Trade 24h 成交额 187,621,189，流动性 834,006
-  - Alpha 列表口径 24h 成交额 7,091,627
-  - 短周期波动 1.02%
-  - 4h 振幅 12.19%
+- GRVT | 分数 30.79 | Alpha Trade 成交额 211566184.05 | 波动 0.96% | 4h 振幅 12.40% | 审计 LOW
+  - Alpha Trade 24h 成交额 211,566,184，流动性 831,284
+  - Alpha 列表口径 24h 成交额 7,027,051
+  - 短周期波动 0.96%
+  - 4h 振幅 12.40%
   - 审计风险 LOW
-- DOS | 分数 12.62 | Alpha Trade 成交额 13225422.68 | 波动 1.33% | 4h 振幅 17.59% | 审计 MID
-  - Alpha Trade 24h 成交额 13,225,423，流动性 1,066,636
-  - Alpha 列表口径 24h 成交额 29,006,509
-  - 短周期波动 1.33%
-  - 4h 振幅 17.59%
+- DOS | 分数 12.86 | Alpha Trade 成交额 12783473.89 | 波动 1.31% | 4h 振幅 14.95% | 审计 MID
+  - Alpha Trade 24h 成交额 12,783,474，流动性 1,075,596
+  - Alpha 列表口径 24h 成交额 29,768,764
+  - 短周期波动 1.31%
+  - 4h 振幅 14.95%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -43,22 +43,22 @@
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
-- 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined DOSUSDT Perpetual Contract (2026-08-11)
 - Latest Binance News：Binance Will Extend the Monitoring Tag to Include GLMR, ICX, MOVR, RARE & SOPH on 2026-08-11
 - Latest Activities：Binance Adds 0G and SSV on Simple Earn Locked Products
 
 ### 最近 Alpha 上线
 
-- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 29006509.21
+- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 29768764.30
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined DOSUSDT Perpetual Contract (2026-08-11)](https://www.binance.com/en/support/announcement/detail/a2ee872d61654a5bb43a87c3122b5706)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)](https://www.binance.com/en/support/announcement/detail/45c2f20d589b420e80063ab75feb41f2)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-06)](https://www.binance.com/en/support/announcement/detail/307687ad279e42e6909ee1be8c472b50)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets - 2026-08-05](https://www.binance.com/en/support/announcement/detail/29e4ac8fb01d4a63837045a660e7d03b)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Binance News
 
