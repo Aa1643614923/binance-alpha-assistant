@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-11T07:36:15.701664+00:00
+- 生成时间：2026-08-11T08:35:53.117830+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1196323204.90
+- 四倍分 24h 总成交额：1199233068.61
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：145893（按 8200 / 人）
+- 估算参与人数：146248（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 999227352.21 | 列表口径 6357385.69 | 涨跌 -2.72% | 振幅 10.22% | 估算人数 121857
-- GRVT | Alpha Trade 成交额 176978499.38 | 列表口径 8051848.05 | 涨跌 -5.42% | 振幅 40.04% | 估算人数 21583
-- DOS | Alpha Trade 成交额 19694890.21 | 列表口径 26741484.43 | 涨跌 487.07% | 振幅 1373.06% | 估算人数 2402
-- AEON | Alpha Trade 成交额 250552.03 | 列表口径 28583888.67 | 涨跌 -3.76% | 振幅 8.62% | 估算人数 31
-- AGT | Alpha Trade 成交额 106553.55 | 列表口径 1933787.07 | 涨跌 6.56% | 振幅 16.96% | 估算人数 13
-- AIA | Alpha Trade 成交额 65357.52 | 列表口径 624393.27 | 涨跌 0.87% | 振幅 5.41% | 估算人数 8
+- BSB | Alpha Trade 成交额 1004084685.47 | 列表口径 6320444.59 | 涨跌 -3.81% | 振幅 10.38% | 估算人数 122449
+- GRVT | Alpha Trade 成交额 174060748.27 | 列表口径 7656402.53 | 涨跌 -16.81% | 振幅 40.04% | 估算人数 21227
+- DOS | Alpha Trade 成交额 20654579.93 | 列表口径 28506656.62 | 涨跌 417.41% | 振幅 1373.06% | 估算人数 2519
+- AEON | Alpha Trade 成交额 254577.76 | 列表口径 28804981.33 | 涨跌 -2.28% | 振幅 8.62% | 估算人数 31
+- AGT | Alpha Trade 成交额 111631.22 | 列表口径 1972186.39 | 涨跌 9.12% | 振幅 16.96% | 估算人数 14
+- AIA | Alpha Trade 成交额 66845.95 | 列表口径 625908.15 | 涨跌 -0.33% | 振幅 5.41% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 999227352.21 | 波动 0.24% | 4h 振幅 3.24% | 审计 LOW
-  - Alpha Trade 24h 成交额 999,227,352，流动性 1,543,460
-  - Alpha 列表口径 24h 成交额 6,357,386
-  - 短周期波动 0.24%
-  - 4h 振幅 3.24%
+- BSB | 分数 100.00 | Alpha Trade 成交额 1004084685.47 | 波动 0.22% | 4h 振幅 3.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,004,084,685，流动性 1,538,595
+  - Alpha 列表口径 24h 成交额 6,320,445
+  - 短周期波动 0.22%
+  - 4h 振幅 3.12%
   - 审计风险 LOW
-- GRVT | 分数 44.70 | Alpha Trade 成交额 176978499.38 | 波动 0.73% | 4h 振幅 7.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 176,978,499，流动性 850,571
-  - Alpha 列表口径 24h 成交额 8,051,848
-  - 短周期波动 0.73%
-  - 4h 振幅 7.62%
+- GRVT | 分数 45.41 | Alpha Trade 成交额 174060748.27 | 波动 0.64% | 4h 振幅 6.10% | 审计 LOW
+  - Alpha Trade 24h 成交额 174,060,748，流动性 847,121
+  - Alpha 列表口径 24h 成交额 7,656,403
+  - 短周期波动 0.64%
+  - 4h 振幅 6.10%
   - 审计风险 LOW
-- DOS | 分数 14.25 | Alpha Trade 成交额 19694890.21 | 波动 2.52% | 4h 振幅 28.27% | 审计 MID
-  - Alpha Trade 24h 成交额 19,694,890，流动性 1,136,395
-  - Alpha 列表口径 24h 成交额 26,741,484
-  - 短周期波动 2.52%
-  - 4h 振幅 28.27%
+- DOS | 分数 13.28 | Alpha Trade 成交额 20654579.93 | 波动 2.63% | 4h 振幅 20.48% | 审计 MID
+  - Alpha Trade 24h 成交额 20,654,580，流动性 1,098,981
+  - Alpha 列表口径 24h 成交额 28,506,657
+  - 短周期波动 2.63%
+  - 4h 振幅 20.48%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -45,11 +45,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-11)
 - Latest Binance News：Binance Will Support the Apple (AAPL) and IBM (IBM) Cash Dividend Distribution via bStocks
-- Latest Activities：Pick the Closing Price of the Magnificent 7 & Share 2,100 USDC!
+- Latest Activities：Binance Stocks: Earn Up to 12,000 USDC for Your First Stocks Transfer-in
 
 ### 最近 Alpha 上线
 
-- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 26741484.43
+- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 28506656.62
 
 ### New Cryptocurrency Listing
 
@@ -71,12 +71,12 @@
 
 ### Latest Activities
 
+- [Binance Stocks: Earn Up to 12,000 USDC for Your First Stocks Transfer-in](https://www.binance.com/en/support/announcement/detail/e983065edf554091b6b399f75c7297f6)
+  - This is a general informational announcement and is not a promotion. Products and services referred to here may not be available in your region. The information on this page may b…
+- [Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-08-14)](https://www.binance.com/en/support/announcement/detail/3f18062274ea49199475b4ad9ff35738)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the collateral ratio and Tiered…
 - [Pick the Closing Price of the Magnificent 7 & Share 2,100 USDC!](https://www.binance.com/en/support/announcement/detail/fed0ff49b6a3444998f41681bd3a8d95)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Think you know whe…
-- [Binance Flexible Loan: Borrow USDT, USDC, or ACE to Get a Chance to Win a Share of 500,000 ACE Rewards and a Flexible Loan Interest-Free Voucher!](https://www.binance.com/en/support/announcement/detail/3dd2add94bba4b67b027b00787039914)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Loans is thrilled to launch the August Flexi…
-- [Word of the Day: Test Your Knowledge on “Crypto’s Yield Infrastructure” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/af589a057c82445c9c1c888d257aa979)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 
 ## Warnings
 
