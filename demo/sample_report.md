@@ -1,45 +1,45 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-12T12:29:03.532080+00:00
+- 生成时间：2026-08-12T14:01:09.003103+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1247026723.62
+- 四倍分 24h 总成交额：1237040410.22
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：152076（按 8200 / 人）
+- 估算参与人数：150859（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 961177050.53 | 列表口径 4678853.95 | 涨跌 -2.38% | 振幅 10.22% | 估算人数 117217
-- GRVT | Alpha Trade 成交额 278392298.72 | 列表口径 11921938.52 | 涨跌 4.03% | 振幅 12.45% | 估算人数 33950
-- DOS | Alpha Trade 成交额 6621706.81 | 列表口径 20663973.01 | 涨跌 -27.47% | 振幅 45.91% | 估算人数 808
-- AEON | Alpha Trade 成交额 513296.70 | 列表口径 28660581.04 | 涨跌 16.74% | 振幅 22.74% | 估算人数 63
-- AIA | Alpha Trade 成交额 254782.52 | 列表口径 1292803.55 | 涨跌 7.03% | 振幅 13.05% | 估算人数 31
-- AGT | Alpha Trade 成交额 67588.34 | 列表口径 1466905.85 | 涨跌 -5.56% | 振幅 15.15% | 估算人数 8
+- BSB | Alpha Trade 成交额 963266203.45 | 列表口径 4673344.99 | 涨跌 -3.10% | 振幅 10.22% | 估算人数 117471
+- GRVT | Alpha Trade 成交额 265750143.55 | 列表口径 12208920.78 | 涨跌 1.85% | 振幅 12.45% | 估算人数 32409
+- DOS | Alpha Trade 成交额 7121582.44 | 列表口径 19056019.21 | 涨跌 -25.73% | 振幅 48.53% | 估算人数 868
+- AEON | Alpha Trade 成交额 590604.59 | 列表口径 29754557.41 | 涨跌 13.03% | 振幅 22.74% | 估算人数 72
+- AIA | Alpha Trade 成交额 257545.26 | 列表口径 1340961.22 | 涨跌 2.97% | 振幅 13.05% | 估算人数 31
+- AGT | Alpha Trade 成交额 54330.94 | 列表口径 1280050.83 | 涨跌 -1.12% | 振幅 9.25% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- BSB | 分数 98.87 | Alpha Trade 成交额 961177050.53 | 波动 0.41% | 4h 振幅 5.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 961,177,051，流动性 1,524,310
-  - Alpha 列表口径 24h 成交额 4,678,854
-  - 短周期波动 0.41%
-  - 4h 振幅 5.44%
+- BSB | 分数 98.18 | Alpha Trade 成交额 963266203.45 | 波动 0.36% | 4h 振幅 4.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 963,266,203，流动性 1,527,520
+  - Alpha 列表口径 24h 成交额 4,673,345
+  - 短周期波动 0.36%
+  - 4h 振幅 4.79%
   - 审计风险 LOW
-- AEON | 分数 44.45 | Alpha Trade 成交额 513296.70 | 波动 0.65% | 4h 振幅 8.87% | 审计 LOW
-  - Alpha Trade 24h 成交额 513,297，流动性 1,392,527
-  - Alpha 列表口径 24h 成交额 28,660,581
-  - 短周期波动 0.65%
-  - 4h 振幅 8.87%
+- GRVT | 分数 49.53 | Alpha Trade 成交额 265750143.55 | 波动 0.43% | 4h 振幅 4.71% | 审计 LOW
+  - Alpha Trade 24h 成交额 265,750,144，流动性 876,196
+  - Alpha 列表口径 24h 成交额 12,208,921
+  - 短周期波动 0.43%
+  - 4h 振幅 4.71%
   - 审计风险 LOW
-- GRVT | 分数 28.54 | Alpha Trade 成交额 278392298.72 | 波动 0.79% | 4h 振幅 7.15% | 审计 LOW
-  - Alpha Trade 24h 成交额 278,392,299，流动性 882,661
-  - Alpha 列表口径 24h 成交额 11,921,939
-  - 短周期波动 0.79%
-  - 4h 振幅 7.15%
+- AEON | 分数 35.51 | Alpha Trade 成交额 590604.59 | 波动 0.91% | 4h 振幅 8.62% | 审计 LOW
+  - Alpha Trade 24h 成交额 590,605，流动性 1,341,300
+  - Alpha 列表口径 24h 成交额 29,754,557
+  - 短周期波动 0.91%
+  - 4h 振幅 8.62%
   - 审计风险 LOW
-- DOS | 分数 27.01 | Alpha Trade 成交额 6621706.81 | 波动 0.63% | 4h 振幅 5.00% | 审计 MID
-  - Alpha Trade 24h 成交额 6,621,707，流动性 962,330
-  - Alpha 列表口径 24h 成交额 20,663,973
-  - 短周期波动 0.63%
-  - 4h 振幅 5.00%
+- DOS | 分数 35.24 | Alpha Trade 成交额 7121582.44 | 波动 0.44% | 4h 振幅 3.94% | 审计 MID
+  - Alpha Trade 24h 成交额 7,121,582，流动性 941,336
+  - Alpha 列表口径 24h 成交额 19,056,019
+  - 短周期波动 0.44%
+  - 4h 振幅 3.94%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -51,11 +51,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 1 bStocks Tokenized Securities as Collateral Asset - 2026-08-12
 - Latest Binance News：Introducing VIP Earn: Up to 20% Higher APR and Larger Quotas
-- Latest Activities：Binance Alpha Trading Competition: Trade DAPPOS (DOS) and Share $200K Worth of Rewards (2026-08-12)
+- Latest Activities：Dota 2 The International Activity: Trade to Share a 100,000 USDT Prize Pool and 5M Predict Points Rewards
 
 ### 最近 Alpha 上线
 
-- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 20663973.01
+- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 19056019.21
 
 ### New Cryptocurrency Listing
 
@@ -77,12 +77,12 @@
 
 ### Latest Activities
 
+- [Dota 2 The International Activity: Trade to Share a 100,000 USDT Prize Pool and 5M Predict Points Rewards](https://www.binance.com/en/support/announcement/detail/97e6cd78842e4bce98bde78d98a5a33d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Please refer to the applicable terms. Fellow Binancians, The Dota 2 The…
+- [South Asia Exclusive: Referral Dhamaka 2026: Invite Friends to Share $550,000 in USDT Token Vouchers](https://www.binance.com/en/support/announcement/detail/e8b239e938b440619339103ab1d59d4c)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, The Referral Dhamaka 202…
 - [Binance Alpha Trading Competition: Trade DAPPOS (DOS) and Share $200K Worth of Rewards (2026-08-12)](https://www.binance.com/en/support/announcement/detail/2e19d56645a2472fa3dbf1b8bf2c7efe)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Introducing the DeFi Wallet Stock Hub: Discover Third-Party Tokenized Stock-Related Products in One Place With Binance Wallet](https://www.binance.com/en/support/announcement/detail/32e7cb9ac92d42e3850a7de415013bbe)
-  - Important Notice: Stock Hub is a discovery and aggregation interface within Binance Wallet that displays information about third-party tokenized stock-related products and opportu…
-- [ALLO Trading Tournament: Trade to Share Up to 500 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/ff3ea96c8cdf47d198c3ea2e85f1e674)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 
 ## Warnings
 
