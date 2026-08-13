@@ -1,58 +1,50 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-12T23:33:12.251162+00:00
+- 生成时间：2026-08-13T00:41:19.459840+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1230293229.82
+- 四倍分 24h 总成交额：1229698332.40
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：150036（按 8200 / 人）
+- 估算参与人数：149963（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 965061419.93 | 列表口径 4721613.80 | 涨跌 -5.25% | 振幅 9.79% | 估算人数 117690
-- GRVT | Alpha Trade 成交额 257291941.00 | 列表口径 14966026.91 | 涨跌 -1.51% | 振幅 11.76% | 估算人数 31377
-- DOS | Alpha Trade 成交额 6986203.70 | 列表口径 13790894.83 | 涨跌 -16.95% | 振幅 38.01% | 估算人数 852
-- AEON | Alpha Trade 成交额 625269.19 | 列表口径 25246030.21 | 涨跌 2.65% | 振幅 17.83% | 估算人数 76
-- AIA | Alpha Trade 成交额 258260.26 | 列表口径 1435345.71 | 涨跌 4.72% | 振幅 9.71% | 估算人数 31
-- AGT | Alpha Trade 成交额 70135.73 | 列表口径 1905778.87 | 涨跌 9.37% | 振幅 23.36% | 估算人数 9
+- BSB | Alpha Trade 成交额 965055194.11 | 列表口径 4642015.90 | 涨跌 -5.47% | 振幅 9.73% | 估算人数 117690
+- GRVT | Alpha Trade 成交额 256723893.47 | 列表口径 14998286.58 | 涨跌 3.27% | 振幅 19.93% | 估算人数 31308
+- DOS | Alpha Trade 成交额 6959976.02 | 列表口径 13728313.38 | 涨跌 -18.03% | 振幅 38.35% | 估算人数 849
+- AEON | Alpha Trade 成交额 621724.22 | 列表口径 24044643.32 | 涨跌 -2.23% | 振幅 17.46% | 估算人数 76
+- AIA | Alpha Trade 成交额 264260.95 | 列表口径 1430987.67 | 涨跌 4.82% | 振幅 9.71% | 估算人数 32
+- AGT | Alpha Trade 成交额 73283.62 | 列表口径 1927547.17 | 涨跌 7.65% | 振幅 21.66% | 估算人数 9
 
 ## 稳定刷分推荐
 
-- BSB | 分数 98.52 | Alpha Trade 成交额 965061419.93 | 波动 0.30% | 4h 振幅 3.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 965,061,420，流动性 1,507,889
-  - Alpha 列表口径 24h 成交额 4,721,614
-  - 短周期波动 0.30%
-  - 4h 振幅 3.62%
+- BSB | 分数 97.97 | Alpha Trade 成交额 965055194.11 | 波动 0.31% | 4h 振幅 3.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 965,055,194，流动性 1,510,906
+  - Alpha 列表口径 24h 成交额 4,642,016
+  - 短周期波动 0.31%
+  - 4h 振幅 3.65%
   - 审计风险 LOW
-- AEON | 分数 52.68 | Alpha Trade 成交额 625269.19 | 波动 0.41% | 4h 振幅 3.13% | 审计 LOW
-  - Alpha Trade 24h 成交额 625,269，流动性 1,285,709
-  - Alpha 列表口径 24h 成交额 25,246,030
-  - 短周期波动 0.41%
-  - 4h 振幅 3.13%
+- AEON | 分数 57.33 | Alpha Trade 成交额 621724.22 | 波动 0.46% | 4h 振幅 2.48% | 审计 LOW
+  - Alpha Trade 24h 成交额 621,724，流动性 1,272,621
+  - Alpha 列表口径 24h 成交额 24,044,643
+  - 短周期波动 0.46%
+  - 4h 振幅 2.48%
   - 审计风险 LOW
-- GRVT | 分数 39.32 | Alpha Trade 成交额 257291941.00 | 波动 0.38% | 4h 振幅 5.11% | 审计 LOW
-  - Alpha Trade 24h 成交额 257,291,941，流动性 841,585
-  - Alpha 列表口径 24h 成交额 14,966,027
-  - 短周期波动 0.38%
-  - 4h 振幅 5.11%
+- GRVT | 分数 37.18 | Alpha Trade 成交额 256723893.47 | 波动 0.55% | 4h 振幅 5.90% | 审计 LOW
+  - Alpha Trade 24h 成交额 256,723,893，流动性 856,689
+  - Alpha 列表口径 24h 成交额 14,998,287
+  - 短周期波动 0.55%
+  - 4h 振幅 5.90%
   - 审计风险 LOW
-- DOS | 分数 7.73 | Alpha Trade 成交额 6986203.70 | 波动 0.49% | 4h 振幅 6.44% | 审计 MID
-  - Alpha Trade 24h 成交额 6,986,204，流动性 893,804
-  - Alpha 列表口径 24h 成交额 13,790,895
-  - 短周期波动 0.49%
-  - 4h 振幅 6.44%
+- DOS | 分数 6.35 | Alpha Trade 成交额 6959976.02 | 波动 0.75% | 4h 振幅 8.23% | 审计 MID
+  - Alpha Trade 24h 成交额 6,959,976，流动性 862,656
+  - Alpha 列表口径 24h 成交额 13,728,313
+  - 短周期波动 0.75%
+  - 4h 振幅 8.23%
   - 审计风险 MID
 
 ## Alpha 合约异动
 
-- 可映射 U 本位合约数：227
-- APR / APRUSDT | 24h 涨跌 189.35% | 资金费率 8.24 bps | 5m 持仓变化 0.24% | 建议通知
-- BR / BRUSDT | 24h 涨跌 79.42% | 资金费率 0.83 bps | 5m 持仓变化 0.08% | 建议通知
-- CYS / CYSUSDT | 24h 涨跌 53.88% | 资金费率 1.23 bps | 5m 持仓变化 0.02% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 28.02% | 资金费率 10.09 bps | 5m 持仓变化 0.02% | 建议通知
-- AVAAI / AVAAIUSDT | 24h 涨跌 33.12% | 资金费率 4.23 bps | 5m 持仓变化 -0.47% | 建议通知
-- DOS / DOSUSDT | 24h 涨跌 -16.94% | 资金费率 -13.21 bps | 5m 持仓变化 0.34% | 建议通知
-- BMT / BMTUSDT | 24h 涨跌 -29.05% | 资金费率 -0.13 bps | 5m 持仓变化 -0.77% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 3.33% | 资金费率 25.42 bps | 5m 持仓变化 -0.00% | 继续观察
+- 可映射 U 本位合约数：0
 
 ## Alpha 日报
 
@@ -63,7 +55,7 @@
 
 ### 最近 Alpha 上线
 
-- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 13790894.83
+- DOS | 4x | 上线 2026-08-10T09:00:00+00:00 | 24h 成交额 13728313.38
 
 ### New Cryptocurrency Listing
 
@@ -97,3 +89,6 @@
 - alpha_ticker:ALPHA_496U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_790U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_191U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- futures_exchange_info: all fallback endpoints failed: https://www.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/exchangeInfo | https://fapi.binance.com/fapi/v1/exchangeInfo -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/exchangeInfo
+- futures_ticker_24hr: all fallback endpoints failed: https://www.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/ticker/24hr | https://fapi.binance.com/fapi/v1/ticker/24hr -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/ticker/24hr
+- futures_premium_index: all fallback endpoints failed: https://www.binance.com/fapi/v1/premiumIndex -> 451 Client Error:  for url: https://www.binance.com/fapi/v1/premiumIndex | https://fapi.binance.com/fapi/v1/premiumIndex -> 451 Client Error:  for url: https://fapi.binance.com/fapi/v1/premiumIndex
