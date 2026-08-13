@@ -1,39 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-13T15:09:09.946941+00:00
+- 生成时间：2026-08-13T16:09:05.783876+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1328782868.06
+- 四倍分 24h 总成交额：1325069973.67
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：162047（按 8200 / 人）
+- 估算参与人数：161594（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 980316200.76 | 列表口径 4197889.26 | 涨跌 -2.61% | 振幅 7.86% | 估算人数 119551
-- GRVT | Alpha Trade 成交额 339298087.78 | 列表口径 11292836.26 | 涨跌 1.32% | 振幅 17.12% | 估算人数 41378
-- DOS | Alpha Trade 成交额 8744361.86 | 列表口径 20538347.52 | 涨跌 -16.69% | 振幅 60.20% | 估算人数 1066
-- AEON | Alpha Trade 成交额 211770.12 | 列表口径 14062796.32 | 涨跌 -3.63% | 振幅 10.48% | 估算人数 26
-- AGT | Alpha Trade 成交额 106402.66 | 列表口径 1888663.82 | 涨跌 4.89% | 振幅 18.75% | 估算人数 13
-- AIA | Alpha Trade 成交额 106044.89 | 列表口径 1243395.68 | 涨跌 -3.55% | 振幅 11.55% | 估算人数 13
+- BSB | Alpha Trade 成交额 982521349.90 | 列表口径 4383300.53 | 涨跌 -3.24% | 振幅 7.86% | 估算人数 119820
+- GRVT | Alpha Trade 成交额 333356538.56 | 列表口径 10088115.96 | 涨跌 3.74% | 振幅 17.12% | 估算人数 40653
+- DOS | Alpha Trade 成交额 8788405.97 | 列表口径 20497660.09 | 涨跌 -14.17% | 振幅 60.20% | 估算人数 1072
+- AEON | Alpha Trade 成交额 192451.79 | 列表口径 13880766.27 | 涨跌 -0.84% | 振幅 10.48% | 估算人数 23
+- AGT | Alpha Trade 成交额 109224.30 | 列表口径 1880023.79 | 涨跌 5.38% | 振幅 18.75% | 估算人数 13
+- AIA | Alpha Trade 成交额 102003.15 | 列表口径 1240441.88 | 涨跌 -3.73% | 振幅 11.55% | 估算人数 12
 
 ## 稳定刷分推荐
 
-- BSB | 分数 100.00 | Alpha Trade 成交额 980316200.76 | 波动 0.27% | 4h 振幅 3.01% | 审计 LOW
-  - Alpha Trade 24h 成交额 980,316,201，流动性 1,502,423
-  - Alpha 列表口径 24h 成交额 4,197,889
-  - 短周期波动 0.27%
-  - 4h 振幅 3.01%
-  - 审计风险 LOW
-- GRVT | 分数 48.16 | Alpha Trade 成交额 339298087.78 | 波动 0.34% | 4h 振幅 3.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 339,298,088，流动性 847,346
-  - Alpha 列表口径 24h 成交额 11,292,836
+- BSB | 分数 100.00 | Alpha Trade 成交额 982521349.90 | 波动 0.34% | 4h 振幅 3.45% | 审计 LOW
+  - Alpha Trade 24h 成交额 982,521,350，流动性 1,497,053
+  - Alpha 列表口径 24h 成交额 4,383,301
   - 短周期波动 0.34%
-  - 4h 振幅 3.42%
+  - 4h 振幅 3.45%
   - 审计风险 LOW
-- DOS | 分数 11.00 | Alpha Trade 成交额 8744361.86 | 波动 0.52% | 4h 振幅 5.82% | 审计 MID
-  - Alpha Trade 24h 成交额 8,744,362，流动性 1,011,141
-  - Alpha 列表口径 24h 成交额 20,538,348
-  - 短周期波动 0.52%
-  - 4h 振幅 5.82%
+- GRVT | 分数 46.76 | Alpha Trade 成交额 333356538.56 | 波动 0.36% | 4h 振幅 4.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 333,356,539，流动性 849,618
+  - Alpha 列表口径 24h 成交额 10,088,116
+  - 短周期波动 0.36%
+  - 4h 振幅 4.28%
+  - 审计风险 LOW
+- DOS | 分数 10.65 | Alpha Trade 成交额 8788405.97 | 波动 0.47% | 4h 振幅 5.10% | 审计 MID
+  - Alpha Trade 24h 成交额 8,788,406，流动性 1,000,191
+  - Alpha 列表口径 24h 成交额 20,497,660
+  - 短周期波动 0.47%
+  - 4h 振幅 5.10%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -44,7 +44,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-14)
 - Latest Binance News：Binance Expands Tokenized Securities Access with bStocks
-- Latest Activities：Pakistan Exclusive: Independence Trading Tournament: Trade More for a Bigger Share of the 20,000 USDT Prize Pool!
+- Latest Activities：New Users Exclusive Trading Competition: Win Up to 1,000 USDT
 
 ### 最近 Alpha 上线
 
@@ -69,12 +69,12 @@
 
 ### Latest Activities
 
+- [New Users Exclusive Trading Competition: Win Up to 1,000 USDT](https://www.binance.com/en/support/announcement/detail/6a61b3639ca04a6cae3866d14e5dde0e)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 - [Pakistan Exclusive: Independence Trading Tournament: Trade More for a Bigger Share of the 20,000 USDT Prize Pool!](https://www.binance.com/en/support/announcement/detail/e605e25953d848fb911693376345302b)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the Pakistan Independence Trading Tour…
 - [Binance Square: Join CreatorPad for 480,000 DUSK Reward and Stream for an Additional 40,000 USDC!](https://www.binance.com/en/support/announcement/detail/a07227f11c5345e091c8f0118d403806)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance Square is launching a new CreatorPad c…
-- [PLUME Trading Tournament: Trade to Share Up to 500 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/228dec8830ec468e81696d4b1afae124)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 
 ## Warnings
 
