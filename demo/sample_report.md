@@ -1,46 +1,46 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-14T04:30:07.590868+00:00
+- 生成时间：2026-08-14T06:02:00.248166+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1331808899.99
+- 四倍分 24h 总成交额：1328307006.73
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：162416（按 8200 / 人）
+- 估算参与人数：161989（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 978490053.25 | 列表口径 4344842.70 | 涨跌 -0.54% | 振幅 4.85% | 估算人数 119328
-- GRVT | Alpha Trade 成交额 343297286.77 | 列表口径 5136647.89 | 涨跌 -0.75% | 振幅 7.51% | 估算人数 41866
-- DOS | Alpha Trade 成交额 9252550.46 | 列表口径 20676460.64 | 涨跌 -6.80% | 振幅 20.06% | 估算人数 1128
-- AEON | Alpha Trade 成交额 612562.19 | 列表口径 24468894.19 | 涨跌 22.90% | 振幅 33.74% | 估算人数 75
-- AIA | Alpha Trade 成交额 98190.47 | 列表口径 1016899.95 | 涨跌 -6.07% | 振幅 11.55% | 估算人数 12
-- AGT | Alpha Trade 成交额 58256.83 | 列表口径 792512.83 | 涨跌 5.08% | 振幅 5.33% | 估算人数 7
+- BSB | Alpha Trade 成交额 973419112.59 | 列表口径 4490043.81 | 涨跌 -0.52% | 振幅 4.85% | 估算人数 118710
+- GRVT | Alpha Trade 成交额 343706661.12 | 列表口径 4397722.51 | 涨跌 0.71% | 振幅 13.75% | 估算人数 41915
+- DOS | Alpha Trade 成交额 10373040.88 | 列表口径 19699654.42 | 涨跌 -3.60% | 振幅 20.06% | 估算人数 1265
+- AEON | Alpha Trade 成交额 647979.22 | 列表口径 25484090.54 | 涨跌 18.89% | 振幅 33.72% | 估算人数 79
+- AIA | Alpha Trade 成交额 94316.47 | 列表口径 990330.95 | 涨跌 -7.61% | 振幅 10.72% | 估算人数 12
+- AGT | Alpha Trade 成交额 65896.44 | 列表口径 1018877.86 | 涨跌 -1.56% | 振幅 9.54% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- BSB | 分数 99.45 | Alpha Trade 成交额 978490053.25 | 波动 0.29% | 4h 振幅 4.05% | 审计 LOW
-  - Alpha Trade 24h 成交额 978,490,053，流动性 1,503,918
-  - Alpha 列表口径 24h 成交额 4,344,843
-  - 短周期波动 0.29%
-  - 4h 振幅 4.05%
-  - 审计风险 LOW
-- GRVT | 分数 54.63 | Alpha Trade 成交额 343297286.77 | 波动 0.33% | 4h 振幅 3.66% | 审计 LOW
-  - Alpha Trade 24h 成交额 343,297,287，流动性 846,501
-  - Alpha 列表口径 24h 成交额 5,136,648
+- BSB | 分数 97.08 | Alpha Trade 成交额 973419112.59 | 波动 0.33% | 4h 振幅 3.16% | 审计 LOW
+  - Alpha Trade 24h 成交额 973,419,113，流动性 1,501,796
+  - Alpha 列表口径 24h 成交额 4,490,044
   - 短周期波动 0.33%
-  - 4h 振幅 3.66%
+  - 4h 振幅 3.16%
   - 审计风险 LOW
-- AEON | 分数 39.36 | Alpha Trade 成交额 612562.19 | 波动 1.16% | 4h 振幅 10.77% | 审计 LOW
-  - Alpha Trade 24h 成交额 612,562，流动性 1,449,696
-  - Alpha 列表口径 24h 成交额 24,468,894
-  - 短周期波动 1.16%
-  - 4h 振幅 10.77%
+- GRVT | 分数 50.27 | Alpha Trade 成交额 343706661.12 | 波动 0.37% | 4h 振幅 4.18% | 审计 LOW
+  - Alpha Trade 24h 成交额 343,706,661，流动性 851,018
+  - Alpha 列表口径 24h 成交额 4,397,723
+  - 短周期波动 0.37%
+  - 4h 振幅 4.18%
   - 审计风险 LOW
-- DOS | 分数 33.27 | Alpha Trade 成交额 9252550.46 | 波动 0.48% | 4h 振幅 5.87% | 审计 MID
-  - Alpha Trade 24h 成交额 9,252,550，流动性 998,371
-  - Alpha 列表口径 24h 成交额 20,676,461
-  - 短周期波动 0.48%
-  - 4h 振幅 5.87%
+- DOS | 分数 40.62 | Alpha Trade 成交额 10373040.88 | 波动 0.27% | 4h 振幅 2.40% | 审计 MID
+  - Alpha Trade 24h 成交额 10,373,041，流动性 993,351
+  - Alpha 列表口径 24h 成交额 19,699,654
+  - 短周期波动 0.27%
+  - 4h 振幅 2.40%
   - 审计风险 MID
+- AEON | 分数 38.09 | Alpha Trade 成交额 647979.22 | 波动 0.96% | 4h 振幅 8.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 647,979，流动性 1,406,957
+  - Alpha 列表口径 24h 成交额 25,484,091
+  - 短周期波动 0.96%
+  - 4h 振幅 8.91%
+  - 审计风险 LOW
 
 ## Alpha 合约异动
 
@@ -49,7 +49,7 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-14)
-- Latest Binance News：Binance Expands Tokenized Securities Access with bStocks
+- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)
 - Latest Activities：Hold RLUSD in Binance Earn and Margin Accounts to Share 1 Million XRP in Rewards
 
 ### 最近 Alpha 上线
@@ -66,12 +66,12 @@
 
 ### Latest Binance News
 
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)](https://www.binance.com/en/support/announcement/detail/82a93632adbd4d0cb42bbf24c9b35400)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 - [Binance Expands Tokenized Securities Access with bStocks](https://www.binance.com/en/support/announcement/detail/c16868c76a264a0690d18ac26f637b0c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 - [Introducing VIP Earn: Up to 20% Higher APR and Larger Quotas](https://www.binance.com/en/support/announcement/detail/ce999f3625724037900d8627255b1164)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is pleased to announce the launch of VIP Ear…
-- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-08-12)](https://www.binance.com/en/support/announcement/detail/96b502bae29c4f688cdd40f391e0bd27)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; &nbsp; Binan…
 
 ### Latest Activities
 
