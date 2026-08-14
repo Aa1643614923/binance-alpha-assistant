@@ -1,45 +1,45 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-14T08:50:46.578929+00:00
+- 生成时间：2026-08-14T09:51:55.161789+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1320988951.75
+- 四倍分 24h 总成交额：1340858470.30
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：161096（按 8200 / 人）
+- 估算参与人数：163519（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 965859261.79 | 列表口径 4385302.38 | 涨跌 -1.50% | 振幅 4.85% | 估算人数 117788
-- GRVT | Alpha Trade 成交额 323555730.91 | 列表口径 3098003.56 | 涨跌 0.78% | 振幅 13.75% | 估算人数 39458
-- DOS | Alpha Trade 成交额 30656128.70 | 列表口径 16141689.80 | 涨跌 -6.82% | 振幅 20.06% | 估算人数 3739
-- AEON | Alpha Trade 成交额 758425.80 | 列表口径 26193017.86 | 涨跌 17.01% | 振幅 30.89% | 估算人数 92
-- AIA | Alpha Trade 成交额 83049.54 | 列表口径 902451.93 | 涨跌 -2.15% | 振幅 9.13% | 估算人数 10
-- AGT | Alpha Trade 成交额 76355.01 | 列表口径 1176767.34 | 涨跌 4.89% | 振幅 10.04% | 估算人数 9
+- BSB | Alpha Trade 成交额 967382606.93 | 列表口径 4203797.76 | 涨跌 -0.96% | 振幅 4.85% | 估算人数 117973
+- GRVT | Alpha Trade 成交额 310242960.46 | 列表口径 2683724.94 | 涨跌 -0.25% | 振幅 13.75% | 估算人数 37835
+- DOS | Alpha Trade 成交额 62315830.28 | 列表口径 14425964.30 | 涨跌 -8.33% | 振幅 20.06% | 估算人数 7599
+- AEON | Alpha Trade 成交额 764152.61 | 列表口径 26103635.87 | 涨跌 12.11% | 振幅 29.35% | 估算人数 93
+- AGT | Alpha Trade 成交额 78490.32 | 列表口径 1230837.68 | 涨跌 4.39% | 振幅 10.04% | 估算人数 10
+- AIA | Alpha Trade 成交额 74429.69 | 列表口径 900978.40 | 涨跌 -2.26% | 振幅 9.13% | 估算人数 9
 
 ## 稳定刷分推荐
 
-- BSB | 分数 99.52 | Alpha Trade 成交额 965859261.79 | 波动 0.25% | 4h 振幅 2.50% | 审计 LOW
-  - Alpha Trade 24h 成交额 965,859,262，流动性 1,496,374
-  - Alpha 列表口径 24h 成交额 4,385,302
-  - 短周期波动 0.25%
-  - 4h 振幅 2.50%
+- BSB | 分数 99.08 | Alpha Trade 成交额 967382606.93 | 波动 0.18% | 4h 振幅 2.98% | 审计 LOW
+  - Alpha Trade 24h 成交额 967,382,607，流动性 1,491,378
+  - Alpha 列表口径 24h 成交额 4,203,798
+  - 短周期波动 0.18%
+  - 4h 振幅 2.98%
   - 审计风险 LOW
-- GRVT | 分数 53.68 | Alpha Trade 成交额 323555730.91 | 波动 0.31% | 4h 振幅 2.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 323,555,731，流动性 851,564
-  - Alpha 列表口径 24h 成交额 3,098,004
-  - 短周期波动 0.31%
-  - 4h 振幅 2.18%
+- GRVT | 分数 50.56 | Alpha Trade 成交额 310242960.46 | 波动 0.32% | 4h 振幅 2.49% | 审计 LOW
+  - Alpha Trade 24h 成交额 310,242,960，流动性 850,962
+  - Alpha 列表口径 24h 成交额 2,683,725
+  - 短周期波动 0.32%
+  - 4h 振幅 2.49%
   - 审计风险 LOW
-- AEON | 分数 38.38 | Alpha Trade 成交额 758425.80 | 波动 1.04% | 4h 振幅 8.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 758,426，流动性 1,411,818
-  - Alpha 列表口径 24h 成交额 26,193,018
-  - 短周期波动 1.04%
-  - 4h 振幅 8.83%
+- AEON | 分数 38.61 | Alpha Trade 成交额 764152.61 | 波动 0.81% | 4h 振幅 7.89% | 审计 LOW
+  - Alpha Trade 24h 成交额 764,153，流动性 1,414,797
+  - Alpha 列表口径 24h 成交额 26,103,636
+  - 短周期波动 0.81%
+  - 4h 振幅 7.89%
   - 审计风险 LOW
-- DOS | 分数 33.54 | Alpha Trade 成交额 30656128.70 | 波动 0.40% | 4h 振幅 4.46% | 审计 MID
-  - Alpha Trade 24h 成交额 30,656,129，流动性 979,235
-  - Alpha 列表口径 24h 成交额 16,141,690
-  - 短周期波动 0.40%
-  - 4h 振幅 4.46%
+- DOS | 分数 29.68 | Alpha Trade 成交额 62315830.28 | 波动 0.45% | 4h 振幅 4.37% | 审计 MID
+  - Alpha Trade 24h 成交额 62,315,830，流动性 985,644
+  - Alpha 列表口径 24h 成交额 14,425,964
+  - 短周期波动 0.45%
+  - 4h 振幅 4.37%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -49,8 +49,8 @@
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-14)
-- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)
-- Latest Activities：MENAP Exclusive: Gift Crypto Worth $1 or More to a Friend & Earn Up to 20 USDC in Token Vouchers!
+- Latest Binance News：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined ONEUSDT Perpetual Contract (2026-08-14)
+- Latest Activities：XPL Trading Tournament: Trade to Share Up to 4,000,000 XPL Token Vouchers
 
 ### 最近 Alpha 上线
 
@@ -66,21 +66,21 @@
 
 ### Latest Binance News
 
+- [Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined ONEUSDT Perpetual Contract (2026-08-14)](https://www.binance.com/en/support/announcement/detail/1127f937c5fe49acb976d4a2dd272d27)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will apply Last Price Prot…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)](https://www.binance.com/en/support/announcement/detail/82a93632adbd4d0cb42bbf24c9b35400)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 - [Binance Expands Tokenized Securities Access with bStocks](https://www.binance.com/en/support/announcement/detail/c16868c76a264a0690d18ac26f637b0c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
-- [Introducing VIP Earn: Up to 20% Higher APR and Larger Quotas](https://www.binance.com/en/support/announcement/detail/ce999f3625724037900d8627255b1164)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is pleased to announce the launch of VIP Ear…
 
 ### Latest Activities
 
+- [XPL Trading Tournament: Trade to Share Up to 4,000,000 XPL Token Vouchers](https://www.binance.com/en/support/announcement/detail/566931750f7444e890f317ef5b9c9462)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 - [MENAP Exclusive: Gift Crypto Worth $1 or More to a Friend & Earn Up to 20 USDC in Token Vouchers!](https://www.binance.com/en/support/announcement/detail/abdba45ce26c4460aa8f88cece989d58)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is launching a special campaign for selected…
 - [Hold RLUSD in Binance Earn and Margin Accounts to Share 1 Million XRP in Rewards](https://www.binance.com/en/support/announcement/detail/87614899ce0346beb103f58075d8c8cc)
   - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
-- [Pakistan Exclusive: Independence Trading Tournament: Trade More for a Bigger Share of the 20,000 USDT Prize Pool!](https://www.binance.com/en/support/announcement/detail/e605e25953d848fb911693376345302b)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Get ready for the Pakistan Independence Trading Tour…
 
 ## Warnings
 
