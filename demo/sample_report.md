@@ -1,45 +1,45 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-14T09:51:55.161789+00:00
+- 生成时间：2026-08-14T10:52:46.903019+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1340858470.30
+- 四倍分 24h 总成交额：1366111844.90
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：163519（按 8200 / 人）
+- 估算参与人数：166599（按 8200 / 人）
 
 ## 四倍分代币
 
-- BSB | Alpha Trade 成交额 967382606.93 | 列表口径 4203797.76 | 涨跌 -0.96% | 振幅 4.85% | 估算人数 117973
-- GRVT | Alpha Trade 成交额 310242960.46 | 列表口径 2683724.94 | 涨跌 -0.25% | 振幅 13.75% | 估算人数 37835
-- DOS | Alpha Trade 成交额 62315830.28 | 列表口径 14425964.30 | 涨跌 -8.33% | 振幅 20.06% | 估算人数 7599
-- AEON | Alpha Trade 成交额 764152.61 | 列表口径 26103635.87 | 涨跌 12.11% | 振幅 29.35% | 估算人数 93
-- AGT | Alpha Trade 成交额 78490.32 | 列表口径 1230837.68 | 涨跌 4.39% | 振幅 10.04% | 估算人数 10
-- AIA | Alpha Trade 成交额 74429.69 | 列表口径 900978.40 | 涨跌 -2.26% | 振幅 9.13% | 估算人数 9
+- BSB | Alpha Trade 成交额 961483157.43 | 列表口径 4221774.83 | 涨跌 -1.75% | 振幅 4.85% | 估算人数 117254
+- GRVT | Alpha Trade 成交额 300940122.11 | 列表口径 2270045.66 | 涨跌 2.96% | 振幅 13.75% | 估算人数 36700
+- DOS | Alpha Trade 成交额 102782458.61 | 列表口径 12847392.97 | 涨跌 -1.24% | 振幅 12.27% | 估算人数 12534
+- AEON | Alpha Trade 成交额 747522.00 | 列表口径 25798255.18 | 涨跌 9.60% | 振幅 29.35% | 估算人数 91
+- AGT | Alpha Trade 成交额 84667.40 | 列表口径 1296890.35 | 涨跌 2.23% | 振幅 10.04% | 估算人数 10
+- AIA | Alpha Trade 成交额 73917.35 | 列表口径 856654.03 | 涨跌 -2.67% | 振幅 9.13% | 估算人数 9
 
 ## 稳定刷分推荐
 
-- BSB | 分数 99.08 | Alpha Trade 成交额 967382606.93 | 波动 0.18% | 4h 振幅 2.98% | 审计 LOW
-  - Alpha Trade 24h 成交额 967,382,607，流动性 1,491,378
-  - Alpha 列表口径 24h 成交额 4,203,798
-  - 短周期波动 0.18%
-  - 4h 振幅 2.98%
+- BSB | 分数 100.00 | Alpha Trade 成交额 961483157.43 | 波动 0.24% | 4h 振幅 2.69% | 审计 LOW
+  - Alpha Trade 24h 成交额 961,483,157，流动性 1,487,329
+  - Alpha 列表口径 24h 成交额 4,221,775
+  - 短周期波动 0.24%
+  - 4h 振幅 2.69%
   - 审计风险 LOW
-- GRVT | 分数 50.56 | Alpha Trade 成交额 310242960.46 | 波动 0.32% | 4h 振幅 2.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 310,242,960，流动性 850,962
-  - Alpha 列表口径 24h 成交额 2,683,725
-  - 短周期波动 0.32%
-  - 4h 振幅 2.49%
+- GRVT | 分数 45.58 | Alpha Trade 成交额 300940122.11 | 波动 0.35% | 4h 振幅 4.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 300,940,122，流动性 856,371
+  - Alpha 列表口径 24h 成交额 2,270,046
+  - 短周期波动 0.35%
+  - 4h 振幅 4.05%
   - 审计风险 LOW
-- AEON | 分数 38.61 | Alpha Trade 成交额 764152.61 | 波动 0.81% | 4h 振幅 7.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 764,153，流动性 1,414,797
-  - Alpha 列表口径 24h 成交额 26,103,636
-  - 短周期波动 0.81%
-  - 4h 振幅 7.89%
+- AEON | 分数 38.28 | Alpha Trade 成交额 747522.00 | 波动 0.62% | 4h 振幅 7.02% | 审计 LOW
+  - Alpha Trade 24h 成交额 747,522，流动性 1,401,666
+  - Alpha 列表口径 24h 成交额 25,798,255
+  - 短周期波动 0.62%
+  - 4h 振幅 7.02%
   - 审计风险 LOW
-- DOS | 分数 29.68 | Alpha Trade 成交额 62315830.28 | 波动 0.45% | 4h 振幅 4.37% | 审计 MID
-  - Alpha Trade 24h 成交额 62,315,830，流动性 985,644
-  - Alpha 列表口径 24h 成交额 14,425,964
-  - 短周期波动 0.45%
-  - 4h 振幅 4.37%
+- DOS | 分数 23.31 | Alpha Trade 成交额 102782458.61 | 波动 0.49% | 4h 振幅 5.59% | 审计 MID
+  - Alpha Trade 24h 成交额 102,782,459，流动性 997,547
+  - Alpha 列表口径 24h 成交额 12,847,393
+  - 短周期波动 0.49%
+  - 4h 振幅 5.59%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -50,7 +50,7 @@
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-14)
 - Latest Binance News：Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined ONEUSDT Perpetual Contract (2026-08-14)
-- Latest Activities：XPL Trading Tournament: Trade to Share Up to 4,000,000 XPL Token Vouchers
+- Latest Activities：Binance KOL Introduction Program Season 2: Introduce KOLs to Join Binance Affiliate Program and Share Up to 8,000 USDC
 
 ### 最近 Alpha 上线
 
@@ -75,12 +75,12 @@
 
 ### Latest Activities
 
+- [Binance KOL Introduction Program Season 2: Introduce KOLs to Join Binance Affiliate Program and Share Up to 8,000 USDC](https://www.binance.com/en/support/announcement/detail/dbcb5c1cee35401381273858aa197584)
+  - Binance KOL Introduction Program Season 2: Introduce KOLs to Join Binance Affiliate Program and Share Up to 8,000 USDC This is a general announcement. Products and services referr…
+- [Binance Earn: Enjoy Up to 8% APR on U Flexible Products — Exclusive 5% APR for VIP Users with 500,000 U Limit (2026-08-16)](https://www.binance.com/en/support/announcement/detail/b2ece09a8aeb4002bc8197c52cad411b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Disclaimer: Thi…
 - [XPL Trading Tournament: Trade to Share Up to 4,000,000 XPL Token Vouchers](https://www.binance.com/en/support/announcement/detail/566931750f7444e890f317ef5b9c9462)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-- [MENAP Exclusive: Gift Crypto Worth $1 or More to a Friend & Earn Up to 20 USDC in Token Vouchers!](https://www.binance.com/en/support/announcement/detail/abdba45ce26c4460aa8f88cece989d58)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is launching a special campaign for selected…
-- [Hold RLUSD in Binance Earn and Margin Accounts to Share 1 Million XRP in Rewards](https://www.binance.com/en/support/announcement/detail/87614899ce0346beb103f58075d8c8cc)
-  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 
 ## Warnings
 
