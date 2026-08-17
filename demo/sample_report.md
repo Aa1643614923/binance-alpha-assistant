@@ -1,46 +1,46 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-17T08:21:53.107750+00:00
+- 生成时间：2026-08-17T09:06:45.788337+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1309984928.49
+- 四倍分 24h 总成交额：1298441042.65
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：159754（按 8200 / 人）
+- 估算参与人数：158346（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 1099152607.49 | 列表口径 883624.19 | 涨跌 -4.80% | 振幅 10.69% | 估算人数 134043
-- DOS | Alpha Trade 成交额 160097701.96 | 列表口径 63733468.45 | 涨跌 -9.10% | 振幅 75.11% | 估算人数 19524
-- KII | Alpha Trade 成交额 49847286.73 | 列表口径 78091421.59 | 涨跌 2.56% | 振幅 17.46% | 估算人数 6079
-- AEON | Alpha Trade 成交额 773383.17 | 列表口径 10954011.53 | 涨跌 -5.01% | 振幅 26.41% | 估算人数 94
-- AIA | Alpha Trade 成交额 82241.37 | 列表口径 697573.17 | 涨跌 -0.82% | 振幅 7.78% | 估算人数 10
-- AGT | Alpha Trade 成交额 31707.77 | 列表口径 1062317.96 | 涨跌 -1.70% | 振幅 6.11% | 估算人数 4
+- GRVT | Alpha Trade 成交额 1091908315.52 | 列表口径 889717.72 | 涨跌 -5.21% | 振幅 11.62% | 估算人数 133160
+- DOS | Alpha Trade 成交额 159601662.51 | 列表口径 65504740.38 | 涨跌 -8.00% | 振幅 75.11% | 估算人数 19464
+- KII | Alpha Trade 成交额 45886472.86 | 列表口径 77324555.30 | 涨跌 -2.74% | 振幅 17.46% | 估算人数 5596
+- AEON | Alpha Trade 成交额 926129.05 | 列表口径 11333665.50 | 涨跌 1.22% | 振幅 25.18% | 估算人数 113
+- AIA | Alpha Trade 成交额 85887.91 | 列表口径 694073.71 | 涨跌 -1.15% | 振幅 7.78% | 估算人数 10
+- AGT | Alpha Trade 成交额 32574.80 | 列表口径 1045303.99 | 涨跌 -1.36% | 振幅 6.11% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- GRVT | 分数 72.63 | Alpha Trade 成交额 1099152607.49 | 波动 0.22% | 4h 振幅 3.47% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,099,152,607，流动性 779,006
-  - Alpha 列表口径 24h 成交额 883,624
-  - 短周期波动 0.22%
-  - 4h 振幅 3.47%
+- GRVT | 分数 74.19 | Alpha Trade 成交额 1091908315.52 | 波动 0.25% | 4h 振幅 3.55% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,091,908,316，流动性 778,032
+  - Alpha 列表口径 24h 成交额 889,718
+  - 短周期波动 0.25%
+  - 4h 振幅 3.55%
   - 审计风险 LOW
-- AEON | 分数 45.00 | Alpha Trade 成交额 773383.17 | 波动 0.67% | 4h 振幅 9.85% | 审计 LOW
-  - Alpha Trade 24h 成交额 773,383，流动性 1,604,961
-  - Alpha 列表口径 24h 成交额 10,954,012
-  - 短周期波动 0.67%
-  - 4h 振幅 9.85%
+- AEON | 分数 45.00 | Alpha Trade 成交额 926129.05 | 波动 0.79% | 4h 振幅 13.75% | 审计 LOW
+  - Alpha Trade 24h 成交额 926,129，流动性 1,634,966
+  - Alpha 列表口径 24h 成交额 11,333,665
+  - 短周期波动 0.79%
+  - 4h 振幅 13.75%
   - 审计风险 LOW
-- DOS | 分数 42.69 | Alpha Trade 成交额 160097701.96 | 波动 0.23% | 4h 振幅 2.29% | 审计 MID
-  - Alpha Trade 24h 成交额 160,097,702，流动性 932,417
-  - Alpha 列表口径 24h 成交额 63,733,468
-  - 短周期波动 0.23%
-  - 4h 振幅 2.29%
+- KII | 分数 36.14 | Alpha Trade 成交额 45886472.86 | 波动 0.69% | 4h 振幅 7.72% | 审计 LOW
+  - Alpha Trade 24h 成交额 45,886,473，流动性 1,307,108
+  - Alpha 列表口径 24h 成交额 77,324,555
+  - 短周期波动 0.69%
+  - 4h 振幅 7.72%
+  - 审计风险 LOW
+- DOS | 分数 35.52 | Alpha Trade 成交额 159601662.51 | 波动 0.41% | 4h 振幅 5.48% | 审计 MID
+  - Alpha Trade 24h 成交额 159,601,663，流动性 943,303
+  - Alpha 列表口径 24h 成交额 65,504,740
+  - 短周期波动 0.41%
+  - 4h 振幅 5.48%
   - 审计风险 MID
-- KII | 分数 39.60 | Alpha Trade 成交额 49847286.73 | 波动 0.54% | 4h 振幅 4.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 49,847,287，流动性 1,327,548
-  - Alpha 列表口径 24h 成交额 78,091,422
-  - 短周期波动 0.54%
-  - 4h 振幅 4.91%
-  - 审计风险 LOW
 
 ## Alpha 合约异动
 
@@ -51,11 +51,11 @@
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-17 & 2026-08-18)
 - Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-18)
-- Latest Activities：Word of the Day: Test Your Knowledge on “DTC Transfer: Stocks to Binance” to Unlock BNB Rewards!
+- Latest Activities：Trade bStocks with AI via Binance Agentic Wallet to Win Up to 100,000 USDC
 
 ### 最近 Alpha 上线
 
-- KII | 4x | 上线 2026-08-14T13:00:00+00:00 | 24h 成交额 78091421.59
+- KII | 4x | 上线 2026-08-14T13:00:00+00:00 | 24h 成交额 77324555.30
 
 ### New Cryptocurrency Listing
 
@@ -77,12 +77,12 @@
 
 ### Latest Activities
 
+- [Trade bStocks with AI via Binance Agentic Wallet to Win Up to 100,000 USDC](https://www.binance.com/en/support/announcement/detail/e5518acf2d6a4b1780e108d60972b206)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, The Binance bStock…
+- [New Users Exclusive Trading Competition: Win Up to 1,000 USDT](https://www.binance.com/en/support/announcement/detail/eeeb7df8c4104896924fd976a03b4a96)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 - [Word of the Day: Test Your Knowledge on “DTC Transfer: Stocks to Binance” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/28d4cfba373a4e0582fd27b365430cba)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
-- [Binance Alpha Trading Competition: Trade Capricorn (APR) and Share $200K Worth of Rewards (2026-08-14)](https://www.binance.com/en/support/announcement/detail/815ec4a2ea0244bfb339d1c0f80c32f0)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Binance KOL Introduction Program Season 2: Introduce KOLs to Join Binance Affiliate Program and Share Up to 8,000 USDC](https://www.binance.com/en/support/announcement/detail/dbcb5c1cee35401381273858aa197584)
-  - Binance KOL Introduction Program Season 2: Introduce KOLs to Join Binance Affiliate Program and Share Up to 8,000 USDC This is a general announcement. Products and services referr…
 
 ## Warnings
 
