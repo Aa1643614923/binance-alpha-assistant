@@ -1,45 +1,45 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-17T05:49:28.873762+00:00
+- 生成时间：2026-08-17T06:26:55.513981+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1326636773.57
+- 四倍分 24h 总成交额：1328170875.73
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：161785（按 8200 / 人）
+- 估算参与人数：161972（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 1109857531.33 | 列表口径 978542.65 | 涨跌 -1.82% | 振幅 9.84% | 估算人数 135348
-- DOS | Alpha Trade 成交额 152261837.88 | 列表口径 56462603.83 | 涨跌 -10.87% | 振幅 14.45% | 估算人数 18569
-- KII | Alpha Trade 成交额 63634654.38 | 列表口径 79046165.11 | 涨跌 3.41% | 振幅 17.46% | 估算人数 7760
-- AEON | Alpha Trade 成交额 771280.36 | 列表口径 11311287.46 | 涨跌 -11.77% | 振幅 29.18% | 估算人数 94
-- AIA | Alpha Trade 成交额 77667.85 | 列表口径 672648.25 | 涨跌 0.48% | 振幅 7.78% | 估算人数 9
-- AGT | Alpha Trade 成交额 33801.75 | 列表口径 1099876.00 | 涨跌 0.69% | 振幅 6.11% | 估算人数 4
+- GRVT | Alpha Trade 成交额 1112105605.30 | 列表口径 944816.79 | 涨跌 -2.90% | 振幅 9.84% | 估算人数 135623
+- DOS | Alpha Trade 成交额 154857798.77 | 列表口径 58313752.59 | 涨跌 -10.04% | 振幅 14.04% | 估算人数 18885
+- KII | Alpha Trade 成交额 60317738.73 | 列表口径 78363302.51 | 涨跌 4.95% | 振幅 17.46% | 估算人数 7356
+- AEON | Alpha Trade 成交额 776517.34 | 列表口径 11209255.59 | 涨跌 -9.37% | 振幅 29.18% | 估算人数 95
+- AIA | Alpha Trade 成交额 78971.03 | 列表口径 686463.40 | 涨跌 1.07% | 振幅 7.78% | 估算人数 10
+- AGT | Alpha Trade 成交额 34244.55 | 列表口径 1091780.51 | 涨跌 0.51% | 振幅 6.11% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- GRVT | 分数 70.08 | Alpha Trade 成交额 1109857531.33 | 波动 0.41% | 4h 振幅 4.48% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,109,857,531，流动性 792,166
-  - Alpha 列表口径 24h 成交额 978,543
-  - 短周期波动 0.41%
-  - 4h 振幅 4.48%
-  - 审计风险 LOW
-- AEON | 分数 45.00 | Alpha Trade 成交额 771280.36 | 波动 0.67% | 4h 振幅 7.05% | 审计 LOW
-  - Alpha Trade 24h 成交额 771,280，流动性 1,547,899
-  - Alpha 列表口径 24h 成交额 11,311,287
-  - 短周期波动 0.67%
-  - 4h 振幅 7.05%
-  - 审计风险 LOW
-- KII | 分数 44.83 | Alpha Trade 成交额 63634654.38 | 波动 0.54% | 4h 振幅 4.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 63,634,654，流动性 1,313,568
-  - Alpha 列表口径 24h 成交额 79,046,165
-  - 短周期波动 0.54%
-  - 4h 振幅 4.42%
-  - 审计风险 LOW
-- DOS | 分数 43.31 | Alpha Trade 成交额 152261837.88 | 波动 0.39% | 4h 振幅 3.40% | 审计 MID
-  - Alpha Trade 24h 成交额 152,261,838，流动性 939,513
-  - Alpha 列表口径 24h 成交额 56,462,604
+- GRVT | 分数 66.31 | Alpha Trade 成交额 1112105605.30 | 波动 0.39% | 4h 振幅 3.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,112,105,605，流动性 781,433
+  - Alpha 列表口径 24h 成交额 944,817
   - 短周期波动 0.39%
-  - 4h 振幅 3.40%
+  - 4h 振幅 3.91%
+  - 审计风险 LOW
+- KII | 分数 46.18 | Alpha Trade 成交额 60317738.73 | 波动 0.50% | 4h 振幅 3.35% | 审计 LOW
+  - Alpha Trade 24h 成交额 60,317,739，流动性 1,317,808
+  - Alpha 列表口径 24h 成交额 78,363,303
+  - 短周期波动 0.50%
+  - 4h 振幅 3.35%
+  - 审计风险 LOW
+- AEON | 分数 45.00 | Alpha Trade 成交额 776517.34 | 波动 0.65% | 4h 振幅 6.69% | 审计 LOW
+  - Alpha Trade 24h 成交额 776,517，流动性 1,564,721
+  - Alpha 列表口径 24h 成交额 11,209,256
+  - 短周期波动 0.65%
+  - 4h 振幅 6.69%
+  - 审计风险 LOW
+- DOS | 分数 42.83 | Alpha Trade 成交额 154857798.77 | 波动 0.28% | 4h 振幅 3.49% | 审计 MID
+  - Alpha Trade 24h 成交额 154,857,799，流动性 930,401
+  - Alpha 列表口径 24h 成交额 58,313,753
+  - 短周期波动 0.28%
+  - 4h 振幅 3.49%
   - 审计风险 MID
 
 ## Alpha 合约异动
@@ -50,12 +50,12 @@
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-17 & 2026-08-18)
-- Latest Binance News：Binance Will Support the Applied Materials (AMAT) and Microsoft (MSFT) Cash Dividend Distribution via bStocks
+- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-18)
 - Latest Activities：Word of the Day: Test Your Knowledge on “DTC Transfer: Stocks to Binance” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
-- KII | 4x | 上线 2026-08-14T13:00:00+00:00 | 24h 成交额 79046165.11
+- KII | 4x | 上线 2026-08-14T13:00:00+00:00 | 24h 成交额 78363302.51
 
 ### New Cryptocurrency Listing
 
@@ -68,12 +68,12 @@
 
 ### Latest Binance News
 
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-18)](https://www.binance.com/en/support/announcement/detail/1fa92e0498854e28872d5364b7fbba0b)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 - [Binance Will Support the Applied Materials (AMAT) and Microsoft (MSFT) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/122b4caa33224565a302cb1d1de544a7)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Important: Transactions with Certain Crypto Platforms](https://www.binance.com/en/support/announcement/detail/af2be67dc03c4673b4f56c42db948253)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Following recent regulatory developments, Binance wi…
-- [Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined ONEUSDT Perpetual Contract (2026-08-14)](https://www.binance.com/en/support/announcement/detail/1127f937c5fe49acb976d4a2dd272d27)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will apply Last Price Prot…
 
 ### Latest Activities
 
