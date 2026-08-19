@@ -1,69 +1,69 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-19T08:49:34.816593+00:00
+- 生成时间：2026-08-19T09:19:58.837001+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1331422478.99
+- 四倍分 24h 总成交额：1344450435.61
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：162369（按 8200 / 人）
+- 估算参与人数：163957（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 1048732717.41 | 列表口径 676483.33 | 涨跌 3.97% | 振幅 11.20% | 估算人数 127894
-- KII | Alpha Trade 成交额 201948177.82 | 列表口径 83195690.12 | 涨跌 5.50% | 振幅 17.74% | 估算人数 24628
-- DOS | Alpha Trade 成交额 79802504.34 | 列表口径 12743952.50 | 涨跌 16.22% | 振幅 22.48% | 估算人数 9732
-- AEON | Alpha Trade 成交额 736485.80 | 列表口径 37094450.28 | 涨跌 -7.92% | 振幅 34.07% | 估算人数 90
-- AGT | Alpha Trade 成交额 135057.59 | 列表口径 2558794.70 | 涨跌 1.65% | 振幅 7.85% | 估算人数 16
-- AIA | Alpha Trade 成交额 67536.03 | 列表口径 350314.13 | 涨跌 0.55% | 振幅 5.60% | 估算人数 8
+- GRVT | Alpha Trade 成交额 1047456999.02 | 列表口径 760103.81 | 涨跌 5.57% | 振幅 11.20% | 估算人数 127739
+- KII | Alpha Trade 成交额 217503287.96 | 列表口径 82419421.49 | 涨跌 5.96% | 振幅 16.99% | 估算人数 26525
+- DOS | Alpha Trade 成交额 78547601.23 | 列表口径 13058581.97 | 涨跌 14.49% | 振幅 21.87% | 估算人数 9579
+- AEON | Alpha Trade 成交额 742878.67 | 列表口径 37409317.24 | 涨跌 -7.54% | 振幅 34.07% | 估算人数 91
+- AGT | Alpha Trade 成交额 131575.50 | 列表口径 2420290.52 | 涨跌 -0.57% | 振幅 7.21% | 估算人数 16
+- AIA | Alpha Trade 成交额 68093.22 | 列表口径 347095.03 | 涨跌 0.21% | 振幅 5.60% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- GRVT | 分数 64.60 | Alpha Trade 成交额 1048732717.41 | 波动 0.54% | 4h 振幅 4.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,048,732,717，流动性 818,472
-  - Alpha 列表口径 24h 成交额 676,483
-  - 短周期波动 0.54%
-  - 4h 振幅 4.89%
+- AEON | 分数 67.49 | Alpha Trade 成交额 742878.67 | 波动 0.49% | 4h 振幅 4.20% | 审计 LOW
+  - Alpha Trade 24h 成交额 742,879，流动性 1,633,301
+  - Alpha 列表口径 24h 成交额 37,409,317
+  - 短周期波动 0.49%
+  - 4h 振幅 4.20%
   - 审计风险 LOW
-- AEON | 分数 63.34 | Alpha Trade 成交额 736485.80 | 波动 0.59% | 4h 振幅 5.32% | 审计 LOW
-  - Alpha Trade 24h 成交额 736,486，流动性 1,643,350
-  - Alpha 列表口径 24h 成交额 37,094,450
-  - 短周期波动 0.59%
-  - 4h 振幅 5.32%
+- GRVT | 分数 64.04 | Alpha Trade 成交额 1047456999.02 | 波动 0.53% | 4h 振幅 4.60% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,047,456,999，流动性 822,286
+  - Alpha 列表口径 24h 成交额 760,104
+  - 短周期波动 0.53%
+  - 4h 振幅 4.60%
   - 审计风险 LOW
-- KII | 分数 63.07 | Alpha Trade 成交额 201948177.82 | 波动 0.35% | 4h 振幅 3.61% | 审计 LOW
-  - Alpha Trade 24h 成交额 201,948,178，流动性 1,445,664
-  - Alpha 列表口径 24h 成交额 83,195,690
-  - 短周期波动 0.35%
-  - 4h 振幅 3.61%
+- KII | 分数 63.64 | Alpha Trade 成交额 217503287.96 | 波动 0.36% | 4h 振幅 2.93% | 审计 LOW
+  - Alpha Trade 24h 成交额 217,503,288，流动性 1,446,845
+  - Alpha 列表口径 24h 成交额 82,419,421
+  - 短周期波动 0.36%
+  - 4h 振幅 2.93%
   - 审计风险 LOW
-- DOS | 分数 11.41 | Alpha Trade 成交额 79802504.34 | 波动 0.86% | 4h 振幅 10.52% | 审计 MID
-  - Alpha Trade 24h 成交额 79,802,504，流动性 963,622
-  - Alpha 列表口径 24h 成交额 12,743,952
-  - 短周期波动 0.86%
-  - 4h 振幅 10.52%
+- DOS | 分数 11.42 | Alpha Trade 成交额 78547601.23 | 波动 0.79% | 4h 振幅 10.88% | 审计 MID
+  - Alpha Trade 24h 成交额 78,547,601，流动性 966,659
+  - Alpha 列表口径 24h 成交额 13,058,582
+  - 短周期波动 0.79%
+  - 4h 振幅 10.88%
   - 审计风险 MID
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：227
-- BTW / BTWUSDT | 24h 涨跌 87.21% | 资金费率 5.82 bps | 5m 持仓变化 0.03% | 建议通知
-- VELVET / VELVETUSDT | 24h 涨跌 34.44% | 资金费率 1.59 bps | 5m 持仓变化 -0.04% | 建议通知
-- GPS / GPSUSDT | 24h 涨跌 -29.18% | 资金费率 0.50 bps | 5m 持仓变化 0.54% | 建议通知
-- JCT / JCTUSDT | 24h 涨跌 -30.84% | 资金费率 0.50 bps | 5m 持仓变化 0.00% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 -3.53% | 资金费率 26.11 bps | 5m 持仓变化 -0.00% | 继续观察
-- BEAT / BEATUSDT | 24h 涨跌 -23.29% | 资金费率 5.05 bps | 5m 持仓变化 0.04% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 15.56% | 资金费率 8.70 bps | 5m 持仓变化 -0.56% | 建议通知
-- HOME / HOMEUSDT | 24h 涨跌 -3.04% | 资金费率 -19.25 bps | 5m 持仓变化 0.00% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 82.42% | 资金费率 6.76 bps | 5m 持仓变化 0.08% | 建议通知
+- VELVET / VELVETUSDT | 24h 涨跌 30.48% | 资金费率 1.97 bps | 5m 持仓变化 0.38% | 建议通知
+- BEAT / BEATUSDT | 24h 涨跌 -25.55% | 资金费率 5.16 bps | 5m 持仓变化 0.72% | 建议通知
+- GPS / GPSUSDT | 24h 涨跌 -29.84% | 资金费率 0.50 bps | 5m 持仓变化 0.01% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 -31.47% | 资金费率 0.50 bps | 5m 持仓变化 -0.02% | 建议通知
+- BOT / BOTUSDT | 24h 涨跌 -3.52% | 资金费率 25.15 bps | 5m 持仓变化 0.87% | 继续观察
+- STAR / STARUSDT | 24h 涨跌 15.66% | 资金费率 10.08 bps | 5m 持仓变化 0.05% | 建议通知
+- HOME / HOMEUSDT | 24h 涨跌 -2.33% | 资金费率 -19.36 bps | 5m 持仓变化 0.00% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)
 - Latest Binance News：Important Updates on the Funding Rate of USDⓈ-M UNITREEUSDT Perpetual Contract (2026-08-19)
-- Latest Activities：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-08-18)
+- Latest Activities：RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers
 
 ### 最近 Alpha 上线
 
-- 牛来 | 1x | 上线 2026-08-18T08:20:34.999000+00:00 | 24h 成交额 30960849.19
+- 牛来 | 1x | 上线 2026-08-18T08:20:34.999000+00:00 | 24h 成交额 29223176.37
 
 ### New Cryptocurrency Listing
 
@@ -85,12 +85,12 @@
 
 ### Latest Activities
 
+- [RE Trading Tournament: Trade to Share Up to 1,000,000 RE Token Vouchers](https://www.binance.com/en/support/announcement/detail/dcaa8289b0ff45a8a1eb315a3d608f00)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 - [Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-08-18)](https://www.binance.com/en/support/announcement/detail/f9e2c6af001b4499889371d0cc46143e)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Learn Binance Earn & Share 1,000 USDC!](https://www.binance.com/en/support/announcement/detail/fd502257dd74438da0bc84dd92ee04c7)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Ready to grow your…
-- [Binance RWUSD: VIP Exclusive Promotion Extended – Enjoy Up to 4.12% APR on RWUSD!](https://www.binance.com/en/support/announcement/detail/4695cf9b97714209b77151f6c7af9f81)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Due to strong dema…
 
 ## Warnings
 
