@@ -1,52 +1,52 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-24T13:59:40.390498+00:00
+- 生成时间：2026-08-24T14:53:24.225556+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1279321671.50
+- 四倍分 24h 总成交额：1282772255.84
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：156015（按 8200 / 人）
+- 估算参与人数：156436（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 1083287766.57 | 列表口径 648981.54 | 涨跌 -8.73% | 振幅 14.11% | 估算人数 132108
-- DOS | Alpha Trade 成交额 194889391.02 | 列表口径 14457421.43 | 涨跌 0.90% | 振幅 10.47% | 估算人数 23767
-- KII | Alpha Trade 成交额 469313.71 | 列表口径 2412603.86 | 涨跌 0.94% | 振幅 85.25% | 估算人数 57
-- AEON | Alpha Trade 成交额 460669.11 | 列表口径 17995159.08 | 涨跌 -7.72% | 振幅 10.80% | 估算人数 56
-- COAI | Alpha Trade 成交额 146030.92 | 列表口径 1250029.28 | 涨跌 -3.30% | 振幅 6.01% | 估算人数 18
-- STABLE | Alpha Trade 成交额 68500.17 | 列表口径 1927658.91 | 涨跌 -7.60% | 振幅 12.44% | 估算人数 8
+- GRVT | Alpha Trade 成交额 1085257405.92 | 列表口径 648774.70 | 涨跌 -7.00% | 振幅 14.11% | 估算人数 132348
+- DOS | Alpha Trade 成交额 196395812.99 | 列表口径 14541830.60 | 涨跌 2.49% | 振幅 10.18% | 估算人数 23951
+- AEON | Alpha Trade 成交额 469030.08 | 列表口径 17923899.04 | 涨跌 -7.53% | 振幅 10.75% | 估算人数 57
+- KII | Alpha Trade 成交额 442563.41 | 列表口径 2431710.95 | 涨跌 1.00% | 振幅 85.25% | 估算人数 54
+- COAI | Alpha Trade 成交额 140457.48 | 列表口径 1235847.12 | 涨跌 -1.02% | 振幅 6.01% | 估算人数 17
+- STABLE | Alpha Trade 成交额 66985.96 | 列表口径 1985361.11 | 涨跌 -7.68% | 振幅 12.44% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- GRVT | 分数 70.00 | Alpha Trade 成交额 1083287766.57 | 波动 0.36% | 4h 振幅 3.17% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,083,287,767，流动性 702,507
-  - Alpha 列表口径 24h 成交额 648,982
-  - 短周期波动 0.36%
-  - 4h 振幅 3.17%
+- GRVT | 分数 80.00 | Alpha Trade 成交额 1085257405.92 | 波动 0.30% | 4h 振幅 3.18% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,085,257,406，流动性 703,865
+  - Alpha 列表口径 24h 成交额 648,775
+  - 短周期波动 0.30%
+  - 4h 振幅 3.18%
   - 审计风险 LOW
-- DOS | 分数 36.00 | Alpha Trade 成交额 194889391.02 | 波动 0.38% | 4h 振幅 3.16% | 审计 MID
-  - Alpha Trade 24h 成交额 194,889,391，流动性 906,794
-  - Alpha 列表口径 24h 成交额 14,457,421
-  - 短周期波动 0.38%
-  - 4h 振幅 3.16%
+- DOS | 分数 26.00 | Alpha Trade 成交额 196395812.99 | 波动 0.34% | 4h 振幅 3.20% | 审计 MID
+  - Alpha Trade 24h 成交额 196,395,813，流动性 904,861
+  - Alpha 列表口径 24h 成交额 14,541,831
+  - 短周期波动 0.34%
+  - 4h 振幅 3.20%
   - 审计风险 MID
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：227
-- VELVET / VELVETUSDT | 24h 涨跌 -73.51% | 资金费率 -17.74 bps | 5m 持仓变化 1.76% | 建议通知
-- UAI / UAIUSDT | 24h 涨跌 26.14% | 资金费率 3.90 bps | 5m 持仓变化 0.55% | 建议通知
-- TUT / TUTUSDT | 24h 涨跌 -14.54% | 资金费率 -2.87 bps | 5m 持仓变化 0.69% | 建议通知
-- GRVT / GRVTUSDT | 24h 涨跌 -8.82% | 资金费率 -12.25 bps | 5m 持仓变化 0.12% | 建议通知
-- HOME / HOMEUSDT | 24h 涨跌 -0.93% | 资金费率 -13.91 bps | 5m 持仓变化 -0.06% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 14.68% | 资金费率 1.27 bps | 5m 持仓变化 0.21% | 建议通知
-- CLO / CLOUSDT | 24h 涨跌 -13.09% | 资金费率 2.79 bps | 5m 持仓变化 0.15% | 继续观察
-- US / USUSDT | 24h 涨跌 -13.35% | 资金费率 0.50 bps | 5m 持仓变化 0.13% | 建议通知
+- VELVET / VELVETUSDT | 24h 涨跌 -73.73% | 资金费率 -9.32 bps | 5m 持仓变化 0.49% | 建议通知
+- TUT / TUTUSDT | 24h 涨跌 -25.10% | 资金费率 -26.47 bps | 5m 持仓变化 0.23% | 建议通知
+- UAI / UAIUSDT | 24h 涨跌 30.91% | 资金费率 4.02 bps | 5m 持仓变化 -0.41% | 建议通知
+- CLO / CLOUSDT | 24h 涨跌 -22.43% | 资金费率 2.24 bps | 5m 持仓变化 0.60% | 建议通知
+- GRVT / GRVTUSDT | 24h 涨跌 -7.00% | 资金费率 -10.60 bps | 5m 持仓变化 0.29% | 建议通知
+- VIRTUAL / VIRTUALUSDT | 24h 涨跌 11.82% | 资金费率 0.50 bps | 5m 持仓变化 2.92% | 建议通知
+- US / USUSDT | 24h 涨跌 -16.73% | 资金费率 0.50 bps | 5m 持仓变化 0.05% | 建议通知
+- HOME / HOMEUSDT | 24h 涨跌 0.20% | 资金费率 -14.51 bps | 5m 持仓变化 -0.05% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)
 - Latest Binance News：Binance Launches Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-08-24)
-- Latest Activities：LATAM New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 30% APR During the Promotion Period!
+- Latest Activities：Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!
 
 ### 最近 Alpha 上线
 
@@ -71,12 +71,12 @@
 
 ### Latest Activities
 
+- [Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!](https://www.binance.com/en/support/announcement/detail/a2085f7878324b26b91c95a63df01bdd)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [LATAM New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 30% APR During the Promotion Period!](https://www.binance.com/en/support/announcement/detail/b4ed9299fb2d4277aff614d3afacab0d)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Word of the Day: Test Your Knowledge on “Gen Z Investing” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/4fba20395225436cae57eba1e9631204)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
-- [Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)](https://www.binance.com/en/support/announcement/detail/837daa8c78de445f946ff3502b57b6f5)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
