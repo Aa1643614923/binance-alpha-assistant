@@ -1,64 +1,58 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-24T02:11:42.027482+00:00
+- 生成时间：2026-08-24T03:17:57.836025+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1241973733.29
+- 四倍分 24h 总成交额：1269672553.37
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：151460（按 8200 / 人）
+- 估算参与人数：154838（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 1047805089.46 | 列表口径 987901.00 | 涨跌 -11.25% | 振幅 14.60% | 估算人数 127781
-- DOS | Alpha Trade 成交额 191771348.95 | 列表口径 13101520.70 | 涨跌 2.33% | 振幅 7.59% | 估算人数 23387
-- KII | Alpha Trade 成交额 1655369.17 | 列表口径 1998038.97 | 涨跌 183.44% | 振幅 320.97% | 估算人数 202
-- AEON | Alpha Trade 成交额 513716.36 | 列表口径 19002525.74 | 涨跌 -9.24% | 振幅 12.96% | 估算人数 63
-- COAI | Alpha Trade 成交额 173106.08 | 列表口径 1666466.74 | 涨跌 -1.83% | 振幅 8.27% | 估算人数 21
-- STABLE | Alpha Trade 成交额 55103.27 | 列表口径 1809997.28 | 涨跌 -3.20% | 振幅 9.15% | 估算人数 7
+- GRVT | Alpha Trade 成交额 1081776973.09 | 列表口径 915936.49 | 涨跌 -7.09% | 振幅 9.14% | 估算人数 131924
+- DOS | Alpha Trade 成交额 185895831.53 | 列表口径 13352044.58 | 涨跌 6.25% | 振幅 10.48% | 估算人数 22670
+- KII | Alpha Trade 成交额 1283616.44 | 列表口径 1757698.64 | 涨跌 12.91% | 振幅 123.16% | 估算人数 157
+- AEON | Alpha Trade 成交额 491461.46 | 列表口径 19413160.99 | 涨跌 -5.29% | 振幅 12.96% | 估算人数 60
+- COAI | Alpha Trade 成交额 171248.03 | 列表口径 1601699.31 | 涨跌 -1.78% | 振幅 8.27% | 估算人数 21
+- STABLE | Alpha Trade 成交额 53422.81 | 列表口径 1773011.65 | 涨跌 -5.11% | 振幅 9.15% | 估算人数 7
 
 ## 稳定刷分推荐
 
-- GRVT | 分数 71.60 | Alpha Trade 成交额 1047805089.46 | 波动 0.33% | 4h 振幅 4.93% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,047,805,089，流动性 714,341
-  - Alpha 列表口径 24h 成交额 987,901
-  - 短周期波动 0.33%
-  - 4h 振幅 4.93%
+- GRVT | 分数 80.00 | Alpha Trade 成交额 1081776973.09 | 波动 0.32% | 4h 振幅 5.27% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,081,776,973，流动性 713,560
+  - Alpha 列表口径 24h 成交额 915,936
+  - 短周期波动 0.32%
+  - 4h 振幅 5.27%
   - 审计风险 LOW
-- AEON | 分数 61.36 | Alpha Trade 成交额 513716.36 | 波动 0.54% | 4h 振幅 5.13% | 审计 LOW
-  - Alpha Trade 24h 成交额 513,716，流动性 1,376,669
-  - Alpha 列表口径 24h 成交额 19,002,526
-  - 短周期波动 0.54%
-  - 4h 振幅 5.13%
+- KII | 分数 33.83 | Alpha Trade 成交额 1283616.44 | 波动 1.04% | 4h 振幅 8.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,283,616，流动性 2,085,126
+  - Alpha 列表口径 24h 成交额 1,757,699
+  - 短周期波动 1.04%
+  - 4h 振幅 8.22%
   - 审计风险 LOW
-- DOS | 分数 38.74 | Alpha Trade 成交额 191771348.95 | 波动 0.53% | 4h 振幅 6.41% | 审计 MID
-  - Alpha Trade 24h 成交额 191,771,349，流动性 917,715
-  - Alpha 列表口径 24h 成交额 13,101,521
-  - 短周期波动 0.53%
-  - 4h 振幅 6.41%
+- DOS | 分数 25.30 | Alpha Trade 成交额 185895831.53 | 波动 0.61% | 4h 振幅 9.16% | 审计 MID
+  - Alpha Trade 24h 成交额 185,895,832，流动性 930,962
+  - Alpha 列表口径 24h 成交额 13,352,045
+  - 短周期波动 0.61%
+  - 4h 振幅 9.16%
   - 审计风险 MID
-- KII | 分数 30.69 | Alpha Trade 成交额 1655369.17 | 波动 1.78% | 4h 振幅 12.39% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,655,369，流动性 2,097,656
-  - Alpha 列表口径 24h 成交额 1,998,039
-  - 短周期波动 1.78%
-  - 4h 振幅 12.39%
-  - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：227
-- HOME / HOMEUSDT | 24h 涨跌 0.82% | 资金费率 -36.21 bps | 5m 持仓变化 0.02% | 建议通知
-- SPK / SPKUSDT | 24h 涨跌 17.47% | 资金费率 0.50 bps | 5m 持仓变化 -2.82% | 建议通知
-- MORPHO / MORPHOUSDT | 24h 涨跌 16.96% | 资金费率 0.50 bps | 5m 持仓变化 -1.33% | 建议通知
-- GRVT / GRVTUSDT | 24h 涨跌 -11.28% | 资金费率 -8.06 bps | 5m 持仓变化 0.13% | 建议通知
-- GRASS / GRASSUSDT | 24h 涨跌 16.83% | 资金费率 1.64 bps | 5m 持仓变化 0.14% | 建议通知
-- US / USUSDT | 24h 涨跌 -16.37% | 资金费率 2.89 bps | 5m 持仓变化 0.06% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -9.83% | 资金费率 3.04 bps | 5m 持仓变化 0.01% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 -7.47% | 资金费率 7.07 bps | 5m 持仓变化 -0.01% | 继续观察
+- HOME / HOMEUSDT | 24h 涨跌 3.39% | 资金费率 -35.09 bps | 5m 持仓变化 0.21% | 建议通知
+- GRASS / GRASSUSDT | 24h 涨跌 17.30% | 资金费率 0.89 bps | 5m 持仓变化 4.94% | 建议通知
+- SPK / SPKUSDT | 24h 涨跌 20.96% | 资金费率 0.50 bps | 5m 持仓变化 0.17% | 建议通知
+- MORPHO / MORPHOUSDT | 24h 涨跌 18.84% | 资金费率 0.50 bps | 5m 持仓变化 0.09% | 建议通知
+- US / USUSDT | 24h 涨跌 -16.72% | 资金费率 4.33 bps | 5m 持仓变化 0.07% | 建议通知
+- GRVT / GRVTUSDT | 24h 涨跌 -6.80% | 资金费率 -8.38 bps | 5m 持仓变化 0.10% | 建议通知
+- UAI / UAIUSDT | 24h 涨跌 11.82% | 资金费率 1.42 bps | 5m 持仓变化 -0.10% | 建议通知
+- PTB / PTBUSDT | 24h 涨跌 14.66% | 资金费率 0.50 bps | 5m 持仓变化 -0.07% | 继续观察
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)
 - Latest Binance News：Discontinuation of Binance Link Futures Bonus Reward
-- Latest Activities：Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)
+- Latest Activities：Word of the Day: Test Your Knowledge on “Gen Z Investing” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
@@ -83,12 +77,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “Gen Z Investing” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/4fba20395225436cae57eba1e9631204)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 - [Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-08-21)](https://www.binance.com/en/support/announcement/detail/837daa8c78de445f946ff3502b57b6f5)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Binance Alpha Trading Competition: Trade KGeN (KGEN) and Share $200K Worth of Rewards (2026-08-20)](https://www.binance.com/en/support/announcement/detail/53f1312b1dd74080b723c9613e348eac)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Introducing Binance Agent OS](https://www.binance.com/en/support/announcement/detail/07d45cdd3831498f8a4ff339031a8480)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce the launch of Binance…
 
 ## Warnings
 
