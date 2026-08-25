@@ -1,70 +1,70 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-25T12:03:37.446077+00:00
+- 生成时间：2026-08-25T13:07:28.347598+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1243686402.39
+- 四倍分 24h 总成交额：1234479848.96
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：151669（按 8200 / 人）
+- 估算参与人数：150546（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 1059077985.54 | 列表口径 648089.48 | 涨跌 -1.99% | 振幅 9.99% | 估算人数 129156
-- DOS | Alpha Trade 成交额 179086715.72 | 列表口径 14545569.39 | 涨跌 1.60% | 振幅 17.74% | 估算人数 21840
-- TMX | Alpha Trade 成交额 4605545.57 | 列表口径 10111575.63 | 涨跌 140.74% | 振幅 235.80% | 估算人数 562
-- AEON | Alpha Trade 成交额 529643.12 | 列表口径 10917798.38 | 涨跌 -7.08% | 振幅 10.38% | 估算人数 65
-- KII | Alpha Trade 成交额 274560.58 | 列表口径 1685226.27 | 涨跌 -14.65% | 振幅 73.24% | 估算人数 33
-- STABLE | Alpha Trade 成交额 71627.41 | 列表口径 2080989.98 | 涨跌 -3.34% | 振幅 8.10% | 估算人数 9
-- COAI | Alpha Trade 成交额 40324.46 | 列表口径 1209307.31 | 涨跌 0.77% | 振幅 6.75% | 估算人数 5
+- GRVT | Alpha Trade 成交额 1048449192.33 | 列表口径 658352.36 | 涨跌 -4.53% | 振幅 9.99% | 估算人数 127860
+- DOS | Alpha Trade 成交额 179866027.08 | 列表口径 14283926.72 | 涨跌 0.64% | 振幅 17.74% | 估算人数 21935
+- TMX | Alpha Trade 成交额 5181110.22 | 列表口径 10919454.44 | 涨跌 118.98% | 振幅 235.80% | 估算人数 632
+- AEON | Alpha Trade 成交额 537189.23 | 列表口径 10857997.60 | 涨跌 -7.26% | 振幅 9.18% | 估算人数 66
+- KII | Alpha Trade 成交额 326717.55 | 列表口径 1696995.06 | 涨跌 -27.90% | 振幅 93.60% | 估算人数 40
+- STABLE | Alpha Trade 成交额 69900.14 | 列表口径 2078768.06 | 涨跌 -3.89% | 振幅 9.14% | 估算人数 9
+- COAI | Alpha Trade 成交额 49712.42 | 列表口径 1241891.57 | 涨跌 -0.53% | 振幅 6.75% | 估算人数 6
 
 ## 稳定刷分推荐
 
-- AEON | 分数 70.48 | Alpha Trade 成交额 529643.12 | 波动 0.39% | 4h 振幅 2.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 529,643，流动性 1,325,965
-  - Alpha 列表口径 24h 成交额 10,917,798
-  - 短周期波动 0.39%
-  - 4h 振幅 2.44%
+- AEON | 分数 71.35 | Alpha Trade 成交额 537189.23 | 波动 0.36% | 4h 振幅 2.40% | 审计 LOW
+  - Alpha Trade 24h 成交额 537,189，流动性 1,325,210
+  - Alpha 列表口径 24h 成交额 10,857,998
+  - 短周期波动 0.36%
+  - 4h 振幅 2.40%
   - 审计风险 LOW
-- GRVT | 分数 68.35 | Alpha Trade 成交额 1059077985.54 | 波动 0.32% | 4h 振幅 2.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,059,077,986，流动性 706,284
-  - Alpha 列表口径 24h 成交额 648,089
-  - 短周期波动 0.32%
-  - 4h 振幅 2.18%
+- GRVT | 分数 68.61 | Alpha Trade 成交额 1048449192.33 | 波动 0.29% | 4h 振幅 2.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,048,449,192，流动性 705,072
+  - Alpha 列表口径 24h 成交额 658,352
+  - 短周期波动 0.29%
+  - 4h 振幅 2.53%
   - 审计风险 LOW
-- DOS | 分数 46.36 | Alpha Trade 成交额 179086715.72 | 波动 0.46% | 4h 振幅 5.11% | 审计 MID
-  - Alpha Trade 24h 成交额 179,086,716，流动性 921,149
-  - Alpha 列表口径 24h 成交额 14,545,569
-  - 短周期波动 0.46%
-  - 4h 振幅 5.11%
+- DOS | 分数 46.24 | Alpha Trade 成交额 179866027.08 | 波动 0.42% | 4h 振幅 5.09% | 审计 MID
+  - Alpha Trade 24h 成交额 179,866,027，流动性 914,761
+  - Alpha 列表口径 24h 成交额 14,283,927
+  - 短周期波动 0.42%
+  - 4h 振幅 5.09%
   - 审计风险 MID
-- TMX | 分数 34.97 | Alpha Trade 成交额 4605545.57 | 波动 6.54% | 4h 振幅 86.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,605,546，流动性 1,012,168
-  - Alpha 列表口径 24h 成交额 10,111,576
-  - 短周期波动 6.54%
+- TMX | 分数 33.93 | Alpha Trade 成交额 5181110.22 | 波动 5.47% | 4h 振幅 86.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 5,181,110，流动性 978,635
+  - Alpha 列表口径 24h 成交额 10,919,454
+  - 短周期波动 5.47%
   - 4h 振幅 86.42%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：227
-- TAC / TACUSDT | 24h 涨跌 38.05% | 资金费率 4.06 bps | 5m 持仓变化 0.07% | 建议通知
-- VELVET / VELVETUSDT | 24h 涨跌 -21.75% | 资金费率 0.50 bps | 5m 持仓变化 1.18% | 建议通知
-- TUT / TUTUSDT | 24h 涨跌 -22.85% | 资金费率 0.50 bps | 5m 持仓变化 0.27% | 建议通知
-- HANA / HANAUSDT | 24h 涨跌 16.65% | 资金费率 5.16 bps | 5m 持仓变化 0.09% | 建议通知
-- HOLO / HOLOUSDT | 24h 涨跌 13.16% | 资金费率 -7.50 bps | 5m 持仓变化 -0.04% | 建议通知
-- BR / BRUSDT | 24h 涨跌 15.73% | 资金费率 3.89 bps | 5m 持仓变化 0.11% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 10.39% | 资金费率 7.63 bps | 5m 持仓变化 -0.02% | 建议通知
-- HEMI / HEMIUSDT | 24h 涨跌 -17.34% | 资金费率 0.08 bps | 5m 持仓变化 -0.01% | 建议通知
+- TAC / TACUSDT | 24h 涨跌 39.30% | 资金费率 3.94 bps | 5m 持仓变化 -0.46% | 建议通知
+- VELVET / VELVETUSDT | 24h 涨跌 -34.05% | 资金费率 -0.17 bps | 5m 持仓变化 0.29% | 建议通知
+- TUT / TUTUSDT | 24h 涨跌 -23.64% | 资金费率 0.50 bps | 5m 持仓变化 -0.02% | 建议通知
+- SKYAI / SKYAIUSDT | 24h 涨跌 -24.60% | 资金费率 0.50 bps | 5m 持仓变化 0.17% | 建议通知
+- STAR / STARUSDT | 24h 涨跌 15.31% | 资金费率 7.97 bps | 5m 持仓变化 0.06% | 建议通知
+- HOLO / HOLOUSDT | 24h 涨跌 16.50% | 资金费率 -6.20 bps | 5m 持仓变化 0.12% | 建议通知
+- BR / BRUSDT | 24h 涨跌 17.30% | 资金费率 3.89 bps | 5m 持仓变化 -0.07% | 建议通知
+- HANA / HANAUSDT | 24h 涨跌 17.14% | 资金费率 3.67 bps | 5m 持仓变化 -0.13% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-08-26
 - Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-08-28)
-- Latest Activities：Crypto Lemonade Stand on Binance Discord Is Back: Play & Share 3,000 USDC Token Vouchers!
+- Latest Activities：Put Your Binance Agent OS to Work & Share 2,000 USDC!
 
 ### 最近 Alpha 上线
 
-- TMX | 4x | 上线 2026-08-25T10:00:00+00:00 | 24h 成交额 10111575.63
+- TMX | 4x | 上线 2026-08-25T10:00:00+00:00 | 24h 成交额 10919454.44
 
 ### New Cryptocurrency Listing
 
@@ -86,12 +86,12 @@
 
 ### Latest Activities
 
+- [Put Your Binance Agent OS to Work & Share 2,000 USDC!](https://www.binance.com/en/support/announcement/detail/609d1628fc42433b9d48458fb7d46513)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Agent OS j…
 - [Crypto Lemonade Stand on Binance Discord Is Back: Play & Share 3,000 USDC Token Vouchers!](https://www.binance.com/en/support/announcement/detail/aa29698aeb0c465e88aa46aab4c78bac)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, The Crypto Lemonad…
 - [Spot Trading Tournament Season 3: Trade to Share Up to 500,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/2c1effd4bcaf4113b761b34a89737932)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-- [Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products](https://www.binance.com/en/support/announcement/detail/04663ce7cbc64165b060bf4065e43299)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
