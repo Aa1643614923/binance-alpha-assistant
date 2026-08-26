@@ -1,63 +1,63 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-08-26T09:01:44.253816+00:00
+- 生成时间：2026-08-26T09:53:09.814789+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1154653567.79
+- 四倍分 24h 总成交额：1149261256.54
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：140811（按 8200 / 人）
+- 估算参与人数：140154（按 8200 / 人）
 
 ## 四倍分代币
 
-- GRVT | Alpha Trade 成交额 988413515.10 | 列表口径 452137.27 | 涨跌 -7.87% | 振幅 14.08% | 估算人数 120538
-- DOS | Alpha Trade 成交额 156762143.14 | 列表口径 10240542.02 | 涨跌 -2.28% | 振幅 18.25% | 估算人数 19117
-- TMX | Alpha Trade 成交额 9228927.08 | 列表口径 20890004.63 | 涨跌 173.34% | 振幅 235.80% | 估算人数 1125
-- KII | Alpha Trade 成交额 134067.58 | 列表口径 379792.21 | 涨跌 -19.73% | 振幅 52.49% | 估算人数 16
-- STABLE | Alpha Trade 成交额 63172.69 | 列表口径 1638302.70 | 涨跌 -1.13% | 振幅 7.25% | 估算人数 8
-- COAI | Alpha Trade 成交额 51742.20 | 列表口径 1198518.56 | 涨跌 -2.38% | 振幅 4.82% | 估算人数 6
+- GRVT | Alpha Trade 成交额 985422772.66 | 列表口径 454352.46 | 涨跌 -7.89% | 振幅 14.73% | 估算人数 120174
+- DOS | Alpha Trade 成交额 153976292.65 | 列表口径 10054560.02 | 涨跌 -3.85% | 振幅 20.16% | 估算人数 18778
+- TMX | Alpha Trade 成交额 9615647.92 | 列表口径 21490443.17 | 涨跌 185.99% | 振幅 235.80% | 估算人数 1173
+- KII | Alpha Trade 成交额 132179.27 | 列表口径 391550.65 | 涨跌 -13.22% | 振幅 52.49% | 估算人数 16
+- STABLE | Alpha Trade 成交额 61122.80 | 列表口径 1626551.93 | 涨跌 -1.46% | 振幅 7.25% | 估算人数 7
+- COAI | Alpha Trade 成交额 53241.24 | 列表口径 1183714.73 | 涨跌 -1.68% | 振幅 4.58% | 估算人数 6
 
 ## 稳定刷分推荐
 
-- GRVT | 分数 69.12 | Alpha Trade 成交额 988413515.10 | 波动 0.21% | 4h 振幅 2.26% | 审计 LOW
-  - Alpha Trade 24h 成交额 988,413,515，流动性 682,137
-  - Alpha 列表口径 24h 成交额 452,137
-  - 短周期波动 0.21%
-  - 4h 振幅 2.26%
+- GRVT | 分数 69.15 | Alpha Trade 成交额 985422772.66 | 波动 0.24% | 4h 振幅 2.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 985,422,773，流动性 682,708
+  - Alpha 列表口径 24h 成交额 454,352
+  - 短周期波动 0.24%
+  - 4h 振幅 2.79%
   - 审计风险 LOW
-- DOS | 分数 53.77 | Alpha Trade 成交额 156762143.14 | 波动 0.22% | 4h 振幅 2.23% | 审计 MID
-  - Alpha Trade 24h 成交额 156,762,143，流动性 916,090
-  - Alpha 列表口径 24h 成交额 10,240,542
-  - 短周期波动 0.22%
-  - 4h 振幅 2.23%
+- DOS | 分数 51.91 | Alpha Trade 成交额 153976292.65 | 波动 0.28% | 4h 振幅 3.35% | 审计 MID
+  - Alpha Trade 24h 成交额 153,976,293，流动性 912,833
+  - Alpha 列表口径 24h 成交额 10,054,560
+  - 短周期波动 0.28%
+  - 4h 振幅 3.35%
   - 审计风险 MID
-- TMX | 分数 45.00 | Alpha Trade 成交额 9228927.08 | 波动 2.10% | 4h 振幅 19.85% | 审计 LOW
-  - Alpha Trade 24h 成交额 9,228,927，流动性 1,014,830
-  - Alpha 列表口径 24h 成交额 20,890,005
-  - 短周期波动 2.10%
-  - 4h 振幅 19.85%
+- TMX | 分数 45.00 | Alpha Trade 成交额 9615647.92 | 波动 1.93% | 4h 振幅 13.18% | 审计 LOW
+  - Alpha Trade 24h 成交额 9,615,648，流动性 1,031,586
+  - Alpha 列表口径 24h 成交额 21,490,443
+  - 短周期波动 1.93%
+  - 4h 振幅 13.18%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：227
-- BTR / BTRUSDT | 24h 涨跌 171.15% | 资金费率 -5.70 bps | 5m 持仓变化 0.66% | 建议通知
-- BMT / BMTUSDT | 24h 涨跌 65.51% | 资金费率 -52.33 bps | 5m 持仓变化 -3.11% | 建议通知
-- EDEN / EDENUSDT | 24h 涨跌 20.47% | 资金费率 -34.17 bps | 5m 持仓变化 -0.16% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 46.55% | 资金费率 4.46 bps | 5m 持仓变化 -0.24% | 建议通知
-- TAC / TACUSDT | 24h 涨跌 47.19% | 资金费率 1.12 bps | 5m 持仓变化 0.47% | 建议通知
-- PUMPBTC / PUMPBTCUSDT | 24h 涨跌 26.04% | 资金费率 7.46 bps | 5m 持仓变化 1.67% | 继续观察
-- HOME / HOMEUSDT | 24h 涨跌 -3.53% | 资金费率 -17.21 bps | 5m 持仓变化 -0.31% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -15.50% | 资金费率 2.39 bps | 5m 持仓变化 -0.06% | 建议通知
+- BTR / BTRUSDT | 24h 涨跌 179.11% | 资金费率 0.50 bps | 5m 持仓变化 0.77% | 建议通知
+- BMT / BMTUSDT | 24h 涨跌 61.09% | 资金费率 -45.22 bps | 5m 持仓变化 1.34% | 建议通知
+- TAC / TACUSDT | 24h 涨跌 67.31% | 资金费率 2.93 bps | 5m 持仓变化 -1.21% | 建议通知
+- EDEN / EDENUSDT | 24h 涨跌 19.29% | 资金费率 -24.59 bps | 5m 持仓变化 0.19% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 32.49% | 资金费率 2.28 bps | 5m 持仓变化 -0.13% | 建议通知
+- PUMPBTC / PUMPBTCUSDT | 24h 涨跌 27.95% | 资金费率 5.94 bps | 5m 持仓变化 -0.90% | 建议通知
+- VELVET / VELVETUSDT | 24h 涨跌 -23.60% | 资金费率 0.50 bps | 5m 持仓变化 -0.78% | 建议通知
+- HOME / HOMEUSDT | 24h 涨跌 -4.70% | 资金费率 -18.18 bps | 5m 持仓变化 0.02% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 1 bStocks Tokenized Securities as Collateral Asset - 2026-08-26
-- Latest Binance News：Binance Earn Yield Arena: Earn Up to $5,888 Rewards With This Week’s New Limited-Time Offers! (2026-08-26)
+- Latest Binance News：Binance Will Support the Corning Incorporated (GLW) and Goldman Sachs Group (GS) Cash Dividend Distribution via bStocks
 - Latest Activities：Trade All ZAR, XAF, UGX, MZN and RWF Trading Pairs on Binance P2P with Zero Fees
 
 ### 最近 Alpha 上线
 
-- TMX | 4x | 上线 2026-08-25T10:00:00+00:00 | 24h 成交额 20890004.63
+- TMX | 4x | 上线 2026-08-25T10:00:00+00:00 | 24h 成交额 21490443.17
 
 ### New Cryptocurrency Listing
 
@@ -70,12 +70,12 @@
 
 ### Latest Binance News
 
+- [Binance Will Support the Corning Incorporated (GLW) and Goldman Sachs Group (GS) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/976184f11cda4cfeb7717379177de027)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Earn Yield Arena: Earn Up to $5,888 Rewards With This Week’s New Limited-Time Offers! (2026-08-26)](https://www.binance.com/en/support/announcement/detail/ca03b33b8dba44669a3f685d2d1c0ccb)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-08-28)](https://www.binance.com/en/support/announcement/detail/4d89f5dc8409418b9613d65e099c66ab)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the Cross Margin Borrow and Tran…
-- [Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-08-28)](https://www.binance.com/en/support/announcement/detail/4993f59bf68a41b98e786b9a5ae9dee5)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will update the leverage and margin…
 
 ### Latest Activities
 
