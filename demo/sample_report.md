@@ -1,64 +1,64 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-02T01:12:48.529983+00:00
+- 生成时间：2026-09-02T05:53:05.763099+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1046598081.56
+- 四倍分 24h 总成交额：1063744989.34
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：127634（按 8200 / 人）
+- 估算参与人数：129725（按 8200 / 人）
 
 ## 四倍分代币
 
-- DOS | Alpha Trade 成交额 982654151.36 | 列表口径 5150158.50 | 涨跌 -2.85% | 振幅 13.70% | 估算人数 119836
-- TMX | Alpha Trade 成交额 30772689.93 | 列表口径 14125539.47 | 涨跌 -4.36% | 振幅 38.78% | 估算人数 3753
-- DEBIT | Alpha Trade 成交额 25979758.63 | 列表口径 166799485.07 | 涨跌 -5.85% | 振幅 31.33% | 估算人数 3168
-- KII | Alpha Trade 成交额 6757824.11 | 列表口径 5534760.71 | 涨跌 -0.14% | 振幅 22.05% | 估算人数 824
-- SOON | Alpha Trade 成交额 299451.55 | 列表口径 925593.23 | 涨跌 -6.89% | 振幅 9.11% | 估算人数 37
-- STABLE | Alpha Trade 成交额 68700.31 | 列表口径 2755563.97 | 涨跌 0.41% | 振幅 7.17% | 估算人数 8
-- COAI | Alpha Trade 成交额 65505.67 | 列表口径 743279.29 | 涨跌 -0.62% | 振幅 4.47% | 估算人数 8
+- DOS | Alpha Trade 成交额 1000371124.70 | 列表口径 4341253.31 | 涨跌 -7.03% | 振幅 13.70% | 估算人数 121996
+- TMX | Alpha Trade 成交额 38176830.37 | 列表口径 13012453.64 | 涨跌 1.03% | 振幅 38.78% | 估算人数 4656
+- DEBIT | Alpha Trade 成交额 18134579.69 | 列表口径 173195989.19 | 涨跌 3.93% | 振幅 43.61% | 估算人数 2212
+- KII | Alpha Trade 成交额 6639847.49 | 列表口径 5184171.20 | 涨跌 0.57% | 振幅 22.05% | 估算人数 810
+- SOON | Alpha Trade 成交额 309731.83 | 列表口径 1007332.47 | 涨跌 -6.64% | 振幅 8.43% | 估算人数 38
+- STABLE | Alpha Trade 成交额 63621.25 | 列表口径 2716664.42 | 涨跌 0.34% | 振幅 7.17% | 估算人数 8
+- COAI | Alpha Trade 成交额 49254.00 | 列表口径 680897.32 | 涨跌 -0.73% | 振幅 3.22% | 估算人数 6
 
 ## 稳定刷分推荐
 
-- DEBIT | 分数 58.53 | Alpha Trade 成交额 25979758.63 | 波动 0.33% | 4h 振幅 2.37% | 审计 LOW
-  - Alpha Trade 24h 成交额 25,979,759，流动性 1,902,601
-  - Alpha 列表口径 24h 成交额 166,799,485
+- DOS | 分数 67.08 | Alpha Trade 成交额 1000371124.70 | 波动 0.33% | 4h 振幅 2.44% | 审计 MID
+  - Alpha Trade 24h 成交额 1,000,371,125，流动性 972,746
+  - Alpha 列表口径 24h 成交额 4,341,253
   - 短周期波动 0.33%
-  - 4h 振幅 2.37%
-  - 审计风险 LOW
-- DOS | 分数 50.90 | Alpha Trade 成交额 982654151.36 | 波动 0.39% | 4h 振幅 3.40% | 审计 MID
-  - Alpha Trade 24h 成交额 982,654,151，流动性 974,013
-  - Alpha 列表口径 24h 成交额 5,150,158
-  - 短周期波动 0.39%
-  - 4h 振幅 3.40%
+  - 4h 振幅 2.44%
   - 审计风险 MID
-- KII | 分数 44.29 | Alpha Trade 成交额 6757824.11 | 波动 0.32% | 4h 振幅 3.35% | 审计 LOW
-  - Alpha Trade 24h 成交额 6,757,824，流动性 1,124,390
-  - Alpha 列表口径 24h 成交额 5,534,761
-  - 短周期波动 0.32%
-  - 4h 振幅 3.35%
+- KII | 分数 48.66 | Alpha Trade 成交额 6639847.49 | 波动 0.33% | 4h 振幅 4.44% | 审计 LOW
+  - Alpha Trade 24h 成交额 6,639,847，流动性 1,134,298
+  - Alpha 列表口径 24h 成交额 5,184,171
+  - 短周期波动 0.33%
+  - 4h 振幅 4.44%
   - 审计风险 LOW
-- TMX | 分数 25.62 | Alpha Trade 成交额 30772689.93 | 波动 0.46% | 4h 振幅 4.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 30,772,690，流动性 871,114
-  - Alpha 列表口径 24h 成交额 14,125,539
-  - 短周期波动 0.46%
-  - 4h 振幅 4.03%
+- TMX | 分数 35.82 | Alpha Trade 成交额 38176830.37 | 波动 1.24% | 4h 振幅 14.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 38,176,830，流动性 899,776
+  - Alpha 列表口径 24h 成交额 13,012,454
+  - 短周期波动 1.24%
+  - 4h 振幅 14.53%
+  - 审计风险 LOW
+- DEBIT | 分数 30.29 | Alpha Trade 成交额 18134579.69 | 波动 1.61% | 4h 振幅 23.65% | 审计 LOW
+  - Alpha Trade 24h 成交额 18,134,580，流动性 1,990,248
+  - Alpha 列表口径 24h 成交额 173,195,989
+  - 短周期波动 1.61%
+  - 4h 振幅 23.65%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：228
-- UAI / UAIUSDT | 24h 涨跌 48.95% | 资金费率 5.19 bps | 5m 持仓变化 0.51% | 建议通知
-- SKR / SKRUSDT | 24h 涨跌 -33.96% | 资金费率 -15.93 bps | 5m 持仓变化 1.06% | 建议通知
-- LA / LAUSDT | 24h 涨跌 2.88% | 资金费率 -33.87 bps | 5m 持仓变化 -0.04% | 建议通知
-- HOME / HOMEUSDT | 24h 涨跌 1.52% | 资金费率 -31.12 bps | 5m 持仓变化 0.11% | 建议通知
-- BTR / BTRUSDT | 24h 涨跌 -29.20% | 资金费率 0.50 bps | 5m 持仓变化 0.05% | 建议通知
-- 0G / 0GUSDT | 24h 涨跌 -24.50% | 资金费率 -4.06 bps | 5m 持仓变化 -0.08% | 建议通知
-- MAGMA / MAGMAUSDT | 24h 涨跌 25.37% | 资金费率 3.91 bps | 5m 持仓变化 0.34% | 建议通知
-- USELESS / USELESSUSDT | 24h 涨跌 22.12% | 资金费率 -5.15 bps | 5m 持仓变化 -0.17% | 建议通知
+- BTR / BTRUSDT | 24h 涨跌 -56.34% | 资金费率 -1.68 bps | 5m 持仓变化 0.08% | 建议通知
+- UAI / UAIUSDT | 24h 涨跌 43.70% | 资金费率 6.52 bps | 5m 持仓变化 0.17% | 建议通知
+- MAGMA / MAGMAUSDT | 24h 涨跌 40.21% | 资金费率 2.74 bps | 5m 持仓变化 0.86% | 建议通知
+- SKR / SKRUSDT | 24h 涨跌 -23.07% | 资金费率 -14.12 bps | 5m 持仓变化 0.19% | 建议通知
+- CLO / CLOUSDT | 24h 涨跌 26.96% | 资金费率 11.16 bps | 5m 持仓变化 0.55% | 建议通知
+- CYS / CYSUSDT | 24h 涨跌 -31.48% | 资金费率 -0.43 bps | 5m 持仓变化 0.11% | 建议通知
+- HOME / HOMEUSDT | 24h 涨跌 -1.74% | 资金费率 -22.21 bps | 5m 持仓变化 -0.06% | 建议通知
+- 0G / 0GUSDT | 24h 涨跌 -20.57% | 资金费率 -3.07 bps | 5m 持仓变化 0.19% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined MARSCOINUSDT Perpetual Contract (2026-09-01)
-- Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-04)
+- Latest Binance News：Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-02)
 - Latest Activities：Join the Binance P2P Ukraine & CIS Merchant Trading Competition with 50,000 USDT in Rewards
 
 ### 最近 Alpha 上线
@@ -75,12 +75,12 @@
 
 ### Latest Binance News
 
+- [Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-02)](https://www.binance.com/en/support/announcement/detail/046ec37b1f2e4a708ef81fdf3e7ef59f)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-04)](https://www.binance.com/en/support/announcement/detail/1f12c2c6cc2b43aa941e382dfc19c417)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the Cross Margin Borrow and Tran…
 - [Binance Launches Stock Options — Trade U.S. Stocks and ETF Options with Physical Settlement](https://www.binance.com/en/support/announcement/detail/30d76b73e55e463d8b3b6898f74bf0e5)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is bringing traditional markets to crypto-na…
-- [Binance Will Support the Qualcomm Incorporated (QCOM), PayPal (PYPL) and Alphabet (GOOGL) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/1bf42a37f8dd4642a73e6cef78440eec)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 
 ### Latest Activities
 
