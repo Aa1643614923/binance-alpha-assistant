@@ -1,79 +1,79 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-03T10:28:58.332311+00:00
+- 生成时间：2026-09-03T14:42:26.788407+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1231040080.66
+- 四倍分 24h 总成交额：1241778367.21
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：150127（按 8200 / 人）
+- 估算参与人数：151436（按 8200 / 人）
 
 ## 四倍分代币
 
-- DOS | Alpha Trade 成交额 972672414.50 | 列表口径 4478232.62 | 涨跌 -7.86% | 振幅 13.35% | 估算人数 118619
-- TMX | Alpha Trade 成交额 240437329.63 | 列表口径 6216036.35 | 涨跌 -4.99% | 振幅 9.55% | 估算人数 29322
-- DEBIT | Alpha Trade 成交额 16879440.92 | 列表口径 270225540.64 | 涨跌 -2.92% | 振幅 13.40% | 估算人数 2058
-- KII | Alpha Trade 成交额 950228.65 | 列表口径 14951825.00 | 涨跌 -2.04% | 振幅 26.33% | 估算人数 116
-- COAI | Alpha Trade 成交额 63193.36 | 列表口径 1326735.02 | 涨跌 8.52% | 振幅 12.37% | 估算人数 8
-- SOON | Alpha Trade 成交额 24093.08 | 列表口径 242038.68 | 涨跌 4.00% | 振幅 7.18% | 估算人数 3
-- STABLE | Alpha Trade 成交额 13380.53 | 列表口径 1735402.63 | 涨跌 0.56% | 振幅 3.91% | 估算人数 2
+- DOS | Alpha Trade 成交额 967478409.84 | 列表口径 3568587.30 | 涨跌 -2.18% | 振幅 13.35% | 估算人数 117985
+- TMX | Alpha Trade 成交额 254657832.13 | 列表口径 5943311.00 | 涨跌 -0.12% | 振幅 6.03% | 估算人数 31056
+- DEBIT | Alpha Trade 成交额 16945770.59 | 列表口径 271044802.98 | 涨跌 1.98% | 振幅 12.56% | 估算人数 2067
+- KII | Alpha Trade 成交额 2558874.50 | 列表口径 15428507.50 | 涨跌 3.29% | 振幅 29.15% | 估算人数 312
+- COAI | Alpha Trade 成交额 112735.24 | 列表口径 2774593.77 | 涨跌 13.62% | 振幅 20.53% | 估算人数 14
+- STABLE | Alpha Trade 成交额 12937.22 | 列表口径 1677962.09 | 涨跌 1.81% | 振幅 3.36% | 估算人数 2
+- SOON | Alpha Trade 成交额 11807.68 | 列表口径 221321.69 | 涨跌 1.46% | 振幅 4.44% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- DOS | 分数 61.62 | Alpha Trade 成交额 972672414.50 | 波动 0.28% | 4h 振幅 1.71% | 审计 MID
-  - Alpha Trade 24h 成交额 972,672,415，流动性 870,451
-  - Alpha 列表口径 24h 成交额 4,478,233
-  - 短周期波动 0.28%
-  - 4h 振幅 1.71%
+- DOS | 分数 62.37 | Alpha Trade 成交额 967478409.84 | 波动 0.24% | 4h 振幅 3.42% | 审计 MID
+  - Alpha Trade 24h 成交额 967,478,410，流动性 884,601
+  - Alpha 列表口径 24h 成交额 3,568,587
+  - 短周期波动 0.24%
+  - 4h 振幅 3.42%
   - 审计风险 MID
-- TMX | 分数 61.19 | Alpha Trade 成交额 240437329.63 | 波动 0.18% | 4h 振幅 1.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 240,437,330，流动性 875,229
-  - Alpha 列表口径 24h 成交额 6,216,036
-  - 短周期波动 0.18%
-  - 4h 振幅 1.73%
+- TMX | 分数 61.53 | Alpha Trade 成交额 254657832.13 | 波动 0.22% | 4h 振幅 2.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 254,657,832，流动性 869,951
+  - Alpha 列表口径 24h 成交额 5,943,311
+  - 短周期波动 0.22%
+  - 4h 振幅 2.28%
   - 审计风险 LOW
-- DEBIT | 分数 38.00 | Alpha Trade 成交额 16879440.92 | 波动 0.50% | 4h 振幅 7.02% | 审计 LOW
-  - Alpha Trade 24h 成交额 16,879,441，流动性 2,004,370
-  - Alpha 列表口径 24h 成交额 270,225,541
-  - 短周期波动 0.50%
-  - 4h 振幅 7.02%
+- DEBIT | 分数 38.18 | Alpha Trade 成交额 16945770.59 | 波动 0.40% | 4h 振幅 7.84% | 审计 LOW
+  - Alpha Trade 24h 成交额 16,945,771，流动性 2,010,575
+  - Alpha 列表口径 24h 成交额 271,044,803
+  - 短周期波动 0.40%
+  - 4h 振幅 7.84%
   - 审计风险 LOW
-- KII | 分数 19.27 | Alpha Trade 成交额 950228.65 | 波动 0.69% | 4h 振幅 6.93% | 审计 LOW
-  - Alpha Trade 24h 成交额 950,229，流动性 1,095,457
-  - Alpha 列表口径 24h 成交额 14,951,825
-  - 短周期波动 0.69%
-  - 4h 振幅 6.93%
+- KII | 分数 20.43 | Alpha Trade 成交额 2558874.50 | 波动 0.52% | 4h 振幅 8.00% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,558,875，流动性 1,175,573
+  - Alpha 列表口径 24h 成交额 15,428,507
+  - 短周期波动 0.52%
+  - 4h 振幅 8.00%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：228
-- AKE / AKEUSDT | 24h 涨跌 53.84% | 资金费率 0.51 bps | 5m 持仓变化 -0.36% | 建议通知
-- LA / LAUSDT | 24h 涨跌 -4.45% | 资金费率 -44.49 bps | 5m 持仓变化 0.30% | 建议通知
-- USELESS / USELESSUSDT | 24h 涨跌 50.90% | 资金费率 0.50 bps | 5m 持仓变化 0.55% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 50.71% | 资金费率 0.50 bps | 5m 持仓变化 0.40% | 建议通知
-- BR / BRUSDT | 24h 涨跌 40.62% | 资金费率 2.92 bps | 5m 持仓变化 0.21% | 建议通知
-- EDGE / EDGEUSDT | 24h 涨跌 35.12% | 资金费率 3.35 bps | 5m 持仓变化 -0.26% | 建议通知
-- CAP / CAPUSDT | 24h 涨跌 -29.93% | 资金费率 -0.77 bps | 5m 持仓变化 -0.17% | 建议通知
-- UAI / UAIUSDT | 24h 涨跌 -24.65% | 资金费率 2.95 bps | 5m 持仓变化 0.18% | 建议通知
+- CAP / CAPUSDT | 24h 涨跌 -30.63% | 资金费率 -43.88 bps | 5m 持仓变化 -0.02% | 建议通知
+- USELESS / USELESSUSDT | 24h 涨跌 62.28% | 资金费率 0.50 bps | 5m 持仓变化 -1.12% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 59.22% | 资金费率 4.12 bps | 5m 持仓变化 -0.05% | 建议通知
+- BR / BRUSDT | 24h 涨跌 60.45% | 资金费率 0.50 bps | 5m 持仓变化 -0.14% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 53.78% | 资金费率 0.98 bps | 5m 持仓变化 0.11% | 建议通知
+- EDGE / EDGEUSDT | 24h 涨跌 50.46% | 资金费率 1.90 bps | 5m 持仓变化 0.24% | 建议通知
+- 牛来 / 牛来USDT | 24h 涨跌 40.15% | 资金费率 5.61 bps | 5m 持仓变化 0.93% | 建议通知
+- LA / LAUSDT | 24h 涨跌 -4.38% | 资金费率 -32.51 bps | 5m 持仓变化 0.23% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
-- 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-09-02
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined GPROUSDT Perpetual Contract (2026-09-03)
 - Latest Binance News：Binance Futures Will Adjust the Funding Interval of Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-09-04)
-- Latest Activities：ZKC Trading Tournament: Trade to Share Up to 5,000,000 ZKC Token Vouchers
+- Latest Activities：Join the 2026 Binance Wallet Soccer Fever Season - PnL Trading Competition and Share Up to 100,000 USDT in Rewards
 
 ### 最近 Alpha 上线
 
-- FLORK | 1x | 上线 2026-09-02T13:32:45.928000+00:00 | 24h 成交额 23364524.61
+- FLORK | 1x | 上线 2026-09-02T13:32:45.928000+00:00 | 24h 成交额 14475637.26
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined GPROUSDT Perpetual Contract (2026-09-03)](https://www.binance.com/en/support/announcement/detail/0ffd2dbcc12e4a968fbe7ccd2b4cc9f8)
+  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
 - [Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-09-02](https://www.binance.com/en/support/announcement/detail/8f5c893fa654432883f481b120b0a016)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 - [Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-09-02)](https://www.binance.com/en/support/announcement/detail/989347def916494f98bf3ba5ec8f9557)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
-- [Binance Exchange Adds 4 bStocks Trading Pairs on Binance Spot/Convert - 2026-09-02](https://www.binance.com/en/support/announcement/detail/b3ba5cf68daf4264a1260c8da11eef6d)
-  - This content is for general information only and is not an offer, solicitation, promotion, recommendation, or invitation to buy or sell securities in any jurisdiction. bStocks are…
 
 ### Latest Binance News
 
@@ -86,12 +86,12 @@
 
 ### Latest Activities
 
+- [Join the 2026 Binance Wallet Soccer Fever Season - PnL Trading Competition and Share Up to 100,000 USDT in Rewards](https://www.binance.com/en/support/announcement/detail/d6f71808953d49b3acac68966b193626)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet presents…
+- [South Asia Exclusive: US Stocks MegaFest - Trade and Share a $500,000 Reward Pool](https://www.binance.com/en/support/announcement/detail/c449cd2c8c164ebdb99299a00bba575c)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to in…
 - [ZKC Trading Tournament: Trade to Share Up to 5,000,000 ZKC Token Vouchers](https://www.binance.com/en/support/announcement/detail/4797f5365a594d4b8e4559eefb944fdd)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-- [Binance Lite Loan: Enjoy Simple Borrowing with 50% Off Service Fee!](https://www.binance.com/en/support/announcement/detail/b89617f2f12545f998408fbf46afe512)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is extending the…
-- [Extension to the USD1 Airdrop Campaign (2026-09-04)](https://www.binance.com/en/support/announcement/detail/3dd432ca980c469389d18f2f69c9d4ae)
-  - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
 
 ## Warnings
 
