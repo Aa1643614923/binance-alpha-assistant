@@ -1,70 +1,70 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-03T01:11:52.050187+00:00
+- 生成时间：2026-09-03T05:51:29.505280+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1112446941.65
+- 四倍分 24h 总成交额：1147692024.75
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：135664（按 8200 / 人）
+- 估算参与人数：139962（按 8200 / 人）
 
 ## 四倍分代币
 
-- DOS | Alpha Trade 成交额 975335870.49 | 列表口径 4075328.64 | 涨跌 -7.91% | 振幅 15.06% | 估算人数 118943
-- TMX | Alpha Trade 成交额 114207845.46 | 列表口径 9505343.62 | 涨跌 3.33% | 振幅 16.89% | 估算人数 13928
-- DEBIT | Alpha Trade 成交额 19858739.46 | 列表口径 250107485.62 | 涨跌 15.91% | 振幅 32.61% | 估算人数 2422
-- KII | Alpha Trade 成交额 2950626.42 | 列表口径 2369241.04 | 涨跌 4.56% | 振幅 25.73% | 估算人数 360
-- SOON | Alpha Trade 成交额 43870.60 | 列表口径 327336.86 | 涨跌 1.90% | 振幅 4.65% | 估算人数 5
-- COAI | Alpha Trade 成交额 26846.28 | 列表口径 669686.83 | 涨跌 -1.25% | 振幅 4.79% | 估算人数 3
-- STABLE | Alpha Trade 成交额 23142.93 | 列表口径 1760754.47 | 涨跌 -0.51% | 振幅 5.45% | 估算人数 3
+- DOS | Alpha Trade 成交额 974904951.46 | 列表口径 4343766.92 | 涨跌 -12.15% | 振幅 16.89% | 估算人数 118891
+- TMX | Alpha Trade 成交额 143126405.68 | 列表口径 8571720.54 | 涨跌 -4.37% | 振幅 9.55% | 估算人数 17454
+- DEBIT | Alpha Trade 成交额 27492682.99 | 列表口径 265039779.93 | 涨跌 0.89% | 振幅 15.56% | 估算人数 3353
+- KII | Alpha Trade 成交额 2085933.94 | 列表口径 13271152.06 | 涨跌 3.97% | 振幅 34.69% | 估算人数 254
+- SOON | Alpha Trade 成交额 34390.77 | 列表口径 260363.54 | 涨跌 2.35% | 振幅 7.18% | 估算人数 4
+- COAI | Alpha Trade 成交额 32751.59 | 列表口径 707317.03 | 涨跌 -1.29% | 振幅 4.22% | 估算人数 4
+- STABLE | Alpha Trade 成交额 14908.32 | 列表口径 1647575.81 | 涨跌 -0.45% | 振幅 4.48% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- DOS | 分数 62.95 | Alpha Trade 成交额 975335870.49 | 波动 0.37% | 4h 振幅 4.08% | 审计 MID
-  - Alpha Trade 24h 成交额 975,335,870，流动性 926,808
-  - Alpha 列表口径 24h 成交额 4,075,329
-  - 短周期波动 0.37%
-  - 4h 振幅 4.08%
+- TMX | 分数 58.62 | Alpha Trade 成交额 143126405.68 | 波动 0.23% | 4h 振幅 2.97% | 审计 LOW
+  - Alpha Trade 24h 成交额 143,126,406，流动性 894,767
+  - Alpha 列表口径 24h 成交额 8,571,721
+  - 短周期波动 0.23%
+  - 4h 振幅 2.97%
+  - 审计风险 LOW
+- DOS | 分数 46.87 | Alpha Trade 成交额 974904951.46 | 波动 0.49% | 4h 振幅 5.00% | 审计 MID
+  - Alpha Trade 24h 成交额 974,904,951，流动性 907,660
+  - Alpha 列表口径 24h 成交额 4,343,767
+  - 短周期波动 0.49%
+  - 4h 振幅 5.00%
   - 审计风险 MID
-- TMX | 分数 57.86 | Alpha Trade 成交额 114207845.46 | 波动 0.31% | 4h 振幅 3.13% | 审计 LOW
-  - Alpha Trade 24h 成交额 114,207,845，流动性 900,990
-  - Alpha 列表口径 24h 成交额 9,505,344
-  - 短周期波动 0.31%
-  - 4h 振幅 3.13%
+- DEBIT | 分数 38.53 | Alpha Trade 成交额 27492682.99 | 波动 0.57% | 4h 振幅 4.34% | 审计 LOW
+  - Alpha Trade 24h 成交额 27,492,683，流动性 2,032,753
+  - Alpha 列表口径 24h 成交额 265,039,780
+  - 短周期波动 0.57%
+  - 4h 振幅 4.34%
   - 审计风险 LOW
-- DEBIT | 分数 40.87 | Alpha Trade 成交额 19858739.46 | 波动 0.63% | 4h 振幅 8.93% | 审计 LOW
-  - Alpha Trade 24h 成交额 19,858,739，流动性 2,008,163
-  - Alpha 列表口径 24h 成交额 250,107,486
-  - 短周期波动 0.63%
-  - 4h 振幅 8.93%
-  - 审计风险 LOW
-- KII | 分数 23.26 | Alpha Trade 成交额 2950626.42 | 波动 0.98% | 4h 振幅 5.86% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,950,626，流动性 1,051,004
-  - Alpha 列表口径 24h 成交额 2,369,241
-  - 短周期波动 0.98%
-  - 4h 振幅 5.86%
+- KII | 分数 19.66 | Alpha Trade 成交额 2085933.94 | 波动 0.58% | 4h 振幅 7.93% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,085,934，流动性 1,147,743
+  - Alpha 列表口径 24h 成交额 13,271,152
+  - 短周期波动 0.58%
+  - 4h 振幅 7.93%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：228
-- LA / LAUSDT | 24h 涨跌 3.58% | 资金费率 -140.27 bps | 5m 持仓变化 0.53% | 建议通知
-- AKE / AKEUSDT | 24h 涨跌 76.84% | 资金费率 5.07 bps | 5m 持仓变化 0.12% | 建议通知
-- BTR / BTRUSDT | 24h 涨跌 -50.86% | 资金费率 -5.06 bps | 5m 持仓变化 -0.39% | 建议通知
-- SKR / SKRUSDT | 24h 涨跌 18.34% | 资金费率 -23.63 bps | 5m 持仓变化 0.42% | 建议通知
-- FLOCK / FLOCKUSDT | 24h 涨跌 5.83% | 资金费率 -27.27 bps | 5m 持仓变化 -0.03% | 建议通知
-- CLO / CLOUSDT | 24h 涨跌 26.49% | 资金费率 8.43 bps | 5m 持仓变化 -0.02% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 29.16% | 资金费率 0.31 bps | 5m 持仓变化 0.08% | 建议通知
-- UAI / UAIUSDT | 24h 涨跌 -23.48% | 资金费率 1.95 bps | 5m 持仓变化 -0.18% | 建议通知
+- LA / LAUSDT | 24h 涨跌 1.82% | 资金费率 -85.29 bps | 5m 持仓变化 0.05% | 建议通知
+- BTR / BTRUSDT | 24h 涨跌 -48.16% | 资金费率 -9.44 bps | 5m 持仓变化 0.12% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 50.08% | 资金费率 0.50 bps | 5m 持仓变化 -0.04% | 建议通知
+- HEMI / HEMIUSDT | 24h 涨跌 32.16% | 资金费率 5.32 bps | 5m 持仓变化 0.11% | 建议通知
+- ESPORTS / ESPORTSUSDT | 24h 涨跌 -5.19% | 资金费率 31.29 bps | 5m 持仓变化 -0.34% | 建议通知
+- UAI / UAIUSDT | 24h 涨跌 -33.25% | 资金费率 0.50 bps | 5m 持仓变化 -0.21% | 建议通知
+- USELESS / USELESSUSDT | 24h 涨跌 30.72% | 资金费率 0.50 bps | 5m 持仓变化 0.52% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 30.26% | 资金费率 0.50 bps | 5m 持仓变化 0.06% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-09-02
 - Latest Binance News：Binance Futures Will Adjust the Funding Interval of Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-09-04)
-- Latest Activities：Complete Your First Trade and Earn Up to 20 USDC in Token Voucher Rewards
+- Latest Activities：Binance Wallet Introduces Robinhood Chain Rebate Volume Boost Campaign
 
 ### 最近 Alpha 上线
 
-- FLORK | 1x | 上线 2026-09-02T13:32:45.928000+00:00 | 24h 成交额 18559530.46
+- FLORK | 1x | 上线 2026-09-02T13:32:45.928000+00:00 | 24h 成交额 20868340.63
 
 ### New Cryptocurrency Listing
 
@@ -86,12 +86,12 @@
 
 ### Latest Activities
 
+- [Binance Wallet Introduces Robinhood Chain Rebate Volume Boost Campaign](https://www.binance.com/en/support/announcement/detail/52e8b9f0c8f34a9c89f8babf50323693)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, As trading activity on Robinhood Chain continues to…
 - [Complete Your First Trade and Earn Up to 20 USDC in Token Voucher Rewards](https://www.binance.com/en/support/announcement/detail/a5b939b4db834e129206e6e83677f3eb)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Pakistan Exclusive: Road to Skardu KOL Challenge - Bring Qualified Referrals, Earn Your Spot!](https://www.binance.com/en/support/announcement/detail/6db246e76e42492b81cc9f13df8421ca)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We're launching the Road to Skardu KOL Challenge , a…
-- [Binance Alpha Trading Competition: Trade Collect on Fanable (COLLECT) and Share $200K Worth of Rewards (2026-09-02)](https://www.binance.com/en/support/announcement/detail/cf1d21d15830400d84862768bb168ef4)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 
 ## Warnings
 
