@@ -1,73 +1,73 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-10T00:38:30.067108+00:00
+- 生成时间：2026-09-10T05:19:13.228524+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1063498343.42
+- 四倍分 24h 总成交额：1075866810.07
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：129695（按 8200 / 人）
+- 估算参与人数：131203（按 8200 / 人）
 
 ## 四倍分代币
 
-- KII | Alpha Trade 成交额 1014059936.19 | 列表口径 162307829.96 | 涨跌 14.50% | 振幅 26.70% | 估算人数 123666
-- TMX | Alpha Trade 成交额 38936709.39 | 列表口径 6704142.41 | 涨跌 -20.96% | 振幅 52.79% | 估算人数 4748
-- DEBIT | Alpha Trade 成交额 8353062.14 | 列表口径 214579693.87 | 涨跌 -2.60% | 振幅 6.28% | 估算人数 1019
-- CNPY | Alpha Trade 成交额 1868002.36 | 列表口径 27929897.78 | 涨跌 -14.58% | 振幅 51.45% | 估算人数 228
-- TAC | Alpha Trade 成交额 116502.42 | 列表口径 4266001.45 | 涨跌 -22.66% | 振幅 33.27% | 估算人数 14
-- COAI | Alpha Trade 成交额 93244.64 | 列表口径 1316091.68 | 涨跌 -8.60% | 振幅 13.24% | 估算人数 11
-- SOON | Alpha Trade 成交额 38286.29 | 列表口径 299833.24 | 涨跌 -1.86% | 振幅 6.87% | 估算人数 5
-- STABLE | Alpha Trade 成交额 32599.99 | 列表口径 971999.64 | 涨跌 1.40% | 振幅 4.80% | 估算人数 4
+- KII | Alpha Trade 成交额 1030751718.80 | 列表口径 153000034.90 | 涨跌 16.15% | 振幅 27.29% | 估算人数 125701
+- TMX | Alpha Trade 成交额 38893042.21 | 列表口径 6557756.86 | 涨跌 -23.71% | 振幅 52.79% | 估算人数 4743
+- DEBIT | Alpha Trade 成交额 4449699.38 | 列表口径 217266069.57 | 涨跌 32.61% | 振幅 39.99% | 估算人数 543
+- CNPY | Alpha Trade 成交额 1518424.38 | 列表口径 26612552.15 | 涨跌 1.38% | 振幅 48.01% | 估算人数 185
+- TAC | Alpha Trade 成交额 105002.41 | 列表口径 3368989.15 | 涨跌 -16.50% | 振幅 28.99% | 估算人数 13
+- COAI | Alpha Trade 成交额 77803.65 | 列表口径 1389475.44 | 涨跌 -6.37% | 振幅 11.94% | 估算人数 9
+- STABLE | Alpha Trade 成交额 36459.01 | 列表口径 1360040.77 | 涨跌 0.49% | 振幅 5.63% | 估算人数 4
+- SOON | Alpha Trade 成交额 34660.24 | 列表口径 314345.95 | 涨跌 -2.33% | 振幅 6.87% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- KII | 分数 71.42 | Alpha Trade 成交额 1014059936.19 | 波动 0.52% | 4h 振幅 7.06% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,014,059,936，流动性 1,663,142
-  - Alpha 列表口径 24h 成交额 162,307,830
-  - 短周期波动 0.52%
-  - 4h 振幅 7.06%
+- KII | 分数 83.92 | Alpha Trade 成交额 1030751718.80 | 波动 0.56% | 4h 振幅 4.37% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,030,751,719，流动性 1,678,955
+  - Alpha 列表口径 24h 成交额 153,000,035
+  - 短周期波动 0.56%
+  - 4h 振幅 4.37%
   - 审计风险 LOW
-- DEBIT | 分数 61.79 | Alpha Trade 成交额 8353062.14 | 波动 0.12% | 4h 振幅 1.01% | 审计 LOW
-  - Alpha Trade 24h 成交额 8,353,062，流动性 2,036,327
-  - Alpha 列表口径 24h 成交额 214,579,694
-  - 短周期波动 0.12%
-  - 4h 振幅 1.01%
+- TMX | 分数 54.64 | Alpha Trade 成交额 38893042.21 | 波动 0.65% | 4h 振幅 6.21% | 审计 LOW
+  - Alpha Trade 24h 成交额 38,893,042，流动性 549,381
+  - Alpha 列表口径 24h 成交额 6,557,757
+  - 短周期波动 0.65%
+  - 4h 振幅 6.21%
   - 审计风险 LOW
-- TMX | 分数 31.82 | Alpha Trade 成交额 38936709.39 | 波动 0.87% | 4h 振幅 9.67% | 审计 LOW
-  - Alpha Trade 24h 成交额 38,936,709，流动性 570,454
-  - Alpha 列表口径 24h 成交额 6,704,142
-  - 短周期波动 0.87%
-  - 4h 振幅 9.67%
+- CNPY | 分数 44.33 | Alpha Trade 成交额 1518424.38 | 波动 1.07% | 4h 振幅 9.40% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,518,424，流动性 1,386,745
+  - Alpha 列表口径 24h 成交额 26,612,552
+  - 短周期波动 1.07%
+  - 4h 振幅 9.40%
   - 审计风险 LOW
-- CNPY | 分数 21.04 | Alpha Trade 成交额 1868002.36 | 波动 1.06% | 4h 振幅 11.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,868,002，流动性 1,379,406
-  - Alpha 列表口径 24h 成交额 27,929,898
-  - 短周期波动 1.06%
-  - 4h 振幅 11.62%
+- DEBIT | 分数 31.33 | Alpha Trade 成交额 4449699.38 | 波动 3.02% | 4h 振幅 38.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,449,699，流动性 2,219,874
+  - Alpha 列表口径 24h 成交额 217,266,070
+  - 短周期波动 3.02%
+  - 4h 振幅 38.22%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- MIRA / MIRAUSDT | 24h 涨跌 -6.79% | 资金费率 -91.27 bps | 5m 持仓变化 -0.41% | 建议通知
-- MIRA / MIRAUSDT | 24h 涨跌 -6.79% | 资金费率 -91.27 bps | 5m 持仓变化 -0.41% | 建议通知
-- KAT / KATUSDT | 24h 涨跌 30.12% | 资金费率 -10.48 bps | 5m 持仓变化 0.19% | 建议通知
-- TUT / TUTUSDT | 24h 涨跌 -16.71% | 资金费率 -23.64 bps | 5m 持仓变化 0.05% | 建议通知
-- BMT / BMTUSDT | 24h 涨跌 -4.24% | 资金费率 -29.78 bps | 5m 持仓变化 -0.23% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 -28.29% | 资金费率 -3.29 bps | 5m 持仓变化 0.02% | 建议通知
-- BEAT / BEATUSDT | 24h 涨跌 -29.21% | 资金费率 0.50 bps | 5m 持仓变化 0.14% | 建议通知
-- 哈基米 / 哈基米USDT | 24h 涨跌 -23.66% | 资金费率 3.52 bps | 5m 持仓变化 0.03% | 建议通知
+- NEWT / NEWTUSDT | 24h 涨跌 -1.53% | 资金费率 -51.20 bps | 5m 持仓变化 0.47% | 建议通知
+- BEAT / BEATUSDT | 24h 涨跌 -32.55% | 资金费率 0.50 bps | 5m 持仓变化 0.17% | 建议通知
+- LA / LAUSDT | 24h 涨跌 1.65% | 资金费率 -28.34 bps | 5m 持仓变化 0.08% | 建议通知
+- 牛来 / 牛来USDT | 24h 涨跌 -28.09% | 资金费率 0.50 bps | 5m 持仓变化 0.01% | 建议通知
+- LAB / LABUSDT | 24h 涨跌 -28.50% | 资金费率 0.50 bps | 5m 持仓变化 -0.16% | 建议通知
+- TUT / TUTUSDT | 24h 涨跌 -14.81% | 资金费率 -11.56 bps | 5m 持仓变化 -0.22% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 -26.56% | 资金费率 0.50 bps | 5m 持仓变化 0.02% | 建议通知
+- SOPH / SOPHUSDT | 24h 涨跌 -22.24% | 资金费率 -3.01 bps | 5m 持仓变化 0.10% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 3 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-09)
-- Latest Activities：CIS & CEE-Exclusive Binance P2P Welcome Rewards: Earn Up to 80 USDT in Token Vouchers
+- Latest Activities：Binance Earn: Share 200,000 RLUSD Rewards with RLUSD Flexible Products (2026-09-11)
 
 ### 最近 Alpha 上线
 
-- MEME | 1x | 上线 2026-09-09T10:21:43.152000+00:00 | 24h 成交额 29688454.51
-- 4Stock | 1x | 上线 2026-09-09T10:21:11.049000+00:00 | 24h 成交额 69801271.68
-- CNPY | 4x | 上线 2026-09-07T12:00:00+00:00 | 24h 成交额 27929897.78
+- MEME | 1x | 上线 2026-09-09T10:21:43.152000+00:00 | 24h 成交额 29591844.50
+- 4Stock | 1x | 上线 2026-09-09T10:21:11.049000+00:00 | 24h 成交额 69638130.81
+- CNPY | 4x | 上线 2026-09-07T12:00:00+00:00 | 24h 成交额 26612552.15
 
 ### New Cryptocurrency Listing
 
@@ -89,12 +89,12 @@
 
 ### Latest Activities
 
+- [Binance Earn: Share 200,000 RLUSD Rewards with RLUSD Flexible Products (2026-09-11)](https://www.binance.com/en/support/announcement/detail/c3fdde57f58a444fb98ee2902f870eb9)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Bi…
 - [CIS & CEE-Exclusive Binance P2P Welcome Rewards: Earn Up to 80 USDT in Token Vouchers](https://www.binance.com/en/support/announcement/detail/06153a2f1f0c4ac0a8a2c8be8c9048af)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance P2P is lau…
 - [HOLO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/e84320eea3f04f9894a2e3a537dbbb5c)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-- [Join Binance Wallet On-Chain Trade & Win Campaign Season 6 to Win a Share of $50,000 Worth of Rewards!](https://www.binance.com/en/support/announcement/detail/f03e050413594724a1ba831785255723)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet pro…
 
 ## Warnings
 
