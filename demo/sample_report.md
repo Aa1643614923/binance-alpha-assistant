@@ -1,81 +1,81 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-11T05:07:29.283023+00:00
+- 生成时间：2026-09-11T09:39:34.729311+00:00
 - 四倍分代币数：10
-- 四倍分 24h 总成交额：1065277712.22
+- 四倍分 24h 总成交额：1118788859.22
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：129912（按 8200 / 人）
+- 估算参与人数：136438（按 8200 / 人）
 
 ## 四倍分代币
 
-- KII | Alpha Trade 成交额 994515658.16 | 列表口径 136629173.89 | 涨跌 -1.64% | 振幅 24.29% | 估算人数 121282
-- DEBIT | Alpha Trade 成交额 37281660.44 | 列表口径 169387502.61 | 涨跌 3.47% | 振幅 45.39% | 估算人数 4547
-- TMX | Alpha Trade 成交额 29931475.02 | 列表口径 2729483.22 | 涨跌 -17.55% | 振幅 30.24% | 估算人数 3650
-- CNPY | Alpha Trade 成交额 1489730.57 | 列表口径 28969744.84 | 涨跌 12.22% | 振幅 64.02% | 估算人数 182
-- NES | Alpha Trade 成交额 1345059.80 | 列表口径 6193122.86 | 涨跌 27.31% | 振幅 56.82% | 估算人数 164
-- BSB | Alpha Trade 成交额 540179.18 | 列表口径 2372938.78 | 涨跌 -2.99% | 振幅 7.62% | 估算人数 66
-- STABLE | Alpha Trade 成交额 64692.07 | 列表口径 2012170.35 | 涨跌 3.23% | 振幅 7.07% | 估算人数 8
-- COAI | Alpha Trade 成交额 54204.95 | 列表口径 995658.89 | 涨跌 -2.23% | 振幅 5.33% | 估算人数 7
-- TAC | Alpha Trade 成交额 48178.27 | 列表口径 3573894.77 | 涨跌 10.30% | 振幅 22.18% | 估算人数 6
-- SOON | Alpha Trade 成交额 6873.77 | 列表口径 191429.02 | 涨跌 -4.01% | 振幅 6.82% | 估算人数 1
+- KII | Alpha Trade 成交额 1047356316.75 | 列表口径 132639214.15 | 涨跌 5.34% | 振幅 25.54% | 估算人数 127726
+- DEBIT | Alpha Trade 成交额 40294937.12 | 列表口径 165929589.03 | 涨跌 -1.51% | 振幅 45.39% | 估算人数 4914
+- TMX | Alpha Trade 成交额 27970593.93 | 列表口径 2272793.62 | 涨跌 -18.29% | 振幅 30.58% | 估算人数 3411
+- CNPY | Alpha Trade 成交额 1454101.45 | 列表口径 29452116.54 | 涨跌 30.11% | 振幅 60.65% | 估算人数 177
+- NES | Alpha Trade 成交额 953520.72 | 列表口径 4544029.04 | 涨跌 -5.64% | 振幅 21.93% | 估算人数 116
+- BSB | Alpha Trade 成交额 577569.00 | 列表口径 2472312.27 | 涨跌 -2.36% | 振幅 6.77% | 估算人数 70
+- STABLE | Alpha Trade 成交额 66829.68 | 列表口径 2057073.17 | 涨跌 -0.38% | 振幅 4.89% | 估算人数 8
+- COAI | Alpha Trade 成交额 54822.86 | 列表口径 889359.04 | 涨跌 -0.18% | 振幅 3.35% | 估算人数 7
+- TAC | Alpha Trade 成交额 54069.02 | 列表口径 3619654.50 | 涨跌 4.45% | 振幅 19.61% | 估算人数 7
+- SOON | Alpha Trade 成交额 6098.71 | 列表口径 164510.35 | 涨跌 -1.40% | 振幅 4.56% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- KII | 分数 77.32 | Alpha Trade 成交额 994515658.16 | 波动 0.95% | 4h 振幅 8.38% | 审计 LOW
-  - Alpha Trade 24h 成交额 994,515,658，流动性 1,654,097
-  - Alpha 列表口径 24h 成交额 136,629,174
-  - 短周期波动 0.95%
-  - 4h 振幅 8.38%
+- KII | 分数 85.47 | Alpha Trade 成交额 1047356316.75 | 波动 0.15% | 4h 振幅 1.15% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,047,356,317，流动性 1,724,313
+  - Alpha 列表口径 24h 成交额 132,639,214
+  - 短周期波动 0.15%
+  - 4h 振幅 1.15%
   - 审计风险 LOW
-- BSB | 分数 64.36 | Alpha Trade 成交额 540179.18 | 波动 0.33% | 4h 振幅 3.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 540,179，流动性 1,304,959
-  - Alpha 列表口径 24h 成交额 2,372,939
-  - 短周期波动 0.33%
-  - 4h 振幅 3.73%
+- BSB | 分数 59.78 | Alpha Trade 成交额 577569.00 | 波动 0.23% | 4h 振幅 2.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 577,569，流动性 1,298,098
+  - Alpha 列表口径 24h 成交额 2,472,312
+  - 短周期波动 0.23%
+  - 4h 振幅 2.57%
   - 审计风险 LOW
-- TMX | 分数 48.55 | Alpha Trade 成交额 29931475.02 | 波动 0.62% | 4h 振幅 10.03% | 审计 LOW
-  - Alpha Trade 24h 成交额 29,931,475，流动性 482,710
-  - Alpha 列表口径 24h 成交额 2,729,483
-  - 短周期波动 0.62%
-  - 4h 振幅 10.03%
+- DEBIT | 分数 44.05 | Alpha Trade 成交额 40294937.12 | 波动 0.61% | 4h 振幅 5.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 40,294,937，流动性 2,225,473
+  - Alpha 列表口径 24h 成交额 165,929,589
+  - 短周期波动 0.61%
+  - 4h 振幅 5.64%
   - 审计风险 LOW
-- CNPY | 分数 47.26 | Alpha Trade 成交额 1489730.57 | 波动 0.89% | 4h 振幅 9.35% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,489,731，流动性 1,424,076
-  - Alpha 列表口径 24h 成交额 28,969,745
-  - 短周期波动 0.89%
-  - 4h 振幅 9.35%
+- TMX | 分数 31.58 | Alpha Trade 成交额 27970593.93 | 波动 0.63% | 4h 振幅 5.92% | 审计 LOW
+  - Alpha Trade 24h 成交额 27,970,594，流动性 484,795
+  - Alpha 列表口径 24h 成交额 2,272,794
+  - 短周期波动 0.63%
+  - 4h 振幅 5.92%
   - 审计风险 LOW
-- NES | 分数 38.83 | Alpha Trade 成交额 1345059.80 | 波动 1.01% | 4h 振幅 10.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,345,060，流动性 1,121,609
-  - Alpha 列表口径 24h 成交额 6,193,123
-  - 短周期波动 1.01%
-  - 4h 振幅 10.59%
+- CNPY | 分数 26.81 | Alpha Trade 成交额 1454101.45 | 波动 0.77% | 4h 振幅 7.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,454,101，流动性 1,424,714
+  - Alpha 列表口径 24h 成交额 29,452,117
+  - 短周期波动 0.77%
+  - 4h 振幅 7.12%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- 牛来 / 牛来USDT | 24h 涨跌 56.19% | 资金费率 1.06 bps | 5m 持仓变化 -0.20% | 建议通知
-- NEWT / NEWTUSDT | 24h 涨跌 -5.43% | 资金费率 -33.55 bps | 5m 持仓变化 0.06% | 建议通知
-- 哈基米 / 哈基米USDT | 24h 涨跌 22.41% | 资金费率 5.44 bps | 5m 持仓变化 -0.38% | 建议通知
-- AKE / AKEUSDT | 24h 涨跌 -16.22% | 资金费率 -2.70 bps | 5m 持仓变化 3.13% | 建议通知
-- BTR / BTRUSDT | 24h 涨跌 -23.21% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 12.85% | 资金费率 3.08 bps | 5m 持仓变化 0.02% | 建议通知
-- BEAT / BEATUSDT | 24h 涨跌 -14.96% | 资金费率 0.50 bps | 5m 持仓变化 -0.02% | 建议通知
-- ARX / ARXUSDT | 24h 涨跌 -14.35% | 资金费率 0.50 bps | 5m 持仓变化 -0.49% | 建议通知
+- 牛来 / 牛来USDT | 24h 涨跌 96.11% | 资金费率 1.81 bps | 5m 持仓变化 1.16% | 建议通知
+- 哈基米 / 哈基米USDT | 24h 涨跌 44.07% | 资金费率 1.54 bps | 5m 持仓变化 1.07% | 建议通知
+- NEWT / NEWTUSDT | 24h 涨跌 -6.74% | 资金费率 -30.33 bps | 5m 持仓变化 0.10% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 -9.63% | 资金费率 -8.58 bps | 5m 持仓变化 0.12% | 建议通知
+- MET / METUSDT | 24h 涨跌 16.74% | 资金费率 0.11 bps | 5m 持仓变化 -0.44% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 -15.02% | 资金费率 1.79 bps | 5m 持仓变化 0.14% | 建议通知
+- 4 / 4USDT | 24h 涨跌 15.88% | 资金费率 1.36 bps | 5m 持仓变化 0.12% | 建议通知
+- 我踏马来了 / 我踏马来了USDT | 24h 涨跌 14.52% | 资金费率 0.50 bps | 5m 持仓变化 -0.02% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 3 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin
 - Latest Binance News：DYOR Just Got Upgraded: Track New On-Chain Metrics for Binance Alpha Tokens
-- Latest Activities：Binance Alpha Trading Competition: Trade Teller (DEBIT) and Share $200K Worth of Rewards (2026-09-10)
+- Latest Activities：REZ Trading Tournament: Trade to Share Up to 200,000 USDC Token Vouchers
 
 ### 最近 Alpha 上线
 
-- NES | 4x | 上线 2026-09-10T07:10:00+00:00 | 24h 成交额 6193122.86
-- MEME | 1x | 上线 2026-09-09T10:21:43.152000+00:00 | 24h 成交额 16127480.34
-- 4Stock | 1x | 上线 2026-09-09T10:21:11.049000+00:00 | 24h 成交额 23129968.81
+- NES | 4x | 上线 2026-09-10T07:10:00+00:00 | 24h 成交额 4544029.04
+- MEME | 1x | 上线 2026-09-09T10:21:43.152000+00:00 | 24h 成交额 16575156.24
+- 4Stock | 1x | 上线 2026-09-09T10:21:11.049000+00:00 | 24h 成交额 22974582.13
 
 ### New Cryptocurrency Listing
 
@@ -97,12 +97,12 @@
 
 ### Latest Activities
 
+- [REZ Trading Tournament: Trade to Share Up to 200,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/ee6e5b7df8eb4556a472de06624555e2)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
+- [Binance Earn: Enjoy Up to 14% APR with KGST Flexible Products – 100,000 KGST Limit Available! (2026-09-13)](https://www.binance.com/en/support/announcement/detail/f6ff30454a124269bcf185891d11aaa5)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Binance Alpha Trading Competition: Trade Teller (DEBIT) and Share $200K Worth of Rewards (2026-09-10)](https://www.binance.com/en/support/announcement/detail/29b9f6a39ec94a548e28933727b9e517)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
-- [Binance Starter Carnival: Kicking Off with the Button Game and 30 BNB Token Voucher Rewards!](https://www.binance.com/en/support/announcement/detail/11cacc4f64944d13a4af3528f2ed458a)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, We are introducing…
-- [THE Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/9914db97181f443a9fc3a3e3ef726996)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 
 ## Warnings
 
