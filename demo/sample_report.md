@@ -1,61 +1,61 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-15T10:47:18.214214+00:00
+- 生成时间：2026-09-15T15:17:38.431010+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1283059677.85
+- 四倍分 24h 总成交额：1267826872.26
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：156471（按 8200 / 人）
+- 估算参与人数：154613（按 8200 / 人）
 
 ## 四倍分代币
 
-- CNPY | Alpha Trade 成交额 775721955.49 | 列表口径 34857649.30 | 涨跌 24.17% | 振幅 45.30% | 估算人数 94600
-- DEBIT | Alpha Trade 成交额 487462961.43 | 列表口径 29317018.37 | 涨跌 -15.34% | 振幅 80.84% | 估算人数 59447
-- TMX | Alpha Trade 成交额 19330308.74 | 列表口径 1255217.07 | 涨跌 1.79% | 振幅 6.90% | 估算人数 2357
-- BSB | Alpha Trade 成交额 359733.30 | 列表口径 1460855.28 | 涨跌 -3.17% | 振幅 9.56% | 估算人数 44
-- NES | Alpha Trade 成交额 61206.98 | 列表口径 708915.09 | 涨跌 6.50% | 振幅 11.51% | 估算人数 7
-- STABLE | Alpha Trade 成交额 47917.74 | 列表口径 956294.40 | 涨跌 -5.48% | 振幅 6.33% | 估算人数 6
-- COAI | Alpha Trade 成交额 31679.97 | 列表口径 539634.77 | 涨跌 -2.08% | 振幅 3.70% | 估算人数 4
-- TAC | Alpha Trade 成交额 26986.31 | 列表口径 665330.77 | 涨跌 1.53% | 振幅 6.74% | 估算人数 3
-- SOON | Alpha Trade 成交额 16927.89 | 列表口径 214005.78 | 涨跌 -2.39% | 振幅 3.76% | 估算人数 2
+- CNPY | Alpha Trade 成交额 869876098.50 | 列表口径 35303313.41 | 涨跌 26.51% | 振幅 33.08% | 估算人数 106082
+- DEBIT | Alpha Trade 成交额 342298989.30 | 列表口径 28980047.88 | 涨跌 -24.10% | 振幅 34.41% | 估算人数 41744
+- TMX | Alpha Trade 成交额 55196776.41 | 列表口径 1586857.23 | 涨跌 -7.92% | 振幅 10.65% | 估算人数 6731
+- BSB | Alpha Trade 成交额 272957.64 | 列表口径 1380743.93 | 涨跌 -6.54% | 振幅 13.41% | 估算人数 33
+- NES | Alpha Trade 成交额 61134.76 | 列表口径 774146.30 | 涨跌 6.76% | 振幅 11.13% | 估算人数 7
+- STABLE | Alpha Trade 成交额 45559.71 | 列表口径 990955.02 | 涨跌 -3.03% | 振幅 4.26% | 估算人数 6
+- TAC | Alpha Trade 成交额 29511.71 | 列表口径 967556.05 | 涨跌 -7.13% | 振幅 14.18% | 估算人数 4
+- COAI | Alpha Trade 成交额 27990.93 | 列表口径 591737.81 | 涨跌 -1.48% | 振幅 3.77% | 估算人数 3
+- SOON | Alpha Trade 成交额 17853.31 | 列表口径 232449.40 | 涨跌 -1.96% | 振幅 4.03% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- CNPY | 分数 60.64 | Alpha Trade 成交额 775721955.49 | 波动 0.57% | 4h 振幅 5.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 775,721,955，流动性 1,485,641
-  - Alpha 列表口径 24h 成交额 34,857,649
-  - 短周期波动 0.57%
-  - 4h 振幅 5.49%
+- CNPY | 分数 62.07 | Alpha Trade 成交额 869876098.50 | 波动 0.88% | 4h 振幅 15.35% | 审计 LOW
+  - Alpha Trade 24h 成交额 869,876,099，流动性 1,512,292
+  - Alpha 列表口径 24h 成交额 35,303,313
+  - 短周期波动 0.88%
+  - 4h 振幅 15.35%
   - 审计风险 LOW
-- TMX | 分数 55.00 | Alpha Trade 成交额 19330308.74 | 波动 0.36% | 4h 振幅 4.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 19,330,309，流动性 483,447
-  - Alpha 列表口径 24h 成交额 1,255,217
-  - 短周期波动 0.36%
-  - 4h 振幅 4.65%
+- TMX | 分数 55.00 | Alpha Trade 成交额 55196776.41 | 波动 0.81% | 4h 振幅 9.08% | 审计 LOW
+  - Alpha Trade 24h 成交额 55,196,776，流动性 463,464
+  - Alpha 列表口径 24h 成交额 1,586,857
+  - 短周期波动 0.81%
+  - 4h 振幅 9.08%
   - 审计风险 LOW
-- DEBIT | 分数 45.59 | Alpha Trade 成交额 487462961.43 | 波动 0.71% | 4h 振幅 7.66% | 审计 LOW
-  - Alpha Trade 24h 成交额 487,462,961，流动性 2,434,538
-  - Alpha 列表口径 24h 成交额 29,317,018
-  - 短周期波动 0.71%
-  - 4h 振幅 7.66%
+- DEBIT | 分数 38.92 | Alpha Trade 成交额 342298989.30 | 波动 1.14% | 4h 振幅 15.43% | 审计 LOW
+  - Alpha Trade 24h 成交额 342,298,989，流动性 2,331,659
+  - Alpha 列表口径 24h 成交额 28,980,048
+  - 短周期波动 1.14%
+  - 4h 振幅 15.43%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- CAP / CAPUSDT | 24h 涨跌 17.78% | 资金费率 -46.98 bps | 5m 持仓变化 0.04% | 建议通知
-- AIN / AINUSDT | 24h 涨跌 52.29% | 资金费率 2.61 bps | 5m 持仓变化 -0.15% | 建议通知
-- AKE / AKEUSDT | 24h 涨跌 42.18% | 资金费率 3.10 bps | 5m 持仓变化 -0.19% | 建议通知
-- POWER / POWERUSDT | 24h 涨跌 37.67% | 资金费率 0.50 bps | 5m 持仓变化 0.27% | 建议通知
-- BR / BRUSDT | 24h 涨跌 -34.28% | 资金费率 0.50 bps | 5m 持仓变化 0.64% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 -0.23% | 资金费率 34.53 bps | 5m 持仓变化 0.00% | 继续观察
-- UAI / UAIUSDT | 24h 涨跌 -25.09% | 资金费率 0.50 bps | 5m 持仓变化 0.04% | 建议通知
-- HEMI / HEMIUSDT | 24h 涨跌 7.97% | 资金费率 -15.24 bps | 5m 持仓变化 -0.10% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 77.40% | 资金费率 3.63 bps | 5m 持仓变化 0.24% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 69.53% | 资金费率 0.50 bps | 5m 持仓变化 -0.05% | 建议通知
+- BR / BRUSDT | 24h 涨跌 -50.68% | 资金费率 0.50 bps | 5m 持仓变化 -0.19% | 建议通知
+- POWER / POWERUSDT | 24h 涨跌 35.42% | 资金费率 -1.25 bps | 5m 持仓变化 0.25% | 建议通知
+- IDOL / IDOLUSDT | 24h 涨跌 26.55% | 资金费率 2.79 bps | 5m 持仓变化 0.07% | 建议通知
+- UAI / UAIUSDT | 24h 涨跌 -26.95% | 资金费率 0.50 bps | 5m 持仓变化 -0.03% | 建议通知
+- CAP / CAPUSDT | 24h 涨跌 -1.59% | 资金费率 -14.83 bps | 5m 持仓变化 -0.15% | 建议通知
+- PLAY / PLAYUSDT | 24h 涨跌 20.21% | 资金费率 0.50 bps | 5m 持仓变化 -0.48% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14
 - Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)
-- Latest Activities：Introducing Binance Points: Complete Tasks, Earn Points, Redeem Rewards!
+- Latest Activities：Community Voice: Give Feedback to Share 1,000 USDC in Rewards!
 
 ### 最近 Alpha 上线
 
@@ -80,12 +80,12 @@
 
 ### Latest Activities
 
+- [Community Voice: Give Feedback to Share 1,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/2281928b1873472888559551a7a834e2)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Your voice matters…
+- [Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-09-15)](https://www.binance.com/en/support/announcement/detail/6cef4eebd5864293b1644d6b0e094954)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 - [Introducing Binance Points: Complete Tasks, Earn Points, Redeem Rewards!](https://www.binance.com/en/support/announcement/detail/8c58e4eb0a6348398028738db0d8b3a3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
-- [Join Binance Summer Camp, Play, Learn, and Share 10,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/496452d67ccf4458922d5c9df8bddbd1)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Who said summer was over? Get ready to level u…
-- [Binance Earn: Enjoy Up to 7% APR on U Flexible Products — Exclusive 7.7% APR for VIP Users with 500,000 U Tier (2026-09-15)](https://www.binance.com/en/support/announcement/detail/47934ad1629f4236a80c3709e2cd116a)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Disclaimer: Thi…
 
 ## Warnings
 
