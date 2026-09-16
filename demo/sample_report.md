@@ -1,61 +1,61 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-15T22:11:47.780322+00:00
+- 生成时间：2026-09-16T00:24:55.582633+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1255286537.76
+- 四倍分 24h 总成交额：1254802948.71
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：153084（按 8200 / 人）
+- 估算参与人数：153025（按 8200 / 人）
 
 ## 四倍分代币
 
-- CNPY | Alpha Trade 成交额 910958738.04 | 列表口径 32412621.75 | 涨跌 22.08% | 振幅 36.50% | 估算人数 111093
-- DEBIT | Alpha Trade 成交额 296802511.71 | 列表口径 25749639.39 | 涨跌 -19.83% | 振幅 47.49% | 估算人数 36195
-- TMX | Alpha Trade 成交额 46991176.37 | 列表口径 1429969.05 | 涨跌 -11.18% | 振幅 18.16% | 估算人数 5731
-- BSB | Alpha Trade 成交额 321297.26 | 列表口径 1932130.92 | 涨跌 -7.06% | 振幅 12.79% | 估算人数 39
-- NES | Alpha Trade 成交额 77625.33 | 列表口径 1193766.44 | 涨跌 10.23% | 振幅 17.94% | 估算人数 9
-- STABLE | Alpha Trade 成交额 53163.42 | 列表口径 941441.29 | 涨跌 -3.76% | 振幅 4.48% | 估算人数 6
-- COAI | Alpha Trade 成交额 33510.53 | 列表口径 975050.02 | 涨跌 1.57% | 振幅 5.26% | 估算人数 4
-- SOON | Alpha Trade 成交额 25607.10 | 列表口径 276104.76 | 涨跌 -2.30% | 振幅 4.84% | 估算人数 3
-- TAC | Alpha Trade 成交额 22908.00 | 列表口径 1082042.70 | 涨跌 -9.49% | 振幅 16.44% | 估算人数 3
+- CNPY | Alpha Trade 成交额 918837434.61 | 列表口径 32276619.88 | 涨跌 28.62% | 振幅 41.61% | 估算人数 112053
+- DEBIT | Alpha Trade 成交额 288504674.00 | 列表口径 23490208.06 | 涨跌 -22.11% | 振幅 41.58% | 估算人数 35183
+- TMX | Alpha Trade 成交额 46933438.31 | 列表口径 1400376.41 | 涨跌 -9.75% | 振幅 18.16% | 估算人数 5724
+- BSB | Alpha Trade 成交额 316154.80 | 列表口径 2026472.13 | 涨跌 -5.52% | 振幅 12.79% | 估算人数 39
+- NES | Alpha Trade 成交额 78337.92 | 列表口径 1222091.42 | 涨跌 9.78% | 振幅 15.52% | 估算人数 10
+- STABLE | Alpha Trade 成交额 51011.48 | 列表口径 964883.84 | 涨跌 -3.92% | 振幅 4.37% | 估算人数 6
+- COAI | Alpha Trade 成交额 33123.32 | 列表口径 1022480.22 | 涨跌 1.97% | 振幅 5.53% | 估算人数 4
+- SOON | Alpha Trade 成交额 25607.10 | 列表口径 262807.03 | 涨跌 -1.13% | 振幅 4.84% | 估算人数 3
+- TAC | Alpha Trade 成交额 23167.18 | 列表口径 1091706.29 | 涨跌 -8.30% | 振幅 16.44% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- DEBIT | 分数 60.74 | Alpha Trade 成交额 296802511.71 | 波动 0.72% | 4h 振幅 7.09% | 审计 LOW
-  - Alpha Trade 24h 成交额 296,802,512，流动性 2,308,979
-  - Alpha 列表口径 24h 成交额 25,749,639
-  - 短周期波动 0.72%
-  - 4h 振幅 7.09%
+- TMX | 分数 55.00 | Alpha Trade 成交额 46933438.31 | 波动 0.33% | 4h 振幅 3.93% | 审计 LOW
+  - Alpha Trade 24h 成交额 46,933,438，流动性 454,917
+  - Alpha 列表口径 24h 成交额 1,400,376
+  - 短周期波动 0.33%
+  - 4h 振幅 3.93%
   - 审计风险 LOW
-- TMX | 分数 55.00 | Alpha Trade 成交额 46991176.37 | 波动 0.49% | 4h 振幅 4.04% | 审计 LOW
-  - Alpha Trade 24h 成交额 46,991,176，流动性 445,183
-  - Alpha 列表口径 24h 成交额 1,429,969
-  - 短周期波动 0.49%
-  - 4h 振幅 4.04%
+- DEBIT | 分数 53.96 | Alpha Trade 成交额 288504674.00 | 波动 0.68% | 4h 振幅 6.68% | 审计 LOW
+  - Alpha Trade 24h 成交额 288,504,674，流动性 2,302,934
+  - Alpha 列表口径 24h 成交额 23,490,208
+  - 短周期波动 0.68%
+  - 4h 振幅 6.68%
   - 审计风险 LOW
-- CNPY | 分数 46.84 | Alpha Trade 成交额 910958738.04 | 波动 1.50% | 4h 振幅 18.74% | 审计 LOW
-  - Alpha Trade 24h 成交额 910,958,738，流动性 1,548,499
-  - Alpha 列表口径 24h 成交额 32,412,622
-  - 短周期波动 1.50%
-  - 4h 振幅 18.74%
+- CNPY | 分数 47.07 | Alpha Trade 成交额 918837434.61 | 波动 0.98% | 4h 振幅 14.90% | 审计 LOW
+  - Alpha Trade 24h 成交额 918,837,435，流动性 1,569,740
+  - Alpha 列表口径 24h 成交额 32,276,620
+  - 短周期波动 0.98%
+  - 4h 振幅 14.90%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- AKE / AKEUSDT | 24h 涨跌 73.24% | 资金费率 0.50 bps | 5m 持仓变化 -0.17% | 建议通知
-- BR / BRUSDT | 24h 涨跌 -51.64% | 资金费率 0.50 bps | 5m 持仓变化 0.00% | 建议通知
-- AIN / AINUSDT | 24h 涨跌 44.75% | 资金费率 0.29 bps | 5m 持仓变化 -0.09% | 建议通知
-- POWER / POWERUSDT | 24h 涨跌 27.18% | 资金费率 -3.40 bps | 5m 持仓变化 0.29% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 21.90% | 资金费率 3.51 bps | 5m 持仓变化 0.00% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 19.04% | 资金费率 4.27 bps | 5m 持仓变化 -0.01% | 建议通知
-- IDOL / IDOLUSDT | 24h 涨跌 21.95% | 资金费率 1.25 bps | 5m 持仓变化 -0.11% | 建议通知
-- ON / ONUSDT | 24h 涨跌 15.87% | 资金费率 7.29 bps | 5m 持仓变化 0.06% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 69.66% | 资金费率 2.34 bps | 5m 持仓变化 0.01% | 建议通知
+- BR / BRUSDT | 24h 涨跌 -52.27% | 资金费率 0.50 bps | 5m 持仓变化 -0.13% | 建议通知
+- LA / LAUSDT | 24h 涨跌 -12.18% | 资金费率 -27.80 bps | 5m 持仓变化 0.51% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 30.59% | 资金费率 0.50 bps | 5m 持仓变化 -0.21% | 建议通知
+- ON / ONUSDT | 24h 涨跌 26.14% | 资金费率 7.34 bps | 5m 持仓变化 0.45% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 24.56% | 资金费率 3.08 bps | 5m 持仓变化 0.04% | 建议通知
+- POWER / POWERUSDT | 24h 涨跌 18.29% | 资金费率 -3.34 bps | 5m 持仓变化 0.22% | 建议通知
+- STAR / STARUSDT | 24h 涨跌 -21.78% | 资金费率 4.08 bps | 5m 持仓变化 0.03% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14
 - Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)
-- Latest Activities：Community Voice: Give Feedback to Share 1,000 USDC in Rewards!
+- Latest Activities：Binance P2P Launches 0 Fee Maker & Taker Promotion for TJS Trading Pairs
 
 ### 最近 Alpha 上线
 
@@ -80,12 +80,12 @@
 
 ### Latest Activities
 
+- [Binance P2P Launches 0 Fee Maker & Taker Promotion for TJS Trading Pairs](https://www.binance.com/en/support/announcement/detail/3b04ee869348443491905f1e31dbc7bc)
+  - This is a general announcement. The products and services mentioned may not be available in your region. Terms &amp; Conditions apply. Fellow Binancians, Binance P2P is excited to…
 - [Community Voice: Give Feedback to Share 1,000 USDC in Rewards!](https://www.binance.com/en/support/announcement/detail/2281928b1873472888559551a7a834e2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Your voice matters…
 - [Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-09-15)](https://www.binance.com/en/support/announcement/detail/6cef4eebd5864293b1644d6b0e094954)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
-- [Introducing Binance Points: Complete Tasks, Earn Points, Redeem Rewards!](https://www.binance.com/en/support/announcement/detail/8c58e4eb0a6348398028738db0d8b3a3)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 
 ## Warnings
 
