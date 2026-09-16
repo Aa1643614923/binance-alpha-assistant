@@ -1,60 +1,60 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-16T00:24:55.582633+00:00
+- 生成时间：2026-09-16T05:05:33.077325+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1254802948.71
+- 四倍分 24h 总成交额：1243786285.74
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：153025（按 8200 / 人）
+- 估算参与人数：151681（按 8200 / 人）
 
 ## 四倍分代币
 
-- CNPY | Alpha Trade 成交额 918837434.61 | 列表口径 32276619.88 | 涨跌 28.62% | 振幅 41.61% | 估算人数 112053
-- DEBIT | Alpha Trade 成交额 288504674.00 | 列表口径 23490208.06 | 涨跌 -22.11% | 振幅 41.58% | 估算人数 35183
-- TMX | Alpha Trade 成交额 46933438.31 | 列表口径 1400376.41 | 涨跌 -9.75% | 振幅 18.16% | 估算人数 5724
-- BSB | Alpha Trade 成交额 316154.80 | 列表口径 2026472.13 | 涨跌 -5.52% | 振幅 12.79% | 估算人数 39
-- NES | Alpha Trade 成交额 78337.92 | 列表口径 1222091.42 | 涨跌 9.78% | 振幅 15.52% | 估算人数 10
-- STABLE | Alpha Trade 成交额 51011.48 | 列表口径 964883.84 | 涨跌 -3.92% | 振幅 4.37% | 估算人数 6
-- COAI | Alpha Trade 成交额 33123.32 | 列表口径 1022480.22 | 涨跌 1.97% | 振幅 5.53% | 估算人数 4
-- SOON | Alpha Trade 成交额 25607.10 | 列表口径 262807.03 | 涨跌 -1.13% | 振幅 4.84% | 估算人数 3
-- TAC | Alpha Trade 成交额 23167.18 | 列表口径 1091706.29 | 涨跌 -8.30% | 振幅 16.44% | 估算人数 3
+- CNPY | Alpha Trade 成交额 925291166.09 | 列表口径 31315007.12 | 涨跌 22.11% | 振幅 41.61% | 估算人数 112840
+- DEBIT | Alpha Trade 成交额 271329120.01 | 列表口径 20906499.75 | 涨跌 -22.07% | 振幅 41.12% | 估算人数 33089
+- TMX | Alpha Trade 成交额 46661949.25 | 列表口径 1236894.33 | 涨跌 -18.45% | 振幅 23.31% | 估算人数 5690
+- BSB | Alpha Trade 成交额 307466.96 | 列表口径 2050442.34 | 涨跌 -1.69% | 振幅 7.72% | 估算人数 37
+- NES | Alpha Trade 成交额 81728.84 | 列表口径 1325045.76 | 涨跌 6.43% | 振幅 13.10% | 估算人数 10
+- STABLE | Alpha Trade 成交额 52494.80 | 列表口径 921162.62 | 涨跌 -3.43% | 振幅 4.36% | 估算人数 6
+- COAI | Alpha Trade 成交额 24107.29 | 列表口径 1113559.23 | 涨跌 1.74% | 振幅 5.53% | 估算人数 3
+- TAC | Alpha Trade 成交额 23331.95 | 列表口径 1079795.28 | 涨跌 -9.65% | 振幅 16.44% | 估算人数 3
+- SOON | Alpha Trade 成交额 14920.54 | 列表口径 244483.31 | 涨跌 -3.37% | 振幅 4.71% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- TMX | 分数 55.00 | Alpha Trade 成交额 46933438.31 | 波动 0.33% | 4h 振幅 3.93% | 审计 LOW
-  - Alpha Trade 24h 成交额 46,933,438，流动性 454,917
-  - Alpha 列表口径 24h 成交额 1,400,376
-  - 短周期波动 0.33%
-  - 4h 振幅 3.93%
+- CNPY | 分数 57.03 | Alpha Trade 成交额 925291166.09 | 波动 0.83% | 4h 振幅 7.49% | 审计 LOW
+  - Alpha Trade 24h 成交额 925,291,166，流动性 1,541,900
+  - Alpha 列表口径 24h 成交额 31,315,007
+  - 短周期波动 0.83%
+  - 4h 振幅 7.49%
   - 审计风险 LOW
-- DEBIT | 分数 53.96 | Alpha Trade 成交额 288504674.00 | 波动 0.68% | 4h 振幅 6.68% | 审计 LOW
-  - Alpha Trade 24h 成交额 288,504,674，流动性 2,302,934
-  - Alpha 列表口径 24h 成交额 23,490,208
-  - 短周期波动 0.68%
-  - 4h 振幅 6.68%
+- DEBIT | 分数 56.52 | Alpha Trade 成交额 271329120.01 | 波动 0.53% | 4h 振幅 11.27% | 审计 LOW
+  - Alpha Trade 24h 成交额 271,329,120，流动性 2,283,859
+  - Alpha 列表口径 24h 成交额 20,906,500
+  - 短周期波动 0.53%
+  - 4h 振幅 11.27%
   - 审计风险 LOW
-- CNPY | 分数 47.07 | Alpha Trade 成交额 918837434.61 | 波动 0.98% | 4h 振幅 14.90% | 审计 LOW
-  - Alpha Trade 24h 成交额 918,837,435，流动性 1,569,740
-  - Alpha 列表口径 24h 成交额 32,276,620
-  - 短周期波动 0.98%
-  - 4h 振幅 14.90%
+- TMX | 分数 39.08 | Alpha Trade 成交额 46661949.25 | 波动 0.64% | 4h 振幅 10.76% | 审计 LOW
+  - Alpha Trade 24h 成交额 46,661,949，流动性 422,332
+  - Alpha 列表口径 24h 成交额 1,236,894
+  - 短周期波动 0.64%
+  - 4h 振幅 10.76%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- AKE / AKEUSDT | 24h 涨跌 69.66% | 资金费率 2.34 bps | 5m 持仓变化 0.01% | 建议通知
-- BR / BRUSDT | 24h 涨跌 -52.27% | 资金费率 0.50 bps | 5m 持仓变化 -0.13% | 建议通知
-- LA / LAUSDT | 24h 涨跌 -12.18% | 资金费率 -27.80 bps | 5m 持仓变化 0.51% | 建议通知
-- AIN / AINUSDT | 24h 涨跌 30.59% | 资金费率 0.50 bps | 5m 持仓变化 -0.21% | 建议通知
-- ON / ONUSDT | 24h 涨跌 26.14% | 资金费率 7.34 bps | 5m 持仓变化 0.45% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 24.56% | 资金费率 3.08 bps | 5m 持仓变化 0.04% | 建议通知
-- POWER / POWERUSDT | 24h 涨跌 18.29% | 资金费率 -3.34 bps | 5m 持仓变化 0.22% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 -21.78% | 资金费率 4.08 bps | 5m 持仓变化 0.03% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 -79.65% | 资金费率 5.85 bps | 5m 持仓变化 -1.03% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 66.13% | 资金费率 2.02 bps | 5m 持仓变化 -0.01% | 建议通知
+- BR / BRUSDT | 24h 涨跌 -48.28% | 资金费率 0.50 bps | 5m 持仓变化 -0.31% | 建议通知
+- POWER / POWERUSDT | 24h 涨跌 -26.51% | 资金费率 -10.12 bps | 5m 持仓变化 -0.27% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 25.22% | 资金费率 4.99 bps | 5m 持仓变化 -0.09% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 26.11% | 资金费率 4.51 bps | 5m 持仓变化 0.05% | 建议通知
+- LA / LAUSDT | 24h 涨跌 -6.74% | 资金费率 -20.52 bps | 5m 持仓变化 0.12% | 建议通知
+- STAR / STARUSDT | 24h 涨跌 -25.21% | 资金费率 -0.66 bps | 5m 持仓变化 0.43% | 建议通知
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14
-- Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)
+- 官方最新上新关注：Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-16
+- Latest Binance News：Updates on Tick Size for Spot Trading Pairs (2026-09-23)
 - Latest Activities：Binance P2P Launches 0 Fee Maker & Taker Promotion for TJS Trading Pairs
 
 ### 最近 Alpha 上线
@@ -62,21 +62,21 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-16](https://www.binance.com/en/support/announcement/detail/a5bf03abedaa4430b1fd04aa760e491b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
+- [Binance Exchange Adds GoPro (GPROB) and Reddit (RDDTB) bStocks Trading Pairs on Binance Spot/Convert - 2026-09-16](https://www.binance.com/en/support/announcement/detail/da7f14dd847f436ea92330a024ce0245)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list…
 - [Binance Will Add BNCB bStocks Tokenized Securities as Collateral Asset - 2026-09-14](https://www.binance.com/en/support/announcement/detail/437f116183e243ce8759ac8cc580881f)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
-- [Binance Exchange Adds CEA Industries (BNCB) bStocks Trading Pair on Binance Spot/Convert - 2026-09-14](https://www.binance.com/en/support/announcement/detail/d625f87897a843febc1f4c139740d875)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list…
-- [Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin](https://www.binance.com/en/support/announcement/detail/39fe3154675948fbb164b1e63e036629)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: This is not available for users in the EEA. Fellow Bi…
 
 ### Latest Binance News
 
+- [Updates on Tick Size for Spot Trading Pairs (2026-09-23)](https://www.binance.com/en/support/announcement/detail/0f33f12bfe5a47b0a6eb875fd3243ea3)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and improve tr…
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-09-17)](https://www.binance.com/en/support/announcement/detail/2b19feada63c4f97b05322298f4121cb)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
 - [Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)](https://www.binance.com/en/support/announcement/detail/390301281fa84012b654ddbe811f9a53)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the Cross Margin Borrow and Tran…
-- [Binance Will Support the Taiwan Semiconductor Manufacturing Company Limited (TSM) and Salesforce (CRM) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/53398822f8294af2b8b3b61d749d50de)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
-- [Important Updates on Trading Hours and Price Index Calculation Mode of Commodity-Based TradFi Perpetual Contracts (2026-09-15)](https://www.binance.com/en/support/announcement/detail/f69c05ebdba7422e9c614685abe84dc5)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, Binance constantly reviews its product an…
 
 ### Latest Activities
 
