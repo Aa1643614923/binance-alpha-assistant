@@ -1,60 +1,60 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-22T00:55:58.619888+00:00
+- 生成时间：2026-09-22T05:57:40.709684+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1192910667.08
+- 四倍分 24h 总成交额：1208121220.66
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：145477（按 8200 / 人）
+- 估算参与人数：147332（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 994837158.11 | 列表口径 66508692.10 | 涨跌 11.18% | 振幅 22.99% | 估算人数 121322
-- DEBIT | Alpha Trade 成交额 153958982.73 | 列表口径 3222337.51 | 涨跌 1.44% | 振幅 9.61% | 估算人数 18775
-- CNPY | Alpha Trade 成交额 43237279.62 | 列表口径 24018789.13 | 涨跌 2.27% | 振幅 15.74% | 估算人数 5273
-- APM | Alpha Trade 成交额 446148.82 | 列表口径 1389469.05 | 涨跌 -0.15% | 振幅 16.98% | 估算人数 54
-- BSB | Alpha Trade 成交额 280395.67 | 列表口径 2701877.68 | 涨跌 4.52% | 振幅 9.60% | 估算人数 34
-- TMX | Alpha Trade 成交额 92590.89 | 列表口径 694730.21 | 涨跌 -3.35% | 振幅 9.18% | 估算人数 11
-- NES | Alpha Trade 成交额 22035.44 | 列表口径 494308.87 | 涨跌 3.78% | 振幅 7.87% | 估算人数 3
-- TAC | Alpha Trade 成交额 18344.54 | 列表口径 728891.67 | 涨跌 5.14% | 振幅 8.37% | 估算人数 2
-- SOON | Alpha Trade 成交额 17731.24 | 列表口径 236181.09 | 涨跌 3.46% | 振幅 4.87% | 估算人数 2
+- DGAI | Alpha Trade 成交额 1013327948.80 | 列表口径 59936643.65 | 涨跌 9.42% | 振幅 18.58% | 估算人数 123577
+- DEBIT | Alpha Trade 成交额 152117928.47 | 列表口径 2717328.16 | 涨跌 0.19% | 振幅 9.18% | 估算人数 18551
+- CNPY | Alpha Trade 成交额 41889591.95 | 列表口径 23885431.96 | 涨跌 5.64% | 振幅 15.74% | 估算人数 5108
+- APM | Alpha Trade 成交额 364990.84 | 列表口径 1106054.89 | 涨跌 3.16% | 振幅 15.98% | 估算人数 45
+- BSB | Alpha Trade 成交额 289449.85 | 列表口径 2884547.38 | 涨跌 5.01% | 振幅 9.60% | 估算人数 35
+- TMX | Alpha Trade 成交额 74424.71 | 列表口径 628712.28 | 涨跌 0.71% | 振幅 8.05% | 估算人数 9
+- SOON | Alpha Trade 成交额 24129.38 | 列表口径 248150.91 | 涨跌 3.56% | 振幅 5.22% | 估算人数 3
+- TAC | Alpha Trade 成交额 18284.44 | 列表口径 757927.77 | 涨跌 4.35% | 振幅 6.82% | 估算人数 2
+- NES | Alpha Trade 成交额 14472.21 | 列表口径 475760.67 | 涨跌 3.19% | 振幅 4.83% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 82.45 | Alpha Trade 成交额 994837158.11 | 波动 0.23% | 4h 振幅 2.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 994,837,158，流动性 3,305,113
-  - Alpha 列表口径 24h 成交额 66,508,692
-  - 短周期波动 0.23%
-  - 4h 振幅 2.82%
+- DGAI | 分数 79.28 | Alpha Trade 成交额 1013327948.80 | 波动 0.15% | 4h 振幅 2.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,013,327,949，流动性 3,275,974
+  - Alpha 列表口径 24h 成交额 59,936,644
+  - 短周期波动 0.15%
+  - 4h 振幅 2.12%
   - 审计风险 LOW
-- DEBIT | 分数 64.63 | Alpha Trade 成交额 153958982.73 | 波动 0.22% | 4h 振幅 1.94% | 审计 LOW
-  - Alpha Trade 24h 成交额 153,958,983，流动性 2,285,661
-  - Alpha 列表口径 24h 成交额 3,222,338
-  - 短周期波动 0.22%
-  - 4h 振幅 1.94%
+- DEBIT | 分数 64.74 | Alpha Trade 成交额 152117928.47 | 波动 0.10% | 4h 振幅 0.79% | 审计 LOW
+  - Alpha Trade 24h 成交额 152,117,928，流动性 2,287,318
+  - Alpha 列表口径 24h 成交额 2,717,328
+  - 短周期波动 0.10%
+  - 4h 振幅 0.79%
   - 审计风险 LOW
-- CNPY | 分数 25.00 | Alpha Trade 成交额 43237279.62 | 波动 0.48% | 4h 振幅 7.49% | 审计 LOW
-  - Alpha Trade 24h 成交额 43,237,280，流动性 1,611,476
-  - Alpha 列表口径 24h 成交额 24,018,789
-  - 短周期波动 0.48%
-  - 4h 振幅 7.49%
+- CNPY | 分数 25.00 | Alpha Trade 成交额 41889591.95 | 波动 0.54% | 4h 振幅 4.86% | 审计 LOW
+  - Alpha Trade 24h 成交额 41,889,592，流动性 1,613,208
+  - Alpha 列表口径 24h 成交额 23,885,432
+  - 短周期波动 0.54%
+  - 4h 振幅 4.86%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- ZETA / ZETAUSDT | 24h 涨跌 47.99% | 资金费率 -10.22 bps | 5m 持仓变化 0.27% | 建议通知
-- G / GUSDT | 24h 涨跌 3.11% | 资金费率 -37.33 bps | 5m 持仓变化 -0.27% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 41.57% | 资金费率 4.02 bps | 5m 持仓变化 0.75% | 建议通知
-- ALCH / ALCHUSDT | 24h 涨跌 34.18% | 资金费率 8.56 bps | 5m 持仓变化 -0.16% | 建议通知
-- PTB / PTBUSDT | 24h 涨跌 33.08% | 资金费率 4.31 bps | 5m 持仓变化 0.17% | 建议通知
-- PROVE / PROVEUSDT | 24h 涨跌 1.64% | 资金费率 -30.34 bps | 5m 持仓变化 0.04% | 建议通知
-- USELESS / USELESSUSDT | 24h 涨跌 19.20% | 资金费率 2.51 bps | 5m 持仓变化 0.09% | 建议通知
-- UB / UBUSDT | 24h 涨跌 21.74% | 资金费率 0.50 bps | 5m 持仓变化 -0.15% | 建议通知
+- AGT / AGTUSDT | 24h 涨跌 44.37% | 资金费率 12.47 bps | 5m 持仓变化 0.04% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 44.40% | 资金费率 1.41 bps | 5m 持仓变化 -0.11% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 -37.13% | 资金费率 0.50 bps | 5m 持仓变化 -1.10% | 建议通知
+- ALCH / ALCHUSDT | 24h 涨跌 23.77% | 资金费率 3.77 bps | 5m 持仓变化 -0.21% | 建议通知
+- GRASS / GRASSUSDT | 24h 涨跌 22.54% | 资金费率 0.50 bps | 5m 持仓变化 -0.06% | 建议通知
+- G / GUSDT | 24h 涨跌 -6.32% | 资金费率 -13.39 bps | 5m 持仓变化 0.04% | 建议通知
+- STAR / STARUSDT | 24h 涨跌 15.23% | 资金费率 6.27 bps | 5m 持仓变化 -0.10% | 建议通知
+- DATAIP / DATAIPUSDT | 24h 涨跌 10.24% | 资金费率 -10.46 bps | 5m 持仓变化 -0.13% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-09-22
-- Latest Binance News：Binance Will Support the Direxion Daily Semiconductor Bear 3X Shares (SOXS), Direxion Daily MU Bull 2X Shares (MUU), ProShares UltraPro QQQ (TQQQ), and ProShares UltraPro Short QQQ (SQQQ) Cash Dividend Distribution via bStocks
+- Latest Binance News：Binance Will Support the Direxion Daily Semiconductor Bull 3X Shares (SOXL) Cash Dividend Distribution via bStocks
 - Latest Activities：Word of the Day: Test Your Knowledge on “Keeps AI Agents in Check” to Unlock USDC Rewards!
 
 ### 最近 Alpha 上线
@@ -71,12 +71,12 @@
 
 ### Latest Binance News
 
+- [Binance Will Support the Direxion Daily Semiconductor Bull 3X Shares (SOXL) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/e545908b7db841a8a8fe05b77a6a250d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Will Support the Direxion Daily Semiconductor Bear 3X Shares (SOXS), Direxion Daily MU Bull 2X Shares (MUU), ProShares UltraPro QQQ (TQQQ), and ProShares UltraPro Short QQQ (SQQQ) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/7ddb0038f14e4fa08f4cbbd7dd29d00f)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance bStocks Margin Collateral Is Now Available to All Users](https://www.binance.com/en/support/announcement/detail/81b8ea1e9eaf45759c43b17c66aa068d)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance has now ex…
-- [Binance Futures Will End Last Price Protected Period on USDⓈ-Margined ONEUSDT Perpetual Contract (2026-09-17)](https://www.binance.com/en/support/announcement/detail/f4438b4bd1fa4f8983d1b4da3fc3d14f)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will end Last Price Protec…
 
 ### Latest Activities
 
