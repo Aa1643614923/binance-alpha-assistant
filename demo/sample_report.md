@@ -1,61 +1,61 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-22T11:25:21.020922+00:00
+- 生成时间：2026-09-22T15:36:27.297845+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1196644419.75
+- 四倍分 24h 总成交额：1190917655.51
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：145932（按 8200 / 人）
+- 估算参与人数：145234（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1036404742.56 | 列表口径 58686969.90 | 涨跌 5.60% | 振幅 41.64% | 估算人数 126391
-- DEBIT | Alpha Trade 成交额 119427112.35 | 列表口径 2623881.83 | 涨跌 -2.00% | 振幅 9.18% | 估算人数 14564
-- CNPY | Alpha Trade 成交额 40065983.25 | 列表口径 23717328.05 | 涨跌 -3.78% | 振幅 15.74% | 估算人数 4886
-- APM | Alpha Trade 成交额 310961.95 | 列表口径 1011023.63 | 涨跌 0.26% | 振幅 12.12% | 估算人数 38
-- BSB | Alpha Trade 成交额 302275.54 | 列表口径 2719895.08 | 涨跌 -2.64% | 振幅 4.32% | 估算人数 37
-- TMX | Alpha Trade 成交额 80420.47 | 列表口径 766577.30 | 涨跌 5.14% | 振幅 9.26% | 估算人数 10
-- TAC | Alpha Trade 成交额 19926.36 | 列表口径 747636.69 | 涨跌 -1.57% | 振幅 5.55% | 估算人数 2
-- SOON | Alpha Trade 成交额 19867.66 | 列表口径 210622.91 | 涨跌 -0.56% | 振幅 3.89% | 估算人数 2
-- NES | Alpha Trade 成交额 13129.60 | 列表口径 470568.85 | 涨跌 -1.99% | 振幅 3.99% | 估算人数 2
+- DGAI | Alpha Trade 成交额 1059634167.75 | 列表口径 51403964.78 | 涨跌 2.95% | 振幅 35.31% | 估算人数 129224
+- DEBIT | Alpha Trade 成交额 98154003.24 | 列表口径 1987308.10 | 涨跌 -3.95% | 振幅 4.80% | 估算人数 11970
+- CNPY | Alpha Trade 成交额 32462411.59 | 列表口径 23338490.54 | 涨跌 0.97% | 振幅 12.44% | 估算人数 3959
+- APM | Alpha Trade 成交额 270000.30 | 列表口径 936315.28 | 涨跌 -2.05% | 振幅 13.20% | 估算人数 33
+- BSB | Alpha Trade 成交额 240414.46 | 列表口径 2587497.96 | 涨跌 0.88% | 振幅 4.32% | 估算人数 29
+- TMX | Alpha Trade 成交额 115699.49 | 列表口径 862944.53 | 涨跌 -0.87% | 振幅 13.93% | 估算人数 14
+- TAC | Alpha Trade 成交额 15134.49 | 列表口径 696245.87 | 涨跌 -0.77% | 振幅 6.09% | 估算人数 2
+- SOON | Alpha Trade 成交额 13604.24 | 列表口径 178096.41 | 涨跌 0.68% | 振幅 3.89% | 估算人数 2
+- NES | Alpha Trade 成交额 12219.95 | 列表口径 343641.94 | 涨跌 -2.22% | 振幅 3.62% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 82.27 | Alpha Trade 成交额 1036404742.56 | 波动 0.14% | 4h 振幅 1.26% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,036,404,743，流动性 3,271,131
-  - Alpha 列表口径 24h 成交额 58,686,970
-  - 短周期波动 0.14%
-  - 4h 振幅 1.26%
+- DGAI | 分数 84.41 | Alpha Trade 成交额 1059634167.75 | 波动 0.18% | 4h 振幅 1.41% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,059,634,168，流动性 3,275,488
+  - Alpha 列表口径 24h 成交额 51,403,965
+  - 短周期波动 0.18%
+  - 4h 振幅 1.41%
   - 审计风险 LOW
-- DEBIT | 分数 63.84 | Alpha Trade 成交额 119427112.35 | 波动 0.09% | 4h 振幅 0.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 119,427,112，流动性 2,278,317
-  - Alpha 列表口径 24h 成交额 2,623,882
-  - 短周期波动 0.09%
-  - 4h 振幅 0.91%
+- DEBIT | 分数 54.86 | Alpha Trade 成交额 98154003.24 | 波动 0.17% | 4h 振幅 3.57% | 审计 LOW
+  - Alpha Trade 24h 成交额 98,154,003，流动性 2,276,316
+  - Alpha 列表口径 24h 成交额 1,987,308
+  - 短周期波动 0.17%
+  - 4h 振幅 3.57%
   - 审计风险 LOW
-- CNPY | 分数 25.00 | Alpha Trade 成交额 40065983.25 | 波动 0.60% | 4h 振幅 7.11% | 审计 LOW
-  - Alpha Trade 24h 成交额 40,065,983，流动性 1,602,844
-  - Alpha 列表口径 24h 成交额 23,717,328
-  - 短周期波动 0.60%
-  - 4h 振幅 7.11%
+- CNPY | 分数 25.00 | Alpha Trade 成交额 32462411.59 | 波动 0.43% | 4h 振幅 3.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 32,462,412，流动性 1,596,875
+  - Alpha 列表口径 24h 成交额 23,338,491
+  - 短周期波动 0.43%
+  - 4h 振幅 3.91%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- AGT / AGTUSDT | 24h 涨跌 33.04% | 资金费率 6.68 bps | 5m 持仓变化 0.72% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 -32.84% | 资金费率 5.24 bps | 5m 持仓变化 0.04% | 建议通知
-- UAI / UAIUSDT | 24h 涨跌 -33.90% | 资金费率 0.50 bps | 5m 持仓变化 0.04% | 建议通知
-- SOPH / SOPHUSDT | 24h 涨跌 -15.04% | 资金费率 -10.54 bps | 5m 持仓变化 -0.27% | 建议通知
-- ZETA / ZETAUSDT | 24h 涨跌 -16.51% | 资金费率 -5.04 bps | 5m 持仓变化 -0.13% | 建议通知
-- ALCH / ALCHUSDT | 24h 涨跌 19.85% | 资金费率 1.30 bps | 5m 持仓变化 0.35% | 建议通知
-- PTB / PTBUSDT | 24h 涨跌 -16.56% | 资金费率 3.71 bps | 5m 持仓变化 0.03% | 建议通知
-- GRASS / GRASSUSDT | 24h 涨跌 20.22% | 资金费率 0.50 bps | 5m 持仓变化 0.11% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 -43.47% | 资金费率 2.75 bps | 5m 持仓变化 0.39% | 建议通知
+- FLOCK / FLOCKUSDT | 24h 涨跌 31.42% | 资金费率 0.63 bps | 5m 持仓变化 0.41% | 建议通知
+- SOPH / SOPHUSDT | 24h 涨跌 -14.61% | 资金费率 -15.57 bps | 5m 持仓变化 0.12% | 建议通知
+- UAI / UAIUSDT | 24h 涨跌 -24.80% | 资金费率 0.50 bps | 5m 持仓变化 -0.15% | 建议通知
+- AGT / AGTUSDT | 24h 涨跌 19.95% | 资金费率 1.90 bps | 5m 持仓变化 -0.04% | 建议通知
+- ALCH / ALCHUSDT | 24h 涨跌 19.82% | 资金费率 1.40 bps | 5m 持仓变化 0.03% | 建议通知
+- 哈基米 / 哈基米USDT | 24h 涨跌 9.48% | 资金费率 9.12 bps | 5m 持仓变化 -0.35% | 建议通知
+- BR / BRUSDT | 24h 涨跌 -14.52% | 资金费率 0.50 bps | 5m 持仓变化 -0.06% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch MOONSHOTUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-09-22)
 - Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-25)
-- Latest Activities：BABY Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers
+- Latest Activities：Binance Alpha Trading Competition: Trade AEON (AEON) and Share $200K Worth of Rewards (2026-09-22)
 
 ### 最近 Alpha 上线
 
@@ -80,12 +80,12 @@
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade AEON (AEON) and Share $200K Worth of Rewards (2026-09-22)](https://www.binance.com/en/support/announcement/detail/f155c695dcf243fd87f3e7cea7a48e5c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 - [BABY Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/b8ed81af5344412a8d18386f1515516d)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 - [Word of the Day: Test Your Knowledge on “Keeps AI Agents in Check” to Unlock USDC Rewards!](https://www.binance.com/en/support/announcement/detail/a3ded7ab12f74eaabb4ff384d3216108)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
-- [September Back to Markets Class: Deposit, Trade & Share 3,500 USDC](https://www.binance.com/en/support/announcement/detail/cdb8c04b0d544d5399e0bb841d611eef)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, September means on…
 
 ## Warnings
 
