@@ -1,60 +1,67 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-23T09:59:04.928225+00:00
-- 四倍分代币数：9
-- 四倍分 24h 总成交额：1126411239.55
+- 生成时间：2026-09-23T14:53:57.408787+00:00
+- 四倍分代币数：10
+- 四倍分 24h 总成交额：1108867039.91
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：137367（按 8200 / 人）
+- 估算参与人数：135228（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1037350017.28 | 列表口径 41291810.16 | 涨跌 0.57% | 振幅 31.51% | 估算人数 126506
-- DEBIT | Alpha Trade 成交额 73411726.59 | 列表口径 2977881.20 | 涨跌 -5.04% | 振幅 12.20% | 估算人数 8953
-- CNPY | Alpha Trade 成交额 15078059.69 | 列表口径 22404468.69 | 涨跌 -6.16% | 振幅 10.91% | 估算人数 1839
-- BSB | Alpha Trade 成交额 182500.50 | 列表口径 2112930.93 | 涨跌 3.49% | 振幅 6.27% | 估算人数 22
-- TMX | Alpha Trade 成交额 177825.41 | 列表口径 888611.20 | 涨跌 -4.32% | 振幅 23.25% | 估算人数 22
-- APM | Alpha Trade 成交额 174549.98 | 列表口径 695487.15 | 涨跌 -10.31% | 振幅 17.26% | 估算人数 21
-- NES | Alpha Trade 成交额 15279.27 | 列表口径 294347.70 | 涨跌 -3.23% | 振幅 4.29% | 估算人数 2
-- TAC | Alpha Trade 成交额 10995.34 | 列表口径 591926.25 | 涨跌 0.25% | 振幅 5.46% | 估算人数 1
-- SOON | Alpha Trade 成交额 10285.50 | 列表口径 345200.78 | 涨跌 3.46% | 振幅 8.02% | 估算人数 1
+- DGAI | Alpha Trade 成交额 1025222524.96 | 列表口径 39466664.25 | 涨跌 -0.65% | 振幅 3.74% | 估算人数 125027
+- DEBIT | Alpha Trade 成交额 71393792.01 | 列表口径 3778453.61 | 涨跌 -5.55% | 振幅 12.20% | 估算人数 8707
+- CNPY | Alpha Trade 成交额 11062025.58 | 列表口径 22485990.07 | 涨跌 7.44% | 振幅 10.91% | 估算人数 1349
+- CYS | Alpha Trade 成交额 672764.82 | 列表口径 2802060.68 | 涨跌 -1.34% | 振幅 12.91% | 估算人数 82
+- APM | Alpha Trade 成交额 163517.60 | 列表口径 693096.68 | 涨跌 -13.36% | 振幅 17.76% | 估算人数 20
+- BSB | Alpha Trade 成交额 154538.70 | 列表口径 2480326.24 | 涨跌 1.72% | 振幅 5.28% | 估算人数 19
+- TMX | Alpha Trade 成交额 154303.32 | 列表口径 662674.05 | 涨跌 -13.79% | 振幅 26.23% | 估算人数 19
+- NES | Alpha Trade 成交额 18077.22 | 列表口径 384579.83 | 涨跌 0.93% | 振幅 4.29% | 估算人数 2
+- TAC | Alpha Trade 成交额 14756.51 | 列表口径 748450.11 | 涨跌 -4.85% | 振幅 11.56% | 估算人数 2
+- SOON | Alpha Trade 成交额 10739.19 | 列表口径 444155.58 | 涨跌 -0.78% | 振幅 7.88% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 85.00 | Alpha Trade 成交额 1037350017.28 | 波动 0.07% | 4h 振幅 0.59% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,037,350,017，流动性 3,278,101
-  - Alpha 列表口径 24h 成交额 41,291,810
-  - 短周期波动 0.07%
-  - 4h 振幅 0.59%
+- DGAI | 分数 84.99 | Alpha Trade 成交额 1025222524.96 | 波动 0.27% | 4h 振幅 3.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,025,222,525，流动性 3,258,624
+  - Alpha 列表口径 24h 成交额 39,466,664
+  - 短周期波动 0.27%
+  - 4h 振幅 3.12%
   - 审计风险 LOW
-- DEBIT | 分数 50.78 | Alpha Trade 成交额 73411726.59 | 波动 0.21% | 4h 振幅 2.36% | 审计 LOW
-  - Alpha Trade 24h 成交额 73,411,727，流动性 2,244,440
-  - Alpha 列表口径 24h 成交额 2,977,881
-  - 短周期波动 0.21%
-  - 4h 振幅 2.36%
+- DEBIT | 分数 63.45 | Alpha Trade 成交额 71393792.01 | 波动 0.32% | 4h 振幅 3.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 71,393,792，流动性 2,239,159
+  - Alpha 列表口径 24h 成交额 3,778,454
+  - 短周期波动 0.32%
+  - 4h 振幅 3.11%
   - 审计风险 LOW
-- CNPY | 分数 25.00 | Alpha Trade 成交额 15078059.69 | 波动 0.39% | 4h 振幅 5.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 15,078,060，流动性 1,598,412
-  - Alpha 列表口径 24h 成交额 22,404,469
-  - 短周期波动 0.39%
-  - 4h 振幅 5.71%
+- CNPY | 分数 31.15 | Alpha Trade 成交额 11062025.58 | 波动 0.60% | 4h 振幅 6.73% | 审计 LOW
+  - Alpha Trade 24h 成交额 11,062,026，流动性 1,620,951
+  - Alpha 列表口径 24h 成交额 22,485,990
+  - 短周期波动 0.60%
+  - 4h 振幅 6.73%
   - 审计风险 LOW
+- CYS | 分数 24.44 | Alpha Trade 成交额 672764.82 | 波动 0.49% | 4h 振幅 7.07% | 审计 MID
+  - Alpha Trade 24h 成交额 672,765，流动性 1,068,448
+  - Alpha 列表口径 24h 成交额 2,802,061
+  - 短周期波动 0.49%
+  - 4h 振幅 7.07%
+  - 审计风险 MID
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- TAKE / TAKEUSDT | 24h 涨跌 207.11% | 资金费率 11.28 bps | 5m 持仓变化 -0.09% | 建议通知
-- MET / METUSDT | 24h 涨跌 33.97% | 资金费率 0.19 bps | 5m 持仓变化 0.75% | 建议通知
-- ZEST / ZESTUSDT | 24h 涨跌 29.27% | 资金费率 5.90 bps | 5m 持仓变化 -0.01% | 建议通知
-- US / USUSDT | 24h 涨跌 21.97% | 资金费率 9.10 bps | 5m 持仓变化 0.05% | 建议通知
-- 4 / 4USDT | 24h 涨跌 23.31% | 资金费率 4.49 bps | 5m 持仓变化 0.09% | 建议通知
-- ALLO / ALLOUSDT | 24h 涨跌 24.52% | 资金费率 0.50 bps | 5m 持仓变化 0.26% | 建议通知
-- FIGHT / FIGHTUSDT | 24h 涨跌 14.24% | 资金费率 11.85 bps | 5m 持仓变化 -0.00% | 继续观察
-- FOLKS / FOLKSUSDT | 24h 涨跌 14.26% | 资金费率 4.74 bps | 5m 持仓变化 0.04% | 建议通知
+- TAKE / TAKEUSDT | 24h 涨跌 116.34% | 资金费率 -125.80 bps | 5m 持仓变化 -1.33% | 建议通知
+- ALLO / ALLOUSDT | 24h 涨跌 33.47% | 资金费率 0.50 bps | 5m 持仓变化 0.24% | 建议通知
+- MET / METUSDT | 24h 涨跌 27.94% | 资金费率 -1.98 bps | 5m 持仓变化 -0.70% | 建议通知
+- FIGHT / FIGHTUSDT | 24h 涨跌 23.60% | 资金费率 3.97 bps | 5m 持仓变化 0.26% | 建议通知
+- XNY / XNYUSDT | 24h 涨跌 10.53% | 资金费率 10.45 bps | 5m 持仓变化 0.01% | 建议通知
+- FLOCK / FLOCKUSDT | 24h 涨跌 -18.00% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
+- ZEST / ZESTUSDT | 24h 涨跌 14.66% | 资金费率 3.49 bps | 5m 持仓变化 0.69% | 建议通知
+- PONS / PONSUSDT | 24h 涨跌 10.94% | 资金费率 4.60 bps | 5m 持仓变化 -0.01% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch OURAUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-09-23)
-- Latest Binance News：Binance Earn Yield Arena: Share $200K RLUSD Rewards With This Week’s New Limited-Time Offers! (2026-09-23)
+- Latest Binance News：Introducing Hold to Earn: Earn Up to 4.75% APR by Holding U, USDe, and USDS in Binance Wallet
 - Latest Activities：Binance Lifestyle Merchant Enrollment Campaign: Join and Earn Up to 100 USDT!
 
 ### 最近 Alpha 上线
@@ -71,12 +78,12 @@
 
 ### Latest Binance News
 
+- [Introducing Hold to Earn: Earn Up to 4.75% APR by Holding U, USDe, and USDS in Binance Wallet](https://www.binance.com/en/support/announcement/detail/e9841ff40041405e8bf164b43e89289f)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Wallet is…
 - [Binance Earn Yield Arena: Share $200K RLUSD Rewards With This Week’s New Limited-Time Offers! (2026-09-23)](https://www.binance.com/en/support/announcement/detail/59d5ee68f2d84d4a9a731c53c281ce00)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
 - [Binance Earn: Subscribe to PLUME Flexible Products to Share 70 BNB in APR Boost Giveaway](https://www.binance.com/en/support/announcement/detail/a89e0f0e426846b78cd0898922eae806)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Bi…
-- [Binance Funding Account to be Renamed “Stocks Account”; User Crypto Balance in Funding Account to be Migrated to Spot Account](https://www.binance.com/en/support/announcement/detail/01cbe42ead1e4f1a9382363754d2eb5a)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To simplify the user account structure and improve a…
 
 ### Latest Activities
 
@@ -89,5 +96,6 @@
 
 ## Warnings
 
+- alpha_ticker:ALPHA_495U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_790U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_199U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
