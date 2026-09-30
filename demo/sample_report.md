@@ -1,73 +1,73 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-09-30T08:52:39.122032+00:00
+- 生成时间：2026-09-30T15:33:37.013207+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：1065104395.35
+- 四倍分 24h 总成交额：1060375204.84
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：129891（按 8200 / 人）
+- 估算参与人数：129314（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1058183188.10 | 列表口径 10589934.28 | 涨跌 -5.81% | 振幅 9.97% | 估算人数 129047
-- CT | Alpha Trade 成交额 4432913.11 | 列表口径 6115570.87 | 涨跌 143.34% | 振幅 178.58% | 估算人数 541
-- CNPY | Alpha Trade 成交额 1159422.61 | 列表口径 21805526.64 | 涨跌 -4.39% | 振幅 9.02% | 估算人数 141
-- SOON | Alpha Trade 成交额 753504.00 | 列表口径 14345978.56 | 涨跌 23.04% | 振幅 45.50% | 估算人数 92
-- CYS | Alpha Trade 成交额 185900.79 | 列表口径 1023845.08 | 涨跌 -0.19% | 振幅 5.19% | 估算人数 23
-- BSB | Alpha Trade 成交额 174026.89 | 列表口径 2613362.27 | 涨跌 4.58% | 振幅 5.93% | 估算人数 21
-- TAC | Alpha Trade 成交额 93529.15 | 列表口径 737138.47 | 涨跌 2.68% | 振幅 4.65% | 估算人数 11
-- APM | Alpha Trade 成交额 82097.91 | 列表口径 5713100.01 | 涨跌 -5.41% | 振幅 7.60% | 估算人数 10
-- NES | Alpha Trade 成交额 39812.80 | 列表口径 348655.87 | 涨跌 -2.87% | 振幅 3.75% | 估算人数 5
+- DGAI | Alpha Trade 成交额 1042568703.74 | 列表口径 9261937.56 | 涨跌 -2.70% | 振幅 5.91% | 估算人数 127143
+- CT | Alpha Trade 成交额 15323175.28 | 列表口径 59926155.38 | 涨跌 247.85% | 振幅 808.81% | 估算人数 1869
+- CNPY | Alpha Trade 成交额 1101159.75 | 列表口径 22133050.81 | 涨跌 -3.35% | 振幅 10.74% | 估算人数 134
+- SOON | Alpha Trade 成交额 862000.92 | 列表口径 16555836.99 | 涨跌 48.29% | 振幅 58.33% | 估算人数 105
+- BSB | Alpha Trade 成交额 176941.62 | 列表口径 2229498.75 | 涨跌 0.31% | 振幅 5.93% | 估算人数 22
+- CYS | Alpha Trade 成交额 164388.34 | 列表口径 926207.95 | 涨跌 0.43% | 振幅 5.19% | 估算人数 20
+- APM | Alpha Trade 成交额 83814.30 | 列表口径 6050169.94 | 涨跌 -6.75% | 振幅 11.04% | 估算人数 10
+- TAC | Alpha Trade 成交额 59560.62 | 列表口径 649530.65 | 涨跌 1.21% | 振幅 3.19% | 估算人数 7
+- NES | Alpha Trade 成交额 35460.26 | 列表口径 313263.89 | 涨跌 -4.12% | 振幅 4.44% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 91.08 | Alpha Trade 成交额 1058183188.10 | 波动 0.41% | 4h 振幅 3.55% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,058,183,188，流动性 3,099,636
-  - Alpha 列表口径 24h 成交额 10,589,934
-  - 短周期波动 0.41%
-  - 4h 振幅 3.55%
+- DGAI | 分数 84.85 | Alpha Trade 成交额 1042568703.74 | 波动 0.32% | 4h 振幅 4.22% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,042,568,704，流动性 3,080,541
+  - Alpha 列表口径 24h 成交额 9,261,938
+  - 短周期波动 0.32%
+  - 4h 振幅 4.22%
   - 审计风险 LOW
-- CNPY | 分数 61.33 | Alpha Trade 成交额 1159422.61 | 波动 0.35% | 4h 振幅 5.62% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,159,423，流动性 1,541,488
-  - Alpha 列表口径 24h 成交额 21,805,527
-  - 短周期波动 0.35%
-  - 4h 振幅 5.62%
+- CNPY | 分数 60.38 | Alpha Trade 成交额 1101159.75 | 波动 0.39% | 4h 振幅 3.82% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,101,160，流动性 1,500,883
+  - Alpha 列表口径 24h 成交额 22,133,051
+  - 短周期波动 0.39%
+  - 4h 振幅 3.82%
   - 审计风险 LOW
-- SOON | 分数 46.51 | Alpha Trade 成交额 753504.00 | 波动 0.73% | 4h 振幅 9.12% | 审计 LOW
-  - Alpha Trade 24h 成交额 753,504，流动性 769,222
-  - Alpha 列表口径 24h 成交额 14,345,979
-  - 短周期波动 0.73%
-  - 4h 振幅 9.12%
+- CT | 分数 29.90 | Alpha Trade 成交额 15323175.28 | 波动 2.12% | 4h 振幅 25.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 15,323,175，流动性 1,780,690
+  - Alpha 列表口径 24h 成交额 59,926,155
+  - 短周期波动 2.12%
+  - 4h 振幅 25.05%
   - 审计风险 LOW
-- CT | 分数 18.75 | Alpha Trade 成交额 4432913.11 | 波动 2.77% | 4h 振幅 71.55% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,432,913，流动性 1,779,049
-  - Alpha 列表口径 24h 成交额 6,115,571
-  - 短周期波动 2.77%
-  - 4h 振幅 71.55%
+- SOON | 分数 19.84 | Alpha Trade 成交额 862000.92 | 波动 1.86% | 4h 振幅 30.30% | 审计 LOW
+  - Alpha Trade 24h 成交额 862,001，流动性 799,291
+  - Alpha 列表口径 24h 成交额 16,555,837
+  - 短周期波动 1.86%
+  - 4h 振幅 30.30%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：233
-- MEW / MEWUSDT | 24h 涨跌 13.41% | 资金费率 -44.77 bps | 5m 持仓变化 0.03% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 -30.19% | 资金费率 0.50 bps | 5m 持仓变化 0.24% | 建议通知
-- SOON / SOONUSDT | 24h 涨跌 22.94% | 资金费率 2.61 bps | 5m 持仓变化 -0.17% | 建议通知
-- US / USUSDT | 24h 涨跌 -22.00% | 资金费率 4.13 bps | 5m 持仓变化 -0.14% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -16.43% | 资金费率 0.50 bps | 5m 持仓变化 -0.10% | 建议通知
-- PUMP / PUMPUSDT | 24h 涨跌 15.08% | 资金费率 0.50 bps | 5m 持仓变化 0.04% | 建议通知
-- ESPORTS / ESPORTSUSDT | 24h 涨跌 3.48% | 资金费率 12.40 bps | 5m 持仓变化 -0.02% | 建议通知
-- 0G / 0GUSDT | 24h 涨跌 12.94% | 资金费率 0.50 bps | 5m 持仓变化 -0.02% | 建议通知
+- SOON / SOONUSDT | 24h 涨跌 48.31% | 资金费率 6.88 bps | 5m 持仓变化 -0.10% | 建议通知
+- AGT / AGTUSDT | 24h 涨跌 35.95% | 资金费率 6.55 bps | 5m 持仓变化 0.28% | 建议通知
+- US / USUSDT | 24h 涨跌 30.54% | 资金费率 3.35 bps | 5m 持仓变化 -0.01% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 -25.22% | 资金费率 -0.01 bps | 5m 持仓变化 0.37% | 建议通知
+- MEW / MEWUSDT | 24h 涨跌 7.27% | 资金费率 -14.37 bps | 5m 持仓变化 -0.36% | 建议通知
+- FLOCK / FLOCKUSDT | 24h 涨跌 5.06% | 资金费率 -14.72 bps | 5m 持仓变化 0.04% | 建议通知
+- RIVER / RIVERUSDT | 24h 涨跌 10.55% | 资金费率 5.71 bps | 5m 持仓变化 0.29% | 建议通知
+- NIGHT / NIGHTUSDT | 24h 涨跌 14.49% | 资金费率 0.50 bps | 5m 持仓变化 -0.20% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 7 bStocks Tokenized Securities as Collateral Asset - 2026-09-30
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 5,888 USDC With This Week's New Limited-Time Offers! (2026-09-30)
-- Latest Activities：October Referral Tournament: Invite Friends, Climb the Leaderboard and Earn Up to 1,000 USDC in Token Vouchers
+- Latest Activities：October Affiliate Dual-Star Program: Refer & Trade to Win iPhone 18 Series & Up to 12,000 USDC!
 
 ### 最近 Alpha 上线
 
-- CT | 4x | 上线 2026-09-30T08:00:00+00:00 | 24h 成交额 6115570.87
-- XDP | 2x | 上线 2026-09-28T14:30:00+00:00 | 24h 成交额 273786839.18
+- CT | 4x | 上线 2026-09-30T08:00:00+00:00 | 24h 成交额 59926155.38
+- XDP | 2x | 上线 2026-09-28T14:30:00+00:00 | 24h 成交额 335394632.31
 
 ### New Cryptocurrency Listing
 
@@ -89,12 +89,12 @@
 
 ### Latest Activities
 
-- [October Referral Tournament: Invite Friends, Climb the Leaderboard and Earn Up to 1,000 USDC in Token Vouchers](https://www.binance.com/en/support/announcement/detail/143edb7fd3204d1696b37ef752a6b032)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
-- [Brazil New User Exclusive: Subscribe to USDC Simple Earn to Enjoy 15% APR!](https://www.binance.com/en/support/announcement/detail/6a10e05242c843089e20ea7ba24ef33b)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [LATAM New User Exclusive: Subscribe to USDC Simple Earn to Enjoy 30% APR During the Promotion Period!](https://www.binance.com/en/support/announcement/detail/c3296b46009f4cb5bdcdde8e2f60b38a)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
+- [October Affiliate Dual-Star Program: Refer & Trade to Win iPhone 18 Series & Up to 12,000 USDC!](https://www.binance.com/en/support/announcement/detail/1f52b0041a2a4f999185c1ea0fb64c30)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is thrille…
+- [Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-09-30)](https://www.binance.com/en/support/announcement/detail/4a08577b7adc43a69b0728ace18e72bb)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
+- [PUMP Trading Tournament: Trade to Share Up to 50,000,000 PUMP Token Vouchers](https://www.binance.com/en/support/announcement/detail/8fcb6bfcb540499b89f2b3b189b48d1b)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 
 ## Warnings
 
