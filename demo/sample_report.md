@@ -1,66 +1,59 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-01T11:48:43.764740+00:00
+- 生成时间：2026-10-01T17:31:21.937265+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：1133364292.97
+- 四倍分 24h 总成交额：1138084791.61
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：138215（按 8200 / 人）
+- 估算参与人数：138791（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1050467059.70 | 列表口径 9719176.63 | 涨跌 -1.31% | 振幅 7.24% | 估算人数 128106
-- CT | Alpha Trade 成交额 81987005.16 | 列表口径 120449098.54 | 涨跌 14.52% | 振幅 66.80% | 估算人数 9998
-- CNPY | Alpha Trade 成交额 552191.00 | 列表口径 20629333.59 | 涨跌 -5.63% | 振幅 7.89% | 估算人数 67
-- BSB | Alpha Trade 成交额 167673.54 | 列表口径 1753604.39 | 涨跌 -0.40% | 振幅 4.73% | 估算人数 20
-- CYS | Alpha Trade 成交额 106370.48 | 列表口径 771273.41 | 涨跌 0.26% | 振幅 5.77% | 估算人数 13
-- APM | Alpha Trade 成交额 46354.72 | 列表口径 6098732.53 | 涨跌 -2.54% | 振幅 5.39% | 估算人数 6
-- NES | Alpha Trade 成交额 25970.57 | 列表口径 503368.07 | 涨跌 -4.48% | 振幅 7.48% | 估算人数 3
-- TAC | Alpha Trade 成交额 11667.80 | 列表口径 559395.94 | 涨跌 -0.96% | 振幅 5.97% | 估算人数 1
+- DGAI | Alpha Trade 成交额 1045581103.14 | 列表口径 9416970.74 | 涨跌 -1.84% | 振幅 4.30% | 估算人数 127510
+- CT | Alpha Trade 成交额 91729371.52 | 列表口径 98370598.41 | 涨跌 21.28% | 振幅 42.57% | 估算人数 11187
+- CNPY | Alpha Trade 成交额 405293.91 | 列表口径 20064497.64 | 涨跌 -4.81% | 振幅 9.60% | 估算人数 49
+- BSB | Alpha Trade 成交额 153466.71 | 列表口径 1903321.76 | 涨跌 1.05% | 振幅 7.53% | 估算人数 19
+- APM | Alpha Trade 成交额 105525.18 | 列表口径 6748898.51 | 涨跌 15.79% | 振幅 26.85% | 估算人数 13
+- CYS | Alpha Trade 成交额 76249.15 | 列表口径 683792.77 | 涨跌 0.62% | 振幅 4.79% | 估算人数 9
+- NES | Alpha Trade 成交额 21582.96 | 列表口径 529414.30 | 涨跌 -2.93% | 振幅 7.48% | 估算人数 3
+- TAC | Alpha Trade 成交额 12199.04 | 列表口径 505850.77 | 涨跌 1.12% | 振幅 4.58% | 估算人数 1
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 85.00 | Alpha Trade 成交额 1050467059.70 | 波动 0.20% | 4h 振幅 1.80% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,050,467,060，流动性 3,072,227
-  - Alpha 列表口径 24h 成交额 9,719,177
-  - 短周期波动 0.20%
-  - 4h 振幅 1.80%
+- DGAI | 分数 85.00 | Alpha Trade 成交额 1045581103.14 | 波动 0.13% | 4h 振幅 2.35% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,045,581,103，流动性 3,031,993
+  - Alpha 列表口径 24h 成交额 9,416,971
+  - 短周期波动 0.13%
+  - 4h 振幅 2.35%
   - 审计风险 LOW
-- CNPY | 分数 47.63 | Alpha Trade 成交额 552191.00 | 波动 0.27% | 4h 振幅 2.33% | 审计 LOW
-  - Alpha Trade 24h 成交额 552,191，流动性 1,489,263
-  - Alpha 列表口径 24h 成交额 20,629,334
-  - 短周期波动 0.27%
-  - 4h 振幅 2.33%
-  - 审计风险 LOW
-- CT | 分数 31.40 | Alpha Trade 成交额 81987005.16 | 波动 1.81% | 4h 振幅 29.15% | 审计 LOW
-  - Alpha Trade 24h 成交额 81,987,005，流动性 1,842,529
-  - Alpha 列表口径 24h 成交额 120,449,099
-  - 短周期波动 1.81%
-  - 4h 振幅 29.15%
+- CT | 分数 25.00 | Alpha Trade 成交额 91729371.52 | 波动 1.15% | 4h 振幅 13.10% | 审计 LOW
+  - Alpha Trade 24h 成交额 91,729,372，流动性 1,834,729
+  - Alpha 列表口径 24h 成交额 98,370,598
+  - 短周期波动 1.15%
+  - 4h 振幅 13.10%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：234
-- 龙虾 / 龙虾USDT | 24h 涨跌 39.91% | 资金费率 10.96 bps | 5m 持仓变化 0.25% | 建议通知
-- ACN / ACNUSDT | 24h 涨跌 21.89% | 资金费率 0.00 bps | 5m 持仓变化 9.88% | 继续观察
-- LYN / LYNUSDT | 24h 涨跌 -31.29% | 资金费率 0.50 bps | 5m 持仓变化 0.18% | 建议通知
-- PUMPBTC / PUMPBTCUSDT | 24h 涨跌 -25.93% | 资金费率 7.27 bps | 5m 持仓变化 0.05% | 建议通知
-- AGT / AGTUSDT | 24h 涨跌 25.29% | 资金费率 3.16 bps | 5m 持仓变化 -0.18% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 22.95% | 资金费率 3.93 bps | 5m 持仓变化 0.01% | 建议通知
-- CAP / CAPUSDT | 24h 涨跌 21.84% | 资金费率 3.61 bps | 5m 持仓变化 0.04% | 建议通知
-- CT / CTUSDT | 24h 涨跌 21.58% | 资金费率 -1.09 bps | 5m 持仓变化 1.63% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 91.74% | 资金费率 7.65 bps | 5m 持仓变化 -0.07% | 建议通知
+- US / USUSDT | 24h 涨跌 33.25% | 资金费率 8.06 bps | 5m 持仓变化 -0.36% | 建议通知
+- CAP / CAPUSDT | 24h 涨跌 32.22% | 资金费率 3.88 bps | 5m 持仓变化 0.02% | 建议通知
+- PUMPBTC / PUMPBTCUSDT | 24h 涨跌 -27.81% | 资金费率 9.72 bps | 5m 持仓变化 0.06% | 建议通知
+- ACN / ACNUSDT | 24h 涨跌 17.96% | 资金费率 -15.70 bps | 5m 持仓变化 -0.18% | 建议通知
+- LYN / LYNUSDT | 24h 涨跌 -29.40% | 资金费率 0.50 bps | 5m 持仓变化 -0.20% | 建议通知
+- CT / CTUSDT | 24h 涨跌 21.30% | 资金费率 -6.17 bps | 5m 持仓变化 -0.03% | 建议通知
+- MAGMA / MAGMAUSDT | 24h 涨跌 23.69% | 资金费率 3.69 bps | 5m 持仓变化 -0.60% | 建议通知
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 2 个，其中四倍分 1 个。
+- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined CTUSDT Perpetual Contract (2026-10-01)
 - Latest Binance News：Binance Earn Yield Arena: Earn Up to 5,888 USDC With This Week's New Limited-Time Offers! (2026-09-30)
-- Latest Activities：Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-10-01)
+- Latest Activities：PK Exclusive: Trading Rush - Trade, Invite and Unlock Rewards
 
 ### 最近 Alpha 上线
 
-- CT | 4x | 上线 2026-09-30T08:00:00+00:00 | 24h 成交额 120449098.54
-- XDP | 2x | 上线 2026-09-28T14:30:00+00:00 | 24h 成交额 232320243.78
+- CT | 4x | 上线 2026-09-30T08:00:00+00:00 | 24h 成交额 98370598.41
 
 ### New Cryptocurrency Listing
 
@@ -82,12 +75,12 @@
 
 ### Latest Activities
 
+- [PK Exclusive: Trading Rush - Trade, Invite and Unlock Rewards](https://www.binance.com/en/support/announcement/detail/e0b21949852e4888949d009effcabda5)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The PK Exclusive: Trading Rush is now live! This Oct…
 - [Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-10-01)](https://www.binance.com/en/support/announcement/detail/a9a21d0533bf40158b3ec8a011f96ad3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 - [Extension to the USD1 Airdrop Campaign (2026-10-02)](https://www.binance.com/en/support/announcement/detail/9745ace0eb7a42d396e22a711f907616)
   - Disclaimer: In compliance with MiCA requirements, unauthorized stablecoins are subject to certain restrictions for EEA users. For more information, please click here . This is a g…
-- [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This October 2026!](https://www.binance.com/en/support/announcement/detail/5fc0f803346b4b5085b0e1c5d16d8b2c)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitc…
 
 ## Warnings
 
