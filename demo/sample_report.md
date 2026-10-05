@@ -1,53 +1,53 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-04T23:32:44.409127+00:00
+- 生成时间：2026-10-05T02:21:26.555683+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1195272208.70
+- 四倍分 24h 总成交额：1196834519.09
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：145765（按 8200 / 人）
+- 估算参与人数：145955（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1017318923.30 | 列表口径 8397779.80 | 涨跌 -4.49% | 振幅 7.19% | 估算人数 124063
-- CT | Alpha Trade 成交额 177324770.17 | 列表口径 44258717.43 | 涨跌 0.44% | 振幅 10.65% | 估算人数 21625
-- CNPY | Alpha Trade 成交额 299328.22 | 列表口径 20426019.00 | 涨跌 -2.60% | 振幅 8.68% | 估算人数 37
-- BSB | Alpha Trade 成交额 222927.49 | 列表口径 1960374.86 | 涨跌 2.44% | 振幅 7.43% | 估算人数 27
-- CYS | Alpha Trade 成交额 49493.49 | 列表口径 350197.59 | 涨跌 -1.73% | 振幅 4.40% | 估算人数 6
-- APM | Alpha Trade 成交额 35259.71 | 列表口径 2222332.58 | 涨跌 0.35% | 振幅 3.73% | 估算人数 4
-- NES | Alpha Trade 成交额 21506.33 | 列表口径 314588.38 | 涨跌 1.86% | 振幅 2.76% | 估算人数 3
+- DGAI | Alpha Trade 成交额 1019355113.08 | 列表口径 7952310.83 | 涨跌 -4.83% | 振幅 6.53% | 估算人数 124312
+- CT | Alpha Trade 成交额 176886175.30 | 列表口径 39059893.91 | 涨跌 0.37% | 振幅 8.67% | 估算人数 21571
+- CNPY | Alpha Trade 成交额 293106.59 | 列表口径 20449864.05 | 涨跌 -1.83% | 振幅 8.32% | 估算人数 36
+- BSB | Alpha Trade 成交额 192055.52 | 列表口径 1860985.28 | 涨跌 2.74% | 振幅 6.70% | 估算人数 23
+- CYS | Alpha Trade 成交额 53215.67 | 列表口径 410331.29 | 涨跌 0.92% | 振幅 4.40% | 估算人数 6
+- APM | Alpha Trade 成交额 34719.51 | 列表口径 2180094.80 | 涨跌 -0.10% | 振幅 3.73% | 估算人数 4
+- NES | Alpha Trade 成交额 20133.43 | 列表口径 312660.72 | 涨跌 2.00% | 振幅 2.58% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 85.00 | Alpha Trade 成交额 1017318923.30 | 波动 0.09% | 4h 振幅 1.02% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,017,318,923，流动性 3,177,401
-  - Alpha 列表口径 24h 成交额 8,397,780
-  - 短周期波动 0.09%
-  - 4h 振幅 1.02%
+- DGAI | 分数 85.00 | Alpha Trade 成交额 1019355113.08 | 波动 0.08% | 4h 振幅 1.09% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,019,355,113，流动性 3,185,625
+  - Alpha 列表口径 24h 成交额 7,952,311
+  - 短周期波动 0.08%
+  - 4h 振幅 1.09%
   - 审计风险 LOW
-- CT | 分数 25.00 | Alpha Trade 成交额 177324770.17 | 波动 0.34% | 4h 振幅 2.43% | 审计 LOW
-  - Alpha Trade 24h 成交额 177,324,770，流动性 1,807,411
-  - Alpha 列表口径 24h 成交额 44,258,717
-  - 短周期波动 0.34%
-  - 4h 振幅 2.43%
+- CT | 分数 25.00 | Alpha Trade 成交额 176886175.30 | 波动 0.38% | 4h 振幅 2.62% | 审计 LOW
+  - Alpha Trade 24h 成交额 176,886,175，流动性 1,442,415
+  - Alpha 列表口径 24h 成交额 39,059,894
+  - 短周期波动 0.38%
+  - 4h 振幅 2.62%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：234
-- PUMPBTC / PUMPBTCUSDT | 24h 涨跌 41.27% | 资金费率 131.14 bps | 5m 持仓变化 1.25% | 建议通知
-- AIN / AINUSDT | 24h 涨跌 20.47% | 资金费率 15.23 bps | 5m 持仓变化 0.08% | 建议通知
-- LYN / LYNUSDT | 24h 涨跌 24.51% | 资金费率 8.86 bps | 5m 持仓变化 -0.38% | 建议通知
-- US / USUSDT | 24h 涨跌 -30.11% | 资金费率 -0.08 bps | 5m 持仓变化 -0.09% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 22.61% | 资金费率 0.50 bps | 5m 持仓变化 0.01% | 建议通知
-- PHAROS / PHAROSUSDT | 24h 涨跌 13.67% | 资金费率 7.74 bps | 5m 持仓变化 -0.04% | 建议通知
-- BR / BRUSDT | 24h 涨跌 -12.80% | 资金费率 0.50 bps | 5m 持仓变化 -0.07% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 14.96% | 资金费率 0.97 bps | 5m 持仓变化 0.08% | 建议通知
+- PUMPBTC / PUMPBTCUSDT | 24h 涨跌 43.68% | 资金费率 90.02 bps | 5m 持仓变化 0.49% | 建议通知
+- LYN / LYNUSDT | 24h 涨跌 11.97% | 资金费率 41.90 bps | 5m 持仓变化 -0.25% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 27.62% | 资金费率 17.97 bps | 5m 持仓变化 0.08% | 建议通知
+- US / USUSDT | 24h 涨跌 -31.41% | 资金费率 -0.39 bps | 5m 持仓变化 0.08% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 30.62% | 资金费率 0.50 bps | 5m 持仓变化 -0.04% | 建议通知
+- STAR / STARUSDT | 24h 涨跌 20.74% | 资金费率 3.42 bps | 5m 持仓变化 0.79% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 -18.01% | 资金费率 0.50 bps | 5m 持仓变化 0.49% | 建议通知
+- CARV / CARVUSDT | 24h 涨跌 16.33% | 资金费率 -3.06 bps | 5m 持仓变化 0.37% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined CTUSDT Perpetual Contract (2026-10-01)
 - Latest Binance News：Updates on International Virtual Asset Transfer Procedures in Brazil
-- Latest Activities：Binance Lifestyle Venezuela Cashback Campaign: Spend 5 USDT, Get 2 USDT Back
+- Latest Activities：Binance Lite Loan Promotion Extended: Enjoy Simple Borrowing with 50% Off Service Fee!
 
 ### 最近 Alpha 上线
 
@@ -72,12 +72,12 @@
 
 ### Latest Activities
 
+- [Binance Lite Loan Promotion Extended: Enjoy Simple Borrowing with 50% Off Service Fee!](https://www.binance.com/en/support/announcement/detail/7996a0800e93462b8373ec9f9bc24d09)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to ex…
 - [Binance Lifestyle Venezuela Cashback Campaign: Spend 5 USDT, Get 2 USDT Back](https://www.binance.com/en/support/announcement/detail/271b588ed6e64723a3e05399310d61b2)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. &nbsp; Fellow Binancians, Binance Lifestyle…
 - [PK Exclusive: Trading Rush - Trade, Invite and Unlock Rewards](https://www.binance.com/en/support/announcement/detail/e0b21949852e4888949d009effcabda5)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The PK Exclusive: Trading Rush is now live! This Oct…
-- [Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-10-01)](https://www.binance.com/en/support/announcement/detail/a9a21d0533bf40158b3ec8a011f96ad3)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 
 ## Warnings
 
