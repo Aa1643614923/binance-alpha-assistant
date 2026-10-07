@@ -1,52 +1,52 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-07T08:51:28.193470+00:00
+- 生成时间：2026-10-07T15:57:26.852656+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1141101830.47
+- 四倍分 24h 总成交额：1132131456.61
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：139159（按 8200 / 人）
+- 估算参与人数：138065（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1071707364.59 | 列表口径 7590103.71 | 涨跌 -0.32% | 振幅 2.83% | 估算人数 130696
-- CT | Alpha Trade 成交额 69091064.94 | 列表口径 14257352.45 | 涨跌 3.84% | 振幅 26.69% | 估算人数 8426
-- BSB | Alpha Trade 成交额 121562.36 | 列表口径 2021641.76 | 涨跌 -3.69% | 振幅 9.31% | 估算人数 15
-- CYS | Alpha Trade 成交额 120359.60 | 列表口径 643402.07 | 涨跌 -3.81% | 振幅 7.54% | 估算人数 15
-- APM | Alpha Trade 成交额 32275.70 | 列表口径 9483312.39 | 涨跌 0.97% | 振幅 3.19% | 估算人数 4
-- NES | Alpha Trade 成交额 29203.29 | 列表口径 917631.31 | 涨跌 -3.12% | 振幅 7.18% | 估算人数 4
+- DGAI | Alpha Trade 成交额 1061489225.95 | 列表口径 6592612.97 | 涨跌 -1.23% | 振幅 2.90% | 估算人数 129450
+- CT | Alpha Trade 成交额 70237401.17 | 列表口径 14343162.34 | 涨跌 2.49% | 振幅 19.56% | 估算人数 8566
+- BSB | Alpha Trade 成交额 143433.23 | 列表口径 2297467.23 | 涨跌 -6.93% | 振幅 9.93% | 估算人数 17
+- APM | Alpha Trade 成交额 131560.02 | 列表口径 10167335.32 | 涨跌 15.08% | 振幅 25.47% | 估算人数 16
+- CYS | Alpha Trade 成交额 106961.60 | 列表口径 727005.65 | 涨跌 -4.97% | 振幅 6.85% | 估算人数 13
+- NES | Alpha Trade 成交额 22874.63 | 列表口径 837841.66 | 涨跌 -1.25% | 振幅 6.89% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 85.00 | Alpha Trade 成交额 1071707364.59 | 波动 0.10% | 4h 振幅 1.06% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,071,707,365，流动性 3,148,752
-  - Alpha 列表口径 24h 成交额 7,590,104
-  - 短周期波动 0.10%
-  - 4h 振幅 1.06%
+- DGAI | 分数 85.00 | Alpha Trade 成交额 1061489225.95 | 波动 0.26% | 4h 振幅 2.38% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,061,489,226，流动性 3,148,541
+  - Alpha 列表口径 24h 成交额 6,592,613
+  - 短周期波动 0.26%
+  - 4h 振幅 2.38%
   - 审计风险 LOW
-- CT | 分数 25.00 | Alpha Trade 成交额 69091064.94 | 波动 0.64% | 4h 振幅 8.48% | 审计 LOW
-  - Alpha Trade 24h 成交额 69,091,065，流动性 1,179,543
-  - Alpha 列表口径 24h 成交额 14,257,352
-  - 短周期波动 0.64%
-  - 4h 振幅 8.48%
+- CT | 分数 25.00 | Alpha Trade 成交额 70237401.17 | 波动 0.55% | 4h 振幅 4.20% | 审计 LOW
+  - Alpha Trade 24h 成交额 70,237,401，流动性 1,142,051
+  - Alpha 列表口径 24h 成交额 14,343,162
+  - 短周期波动 0.55%
+  - 4h 振幅 4.20%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- AIN / AINUSDT | 24h 涨跌 -25.02% | 资金费率 8.72 bps | 5m 持仓变化 0.01% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 29.91% | 资金费率 0.24 bps | 5m 持仓变化 -0.13% | 建议通知
-- BR / BRUSDT | 24h 涨跌 0.75% | 资金费率 -20.44 bps | 5m 持仓变化 0.14% | 建议通知
-- GRIFFAIN / GRIFFAINUSDT | 24h 涨跌 20.58% | 资金费率 1.09 bps | 5m 持仓变化 0.06% | 建议通知
-- LYN / LYNUSDT | 24h 涨跌 -15.07% | 资金费率 3.82 bps | 5m 持仓变化 0.40% | 建议通知
-- US / USUSDT | 24h 涨跌 15.91% | 资金费率 0.50 bps | 5m 持仓变化 0.05% | 建议通知
-- CAP / CAPUSDT | 24h 涨跌 11.10% | 资金费率 0.50 bps | 5m 持仓变化 -0.37% | 建议通知
-- ACN / ACNUSDT | 24h 涨跌 -0.89% | 资金费率 16.77 bps | 5m 持仓变化 -0.01% | 继续观察
+- BR / BRUSDT | 24h 涨跌 -14.04% | 资金费率 -22.07 bps | 5m 持仓变化 0.36% | 建议通知
+- TA / TAUSDT | 24h 涨跌 31.46% | 资金费率 1.71 bps | 5m 持仓变化 0.48% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 -19.16% | 资金费率 7.64 bps | 5m 持仓变化 -0.14% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 -21.88% | 资金费率 -1.96 bps | 5m 持仓变化 -0.37% | 建议通知
+- GRIFFAIN / GRIFFAINUSDT | 24h 涨跌 -23.82% | 资金费率 0.50 bps | 5m 持仓变化 -0.30% | 建议通知
+- CAP / CAPUSDT | 24h 涨跌 -19.49% | 资金费率 -1.78 bps | 5m 持仓变化 -0.03% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 -19.39% | 资金费率 0.50 bps | 5m 持仓变化 -0.02% | 建议通知
+- AIOT / AIOTUSDT | 24h 涨跌 -18.66% | 资金费率 0.50 bps | 5m 持仓变化 -0.32% | 继续观察
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-07
 - Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-09)
-- Latest Activities：APAC Exclusive: Win a Fully Hosted Trip to Binance Blockchain Week 2026
+- Latest Activities：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!
 
 ### 最近 Alpha 上线
 
@@ -71,12 +71,12 @@
 
 ### Latest Activities
 
+- [Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!](https://www.binance.com/en/support/announcement/detail/c6f5ccd7407f40ac98ff0d38ea9dfa3e)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures is launching a new promotion for all…
 - [APAC Exclusive: Win a Fully Hosted Trip to Binance Blockchain Week 2026](https://www.binance.com/en/support/announcement/detail/2e9c4a3d133947f1b6a24daa43952256)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to in…
 - [New User bStocks Convert Campaign: Join and Share a Reward Pool of Up to 110 SPCXB](https://www.binance.com/en/support/announcement/detail/197b9abe9a61458a8b191493b9f7e80c)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
-- [Binance Pay Exclusive: Get up to 20% Off Mobile Top-Ups in Selected Regions!](https://www.binance.com/en/support/announcement/detail/d1bd48f85bc344c2a7b0dbe21f4509a2)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Pay is launching a limited time mobile top-u…
 
 ## Warnings
 
