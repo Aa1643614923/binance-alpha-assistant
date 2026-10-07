@@ -1,50 +1,50 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-07T02:16:05.805476+00:00
+- 生成时间：2026-10-07T08:51:28.193470+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1146746361.45
+- 四倍分 24h 总成交额：1141101830.47
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：139847（按 8200 / 人）
+- 估算参与人数：139159（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1075069321.28 | 列表口径 7779041.72 | 涨跌 -0.41% | 振幅 3.09% | 估算人数 131106
-- CT | Alpha Trade 成交额 71385286.29 | 列表口径 13608001.90 | 涨跌 -3.74% | 振幅 26.06% | 估算人数 8706
-- BSB | Alpha Trade 成交额 139524.79 | 列表口径 1835418.28 | 涨跌 -4.26% | 振幅 8.64% | 估算人数 17
-- CYS | Alpha Trade 成交额 105210.61 | 列表口径 528802.66 | 涨跌 -2.91% | 振幅 6.75% | 估算人数 13
-- NES | Alpha Trade 成交额 27169.51 | 列表口径 886498.56 | 涨跌 -7.10% | 振幅 8.73% | 估算人数 3
-- APM | Alpha Trade 成交额 19848.96 | 列表口径 9022884.16 | 涨跌 0.91% | 振幅 3.41% | 估算人数 2
+- DGAI | Alpha Trade 成交额 1071707364.59 | 列表口径 7590103.71 | 涨跌 -0.32% | 振幅 2.83% | 估算人数 130696
+- CT | Alpha Trade 成交额 69091064.94 | 列表口径 14257352.45 | 涨跌 3.84% | 振幅 26.69% | 估算人数 8426
+- BSB | Alpha Trade 成交额 121562.36 | 列表口径 2021641.76 | 涨跌 -3.69% | 振幅 9.31% | 估算人数 15
+- CYS | Alpha Trade 成交额 120359.60 | 列表口径 643402.07 | 涨跌 -3.81% | 振幅 7.54% | 估算人数 15
+- APM | Alpha Trade 成交额 32275.70 | 列表口径 9483312.39 | 涨跌 0.97% | 振幅 3.19% | 估算人数 4
+- NES | Alpha Trade 成交额 29203.29 | 列表口径 917631.31 | 涨跌 -3.12% | 振幅 7.18% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 85.00 | Alpha Trade 成交额 1075069321.28 | 波动 0.21% | 4h 振幅 2.65% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,075,069,321，流动性 3,142,145
-  - Alpha 列表口径 24h 成交额 7,779,042
-  - 短周期波动 0.21%
-  - 4h 振幅 2.65%
+- DGAI | 分数 85.00 | Alpha Trade 成交额 1071707364.59 | 波动 0.10% | 4h 振幅 1.06% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,071,707,365，流动性 3,148,752
+  - Alpha 列表口径 24h 成交额 7,590,104
+  - 短周期波动 0.10%
+  - 4h 振幅 1.06%
   - 审计风险 LOW
-- CT | 分数 25.00 | Alpha Trade 成交额 71385286.29 | 波动 0.37% | 4h 振幅 7.66% | 审计 LOW
-  - Alpha Trade 24h 成交额 71,385,286，流动性 1,101,895
-  - Alpha 列表口径 24h 成交额 13,608,002
-  - 短周期波动 0.37%
-  - 4h 振幅 7.66%
+- CT | 分数 25.00 | Alpha Trade 成交额 69091064.94 | 波动 0.64% | 4h 振幅 8.48% | 审计 LOW
+  - Alpha Trade 24h 成交额 69,091,065，流动性 1,179,543
+  - Alpha 列表口径 24h 成交额 14,257,352
+  - 短周期波动 0.64%
+  - 4h 振幅 8.48%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- 龙虾 / 龙虾USDT | 24h 涨跌 60.44% | 资金费率 2.61 bps | 5m 持仓变化 -0.52% | 建议通知
-- BR / BRUSDT | 24h 涨跌 35.82% | 资金费率 -2.57 bps | 5m 持仓变化 -0.26% | 建议通知
-- US / USUSDT | 24h 涨跌 30.21% | 资金费率 0.75 bps | 5m 持仓变化 -0.55% | 建议通知
-- LYN / LYNUSDT | 24h 涨跌 -26.19% | 资金费率 4.82 bps | 5m 持仓变化 0.42% | 建议通知
-- GRIFFAIN / GRIFFAINUSDT | 24h 涨跌 24.66% | 资金费率 2.53 bps | 5m 持仓变化 -0.49% | 建议通知
-- AIN / AINUSDT | 24h 涨跌 -19.08% | 资金费率 4.77 bps | 5m 持仓变化 0.14% | 建议通知
-- CAP / CAPUSDT | 24h 涨跌 16.96% | 资金费率 0.50 bps | 5m 持仓变化 -0.03% | 建议通知
-- RESOLV / RESOLVUSDT | 24h 涨跌 16.84% | 资金费率 0.50 bps | 5m 持仓变化 0.45% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 -25.02% | 资金费率 8.72 bps | 5m 持仓变化 0.01% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 29.91% | 资金费率 0.24 bps | 5m 持仓变化 -0.13% | 建议通知
+- BR / BRUSDT | 24h 涨跌 0.75% | 资金费率 -20.44 bps | 5m 持仓变化 0.14% | 建议通知
+- GRIFFAIN / GRIFFAINUSDT | 24h 涨跌 20.58% | 资金费率 1.09 bps | 5m 持仓变化 0.06% | 建议通知
+- LYN / LYNUSDT | 24h 涨跌 -15.07% | 资金费率 3.82 bps | 5m 持仓变化 0.40% | 建议通知
+- US / USUSDT | 24h 涨跌 15.91% | 资金费率 0.50 bps | 5m 持仓变化 0.05% | 建议通知
+- CAP / CAPUSDT | 24h 涨跌 11.10% | 资金费率 0.50 bps | 5m 持仓变化 -0.37% | 建议通知
+- ACN / ACNUSDT | 24h 涨跌 -0.89% | 资金费率 16.77 bps | 5m 持仓变化 -0.01% | 继续观察
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-06)
+- 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-07
 - Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-09)
 - Latest Activities：APAC Exclusive: Win a Fully Hosted Trip to Binance Blockchain Week 2026
 
@@ -53,12 +53,12 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-07](https://www.binance.com/en/support/announcement/detail/a1a7996170f246da90ea49f199a61bcd)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
+- [Binance Exchange Adds JPMorgan Chase (JPMB), Eli Lilly (LLYB), Securitize Corp (SECZB) and StablecoinX Inc (USDEB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-07](https://www.binance.com/en/support/announcement/detail/9c34999b27234dfe9c43d2ac33cebde4)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list…
 - [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-06)](https://www.binance.com/en/support/announcement/detail/ea19450f515843098a5d5e55fc6e3589)
   - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
-- [Binance Futures Will Launch USDⓈ-Margined CTUSDT Perpetual Contract (2026-10-01)](https://www.binance.com/en/support/announcement/detail/6bd26adeb6f742fe88eb72faca183566)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
-- [Binance Will Add 7 bStocks Tokenized Securities as Collateral Asset - 2026-09-30](https://www.binance.com/en/support/announcement/detail/1a94597986cf476f939609c02b87ee79)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Binance News
 
