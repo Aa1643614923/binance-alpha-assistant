@@ -1,52 +1,52 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-12T08:06:13.674590+00:00
+- 生成时间：2026-10-12T17:50:51.906275+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1155442695.13
+- 四倍分 24h 总成交额：1091665598.99
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：140908（按 8200 / 人）
+- 估算参与人数：133130（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1034204055.62 | 列表口径 8042731.40 | 涨跌 -0.78% | 振幅 2.03% | 估算人数 126122
-- CT | Alpha Trade 成交额 120952569.07 | 列表口径 15084194.40 | 涨跌 -0.71% | 振幅 18.77% | 估算人数 14750
-- CLO | Alpha Trade 成交额 180230.40 | 列表口径 725782.99 | 涨跌 2.03% | 振幅 5.18% | 估算人数 22
-- CYS | Alpha Trade 成交额 48507.46 | 列表口径 367346.42 | 涨跌 -1.86% | 振幅 3.62% | 估算人数 6
-- BTR | Alpha Trade 成交额 42438.91 | 列表口径 502309.46 | 涨跌 -4.03% | 振幅 7.35% | 估算人数 5
-- APM | Alpha Trade 成交额 14893.68 | 列表口径 220417.28 | 涨跌 -0.11% | 振幅 2.24% | 估算人数 2
+- DGAI | Alpha Trade 成交额 995319414.47 | 列表口径 7862570.57 | 涨跌 -1.45% | 振幅 2.60% | 估算人数 121380
+- CT | Alpha Trade 成交额 95503956.82 | 列表口径 10432322.08 | 涨跌 7.94% | 振幅 32.13% | 估算人数 11647
+- BTR | Alpha Trade 成交额 490004.36 | 列表口径 3124042.05 | 涨跌 4.12% | 振幅 23.70% | 估算人数 60
+- CLO | Alpha Trade 成交额 258389.60 | 列表口径 895003.16 | 涨跌 -2.05% | 振幅 8.39% | 估算人数 32
+- CYS | Alpha Trade 成交额 73088.67 | 列表口径 531034.40 | 涨跌 -3.53% | 振幅 5.50% | 估算人数 9
+- APM | Alpha Trade 成交额 20745.08 | 列表口径 207802.87 | 涨跌 -0.09% | 振幅 2.24% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 85.00 | Alpha Trade 成交额 1034204055.62 | 波动 0.07% | 4h 振幅 0.60% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,034,204,056，流动性 3,122,166
-  - Alpha 列表口径 24h 成交额 8,042,731
-  - 短周期波动 0.07%
-  - 4h 振幅 0.60%
+- DGAI | 分数 85.00 | Alpha Trade 成交额 995319414.47 | 波动 0.14% | 4h 振幅 1.32% | 审计 LOW
+  - Alpha Trade 24h 成交额 995,319,414，流动性 3,104,090
+  - Alpha 列表口径 24h 成交额 7,862,571
+  - 短周期波动 0.14%
+  - 4h 振幅 1.32%
   - 审计风险 LOW
-- CT | 分数 25.00 | Alpha Trade 成交额 120952569.07 | 波动 0.27% | 4h 振幅 4.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 120,952,569，流动性 1,011,530
-  - Alpha 列表口径 24h 成交额 15,084,194
-  - 短周期波动 0.27%
-  - 4h 振幅 4.83%
+- CT | 分数 25.00 | Alpha Trade 成交额 95503956.82 | 波动 0.83% | 4h 振幅 9.28% | 审计 LOW
+  - Alpha Trade 24h 成交额 95,503,957，流动性 1,085,448
+  - Alpha 列表口径 24h 成交额 10,432,322
+  - 短周期波动 0.83%
+  - 4h 振幅 9.28%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- US / USUSDT | 24h 涨跌 -32.72% | 资金费率 0.46 bps | 5m 持仓变化 0.39% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 -13.55% | 资金费率 -6.58 bps | 5m 持仓变化 -0.09% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 -0.21% | 资金费率 21.65 bps | 5m 持仓变化 0.03% | 继续观察
-- GRASS / GRASSUSDT | 24h 涨跌 17.29% | 资金费率 0.50 bps | 5m 持仓变化 0.01% | 建议通知
-- PLUME / PLUMEUSDT | 24h 涨跌 16.63% | 资金费率 0.50 bps | 5m 持仓变化 -0.33% | 建议通知
-- AGT / AGTUSDT | 24h 涨跌 -16.27% | 资金费率 0.50 bps | 5m 持仓变化 -0.13% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 13.20% | 资金费率 0.29 bps | 5m 持仓变化 0.01% | 建议通知
-- VVV / VVVUSDT | 24h 涨跌 12.68% | 资金费率 -1.67 bps | 5m 持仓变化 -0.03% | 建议通知
+- PONS / PONSUSDT | 24h 涨跌 -16.38% | 资金费率 0.50 bps | 5m 持仓变化 -0.23% | 建议通知
+- ERA / ERAUSDT | 24h 涨跌 -11.37% | 资金费率 -4.31 bps | 5m 持仓变化 -0.01% | 建议通知
+- CHIP / CHIPUSDT | 24h 涨跌 -12.61% | 资金费率 0.30 bps | 5m 持仓变化 -0.24% | 建议通知
+- SAFE / SAFEUSDT | 24h 涨跌 11.51% | 资金费率 0.50 bps | 5m 持仓变化 1.83% | 建议通知
+- PUMP / PUMPUSDT | 24h 涨跌 -9.78% | 资金费率 -0.16 bps | 5m 持仓变化 -0.03% | 建议通知
+- BASED / BASEDUSDT | 24h 涨跌 -13.86% | 资金费率 0.50 bps | 5m 持仓变化 0.07% | 建议通知
+- USELESS / USELESSUSDT | 24h 涨跌 -11.44% | 资金费率 0.50 bps | 5m 持仓变化 -0.00% | 建议通知
+- US / USUSDT | 24h 涨跌 -9.16% | 资金费率 0.50 bps | 5m 持仓变化 -0.39% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-12)
-- Latest Binance News：Introducing Auto Order Routing for Spot Trading
-- Latest Activities：Pick the Closing Price of the Magnificent 7 and Share 1,050 USDC!
+- Latest Binance News：Meet Binance AI: A Personalized Trading Experience for Every User
+- Latest Activities：Community Voice: Share Binance AI Feedback and Share 500 USDC!
 
 ### 最近 Alpha 上线
 
@@ -62,21 +62,21 @@
 
 ### Latest Binance News
 
+- [Meet Binance AI: A Personalized Trading Experience for Every User](https://www.binance.com/en/support/announcement/detail/7219bc2f011b43fbab5f68a93398196d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 - [Introducing Auto Order Routing for Spot Trading](https://www.binance.com/en/support/announcement/detail/2f6fa2926253415a81def145af35014e)
   - This is a general Binance Exchange notice and a notice for the purposes of the Exchange rules . Products and services referred to here may not be available in your region. Fellow…
 - [Binance Will Extend the Monitoring Tag to Include BICO & CVC on 2026-10-09](https://www.binance.com/en/support/announcement/detail/0dfee98051814fccb9f18ce49b8425bb)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Based on recent reviews, Binance will extend the Mon…
-- [Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-09)](https://www.binance.com/en/support/announcement/detail/74c7657a53f141e8b2d584bf44e6dd87)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the Cross Margin Borrow and Tran…
 
 ### Latest Activities
 
+- [Community Voice: Share Binance AI Feedback and Share 500 USDC!](https://www.binance.com/en/support/announcement/detail/8fd1fe0094b34442b322c177894666bf)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance AI is here…
+- [Binance Earn: Enjoy Up to 14% APR with KGST Flexible Products – 100,000 KGST Limit Available! (2026-10-13)](https://www.binance.com/en/support/announcement/detail/b45206aa35eb4eb6820bf1db57239a0d)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Pick the Closing Price of the Magnificent 7 and Share 1,050 USDC!](https://www.binance.com/en/support/announcement/detail/90d01a9acbf0460b802e6ffc70e4e5e8)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Think you know whe…
-- [Word of the Day: Test Your Knowledge on “Binance Intelligence Makes Finance Smarter” to Unlock USDC Rewards!](https://www.binance.com/en/support/announcement/detail/68a378b9faae45d9972fc2b223eaa22c)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
-- [Binance Launches KGST/USDT Zero Trading Fee Campaign (2026-10-14)](https://www.binance.com/en/support/announcement/detail/54f481d07bee4e98a2c082aa1e481d0b)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, At Binance, we regularly review our campaign offerin…
 
 ## Warnings
 
