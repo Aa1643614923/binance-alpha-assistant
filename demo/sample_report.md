@@ -1,57 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-15T09:21:41.153010+00:00
+- 生成时间：2026-10-15T14:16:11.832968+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：1340870097.13
+- 四倍分 24h 总成交额：1308938211.19
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：163521（按 8200 / 人）
+- 估算参与人数：159627（按 8200 / 人）
 
 ## 四倍分代币
 
-- DGAI | Alpha Trade 成交额 1278494622.49 | 列表口径 9179031.30 | 涨跌 -2.96% | 振幅 12.56% | 估算人数 155914
-- CT | Alpha Trade 成交额 61859391.98 | 列表口径 5594700.45 | 涨跌 -5.62% | 振幅 20.65% | 估算人数 7544
-- CLO | Alpha Trade 成交额 228894.28 | 列表口径 1519510.24 | 涨跌 -14.76% | 振幅 19.00% | 估算人数 28
-- BTR | Alpha Trade 成交额 152316.24 | 列表口径 845224.95 | 涨跌 -0.48% | 振幅 5.84% | 估算人数 19
-- CYS | Alpha Trade 成交额 99856.73 | 列表口径 1715969.03 | 涨跌 -2.37% | 振幅 12.15% | 估算人数 12
-- APM | Alpha Trade 成交额 35015.42 | 列表口径 381890.10 | 涨跌 -3.26% | 振幅 8.54% | 估算人数 4
+- DGAI | Alpha Trade 成交额 1264791635.58 | 列表口径 9080413.81 | 涨跌 -1.46% | 振幅 12.56% | 估算人数 154243
+- CT | Alpha Trade 成交额 43597757.06 | 列表口径 4932140.56 | 涨跌 -9.26% | 振幅 20.65% | 估算人数 5317
+- CLO | Alpha Trade 成交额 276991.85 | 列表口径 1467716.09 | 涨跌 -12.43% | 振幅 21.10% | 估算人数 34
+- BTR | Alpha Trade 成交额 146532.64 | 列表口径 730956.06 | 涨跌 -3.74% | 振幅 6.68% | 估算人数 18
+- CYS | Alpha Trade 成交额 91566.60 | 列表口径 1622555.22 | 涨跌 -3.43% | 振幅 11.76% | 估算人数 11
+- APM | Alpha Trade 成交额 33727.46 | 列表口径 316333.47 | 涨跌 -3.82% | 振幅 7.42% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- DGAI | 分数 85.00 | Alpha Trade 成交额 1278494622.49 | 波动 0.16% | 4h 振幅 1.10% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,278,494,622，流动性 3,041,152
-  - Alpha 列表口径 24h 成交额 9,179,031
-  - 短周期波动 0.16%
-  - 4h 振幅 1.10%
+- DGAI | 分数 85.00 | Alpha Trade 成交额 1264791635.58 | 波动 0.13% | 4h 振幅 1.26% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,264,791,636，流动性 3,048,448
+  - Alpha 列表口径 24h 成交额 9,080,414
+  - 短周期波动 0.13%
+  - 4h 振幅 1.26%
   - 审计风险 LOW
-- CT | 分数 25.00 | Alpha Trade 成交额 61859391.98 | 波动 0.47% | 4h 振幅 4.94% | 审计 LOW
-  - Alpha Trade 24h 成交额 61,859,392，流动性 1,111,513
-  - Alpha 列表口径 24h 成交额 5,594,700
-  - 短周期波动 0.47%
-  - 4h 振幅 4.94%
+- CT | 分数 25.00 | Alpha Trade 成交额 43597757.06 | 波动 0.40% | 4h 振幅 4.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 43,597,757，流动性 1,087,043
+  - Alpha 列表口径 24h 成交额 4,932,141
+  - 短周期波动 0.40%
+  - 4h 振幅 4.64%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- WAL / WALUSDT | 24h 涨跌 7.92% | 资金费率 -64.55 bps | 5m 持仓变化 0.02% | 建议通知
-- ZEREBRO / ZEREBROUSDT | 24h 涨跌 48.57% | 资金费率 0.50 bps | 5m 持仓变化 1.85% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 -29.60% | 资金费率 0.50 bps | 5m 持仓变化 0.04% | 建议通知
-- TRUTH / TRUTHUSDT | 24h 涨跌 -24.03% | 资金费率 0.50 bps | 5m 持仓变化 -0.08% | 建议通知
-- SOPH / SOPHUSDT | 24h 涨跌 -21.57% | 资金费率 -3.20 bps | 5m 持仓变化 -0.14% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -18.91% | 资金费率 0.50 bps | 5m 持仓变化 0.02% | 建议通知
-- CHIP / CHIPUSDT | 24h 涨跌 -21.16% | 资金费率 -0.11 bps | 5m 持仓变化 -0.06% | 建议通知
-- US / USUSDT | 24h 涨跌 -15.91% | 资金费率 -3.29 bps | 5m 持仓变化 -0.16% | 建议通知
+- ZEREBRO / ZEREBROUSDT | 24h 涨跌 43.29% | 资金费率 0.50 bps | 5m 持仓变化 0.11% | 建议通知
+- SIREN / SIRENUSDT | 24h 涨跌 30.55% | 资金费率 -7.59 bps | 5m 持仓变化 -0.10% | 建议通知
+- BOT / BOTUSDT | 24h 涨跌 -8.62% | 资金费率 -28.42 bps | 5m 持仓变化 -0.29% | 继续观察
+- AKE / AKEUSDT | 24h 涨跌 34.25% | 资金费率 0.50 bps | 5m 持仓变化 0.07% | 建议通知
+- TRUTH / TRUTHUSDT | 24h 涨跌 -26.38% | 资金费率 0.50 bps | 5m 持仓变化 -0.20% | 建议通知
+- WAL / WALUSDT | 24h 涨跌 6.10% | 资金费率 -11.63 bps | 5m 持仓变化 0.07% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -19.69% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
+- CHIP / CHIPUSDT | 24h 涨跌 -20.22% | 资金费率 -0.32 bps | 5m 持仓变化 -0.05% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-14
-- Latest Binance News：Binance Updates Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-10-19)
+- Latest Binance News：Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available
 - Latest Activities：Spot Trading Tournament Season 6: Trade to Share Up to 2,300,000 FF Token Vouchers
 
 ### 最近 Alpha 上线
 
-- DRV | 2x | 上线 2026-10-14T10:00:00+00:00 | 24h 成交额 4198598.28
+- DRV | 2x | 上线 2026-10-14T10:00:00+00:00 | 24h 成交额 2601272.04
 
 ### New Cryptocurrency Listing
 
@@ -64,12 +64,12 @@
 
 ### Latest Binance News
 
+- [Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available](https://www.binance.com/en/support/announcement/detail/9fe16193d2ca442ca4d0fca0d608c910)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is expanding its Stock Options offering with…
 - [Binance Updates Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-10-19)](https://www.binance.com/en/support/announcement/detail/74f92a17a4c84cf09c692a6010362c27)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, As Binance conducts regular reviews of its programs…
 - [Notice on ADR Fees for US Stocks on Binance Stock Trading - September 2026](https://www.binance.com/en/support/announcement/detail/a9475eff52e14f478602c311cc617bd1)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance would like to inform users of the appl…
-- [Binance Earn Yield Arena: Earn Up to 5,888 USDC With This Week’s New Limited-Time Offers! (2026-10-14)](https://www.binance.com/en/support/announcement/detail/fb7e0a5a94f64ce59a07bdc9fb58ddb7)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; &nbsp;Binanc…
 
 ### Latest Activities
 
