@@ -1,56 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-19T01:45:30.959289+00:00
+- 生成时间：2026-10-19T06:57:29.154902+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：945634417.18
+- 四倍分 24h 总成交额：923795946.39
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：115321（按 8200 / 人）
+- 估算参与人数：112658（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 933282322.67 | 列表口径 2277907.30 | 涨跌 -4.58% | 振幅 17.17% | 估算人数 113815
-- DNA | Alpha Trade 成交额 12077452.28 | 列表口径 140091648.35 | 涨跌 -1.87% | 振幅 70.69% | 估算人数 1473
-- CLO | Alpha Trade 成交额 114451.87 | 列表口径 1019145.04 | 涨跌 -6.08% | 振幅 13.37% | 估算人数 14
-- CYS | Alpha Trade 成交额 85291.68 | 列表口径 1565366.70 | 涨跌 -9.17% | 振幅 18.66% | 估算人数 10
-- BTR | Alpha Trade 成交额 74898.69 | 列表口径 529721.31 | 涨跌 0.02% | 振幅 7.41% | 估算人数 9
+- CT | Alpha Trade 成交额 913836589.63 | 列表口径 2221605.15 | 涨跌 -4.41% | 振幅 17.17% | 估算人数 111443
+- DNA | Alpha Trade 成交额 9711932.95 | 列表口径 109546052.75 | 涨跌 -8.01% | 振幅 70.69% | 估算人数 1184
+- CLO | Alpha Trade 成交额 105315.61 | 列表口径 1097088.13 | 涨跌 -3.02% | 振幅 13.14% | 估算人数 13
+- CYS | Alpha Trade 成交额 73823.88 | 列表口径 932886.67 | 涨跌 -5.84% | 振幅 8.97% | 估算人数 9
+- BTR | Alpha Trade 成交额 68284.33 | 列表口径 519248.94 | 涨跌 -2.45% | 振幅 7.65% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- CT | 分数 80.00 | Alpha Trade 成交额 933282322.67 | 波动 0.36% | 4h 振幅 4.67% | 审计 LOW
-  - Alpha Trade 24h 成交额 933,282,323，流动性 987,118
-  - Alpha 列表口径 24h 成交额 2,277,907
-  - 短周期波动 0.36%
-  - 4h 振幅 4.67%
+- CT | 分数 80.00 | Alpha Trade 成交额 913836589.63 | 波动 0.27% | 4h 振幅 3.08% | 审计 LOW
+  - Alpha Trade 24h 成交额 913,836,590，流动性 977,347
+  - Alpha 列表口径 24h 成交额 2,221,605
+  - 短周期波动 0.27%
+  - 4h 振幅 3.08%
   - 审计风险 LOW
-- DNA | 分数 30.00 | Alpha Trade 成交额 12077452.28 | 波动 0.54% | 4h 振幅 6.61% | 审计 LOW
-  - Alpha Trade 24h 成交额 12,077,452，流动性 1,949,241
-  - Alpha 列表口径 24h 成交额 140,091,648
-  - 短周期波动 0.54%
-  - 4h 振幅 6.61%
+- DNA | 分数 30.00 | Alpha Trade 成交额 9711932.95 | 波动 0.46% | 4h 振幅 7.01% | 审计 LOW
+  - Alpha Trade 24h 成交额 9,711,933，流动性 1,947,633
+  - Alpha 列表口径 24h 成交额 109,546,053
+  - 短周期波动 0.46%
+  - 4h 振幅 7.01%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- ARIA / ARIAUSDT | 24h 涨跌 37.73% | 资金费率 0.50 bps | 5m 持仓变化 1.22% | 建议通知
-- AGT / AGTUSDT | 24h 涨跌 -31.72% | 资金费率 2.11 bps | 5m 持仓变化 0.04% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 2.86% | 资金费率 -24.78 bps | 5m 持仓变化 0.12% | 建议通知
-- APR / APRUSDT | 24h 涨跌 -21.98% | 资金费率 2.62 bps | 5m 持仓变化 0.28% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 -18.29% | 资金费率 -0.86 bps | 5m 持仓变化 0.55% | 建议通知
-- SIREN / SIRENUSDT | 24h 涨跌 -6.97% | 资金费率 -8.06 bps | 5m 持仓变化 -0.90% | 建议通知
-- ELSA / ELSAUSDT | 24h 涨跌 16.14% | 资金费率 0.50 bps | 5m 持仓变化 0.38% | 建议通知
-- ICNT / ICNTUSDT | 24h 涨跌 12.89% | 资金费率 -0.03 bps | 5m 持仓变化 -0.11% | 建议通知
+- AGT / AGTUSDT | 24h 涨跌 25.19% | 资金费率 5.29 bps | 5m 持仓变化 0.25% | 建议通知
+- Q / QUSDT | 24h 涨跌 19.02% | 资金费率 -9.27 bps | 5m 持仓变化 0.08% | 建议通知
+- ERA / ERAUSDT | 24h 涨跌 4.15% | 资金费率 -22.62 bps | 5m 持仓变化 -0.27% | 建议通知
+- SIREN / SIRENUSDT | 24h 涨跌 -17.99% | 资金费率 -8.59 bps | 5m 持仓变化 0.48% | 建议通知
+- BR / BRUSDT | 24h 涨跌 18.27% | 资金费率 -6.27 bps | 5m 持仓变化 -0.06% | 建议通知
+- ARIA / ARIAUSDT | 24h 涨跌 20.54% | 资金费率 0.50 bps | 5m 持仓变化 -1.01% | 建议通知
+- 龙虾 / 龙虾USDT | 24h 涨跌 -16.66% | 资金费率 0.50 bps | 5m 持仓变化 -1.06% | 建议通知
+- ICNT / ICNTUSDT | 24h 涨跌 -13.29% | 资金费率 -1.15 bps | 5m 持仓变化 -0.28% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 1 个。
 - 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-14
 - Latest Binance News：Binance Will Support Dell Technologies (DELL) Cash Dividend Distribution via bStocks
-- Latest Activities：Binance Alpha Trading Competition: Trade ACU (Acurast) and Share $100K Worth of Rewards (2026-10-16)
+- Latest Activities：Word of the Day: Test Your Knowledge on “Building Agent Rails” to Unlock USDC Rewards!
 
 ### 最近 Alpha 上线
 
-- DNA | 4x | 上线 2026-10-16T08:00:00+00:00 | 24h 成交额 140091648.35
+- DNA | 4x | 上线 2026-10-16T08:00:00+00:00 | 24h 成交额 109546052.75
 
 ### New Cryptocurrency Listing
 
@@ -72,12 +72,12 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “Building Agent Rails” to Unlock USDC Rewards!](https://www.binance.com/en/support/announcement/detail/9a4b0619b48d423f83242adc3f779e0d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 - [Binance Alpha Trading Competition: Trade ACU (Acurast) and Share $100K Worth of Rewards (2026-10-16)](https://www.binance.com/en/support/announcement/detail/9ed4e714ad6045bb8fbe7a0f9f1ebe55)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 - [Spot Trading Tournament Season 6: Trade to Share Up to 2,300,000 FF Token Vouchers](https://www.binance.com/en/support/announcement/detail/1a1142523078402f8e48a3f0c802ab27)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-- [The Binance Starter Carnival: Gold Edition Pack - Share $200,000 Worth of Rewards](https://www.binance.com/en/support/announcement/detail/752527d39fef4c52a029f98f87b78655)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ## Warnings
 
