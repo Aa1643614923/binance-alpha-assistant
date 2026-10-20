@@ -1,51 +1,51 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-20T07:33:24.284163+00:00
+- 生成时间：2026-10-20T12:56:58.722510+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：900518875.53
+- 四倍分 24h 总成交额：966128243.59
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：109819（按 8200 / 人）
+- 估算参与人数：117821（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 885210799.63 | 列表口径 13914859.31 | 涨跌 3.39% | 振幅 566.19% | 估算人数 107953
-- DNA | Alpha Trade 成交额 15122928.90 | 列表口径 71708453.25 | 涨跌 -15.05% | 振幅 20.34% | 估算人数 1844
-- CLO | Alpha Trade 成交额 91481.99 | 列表口径 654451.43 | 涨跌 -2.32% | 振幅 6.39% | 估算人数 11
-- CYS | Alpha Trade 成交额 53071.18 | 列表口径 867070.07 | 涨跌 -2.12% | 振幅 4.41% | 估算人数 6
-- BTR | Alpha Trade 成交额 40593.83 | 列表口径 398641.39 | 涨跌 1.19% | 振幅 4.05% | 估算人数 5
+- CT | Alpha Trade 成交额 958393319.87 | 列表口径 6124907.57 | 涨跌 -9.22% | 振幅 566.19% | 估算人数 116877
+- DNA | Alpha Trade 成交额 7508088.83 | 列表口径 85809902.12 | 涨跌 -5.90% | 振幅 24.32% | 估算人数 916
+- CLO | Alpha Trade 成交额 114935.67 | 列表口径 930653.45 | 涨跌 5.78% | 振幅 16.56% | 估算人数 14
+- BTR | Alpha Trade 成交额 62297.00 | 列表口径 409332.06 | 涨跌 2.82% | 振幅 4.05% | 估算人数 8
+- CYS | Alpha Trade 成交额 49602.21 | 列表口径 946774.80 | 涨跌 0.35% | 振幅 5.91% | 估算人数 6
 
 ## 稳定刷分推荐
 
-- CT | 分数 70.00 | Alpha Trade 成交额 885210799.63 | 波动 0.53% | 4h 振幅 10.32% | 审计 LOW
-  - Alpha Trade 24h 成交额 885,210,800，流动性 1,119,619
-  - Alpha 列表口径 24h 成交额 13,914,859
-  - 短周期波动 0.53%
-  - 4h 振幅 10.32%
+- CT | 分数 80.00 | Alpha Trade 成交额 958393319.87 | 波动 0.34% | 4h 振幅 3.66% | 审计 LOW
+  - Alpha Trade 24h 成交额 958,393,320，流动性 1,117,664
+  - Alpha 列表口径 24h 成交额 6,124,908
+  - 短周期波动 0.34%
+  - 4h 振幅 3.66%
   - 审计风险 LOW
-- DNA | 分数 40.00 | Alpha Trade 成交额 15122928.90 | 波动 0.61% | 4h 振幅 7.39% | 审计 LOW
-  - Alpha Trade 24h 成交额 15,122,929，流动性 1,894,354
-  - Alpha 列表口径 24h 成交额 71,708,453
-  - 短周期波动 0.61%
-  - 4h 振幅 7.39%
+- DNA | 分数 30.00 | Alpha Trade 成交额 7508088.83 | 波动 0.55% | 4h 振幅 4.84% | 审计 LOW
+  - Alpha Trade 24h 成交额 7,508,089，流动性 1,872,843
+  - Alpha 列表口径 24h 成交额 85,809,902
+  - 短周期波动 0.55%
+  - 4h 振幅 4.84%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- BTW / BTWUSDT | 24h 涨跌 -25.51% | 资金费率 -43.35 bps | 5m 持仓变化 -0.09% | 建议通知
-- BR / BRUSDT | 24h 涨跌 32.42% | 资金费率 -5.65 bps | 5m 持仓变化 -0.27% | 建议通知
-- JCT / JCTUSDT | 24h 涨跌 35.53% | 资金费率 4.46 bps | 5m 持仓变化 0.57% | 建议通知
-- CT / CTUSDT | 24h 涨跌 2.88% | 资金费率 -23.85 bps | 5m 持仓变化 0.13% | 建议通知
-- ARIA / ARIAUSDT | 24h 涨跌 -21.24% | 资金费率 0.50 bps | 5m 持仓变化 0.11% | 建议通知
-- SOPH / SOPHUSDT | 24h 涨跌 -17.06% | 资金费率 -4.44 bps | 5m 持仓变化 0.14% | 建议通知
-- SIREN / SIRENUSDT | 24h 涨跌 -3.66% | 资金费率 13.33 bps | 5m 持仓变化 -0.13% | 建议通知
-- XNY / XNYUSDT | 24h 涨跌 17.42% | 资金费率 0.53 bps | 5m 持仓变化 -0.25% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 123.45% | 资金费率 7.31 bps | 5m 持仓变化 0.14% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -11.99% | 资金费率 -33.47 bps | 5m 持仓变化 0.06% | 建议通知
+- APR / APRUSDT | 24h 涨跌 32.92% | 资金费率 3.17 bps | 5m 持仓变化 0.99% | 建议通知
+- BMT / BMTUSDT | 24h 涨跌 16.67% | 资金费率 -15.88 bps | 5m 持仓变化 2.11% | 建议通知
+- BR / BRUSDT | 24h 涨跌 24.76% | 资金费率 -4.65 bps | 5m 持仓变化 0.30% | 建议通知
+- SOPH / SOPHUSDT | 24h 涨跌 -20.70% | 资金费率 -11.44 bps | 5m 持仓变化 0.82% | 建议通知
+- CT / CTUSDT | 24h 涨跌 -8.76% | 资金费率 -18.07 bps | 5m 持仓变化 -0.04% | 建议通知
+- ERA / ERAUSDT | 24h 涨跌 10.28% | 资金费率 -14.32 bps | 5m 持仓变化 0.03% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-14
-- Latest Binance News：Introducing Binance AI Pro
-- Latest Activities：Qafila 2026: Celebrate the Journey Together and Share $1,000,000 in USDC Token Vouchers!
+- Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-23)
+- Latest Activities：Binance Blockchain Week Starter Pack Challenge: Win 1 of 20 Free Tickets to BBW 2026!
 
 ### 最近 Alpha 上线
 
@@ -61,21 +61,21 @@
 
 ### Latest Binance News
 
-- [Introducing Binance AI Pro](https://www.binance.com/en/support/announcement/detail/c50ffc85804f45f08d0d7727ea508157)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
-- [Binance Will Support Dell Technologies (DELL) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/2a76c51632a14a3ebfb1910e3fc3ae4d)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
-- [Binance Square is Upgrading Write to Earn – Create Engaging Content, Grow Your Community, and Earn More](https://www.binance.com/en/support/announcement/detail/d9c84b68e9ab4ef29bee0cc53dfdabd2)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, As part of our ong…
+- [Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-23)](https://www.binance.com/en/support/announcement/detail/7d76e6a921024e09a91523f983503014)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the Cross Margin Borrow and Tran…
+- [Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-10-30)](https://www.binance.com/en/support/announcement/detail/dfdb6d70a9c24ba19b814fbd92b516d4)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will update the leverage and margin…
+- [Binance to Support 24/7 Dynamic Updates of the bStocks Collateral Index Price](https://www.binance.com/en/support/announcement/detail/1a5f87ab3b77476b9ad0177b560e3054)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Activities
 
+- [Binance Blockchain Week Starter Pack Challenge: Win 1 of 20 Free Tickets to BBW 2026!](https://www.binance.com/en/support/announcement/detail/e3ed7bd9b119410d8b4f852042af2730)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Blockchain…
+- [Binance Alpha Trading Competition: Trade NeoSoul (DNA) and Share $200K Worth of Rewards (2026-10-20)](https://www.binance.com/en/support/announcement/detail/be80d09944a54957986154f4b990bb6f)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Qafila 2026: Celebrate the Journey Together and Share $1,000,000 in USDC Token Vouchers!](https://www.binance.com/en/support/announcement/detail/ade351b5d80842b69784d836e0338a6d)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians,&nbsp; Qafila – a million…
-- [Introducing Binance Pick: Predict and Climb the Leaderboards to Share 1,000,000 USDC!](https://www.binance.com/en/support/announcement/detail/20b97575070441cc8669cb3c78767c04)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to in…
-- [Word of the Day: Test Your Knowledge on “Building Agent Rails” to Unlock USDC Rewards!](https://www.binance.com/en/support/announcement/detail/9a4b0619b48d423f83242adc3f779e0d)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 
 ## Warnings
 
