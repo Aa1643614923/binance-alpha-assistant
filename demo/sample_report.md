@@ -1,56 +1,56 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-20T23:57:08.002786+00:00
+- 生成时间：2026-10-21T04:28:17.027619+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：1037473634.58
+- 四倍分 24h 总成交额：1055240721.11
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：126521（按 8200 / 人）
+- 估算参与人数：128688（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 947438166.35 | 列表口径 4323328.49 | 涨跌 -2.57% | 振幅 14.79% | 估算人数 115541
-- DNA | Alpha Trade 成交额 89318869.66 | 列表口径 116838179.97 | 涨跌 1.35% | 振幅 21.65% | 估算人数 10893
-- CLO | Alpha Trade 成交额 547437.44 | 列表口径 3429458.75 | 涨跌 21.44% | 振幅 31.83% | 估算人数 67
-- BTR | Alpha Trade 成交额 108104.19 | 列表口径 489297.55 | 涨跌 3.89% | 振幅 6.67% | 估算人数 13
-- CYS | Alpha Trade 成交额 61056.94 | 列表口径 1481256.21 | 涨跌 5.88% | 振幅 12.99% | 估算人数 7
+- CT | Alpha Trade 成交额 940780136.79 | 列表口径 4106029.29 | 涨跌 -3.25% | 振幅 15.42% | 估算人数 114729
+- DNA | Alpha Trade 成交额 113692632.85 | 列表口径 121723517.31 | 涨跌 5.81% | 振幅 22.68% | 估算人数 13865
+- CLO | Alpha Trade 成交额 599664.06 | 列表口径 3763417.95 | 涨跌 19.10% | 振幅 31.83% | 估算人数 73
+- BTR | Alpha Trade 成交额 105534.46 | 列表口径 510483.84 | 涨跌 3.09% | 振幅 6.30% | 估算人数 13
+- CYS | Alpha Trade 成交额 62752.96 | 列表口径 1382475.19 | 涨跌 4.26% | 振幅 14.20% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- CT | 分数 74.27 | Alpha Trade 成交额 947438166.35 | 波动 0.21% | 4h 振幅 3.28% | 审计 LOW
-  - Alpha Trade 24h 成交额 947,438,166，流动性 1,112,100
-  - Alpha 列表口径 24h 成交额 4,323,328
-  - 短周期波动 0.21%
-  - 4h 振幅 3.28%
+- DNA | 分数 56.91 | Alpha Trade 成交额 113692632.85 | 波动 0.62% | 4h 振幅 7.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 113,692,633，流动性 1,891,323
+  - Alpha 列表口径 24h 成交额 121,723,517
+  - 短周期波动 0.62%
+  - 4h 振幅 7.64%
   - 审计风险 LOW
-- DNA | 分数 51.89 | Alpha Trade 成交额 89318869.66 | 波动 0.40% | 4h 振幅 4.89% | 审计 LOW
-  - Alpha Trade 24h 成交额 89,318,870，流动性 1,887,537
-  - Alpha 列表口径 24h 成交额 116,838,180
-  - 短周期波动 0.40%
-  - 4h 振幅 4.89%
+- CLO | 分数 55.00 | Alpha Trade 成交额 599664.06 | 波动 0.56% | 4h 振幅 4.02% | 审计 LOW
+  - Alpha Trade 24h 成交额 599,664，流动性 849,402
+  - Alpha 列表口径 24h 成交额 3,763,418
+  - 短周期波动 0.56%
+  - 4h 振幅 4.02%
   - 审计风险 LOW
-- CLO | 分数 25.00 | Alpha Trade 成交额 547437.44 | 波动 0.77% | 4h 振幅 7.54% | 审计 LOW
-  - Alpha Trade 24h 成交额 547,437，流动性 863,623
-  - Alpha 列表口径 24h 成交额 3,429,459
-  - 短周期波动 0.77%
-  - 4h 振幅 7.54%
+- CT | 分数 44.88 | Alpha Trade 成交额 940780136.79 | 波动 1.17% | 4h 振幅 12.36% | 审计 LOW
+  - Alpha Trade 24h 成交额 940,780,137，流动性 1,134,522
+  - Alpha 列表口径 24h 成交额 4,106,029
+  - 短周期波动 1.17%
+  - 4h 振幅 12.36%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：232
-- JCT / JCTUSDT | 24h 涨跌 135.85% | 资金费率 8.85 bps | 5m 持仓变化 0.09% | 建议通知
-- DOOD / DOODUSDT | 24h 涨跌 82.69% | 资金费率 1.16 bps | 5m 持仓变化 -1.01% | 建议通知
-- ARIA / ARIAUSDT | 24h 涨跌 42.83% | 资金费率 1.77 bps | 5m 持仓变化 0.09% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 14.06% | 资金费率 -20.28 bps | 5m 持仓变化 0.50% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 -1.22% | 资金费率 29.45 bps | 5m 持仓变化 0.38% | 继续观察
-- AGT / AGTUSDT | 24h 涨跌 -28.05% | 资金费率 0.50 bps | 5m 持仓变化 0.08% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 5.49% | 资金费率 -16.30 bps | 5m 持仓变化 -0.01% | 建议通知
-- CLO / CLOUSDT | 24h 涨跌 21.44% | 资金费率 1.43 bps | 5m 持仓变化 -0.14% | 建议通知
+- BIRB / BIRBUSDT | 24h 涨跌 34.58% | 资金费率 -142.30 bps | 5m 持仓变化 0.18% | 建议通知
+- MEW / MEWUSDT | 24h 涨跌 18.89% | 资金费率 -151.74 bps | 5m 持仓变化 0.26% | 建议通知
+- DOOD / DOODUSDT | 24h 涨跌 113.00% | 资金费率 0.50 bps | 5m 持仓变化 0.53% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 96.48% | 资金费率 3.79 bps | 5m 持仓变化 0.19% | 建议通知
+- BMT / BMTUSDT | 24h 涨跌 19.22% | 资金费率 -39.79 bps | 5m 持仓变化 0.32% | 建议通知
+- ARIA / ARIAUSDT | 24h 涨跌 49.73% | 资金费率 0.96 bps | 5m 持仓变化 0.17% | 建议通知
+- ICNT / ICNTUSDT | 24h 涨跌 29.65% | 资金费率 -0.98 bps | 5m 持仓变化 1.43% | 建议通知
+- CT / CTUSDT | 24h 涨跌 -2.81% | 资金费率 -24.45 bps | 5m 持仓变化 0.04% | 建议通知
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-14
-- Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-23)
+- 官方最新上新关注：Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-21
+- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-10-22)
 - Latest Activities：Binance Blockchain Week Starter Pack Challenge: Win 1 of 20 Free Tickets to BBW 2026!
 
 ### 最近 Alpha 上线
@@ -58,21 +58,21 @@
 
 ### New Cryptocurrency Listing
 
-- [Binance Will Add 4 bStocks Tokenized Securities as Collateral Asset - 2026-10-14](https://www.binance.com/en/support/announcement/detail/e52ef13311eb4e1a96f07099152e61d5)
+- [Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-21](https://www.binance.com/en/support/announcement/detail/3afa938f499d403382d01d0c0644507e)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
-- [Binance Exchange Adds Blackberry (BBB), Mongodb Inc (MDBB), Penguin Solutions Inc (PENGB) and ProShares Ultra VIX Short-Term Futures ETF (UVXYB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-14](https://www.binance.com/en/support/announcement/detail/927d3a7b5d6c43fb888e38f110005906)
+- [Binance Exchange Adds RoboStrategy Inc (BOTB), Berkshire Hathaway (BRKBB), KraneShares STAR Market 50 ETF (KSTRB), Direxion Daily 20 Year Treasury Bull 3X ETF (TMFB) and Vistra Corp (VSTB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-21](https://www.binance.com/en/support/announcement/detail/b965e028041c4d0fbb4291372f55e4d4)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list…
-- [Binance Will List RWUSD and Introduce RWUSD Zero Trading Fee Promotion](https://www.binance.com/en/support/announcement/detail/1dfe10f0e0fb4e7ab0eb8874e9fdab0e)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will list RWUSD and open trading for the RWU…
+- [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-21)](https://www.binance.com/en/support/announcement/detail/29e4e52d711946c88762f0ba2259de2e)
+  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
 
 ### Latest Binance News
 
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-10-22)](https://www.binance.com/en/support/announcement/detail/84b9812b7a88404baedec318c5d60b37)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
+- [Binance Margin Will Initiate Routine Cleanup of Small-Balance Debt Accounts (2026-10-27)](https://www.binance.com/en/support/announcement/detail/4de277a9d372407f85c05ae3e7e54e03)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Margin will initiate a routine cleanup of Cr…
 - [Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-23)](https://www.binance.com/en/support/announcement/detail/7d76e6a921024e09a91523f983503014)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the Cross Margin Borrow and Tran…
-- [Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-10-30)](https://www.binance.com/en/support/announcement/detail/dfdb6d70a9c24ba19b814fbd92b516d4)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will update the leverage and margin…
-- [Binance to Support 24/7 Dynamic Updates of the bStocks Collateral Index Price](https://www.binance.com/en/support/announcement/detail/1a5f87ab3b77476b9ad0177b560e3054)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Activities
 
