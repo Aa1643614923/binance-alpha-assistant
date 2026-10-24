@@ -1,50 +1,42 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-23T22:36:48.600849+00:00
-- 四倍分代币数：4
-- 四倍分 24h 总成交额：1054391223.58
+- 生成时间：2026-10-24T01:04:04.918608+00:00
+- 四倍分代币数：2
+- 四倍分 24h 总成交额：1046855034.30
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：128584（按 8200 / 人）
+- 估算参与人数：127665（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 937650068.83 | 列表口径 7290433.00 | 涨跌 -11.44% | 振幅 38.19% | 估算人数 114348
-- DNA | Alpha Trade 成交额 114986588.27 | 列表口径 61061959.25 | 涨跌 -11.59% | 振幅 33.34% | 估算人数 14023
-- BTR | Alpha Trade 成交额 1563150.57 | 列表口径 13049097.14 | 涨跌 -14.03% | 振幅 39.09% | 估算人数 191
-- CLO | Alpha Trade 成交额 191415.91 | 列表口径 1580693.26 | 涨跌 3.14% | 振幅 9.96% | 估算人数 23
+- CT | Alpha Trade 成交额 932463998.85 | 列表口径 9047441.84 | 涨跌 -17.08% | 振幅 50.48% | 估算人数 113715
+- DNA | Alpha Trade 成交额 114391035.45 | 列表口径 59350112.52 | 涨跌 -7.10% | 振幅 33.62% | 估算人数 13950
 
 ## 稳定刷分推荐
 
-- CT | 分数 75.78 | Alpha Trade 成交额 937650068.83 | 波动 0.38% | 4h 振幅 5.44% | 审计 LOW
-  - Alpha Trade 24h 成交额 937,650,069，流动性 1,020,173
-  - Alpha 列表口径 24h 成交额 7,290,433
-  - 短周期波动 0.38%
-  - 4h 振幅 5.44%
+- CT | 分数 70.00 | Alpha Trade 成交额 932463998.85 | 波动 0.55% | 4h 振幅 9.06% | 审计 LOW
+  - Alpha Trade 24h 成交额 932,463,999，流动性 1,009,878
+  - Alpha 列表口径 24h 成交额 9,047,442
+  - 短周期波动 0.55%
+  - 4h 振幅 9.06%
   - 审计风险 LOW
-- DNA | 分数 33.17 | Alpha Trade 成交额 114986588.27 | 波动 0.68% | 4h 振幅 11.10% | 审计 LOW
-  - Alpha Trade 24h 成交额 114,986,588，流动性 1,870,972
-  - Alpha 列表口径 24h 成交额 61,061,959
-  - 短周期波动 0.68%
-  - 4h 振幅 11.10%
-  - 审计风险 LOW
-- BTR | 分数 26.93 | Alpha Trade 成交额 1563150.57 | 波动 0.65% | 4h 振幅 11.18% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,563,151，流动性 584,944
-  - Alpha 列表口径 24h 成交额 13,049,097
-  - 短周期波动 0.65%
-  - 4h 振幅 11.18%
+- DNA | 分数 40.00 | Alpha Trade 成交额 114391035.45 | 波动 0.93% | 4h 振幅 8.10% | 审计 LOW
+  - Alpha Trade 24h 成交额 114,391,035，流动性 1,887,228
+  - Alpha 列表口径 24h 成交额 59,350,113
+  - 短周期波动 0.93%
+  - 4h 振幅 8.10%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- IRYS / IRYSUSDT | 24h 涨跌 275.47% | 资金费率 3.01 bps | 5m 持仓变化 -0.57% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -2.70% | 资金费率 -155.20 bps | 5m 持仓变化 -0.14% | 建议通知
-- BIRB / BIRBUSDT | 24h 涨跌 50.87% | 资金费率 -47.00 bps | 5m 持仓变化 -2.79% | 建议通知
-- AGT / AGTUSDT | 24h 涨跌 50.46% | 资金费率 17.87 bps | 5m 持仓变化 0.12% | 建议通知
-- JCT / JCTUSDT | 24h 涨跌 -40.29% | 资金费率 0.50 bps | 5m 持仓变化 -0.25% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 20.22% | 资金费率 -8.01 bps | 5m 持仓变化 -0.71% | 建议通知
-- AKE / AKEUSDT | 24h 涨跌 25.79% | 资金费率 1.79 bps | 5m 持仓变化 0.09% | 建议通知
-- MAGMA / MAGMAUSDT | 24h 涨跌 -23.53% | 资金费率 0.50 bps | 5m 持仓变化 -0.17% | 建议通知
+- BIRB / BIRBUSDT | 24h 涨跌 232.27% | 资金费率 -91.20 bps | 5m 持仓变化 -0.14% | 建议通知
+- IRYS / IRYSUSDT | 24h 涨跌 271.08% | 资金费率 3.53 bps | 5m 持仓变化 0.17% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -4.61% | 资金费率 -131.79 bps | 5m 持仓变化 -0.01% | 建议通知
+- IN / INUSDT | 24h 涨跌 42.57% | 资金费率 -16.89 bps | 5m 持仓变化 2.68% | 建议通知
+- ERA / ERAUSDT | 24h 涨跌 33.01% | 资金费率 -21.16 bps | 5m 持仓变化 1.05% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 -41.46% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
+- AGT / AGTUSDT | 24h 涨跌 22.42% | 资金费率 11.24 bps | 5m 持仓变化 0.03% | 建议通知
+- DOS / DOSUSDT | 24h 涨跌 26.03% | 资金费率 0.50 bps | 5m 持仓变化 0.86% | 建议通知
 
 ## Alpha 日报
 
@@ -55,7 +47,7 @@
 
 ### 最近 Alpha 上线
 
-- AXIS | 2x | 上线 2026-10-21T11:00:00+00:00 | 24h 成交额 69763889.96
+- AXIS | 2x | 上线 2026-10-21T11:00:00+00:00 | 24h 成交额 69264158.89
 
 ### New Cryptocurrency Listing
 
@@ -83,8 +75,3 @@
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Spot Trading Tournament Season 8: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/bf45cbddc47c428a884f58131090d675)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-
-## Warnings
-
-- alpha_ticker:ALPHA_429U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_340U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
