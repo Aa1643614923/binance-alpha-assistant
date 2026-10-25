@@ -1,46 +1,46 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-25T07:00:18.828059+00:00
+- 生成时间：2026-10-25T12:31:18.254187+00:00
 - 四倍分代币数：2
-- 四倍分 24h 总成交额：1087125829.99
+- 四倍分 24h 总成交额：1096174035.42
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：132576（按 8200 / 人）
+- 估算参与人数：133680（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 943778883.06 | 列表口径 2054933.27 | 涨跌 -6.26% | 振幅 27.94% | 估算人数 115095
-- DNA | Alpha Trade 成交额 143346946.93 | 列表口径 35887515.78 | 涨跌 5.22% | 振幅 26.44% | 估算人数 17481
+- CT | Alpha Trade 成交额 952619136.02 | 列表口径 2747273.10 | 涨跌 -8.87% | 振幅 38.21% | 估算人数 116173
+- DNA | Alpha Trade 成交额 143554899.40 | 列表口径 40456775.69 | 涨跌 7.98% | 振幅 26.44% | 估算人数 17507
 
 ## 稳定刷分推荐
 
-- CT | 分数 80.00 | Alpha Trade 成交额 943778883.06 | 波动 0.74% | 4h 振幅 8.67% | 审计 LOW
-  - Alpha Trade 24h 成交额 943,778,883，流动性 995,231
-  - Alpha 列表口径 24h 成交额 2,054,933
-  - 短周期波动 0.74%
-  - 4h 振幅 8.67%
+- CT | 分数 70.00 | Alpha Trade 成交额 952619136.02 | 波动 0.54% | 4h 振幅 6.87% | 审计 LOW
+  - Alpha Trade 24h 成交额 952,619,136，流动性 969,732
+  - Alpha 列表口径 24h 成交额 2,747,273
+  - 短周期波动 0.54%
+  - 4h 振幅 6.87%
   - 审计风险 LOW
-- DNA | 分数 30.00 | Alpha Trade 成交额 143346946.93 | 波动 1.07% | 4h 振幅 10.33% | 审计 LOW
-  - Alpha Trade 24h 成交额 143,346,947，流动性 1,916,439
-  - Alpha 列表口径 24h 成交额 35,887,516
-  - 短周期波动 1.07%
-  - 4h 振幅 10.33%
+- DNA | 分数 40.00 | Alpha Trade 成交额 143554899.40 | 波动 0.62% | 4h 振幅 4.35% | 审计 LOW
+  - Alpha Trade 24h 成交额 143,554,899，流动性 1,928,296
+  - Alpha 列表口径 24h 成交额 40,456,776
+  - 短周期波动 0.62%
+  - 4h 振幅 4.35%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- BIRB / BIRBUSDT | 24h 涨跌 -50.22% | 资金费率 -120.45 bps | 5m 持仓变化 0.22% | 建议通知
-- JCT / JCTUSDT | 24h 涨跌 147.54% | 资金费率 8.74 bps | 5m 持仓变化 0.01% | 建议通知
-- IN / INUSDT | 24h 涨跌 -42.29% | 资金费率 -34.78 bps | 5m 持仓变化 -0.23% | 建议通知
-- IRYS / IRYSUSDT | 24h 涨跌 -51.42% | 资金费率 -22.04 bps | 5m 持仓变化 0.33% | 建议通知
-- ORDER / ORDERUSDT | 24h 涨跌 58.27% | 资金费率 -13.85 bps | 5m 持仓变化 -0.33% | 建议通知
-- ORDER / ORDERUSDT | 24h 涨跌 58.27% | 资金费率 -13.85 bps | 5m 持仓变化 -0.33% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -5.89% | 资金费率 -57.89 bps | 5m 持仓变化 3.90% | 建议通知
-- APR / APRUSDT | 24h 涨跌 40.30% | 资金费率 7.44 bps | 5m 持仓变化 1.81% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -0.78% | 资金费率 -139.99 bps | 5m 持仓变化 -0.06% | 建议通知
+- BIRB / BIRBUSDT | 24h 涨跌 -36.76% | 资金费率 -69.59 bps | 5m 持仓变化 -0.41% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 68.07% | 资金费率 6.19 bps | 5m 持仓变化 0.02% | 建议通知
+- APR / APRUSDT | 24h 涨跌 66.27% | 资金费率 2.52 bps | 5m 持仓变化 -0.42% | 建议通知
+- TREE / TREEUSDT | 24h 涨跌 -25.81% | 资金费率 -28.62 bps | 5m 持仓变化 -0.47% | 建议通知
+- IN / INUSDT | 24h 涨跌 -16.43% | 资金费率 -31.36 bps | 5m 持仓变化 -0.58% | 建议通知
+- ORDER / ORDERUSDT | 24h 涨跌 -31.70% | 资金费率 -12.12 bps | 5m 持仓变化 1.50% | 建议通知
+- ORDER / ORDERUSDT | 24h 涨跌 -31.70% | 资金费率 -12.12 bps | 5m 持仓变化 1.50% | 建议通知
 
 ## Alpha 日报
 
-- 官方最新上新关注：Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-21
+- 官方最新上新关注：Binance Futures Will Launch USDⓈ-Margined PREDICTUSDT Perpetual Contract Pre-Market Trading (2026-10-25)
 - Latest Binance News：Binance Will Support the ASML Holding N.V. (ASML) and Nokia Corporation (NOK) Cash Dividend Distribution via bStocks
 - Latest Activities：Binance Starter Carnival: Trade bStocks to Share Up to 60,000 USDT in AAPLB & NVDAB!
 
@@ -49,12 +49,12 @@
 
 ### New Cryptocurrency Listing
 
+- [Binance Futures Will Launch USDⓈ-Margined PREDICTUSDT Perpetual Contract Pre-Market Trading (2026-10-25)](https://www.binance.com/en/support/announcement/detail/5ef55cf8358e4a48b2512a156e89c8e5)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, To expand the list of trading choices off…
 - [Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-21](https://www.binance.com/en/support/announcement/detail/3afa938f499d403382d01d0c0644507e)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 - [Binance Exchange Adds RoboStrategy Inc (BOTB), Berkshire Hathaway (BRKBB), KraneShares STAR Market 50 ETF (KSTRB), Direxion Daily 20 Year Treasury Bull 3X ETF (TMFB) and Vistra Corp (VSTB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-21](https://www.binance.com/en/support/announcement/detail/b965e028041c4d0fbb4291372f55e4d4)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list…
-- [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-21)](https://www.binance.com/en/support/announcement/detail/29e4e52d711946c88762f0ba2259de2e)
-  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
 
 ### Latest Binance News
 
