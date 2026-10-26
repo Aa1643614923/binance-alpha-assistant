@@ -1,48 +1,48 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-26T10:31:53.103511+00:00
+- 生成时间：2026-10-26T16:57:02.685893+00:00
 - 四倍分代币数：2
-- 四倍分 24h 总成交额：1158421991.78
+- 四倍分 24h 总成交额：1143982244.97
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：141271（按 8200 / 人）
+- 估算参与人数：139510（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 1008847402.34 | 列表口径 2980827.11 | 涨跌 -6.15% | 振幅 24.38% | 估算人数 123030
-- DNA | Alpha Trade 成交额 149574589.43 | 列表口径 19983997.22 | 涨跌 -6.92% | 振幅 14.68% | 估算人数 18241
+- CT | Alpha Trade 成交额 998516187.46 | 列表口径 2746615.29 | 涨跌 -12.77% | 振幅 19.22% | 估算人数 121770
+- DNA | Alpha Trade 成交额 145466057.51 | 列表口径 26205117.41 | 涨跌 -1.50% | 振幅 10.40% | 估算人数 17740
 
 ## 稳定刷分推荐
 
-- CT | 分数 80.00 | Alpha Trade 成交额 1008847402.34 | 波动 0.42% | 4h 振幅 3.40% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,008,847,402，流动性 962,161
-  - Alpha 列表口径 24h 成交额 2,980,827
-  - 短周期波动 0.42%
-  - 4h 振幅 3.40%
+- CT | 分数 70.00 | Alpha Trade 成交额 998516187.46 | 波动 0.38% | 4h 振幅 4.11% | 审计 LOW
+  - Alpha Trade 24h 成交额 998,516,187，流动性 960,451
+  - Alpha 列表口径 24h 成交额 2,746,615
+  - 短周期波动 0.38%
+  - 4h 振幅 4.11%
   - 审计风险 LOW
-- DNA | 分数 30.00 | Alpha Trade 成交额 149574589.43 | 波动 0.44% | 4h 振幅 3.94% | 审计 LOW
-  - Alpha Trade 24h 成交额 149,574,589，流动性 1,896,979
-  - Alpha 列表口径 24h 成交额 19,983,997
-  - 短周期波动 0.44%
-  - 4h 振幅 3.94%
+- DNA | 分数 40.00 | Alpha Trade 成交额 145466057.51 | 波动 0.40% | 4h 振幅 3.85% | 审计 LOW
+  - Alpha Trade 24h 成交额 145,466,058，流动性 1,887,200
+  - Alpha 列表口径 24h 成交额 26,205,117
+  - 短周期波动 0.40%
+  - 4h 振幅 3.85%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- DOOD / DOODUSDT | 24h 涨跌 69.05% | 资金费率 -88.76 bps | 5m 持仓变化 0.95% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -10.04% | 资金费率 -111.96 bps | 5m 持仓变化 -0.06% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 46.53% | 资金费率 3.47 bps | 5m 持仓变化 0.90% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 14.71% | 资金费率 -19.51 bps | 5m 持仓变化 0.27% | 建议通知
-- KAT / KATUSDT | 24h 涨跌 11.11% | 资金费率 -25.31 bps | 5m 持仓变化 0.00% | 建议通知
-- Q / QUSDT | 24h 涨跌 -32.24% | 资金费率 0.50 bps | 5m 持仓变化 -0.03% | 建议通知
-- BIRB / BIRBUSDT | 24h 涨跌 -12.96% | 资金费率 -13.37 bps | 5m 持仓变化 -0.15% | 建议通知
-- IRYS / IRYSUSDT | 24h 涨跌 -18.51% | 资金费率 -5.34 bps | 5m 持仓变化 0.15% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -40.49% | 资金费率 -94.76 bps | 5m 持仓变化 -0.11% | 建议通知
+- DOOD / DOODUSDT | 24h 涨跌 38.57% | 资金费率 -35.77 bps | 5m 持仓变化 -0.71% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 72.28% | 资金费率 2.46 bps | 5m 持仓变化 0.20% | 建议通知
+- IRYS / IRYSUSDT | 24h 涨跌 -28.29% | 资金费率 -7.03 bps | 5m 持仓变化 -0.19% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 33.03% | 资金费率 3.89 bps | 5m 持仓变化 0.16% | 建议通知
+- BIRB / BIRBUSDT | 24h 涨跌 -16.01% | 资金费率 -11.84 bps | 5m 持仓变化 -0.04% | 建议通知
+- APR / APRUSDT | 24h 涨跌 -25.09% | 资金费率 0.50 bps | 5m 持仓变化 0.01% | 建议通知
+- ORDER / ORDERUSDT | 24h 涨跌 -21.45% | 资金费率 -1.33 bps | 5m 持仓变化 0.06% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-10-28
 - Latest Binance News：Binance Will Support the ASML Holding N.V. (ASML) and Nokia Corporation (NOK) Cash Dividend Distribution via bStocks
-- Latest Activities：Halloween Pumpkin Frenzy: Trade, Earn and Invite Friends to Share a $1.7M Prize Pool
+- Latest Activities：Binance Alpha Trading Competition: Trade Axis Robotics (AXIS) and Share $200K Worth of Rewards (2026-10-26)
 
 ### 最近 Alpha 上线
 
@@ -67,9 +67,9 @@
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade Axis Robotics (AXIS) and Share $200K Worth of Rewards (2026-10-26)](https://www.binance.com/en/support/announcement/detail/aeab048502ff4d3898bcd872fab0354f)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
 - [Halloween Pumpkin Frenzy: Trade, Earn and Invite Friends to Share a $1.7M Prize Pool](https://www.binance.com/en/support/announcement/detail/91a8bdc13a4f459cb7ea8c8aa5cce475)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Bi…
 - [Earn 2% APR on USDC Held in Your Binance Futures and Portfolio Margin Accounts (2026-10-26)](https://www.binance.com/en/support/announcement/detail/2f1961e25f5a4412a937e78114ad5fce)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
-- [Word of the Day: Test Your Knowledge on “Start with Binance AI Pro” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/294ae769a3ed4b219694dc9ca7803a67)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
