@@ -1,48 +1,48 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-27T11:03:39.797756+00:00
+- 生成时间：2026-10-27T16:31:37.005352+00:00
 - 四倍分代币数：2
-- 四倍分 24h 总成交额：1146635149.68
+- 四倍分 24h 总成交额：1253067960.34
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：139834（按 8200 / 人）
+- 估算参与人数：152813（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 929879002.38 | 列表口径 5371267.60 | 涨跌 8.56% | 振幅 32.80% | 估算人数 113400
-- DNA | Alpha Trade 成交额 216756147.30 | 列表口径 39152157.13 | 涨跌 4.93% | 振幅 20.02% | 估算人数 26434
+- CT | Alpha Trade 成交额 946122329.65 | 列表口径 5210114.74 | 涨跌 9.86% | 振幅 32.80% | 估算人数 115381
+- DNA | Alpha Trade 成交额 306945630.70 | 列表口径 30970063.81 | 涨跌 7.67% | 振幅 18.20% | 估算人数 37432
 
 ## 稳定刷分推荐
 
-- DNA | 分数 60.00 | Alpha Trade 成交额 216756147.30 | 波动 0.48% | 4h 振幅 4.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 216,756,147，流动性 1,896,874
-  - Alpha 列表口径 24h 成交额 39,152,157
-  - 短周期波动 0.48%
-  - 4h 振幅 4.71%
+- CT | 分数 80.00 | Alpha Trade 成交额 946122329.65 | 波动 0.39% | 4h 振幅 3.50% | 审计 LOW
+  - Alpha Trade 24h 成交额 946,122,330，流动性 980,364
+  - Alpha 列表口径 24h 成交额 5,210,115
+  - 短周期波动 0.39%
+  - 4h 振幅 3.50%
   - 审计风险 LOW
-- CT | 分数 50.00 | Alpha Trade 成交额 929879002.38 | 波动 0.81% | 4h 振幅 10.73% | 审计 LOW
-  - Alpha Trade 24h 成交额 929,879,002，流动性 977,940
-  - Alpha 列表口径 24h 成交额 5,371,268
-  - 短周期波动 0.81%
-  - 4h 振幅 10.73%
+- DNA | 分数 30.00 | Alpha Trade 成交额 306945630.70 | 波动 0.63% | 4h 振幅 5.91% | 审计 LOW
+  - Alpha Trade 24h 成交额 306,945,631，流动性 1,905,092
+  - Alpha 列表口径 24h 成交额 30,970,064
+  - 短周期波动 0.63%
+  - 4h 振幅 5.91%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- AIN / AINUSDT | 24h 涨跌 250.33% | 资金费率 14.84 bps | 5m 持仓变化 0.35% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 -45.27% | 资金费率 -60.30 bps | 5m 持仓变化 0.48% | 建议通知
-- DOOD / DOODUSDT | 24h 涨跌 -12.17% | 资金费率 -67.79 bps | 5m 持仓变化 -0.19% | 建议通知
-- TAG / TAGUSDT | 24h 涨跌 56.99% | 资金费率 0.50 bps | 5m 持仓变化 0.34% | 建议通知
-- HUMA / HUMAUSDT | 24h 涨跌 53.50% | 资金费率 -0.85 bps | 5m 持仓变化 -0.04% | 建议通知
-- CAP / CAPUSDT | 24h 涨跌 25.95% | 资金费率 1.92 bps | 5m 持仓变化 0.01% | 建议通知
-- Q / QUSDT | 24h 涨跌 22.65% | 资金费率 0.50 bps | 5m 持仓变化 -0.36% | 建议通知
-- JCT / JCTUSDT | 24h 涨跌 16.06% | 资金费率 3.18 bps | 5m 持仓变化 -0.18% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 258.85% | 资金费率 0.50 bps | 5m 持仓变化 0.08% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 -43.90% | 资金费率 -106.07 bps | 5m 持仓变化 0.24% | 建议通知
+- DOOD / DOODUSDT | 24h 涨跌 -2.29% | 资金费率 -59.27 bps | 5m 持仓变化 -0.27% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 61.48% | 资金费率 0.50 bps | 5m 持仓变化 -0.04% | 建议通知
+- EVAA / EVAAUSDT | 24h 涨跌 42.83% | 资金费率 2.04 bps | 5m 持仓变化 -1.22% | 建议通知
+- HAEDAL / HAEDALUSDT | 24h 涨跌 29.18% | 资金费率 -3.89 bps | 5m 持仓变化 0.84% | 建议通知
+- ON / ONUSDT | 24h 涨跌 26.97% | 资金费率 2.01 bps | 5m 持仓变化 -0.74% | 建议通知
+- APR / APRUSDT | 24h 涨跌 25.41% | 资金费率 1.29 bps | 5m 持仓变化 0.16% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-10-28
 - Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-30)
-- Latest Activities：Binance Alpha Trading Competition: Trade Axis Robotics (AXIS) and Share $200K Worth of Rewards (2026-10-26)
+- Latest Activities：South Asia Exclusive: Join the SpaceX Button Game and Win $10,000 Worth of SPCXB
 
 ### 最近 Alpha 上线
 
@@ -67,9 +67,9 @@
 
 ### Latest Activities
 
+- [South Asia Exclusive: Join the SpaceX Button Game and Win $10,000 Worth of SPCXB](https://www.binance.com/en/support/announcement/detail/778907fd5bab4fa2afb4980b569b6707)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to la…
+- [Community Voice: Give Feedback on DYOR to Share 500 USDC in Rewards](https://www.binance.com/en/support/announcement/detail/42a53621b62d4f99bb727efd8337b7ac)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Your voice matters…
 - [Binance Alpha Trading Competition: Trade Axis Robotics (AXIS) and Share $200K Worth of Rewards (2026-10-26)](https://www.binance.com/en/support/announcement/detail/aeab048502ff4d3898bcd872fab0354f)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance Wallet is excite…
-- [Halloween Pumpkin Frenzy: Trade, Earn and Invite Friends to Share a $1.7M Prize Pool](https://www.binance.com/en/support/announcement/detail/91a8bdc13a4f459cb7ea8c8aa5cce475)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Bi…
-- [Earn 2% APR on USDC Held in Your Binance Futures and Portfolio Margin Accounts (2026-10-26)](https://www.binance.com/en/support/announcement/detail/2f1961e25f5a4412a937e78114ad5fce)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
