@@ -1,55 +1,55 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-29T01:57:52.609695+00:00
+- 生成时间：2026-10-29T08:20:35.672928+00:00
 - 四倍分代币数：3
-- 四倍分 24h 总成交额：1339377273.73
+- 四倍分 24h 总成交额：1265550890.74
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：163339（按 8200 / 人）
+- 估算参与人数：154335（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 1034477045.40 | 列表口径 1445449.86 | 涨跌 -11.01% | 振幅 14.08% | 估算人数 126156
-- DNA | Alpha Trade 成交额 303935290.89 | 列表口径 5819422.96 | 涨跌 -13.88% | 振幅 18.38% | 估算人数 37065
-- UP | Alpha Trade 成交额 964937.44 | 列表口径 7978883.42 | 涨跌 -21.57% | 振幅 33.86% | 估算人数 118
+- CT | Alpha Trade 成交额 983776150.55 | 列表口径 1332172.63 | 涨跌 -13.03% | 振幅 21.15% | 估算人数 119973
+- DNA | Alpha Trade 成交额 280802201.95 | 列表口径 6770053.94 | 涨跌 -12.88% | 振幅 18.89% | 估算人数 34244
+- UP | Alpha Trade 成交额 972538.24 | 列表口径 7352197.90 | 涨跌 -16.48% | 振幅 21.16% | 估算人数 119
 
 ## 稳定刷分推荐
 
-- CT | 分数 78.92 | Alpha Trade 成交额 1034477045.40 | 波动 0.34% | 4h 振幅 4.82% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,034,477,045，流动性 958,652
-  - Alpha 列表口径 24h 成交额 1,445,450
-  - 短周期波动 0.34%
-  - 4h 振幅 4.82%
+- DNA | 分数 72.37 | Alpha Trade 成交额 280802201.95 | 波动 0.31% | 4h 振幅 4.62% | 审计 LOW
+  - Alpha Trade 24h 成交额 280,802,202，流动性 1,839,511
+  - Alpha 列表口径 24h 成交额 6,770,054
+  - 短周期波动 0.31%
+  - 4h 振幅 4.62%
   - 审计风险 LOW
-- DNA | 分数 68.72 | Alpha Trade 成交额 303935290.89 | 波动 0.45% | 4h 振幅 4.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 303,935,291，流动性 1,854,809
-  - Alpha 列表口径 24h 成交额 5,819,423
-  - 短周期波动 0.45%
-  - 4h 振幅 4.42%
+- CT | 分数 50.00 | Alpha Trade 成交额 983776150.55 | 波动 0.57% | 4h 振幅 10.31% | 审计 LOW
+  - Alpha Trade 24h 成交额 983,776,151，流动性 937,378
+  - Alpha 列表口径 24h 成交额 1,332,173
+  - 短周期波动 0.57%
+  - 4h 振幅 10.31%
   - 审计风险 LOW
-- UP | 分数 11.68 | Alpha Trade 成交额 964937.44 | 波动 0.90% | 4h 振幅 8.15% | 审计 MID
-  - Alpha Trade 24h 成交额 964,937，流动性 1,212,960
-  - Alpha 列表口径 24h 成交额 7,978,883
-  - 短周期波动 0.90%
-  - 4h 振幅 8.15%
+- UP | 分数 35.55 | Alpha Trade 成交额 972538.24 | 波动 0.35% | 4h 振幅 6.42% | 审计 MID
+  - Alpha Trade 24h 成交额 972,538，流动性 1,172,522
+  - Alpha 列表口径 24h 成交额 7,352,198
+  - 短周期波动 0.35%
+  - 4h 振幅 6.42%
   - 审计风险 MID
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- DOOD / DOODUSDT | 24h 涨跌 -17.51% | 资金费率 -65.08 bps | 5m 持仓变化 0.05% | 建议通知
-- IDOL / IDOLUSDT | 24h 涨跌 63.90% | 资金费率 4.58 bps | 5m 持仓变化 0.51% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 55.21% | 资金费率 4.10 bps | 5m 持仓变化 1.00% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 -4.73% | 资金费率 -31.46 bps | 5m 持仓变化 0.09% | 继续观察
-- Q / QUSDT | 24h 涨跌 24.07% | 资金费率 -5.23 bps | 5m 持仓变化 -0.21% | 建议通知
-- CAP / CAPUSDT | 24h 涨跌 -25.77% | 资金费率 -0.18 bps | 5m 持仓变化 -0.04% | 建议通知
-- STAR / STARUSDT | 24h 涨跌 23.91% | 资金费率 1.68 bps | 5m 持仓变化 1.87% | 继续观察
-- XAN / XANUSDT | 24h 涨跌 15.10% | 资金费率 -7.81 bps | 5m 持仓变化 -0.08% | 建议通知
+- IDOL / IDOLUSDT | 24h 涨跌 64.83% | 资金费率 3.36 bps | 5m 持仓变化 0.93% | 建议通知
+- KAT / KATUSDT | 24h 涨跌 2.72% | 资金费率 -40.30 bps | 5m 持仓变化 -5.07% | 建议通知
+- Q / QUSDT | 24h 涨跌 -28.84% | 资金费率 -16.64 bps | 5m 持仓变化 0.30% | 建议通知
+- DOOD / DOODUSDT | 24h 涨跌 -13.49% | 资金费率 -12.99 bps | 5m 持仓变化 0.10% | 建议通知
+- BOT / BOTUSDT | 24h 涨跌 -5.83% | 资金费率 -22.31 bps | 5m 持仓变化 -0.08% | 继续观察
+- DOS / DOSUSDT | 24h 涨跌 -23.25% | 资金费率 -0.85 bps | 5m 持仓变化 0.31% | 建议通知
+- XAN / XANUSDT | 24h 涨跌 -19.72% | 资金费率 -3.58 bps | 5m 持仓变化 0.26% | 建议通知
+- ON / ONUSDT | 24h 涨跌 21.83% | 资金费率 0.54 bps | 5m 持仓变化 0.17% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-28
 - Latest Binance News：Important Notice on PREDICT Airdrop Token Allocation
-- Latest Activities：Region-Exclusive Referral Rush 2026: Invite Friends to Share $550,000 in USDT Token Vouchers
+- Latest Activities：Spot Trading Tournament Season 10: Trade to Share Up to 300,000 USDC Token Vouchers
 
 ### 最近 Alpha 上线
 
@@ -74,9 +74,9 @@
 
 ### Latest Activities
 
+- [Spot Trading Tournament Season 10: Trade to Share Up to 300,000 USDC Token Vouchers](https://www.binance.com/en/support/announcement/detail/44ad187210be478dac264337be3dc943)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
 - [Region-Exclusive Referral Rush 2026: Invite Friends to Share $550,000 in USDT Token Vouchers](https://www.binance.com/en/support/announcement/detail/ee5f980bdd13472bbda19930e675d43b)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, The Referral Rush 2026 p…
 - [Spot Trading Tournament Season 9: Trade to Share Up to 400 BNB Token Vouchers](https://www.binance.com/en/support/announcement/detail/64ebe376c713448cb62e156c9cfff286)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Disclaimer: This is not available for users…
-- [South Asia Exclusive: Join the SpaceX Button Game and Win $10,000 Worth of SPCXB](https://www.binance.com/en/support/announcement/detail/778907fd5bab4fa2afb4980b569b6707)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to la…
