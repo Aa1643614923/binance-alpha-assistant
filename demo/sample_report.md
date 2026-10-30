@@ -1,43 +1,43 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-30T11:38:46.914242+00:00
+- 生成时间：2026-10-30T17:12:13.581043+00:00
 - 四倍分代币数：3
-- 四倍分 24h 总成交额：1192474631.75
+- 四倍分 24h 总成交额：1156508192.13
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：145424（按 8200 / 人）
+- 估算参与人数：141038（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 974473014.64 | 列表口径 2156086.73 | 涨跌 1.66% | 振幅 13.75% | 估算人数 118838
-- DNA | Alpha Trade 成交额 217936768.84 | 列表口径 14184393.26 | 涨跌 0.36% | 振幅 11.04% | 估算人数 26578
-- UP | Alpha Trade 成交额 64848.27 | 列表口径 3720809.21 | 涨跌 -11.10% | 振幅 20.10% | 估算人数 8
+- CT | Alpha Trade 成交额 959130242.66 | 列表口径 2299387.10 | 涨跌 -2.37% | 振幅 13.75% | 估算人数 116967
+- DNA | Alpha Trade 成交额 197333795.67 | 列表口径 14235674.70 | 涨跌 -2.25% | 振幅 12.10% | 估算人数 24065
+- UP | Alpha Trade 成交额 44153.80 | 列表口径 3053517.32 | 涨跌 -14.51% | 振幅 19.38% | 估算人数 5
 
 ## 稳定刷分推荐
 
-- DNA | 分数 60.00 | Alpha Trade 成交额 217936768.84 | 波动 0.37% | 4h 振幅 2.69% | 审计 LOW
-  - Alpha Trade 24h 成交额 217,936,769，流动性 1,831,063
-  - Alpha 列表口径 24h 成交额 14,184,393
-  - 短周期波动 0.37%
-  - 4h 振幅 2.69%
+- DNA | 分数 60.00 | Alpha Trade 成交额 197333795.67 | 波动 0.35% | 4h 振幅 4.46% | 审计 LOW
+  - Alpha Trade 24h 成交额 197,333,796，流动性 1,817,442
+  - Alpha 列表口径 24h 成交额 14,235,675
+  - 短周期波动 0.35%
+  - 4h 振幅 4.46%
   - 审计风险 LOW
-- CT | 分数 50.00 | Alpha Trade 成交额 974473014.64 | 波动 0.46% | 4h 振幅 7.91% | 审计 LOW
-  - Alpha Trade 24h 成交额 974,473,015，流动性 440,584
-  - Alpha 列表口径 24h 成交额 2,156,087
-  - 短周期波动 0.46%
-  - 4h 振幅 7.91%
+- CT | 分数 50.00 | Alpha Trade 成交额 959130242.66 | 波动 0.42% | 4h 振幅 5.54% | 审计 LOW
+  - Alpha Trade 24h 成交额 959,130,243，流动性 1,104,531
+  - Alpha 列表口径 24h 成交额 2,299,387
+  - 短周期波动 0.42%
+  - 4h 振幅 5.54%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- MAGMA / MAGMAUSDT | 24h 涨跌 35.24% | 资金费率 3.44 bps | 5m 持仓变化 0.23% | 建议通知
-- PARTI / PARTIUSDT | 24h 涨跌 35.70% | 资金费率 -1.38 bps | 5m 持仓变化 -0.01% | 建议通知
-- BLESS / BLESSUSDT | 24h 涨跌 34.91% | 资金费率 2.50 bps | 5m 持仓变化 0.40% | 建议通知
-- AIN / AINUSDT | 24h 涨跌 15.56% | 资金费率 10.53 bps | 5m 持仓变化 0.02% | 建议通知
-- ACN / ACNUSDT | 24h 涨跌 5.51% | 资金费率 -23.23 bps | 5m 持仓变化 -0.40% | 继续观察
-- BOT / BOTUSDT | 24h 涨跌 1.38% | 资金费率 -24.12 bps | 5m 持仓变化 -0.21% | 继续观察
-- SOPH / SOPHUSDT | 24h 涨跌 21.04% | 资金费率 -1.39 bps | 5m 持仓变化 0.39% | 建议通知
-- IDOL / IDOLUSDT | 24h 涨跌 16.69% | 资金费率 3.01 bps | 5m 持仓变化 -0.00% | 建议通知
+- IDOL / IDOLUSDT | 24h 涨跌 109.48% | 资金费率 8.82 bps | 5m 持仓变化 0.31% | 建议通知
+- BIRB / BIRBUSDT | 24h 涨跌 45.26% | 资金费率 -44.80 bps | 5m 持仓变化 0.67% | 建议通知
+- SOPH / SOPHUSDT | 24h 涨跌 37.93% | 资金费率 -51.69 bps | 5m 持仓变化 0.35% | 建议通知
+- BLESS / BLESSUSDT | 24h 涨跌 -38.65% | 资金费率 0.53 bps | 5m 持仓变化 -0.19% | 建议通知
+- MAGMA / MAGMAUSDT | 24h 涨跌 31.58% | 资金费率 3.00 bps | 5m 持仓变化 -0.05% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 20.06% | 资金费率 11.10 bps | 5m 持仓变化 -0.01% | 建议通知
+- Q / QUSDT | 24h 涨跌 25.11% | 资金费率 1.33 bps | 5m 持仓变化 0.10% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -25.81% | 资金费率 -0.98 bps | 5m 持仓变化 0.02% | 建议通知
 
 ## Alpha 日报
 
@@ -48,7 +48,7 @@
 
 ### 最近 Alpha 上线
 
-- WARD | 1x | 上线 2026-10-29T12:00:00+00:00 | 24h 成交额 977178.20
+- WARD | 1x | 上线 2026-10-29T12:00:00+00:00 | 24h 成交额 92325.26
 
 ### New Cryptocurrency Listing
 
@@ -63,7 +63,7 @@
 
 - [Predict (PREDICT) Listing Will Be Postponed](https://www.binance.com/en/support/announcement/detail/eb1fb9e5f41f43b682332aff0b7b89ce)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The trading start time for Predict (PREDICT) , origi…
-- [Security Incident Update](https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7)
+- [Security Incident Update (2026-10-30)](https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance's initial investigation suggests that the se…
 - [Important Notice on PREDICT Airdrop Token Allocation](https://www.binance.com/en/support/announcement/detail/58d55610f5954d6c867bfa71658585dd)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; As the launc…
