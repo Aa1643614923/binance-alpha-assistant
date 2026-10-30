@@ -1,54 +1,54 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-10-30T00:03:24.785435+00:00
+- 生成时间：2026-10-30T05:38:29.289880+00:00
 - 四倍分代币数：3
-- 四倍分 24h 总成交额：1169292153.11
+- 四倍分 24h 总成交额：1077566279.03
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：142597（按 8200 / 人）
+- 估算参与人数：131411（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 934385613.66 | 列表口径 1687789.32 | 涨跌 -17.08% | 振幅 24.21% | 估算人数 113949
-- DNA | Alpha Trade 成交额 234784402.92 | 列表口径 10300329.66 | 涨跌 -5.18% | 振幅 14.12% | 估算人数 28632
-- UP | Alpha Trade 成交额 122136.53 | 列表口径 4644317.26 | 涨跌 -18.01% | 振幅 25.11% | 估算人数 15
+- CT | Alpha Trade 成交额 861741916.98 | 列表口径 1961912.66 | 涨跌 -15.01% | 振幅 20.40% | 估算人数 105090
+- DNA | Alpha Trade 成交额 215724104.20 | 列表口径 12102379.14 | 涨跌 -0.38% | 振幅 11.04% | 估算人数 26308
+- UP | Alpha Trade 成交额 100257.85 | 列表口径 4168623.39 | 涨跌 -13.50% | 振幅 18.52% | 估算人数 12
 
 ## 稳定刷分推荐
 
-- CT | 分数 80.00 | Alpha Trade 成交额 934385613.66 | 波动 0.57% | 4h 振幅 5.55% | 审计 LOW
-  - Alpha Trade 24h 成交额 934,385,614，流动性 927,537
-  - Alpha 列表口径 24h 成交额 1,687,789
-  - 短周期波动 0.57%
-  - 4h 振幅 5.55%
+- CT | 分数 60.00 | Alpha Trade 成交额 861741916.98 | 波动 0.50% | 4h 振幅 3.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 861,741,917，流动性 425,193
+  - Alpha 列表口径 24h 成交额 1,961,913
+  - 短周期波动 0.50%
+  - 4h 振幅 3.42%
   - 审计风险 LOW
-- DNA | 分数 30.00 | Alpha Trade 成交额 234784402.92 | 波动 0.71% | 4h 振幅 8.58% | 审计 LOW
-  - Alpha Trade 24h 成交额 234,784,403，流动性 1,830,874
-  - Alpha 列表口径 24h 成交额 10,300,330
-  - 短周期波动 0.71%
-  - 4h 振幅 8.58%
+- DNA | 分数 50.00 | Alpha Trade 成交额 215724104.20 | 波动 0.42% | 4h 振幅 5.21% | 审计 LOW
+  - Alpha Trade 24h 成交额 215,724,104，流动性 1,825,096
+  - Alpha 列表口径 24h 成交额 12,102,379
+  - 短周期波动 0.42%
+  - 4h 振幅 5.21%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- BOT / BOTUSDT | 24h 涨跌 -1.81% | 资金费率 -66.05 bps | 5m 持仓变化 5.51% | 继续观察
-- PARTI / PARTIUSDT | 24h 涨跌 53.45% | 资金费率 -5.68 bps | 5m 持仓变化 -1.64% | 建议通知
-- Q / QUSDT | 24h 涨跌 -27.03% | 资金费率 5.31 bps | 5m 持仓变化 -0.02% | 建议通知
-- JCT / JCTUSDT | 24h 涨跌 -25.12% | 资金费率 3.90 bps | 5m 持仓变化 0.16% | 建议通知
-- AGT / AGTUSDT | 24h 涨跌 -22.10% | 资金费率 3.42 bps | 5m 持仓变化 -0.01% | 建议通知
-- USELESS / USELESSUSDT | 24h 涨跌 -23.87% | 资金费率 0.50 bps | 5m 持仓变化 0.41% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 -19.46% | 资金费率 2.77 bps | 5m 持仓变化 0.00% | 建议通知
-- BEAT / BEATUSDT | 24h 涨跌 19.44% | 资金费率 3.12 bps | 5m 持仓变化 0.30% | 建议通知
+- MAGMA / MAGMAUSDT | 24h 涨跌 33.87% | 资金费率 0.87 bps | 5m 持仓变化 8.44% | 建议通知
+- PARTI / PARTIUSDT | 24h 涨跌 41.08% | 资金费率 0.06 bps | 5m 持仓变化 -0.28% | 建议通知
+- BLESS / BLESSUSDT | 24h 涨跌 32.64% | 资金费率 4.08 bps | 5m 持仓变化 -0.21% | 建议通知
+- BOT / BOTUSDT | 24h 涨跌 0.81% | 资金费率 -36.14 bps | 5m 持仓变化 0.00% | 继续观察
+- DOOD / DOODUSDT | 24h 涨跌 7.50% | 资金费率 -24.73 bps | 5m 持仓变化 -0.36% | 建议通知
+- ACN / ACNUSDT | 24h 涨跌 2.46% | 资金费率 -26.13 bps | 5m 持仓变化 -0.04% | 继续观察
+- 龙虾 / 龙虾USDT | 24h 涨跌 7.38% | 资金费率 14.57 bps | 5m 持仓变化 -0.33% | 建议通知
+- APR / APRUSDT | 24h 涨跌 16.29% | 资金费率 4.34 bps | 5m 持仓变化 0.04% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Will List Predict (PREDICT) with Seed Tag Applied
-- Latest Binance News：Important Notice on PREDICT Airdrop Token Allocation
+- Latest Binance News：Predict (PREDICT) Listing Will Be Postponed
 - Latest Activities：Join the Virtual Pumpkin Fun to Share $5,000 in Token Voucher Rewards
 
 ### 最近 Alpha 上线
 
-- WARD | 1x | 上线 2026-10-29T12:00:00+00:00 | 24h 成交额 946671.23
+- WARD | 1x | 上线 2026-10-29T12:00:00+00:00 | 24h 成交额 953062.75
 
 ### New Cryptocurrency Listing
 
@@ -61,12 +61,12 @@
 
 ### Latest Binance News
 
+- [Predict (PREDICT) Listing Will Be Postponed](https://www.binance.com/en/support/announcement/detail/eb1fb9e5f41f43b682332aff0b7b89ce)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The trading start time for Predict (PREDICT) , origi…
+- [Security Incident Update](https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7)
+  - Fellow Binancians, Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access…
 - [Important Notice on PREDICT Airdrop Token Allocation](https://www.binance.com/en/support/announcement/detail/58d55610f5954d6c867bfa71658585dd)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; As the launc…
-- [Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-10-28)](https://www.binance.com/en/support/announcement/detail/237608b847954d4f9e2c73d7c66b22ad)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Binance Futures Updates Trading Fee Discount for TradFi Perps (2026-11-05)](https://www.binance.com/en/support/announcement/detail/4f406308840549ffb8fdaac9873c25a8)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures is updat…
 
 ### Latest Activities
 
