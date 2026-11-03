@@ -1,48 +1,48 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-03T00:00:22.837904+00:00
+- 生成时间：2026-11-03T06:34:38.394772+00:00
 - 四倍分代币数：3
-- 四倍分 24h 总成交额：1203170533.99
+- 四倍分 24h 总成交额：1202743066.04
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：146728（按 8200 / 人）
+- 估算参与人数：146676（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 1029797285.69 | 列表口径 3079159.98 | 涨跌 -10.60% | 振幅 18.42% | 估算人数 125585
-- DNA | Alpha Trade 成交额 173348174.60 | 列表口径 18058568.41 | 涨跌 5.29% | 振幅 9.54% | 估算人数 21140
-- UP | Alpha Trade 成交额 25073.69 | 列表口径 3264293.27 | 涨跌 -6.10% | 振幅 19.50% | 估算人数 3
+- CT | Alpha Trade 成交额 1027284293.48 | 列表口径 2136554.61 | 涨跌 -4.17% | 振幅 11.82% | 估算人数 125279
+- DNA | Alpha Trade 成交额 175437260.38 | 列表口径 16661176.50 | 涨跌 5.94% | 振幅 9.69% | 估算人数 21395
+- UP | Alpha Trade 成交额 21512.19 | 列表口径 9481681.84 | 涨跌 -10.54% | 振幅 24.94% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- DNA | 分数 60.00 | Alpha Trade 成交额 173348174.60 | 波动 0.27% | 4h 振幅 4.83% | 审计 LOW
-  - Alpha Trade 24h 成交额 173,348,175，流动性 1,849,704
-  - Alpha 列表口径 24h 成交额 18,058,568
-  - 短周期波动 0.27%
-  - 4h 振幅 4.83%
+- CT | 分数 80.00 | Alpha Trade 成交额 1027284293.48 | 波动 0.43% | 4h 振幅 4.53% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,027,284,293，流动性 1,082,030
+  - Alpha 列表口径 24h 成交额 2,136,555
+  - 短周期波动 0.43%
+  - 4h 振幅 4.53%
   - 审计风险 LOW
-- CT | 分数 50.00 | Alpha Trade 成交额 1029797285.69 | 波动 0.41% | 4h 振幅 5.41% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,029,797,286，流动性 1,084,406
-  - Alpha 列表口径 24h 成交额 3,079,160
-  - 短周期波动 0.41%
-  - 4h 振幅 5.41%
+- DNA | 分数 30.00 | Alpha Trade 成交额 175437260.38 | 波动 0.44% | 4h 振幅 5.43% | 审计 LOW
+  - Alpha Trade 24h 成交额 175,437,260，流动性 1,846,371
+  - Alpha 列表口径 24h 成交额 16,661,177
+  - 短周期波动 0.44%
+  - 4h 振幅 5.43%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- AKE / AKEUSDT | 24h 涨跌 -41.37% | 资金费率 -42.72 bps | 5m 持仓变化 0.52% | 建议通知
-- ARIA / ARIAUSDT | 24h 涨跌 37.50% | 资金费率 6.85 bps | 5m 持仓变化 0.01% | 建议通知
-- IDOL / IDOLUSDT | 24h 涨跌 -32.39% | 资金费率 0.50 bps | 5m 持仓变化 0.11% | 建议通知
-- ESPORTS / ESPORTSUSDT | 24h 涨跌 -19.05% | 资金费率 12.35 bps | 5m 持仓变化 -0.14% | 建议通知
-- HAEDAL / HAEDALUSDT | 24h 涨跌 19.85% | 资金费率 -9.89 bps | 5m 持仓变化 0.16% | 建议通知
-- UAI / UAIUSDT | 24h 涨跌 -29.11% | 资金费率 0.22 bps | 5m 持仓变化 0.20% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 -5.83% | 资金费率 -20.66 bps | 5m 持仓变化 0.13% | 建议通知
-- LYN / LYNUSDT | 24h 涨跌 19.31% | 资金费率 4.55 bps | 5m 持仓变化 0.09% | 建议通知
+- BMT / BMTUSDT | 24h 涨跌 12.39% | 资金费率 -131.38 bps | 5m 持仓变化 -0.50% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 -28.06% | 资金费率 -34.08 bps | 5m 持仓变化 1.38% | 建议通知
+- ERA / ERAUSDT | 24h 涨跌 4.66% | 资金费率 -52.75 bps | 5m 持仓变化 -0.18% | 建议通知
+- ARIA / ARIAUSDT | 24h 涨跌 36.01% | 资金费率 0.68 bps | 5m 持仓变化 -0.08% | 建议通知
+- IDOL / IDOLUSDT | 24h 涨跌 -29.58% | 资金费率 0.50 bps | 5m 持仓变化 -0.06% | 建议通知
+- AGT / AGTUSDT | 24h 涨跌 23.26% | 资金费率 4.89 bps | 5m 持仓变化 -0.08% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 20.25% | 资金费率 5.03 bps | 5m 持仓变化 0.86% | 建议通知
+- HUMA / HUMAUSDT | 24h 涨跌 -22.82% | 资金费率 -0.24 bps | 5m 持仓变化 0.13% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will List Predict (PREDICT) with Seed Tag Applied
-- Latest Binance News：Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users as ZK Proof Generated (2026-11-02)
+- Latest Binance News：Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)
 - Latest Activities：Binance VIP Level Protection Program
 
 ### 最近 Alpha 上线
@@ -59,12 +59,12 @@
 
 ### Latest Binance News
 
+- [Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)](https://www.binance.com/en/support/announcement/detail/2d83c325ab6e49c6bd6c5de8803b11a6)
+  - Fellow Binancians, Following the successful reopening of withdrawals for selected networks and assets in the initial phase on 2026-11-01 , Binance will reopen withdrawals for the…
 - [Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users as ZK Proof Generated (2026-11-02)](https://www.binance.com/en/support/announcement/detail/185bd9a4717f44088b3be70287b8237f)
   - Fellow Binancians, In Recovery Update #3 , we confirmed that the affected assets were replenished using Binance's own funds and all BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUS…
 - [Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)](https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda)
   - Fellow Binancians,&nbsp; Binance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC) .&nbsp; Since the incident, our teams have taken preca…
-- [Security Incident | Recovery Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided (2026-10-31)](https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62)
-  - Fellow Binancians,&nbsp; Our last update explained that Binance had set aside more than $6.34B in company funds to cover hacked losses, and we had already covered approximately 80…
 
 ### Latest Activities
 
