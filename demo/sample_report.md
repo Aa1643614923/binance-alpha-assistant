@@ -1,48 +1,48 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-05T22:24:46.121093+00:00
+- 生成时间：2026-11-06T02:43:38.677215+00:00
 - 四倍分代币数：3
-- 四倍分 24h 总成交额：1041248580.93
+- 四倍分 24h 总成交额：1030162779.43
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：126982（按 8200 / 人）
+- 估算参与人数：125630（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 1012201226.47 | 列表口径 2546488.30 | 涨跌 -7.10% | 振幅 16.28% | 估算人数 123439
-- DNA | Alpha Trade 成交额 28999371.53 | 列表口径 9014284.07 | 涨跌 -8.64% | 振幅 12.24% | 估算人数 3537
-- UP | Alpha Trade 成交额 47982.92 | 列表口径 23057004.05 | 涨跌 -1.90% | 振幅 25.86% | 估算人数 6
+- CT | Alpha Trade 成交额 1000208987.16 | 列表口径 2339297.77 | 涨跌 -3.90% | 振幅 16.28% | 估算人数 121977
+- DNA | Alpha Trade 成交额 29910110.91 | 列表口径 10505263.64 | 涨跌 -9.24% | 振幅 13.99% | 估算人数 3648
+- UP | Alpha Trade 成交额 43681.36 | 列表口径 29612488.97 | 涨跌 -1.68% | 振幅 26.68% | 估算人数 5
 
 ## 稳定刷分推荐
 
-- DNA | 分数 60.00 | Alpha Trade 成交额 28999371.53 | 波动 0.40% | 4h 振幅 3.34% | 审计 LOW
-  - Alpha Trade 24h 成交额 28,999,372，流动性 1,792,370
-  - Alpha 列表口径 24h 成交额 9,014,284
-  - 短周期波动 0.40%
-  - 4h 振幅 3.34%
+- CT | 分数 70.00 | Alpha Trade 成交额 1000208987.16 | 波动 0.51% | 4h 振幅 8.05% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,000,208,987，流动性 1,048,911
+  - Alpha 列表口径 24h 成交额 2,339,298
+  - 短周期波动 0.51%
+  - 4h 振幅 8.05%
   - 审计风险 LOW
-- CT | 分数 50.00 | Alpha Trade 成交额 1012201226.47 | 波动 0.72% | 4h 振幅 11.95% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,012,201,226，流动性 1,039,298
-  - Alpha 列表口径 24h 成交额 2,546,488
-  - 短周期波动 0.72%
-  - 4h 振幅 11.95%
+- DNA | 分数 40.00 | Alpha Trade 成交额 29910110.91 | 波动 0.55% | 4h 振幅 4.80% | 审计 LOW
+  - Alpha Trade 24h 成交额 29,910,111，流动性 1,787,480
+  - Alpha 列表口径 24h 成交额 10,505,264
+  - 短周期波动 0.55%
+  - 4h 振幅 4.80%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- JCT / JCTUSDT | 24h 涨跌 -45.28% | 资金费率 0.50 bps | 5m 持仓变化 -0.03% | 建议通知
-- HUMA / HUMAUSDT | 24h 涨跌 -22.81% | 资金费率 -19.26 bps | 5m 持仓变化 -0.30% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 -11.52% | 资金费率 -24.43 bps | 5m 持仓变化 -0.05% | 继续观察
-- ARIA / ARIAUSDT | 24h 涨跌 22.46% | 资金费率 5.70 bps | 5m 持仓变化 -0.02% | 建议通知
-- CAP / CAPUSDT | 24h 涨跌 13.69% | 资金费率 12.64 bps | 5m 持仓变化 0.00% | 建议通知
-- ELSA / ELSAUSDT | 24h 涨跌 -22.77% | 资金费率 2.26 bps | 5m 持仓变化 0.16% | 建议通知
-- LYN / LYNUSDT | 24h 涨跌 25.12% | 资金费率 0.50 bps | 5m 持仓变化 0.08% | 建议通知
-- AKE / AKEUSDT | 24h 涨跌 -10.98% | 资金费率 -7.04 bps | 5m 持仓变化 -0.12% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 -52.24% | 资金费率 0.50 bps | 5m 持仓变化 0.25% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 -47.07% | 资金费率 0.88 bps | 5m 持仓变化 -1.32% | 建议通知
+- HUMA / HUMAUSDT | 24h 涨跌 -18.19% | 资金费率 -19.67 bps | 5m 持仓变化 0.29% | 建议通知
+- BMT / BMTUSDT | 24h 涨跌 -11.16% | 资金费率 -15.92 bps | 5m 持仓变化 -0.22% | 建议通知
+- BOT / BOTUSDT | 24h 涨跌 -11.58% | 资金费率 -13.20 bps | 5m 持仓变化 0.02% | 继续观察
+- BIRB / BIRBUSDT | 24h 涨跌 19.24% | 资金费率 0.50 bps | 5m 持仓变化 -0.76% | 建议通知
+- CAP / CAPUSDT | 24h 涨跌 11.26% | 资金费率 6.69 bps | 5m 持仓变化 -0.00% | 建议通知
+- PONS / PONSUSDT | 24h 涨跌 -19.57% | 资金费率 0.50 bps | 5m 持仓变化 0.04% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will List Predict (PREDICT) with Seed Tag Applied
-- Latest Binance News：Important Updates on Dividend Adjustment Process of SAMSUNGUSDT TradFi Perpetual Contract (2026-11-06)
+- Latest Binance News：Binance Will Support the International Business Machines Corporation (IBM), Apple Inc. (AAPL), Corning Incorporated (GLW), and Eli Lilly and Company (LLY) Cash Dividend Distribution via bStocks
 - Latest Activities：November Affiliate Dual-Star Program: Affiliate Rewards Up to 12,000 USDC & New Referral Rewards Up to 10 USDC!
 
 ### 最近 Alpha 上线
@@ -59,12 +59,12 @@
 
 ### Latest Binance News
 
+- [Binance Will Support the International Business Machines Corporation (IBM), Apple Inc. (AAPL), Corning Incorporated (GLW), and Eli Lilly and Company (LLY) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/f3b32b406278474ab27c02685b33540c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Important Updates on Dividend Adjustment Process of SAMSUNGUSDT TradFi Perpetual Contract (2026-11-06)](https://www.binance.com/en/support/announcement/detail/c88b113255244de1953dd416c4806bc3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures will reconcile 101 won per share whi…
 - [Security Incident | Recovery Update #8: Withdrawals for More Assets to Reopen (2026-11-05)](https://www.binance.com/en/support/announcement/detail/a225a3b6084c41dc8c8dfb33f4de5872)
   - Fellow Binancians,&nbsp; We continue to make progress restoring the withdrawal services and will reopen withdrawals for the assets listed below, beginning at 2026-11-05 04:00 (UTC…
-- [Security Incident | Recovery Update #7: 98% of Stolen Assets Replenished and New PoR Snapshot With Expanded Coverage (2026-11-04)](https://www.binance.com/en/support/announcement/detail/c6ba9aa726974fc6b9332a2c8f63b405)
-  - Fellow Binancians,&nbsp; As committed, Binance will cover the cost of these stolen funds from the recent security incident, not our users. We have already set aside more than 100%…
 
 ### Latest Activities
 
