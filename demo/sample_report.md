@@ -1,49 +1,49 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-08T23:47:42.894765+00:00
+- 生成时间：2026-11-09T03:03:23.623930+00:00
 - 四倍分代币数：3
-- 四倍分 24h 总成交额：972714088.64
+- 四倍分 24h 总成交额：975107073.34
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：118624（按 8200 / 人）
+- 估算参与人数：118915（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 967815917.38 | 列表口径 646461.37 | 涨跌 -9.88% | 振幅 15.40% | 估算人数 118026
-- DNA | Alpha Trade 成交额 4862647.80 | 列表口径 3038800.06 | 涨跌 -5.43% | 振幅 7.27% | 估算人数 593
-- UP | Alpha Trade 成交额 35523.47 | 列表口径 31536667.69 | 涨跌 -3.29% | 振幅 7.89% | 估算人数 4
+- CT | Alpha Trade 成交额 970252904.91 | 列表口径 832312.44 | 涨跌 -3.89% | 振幅 14.92% | 估算人数 118324
+- DNA | Alpha Trade 成交额 4820943.77 | 列表口径 3205005.79 | 涨跌 0.75% | 振幅 7.27% | 估算人数 588
+- UP | Alpha Trade 成交额 33224.66 | 列表口径 31507140.26 | 涨跌 1.75% | 振幅 7.52% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- CT | 分数 60.00 | Alpha Trade 成交额 967815917.38 | 波动 0.36% | 4h 振幅 4.26% | 审计 LOW
-  - Alpha Trade 24h 成交额 967,815,917，流动性 1,036,988
-  - Alpha 列表口径 24h 成交额 646,461
-  - 短周期波动 0.36%
-  - 4h 振幅 4.26%
+- CT | 分数 80.00 | Alpha Trade 成交额 970252904.91 | 波动 0.30% | 4h 振幅 4.75% | 审计 LOW
+  - Alpha Trade 24h 成交额 970,252,905，流动性 1,047,979
+  - Alpha 列表口径 24h 成交额 832,312
+  - 短周期波动 0.30%
+  - 4h 振幅 4.75%
   - 审计风险 LOW
-- DNA | 分数 50.00 | Alpha Trade 成交额 4862647.80 | 波动 0.36% | 4h 振幅 5.01% | 审计 LOW
-  - Alpha Trade 24h 成交额 4,862,648，流动性 1,764,092
-  - Alpha 列表口径 24h 成交额 3,038,800
-  - 短周期波动 0.36%
-  - 4h 振幅 5.01%
+- DNA | 分数 30.00 | Alpha Trade 成交额 4820943.77 | 波动 0.68% | 4h 振幅 6.70% | 审计 LOW
+  - Alpha Trade 24h 成交额 4,820,944，流动性 1,783,007
+  - Alpha 列表口径 24h 成交额 3,205,006
+  - 短周期波动 0.68%
+  - 4h 振幅 6.70%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- JCT / JCTUSDT | 24h 涨跌 305.81% | 资金费率 58.01 bps | 5m 持仓变化 0.27% | 建议通知
-- BMT / BMTUSDT | 24h 涨跌 8.84% | 资金费率 -64.06 bps | 5m 持仓变化 0.07% | 建议通知
-- UAI / UAIUSDT | 24h 涨跌 -50.04% | 资金费率 0.50 bps | 5m 持仓变化 0.19% | 建议通知
-- AIOT / AIOTUSDT | 24h 涨跌 42.01% | 资金费率 4.06 bps | 5m 持仓变化 0.36% | 建议通知
-- HUMA / HUMAUSDT | 24h 涨跌 -14.41% | 资金费率 -13.10 bps | 5m 持仓变化 -0.14% | 建议通知
-- PLAY / PLAYUSDT | 24h 涨跌 -13.54% | 资金费率 11.57 bps | 5m 持仓变化 -0.13% | 继续观察
-- PLAY / PLAYUSDT | 24h 涨跌 -13.54% | 资金费率 11.57 bps | 5m 持仓变化 -0.13% | 继续观察
-- IDOL / IDOLUSDT | 24h 涨跌 -9.68% | 资金费率 9.08 bps | 5m 持仓变化 -0.02% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 230.92% | 资金费率 13.26 bps | 5m 持仓变化 0.51% | 建议通知
+- BMT / BMTUSDT | 24h 涨跌 -1.19% | 资金费率 -73.99 bps | 5m 持仓变化 0.06% | 建议通知
+- ACN / ACNUSDT | 24h 涨跌 0.46% | 资金费率 -43.49 bps | 5m 持仓变化 0.36% | 继续观察
+- UAI / UAIUSDT | 24h 涨跌 -39.53% | 资金费率 0.50 bps | 5m 持仓变化 0.17% | 建议通知
+- AIOT / AIOTUSDT | 24h 涨跌 23.07% | 资金费率 4.38 bps | 5m 持仓变化 -0.03% | 建议通知
+- ERA / ERAUSDT | 24h 涨跌 0.69% | 资金费率 -25.58 bps | 5m 持仓变化 -0.08% | 建议通知
+- PLAY / PLAYUSDT | 24h 涨跌 -13.73% | 资金费率 14.26 bps | 5m 持仓变化 0.08% | 继续观察
+- PLAY / PLAYUSDT | 24h 涨跌 -13.73% | 资金费率 14.26 bps | 5m 持仓变化 0.08% | 继续观察
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Will List Predict (PREDICT) with Seed Tag Applied
 - Latest Binance News：Recovery Update #9: Withdrawals for More Assets to Reopen (2026-11-06)
-- Latest Activities：Binance Launches Limited-Time Spot Taker Program Promotion (2026-11-09)
+- Latest Activities：Word of the Day: Test Your Knowledge on “Choose Your Binance AI” to Unlock BNB Rewards!
 
 ### 最近 Alpha 上线
 
@@ -68,9 +68,9 @@
 
 ### Latest Activities
 
+- [Word of the Day: Test Your Knowledge on “Choose Your Binance AI” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/0ea740cbfca045ed935964f4555dc689)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
 - [Binance Launches Limited-Time Spot Taker Program Promotion (2026-11-09)](https://www.binance.com/en/support/announcement/detail/e0ca2d7ff4714693baa4be02a45412ee)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, As Binance conducts regu…
 - [November Affiliate Dual-Star Program: Affiliate Rewards Up to 12,000 USDC & New Referral Rewards Up to 10 USDC!](https://www.binance.com/en/support/announcement/detail/721201a73d724ee580a2fa6a2bd1b333)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is thrille…
-- [November Referral Tournament: Invite Friends, Climb the Dual Leaderboards & Earn Up to 3,000 USDC](https://www.binance.com/en/support/announcement/detail/a8ed3a09053e4e49bbf313f314f776f0)
-  - This is a general announcement. Products and services mentioned here may not be available in your region. Applicable terms and conditions apply. Fellow Binancians, Binance is exci…
