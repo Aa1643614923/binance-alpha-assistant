@@ -1,49 +1,49 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-12T02:23:23.362340+00:00
+- 生成时间：2026-11-12T10:03:25.723779+00:00
 - 四倍分代币数：3
-- 四倍分 24h 总成交额：940450189.10
+- 四倍分 24h 总成交额：946076937.43
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：114689（按 8200 / 人）
+- 估算参与人数：115375（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 938002347.93 | 列表口径 1126565.04 | 涨跌 5.40% | 振幅 15.31% | 估算人数 114391
-- DNA | Alpha Trade 成交额 2224393.23 | 列表口径 29618534.70 | 涨跌 3.86% | 振幅 9.44% | 估算人数 271
-- UP | Alpha Trade 成交额 223447.93 | 列表口径 11611351.52 | 涨跌 25.29% | 振幅 33.49% | 估算人数 27
+- CT | Alpha Trade 成交额 943706933.71 | 列表口径 789619.06 | 涨跌 5.41% | 振幅 12.78% | 估算人数 115086
+- DNA | Alpha Trade 成交额 2075790.75 | 列表口径 33788476.68 | 涨跌 1.74% | 振幅 8.90% | 估算人数 253
+- UP | Alpha Trade 成交额 294212.98 | 列表口径 19669072.76 | 涨跌 18.51% | 振幅 35.61% | 估算人数 36
 
 ## 稳定刷分推荐
 
-- CT | 分数 80.00 | Alpha Trade 成交额 938002347.93 | 波动 0.45% | 4h 振幅 4.35% | 审计 LOW
-  - Alpha Trade 24h 成交额 938,002,348，流动性 1,013,240
-  - Alpha 列表口径 24h 成交额 1,126,565
-  - 短周期波动 0.45%
-  - 4h 振幅 4.35%
+- CT | 分数 70.00 | Alpha Trade 成交额 943706933.71 | 波动 0.30% | 4h 振幅 3.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 943,706,934，流动性 1,015,783
+  - Alpha 列表口径 24h 成交额 789,619
+  - 短周期波动 0.30%
+  - 4h 振幅 3.42%
   - 审计风险 LOW
-- DNA | 分数 30.00 | Alpha Trade 成交额 2224393.23 | 波动 0.61% | 4h 振幅 8.75% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,224,393，流动性 1,784,059
-  - Alpha 列表口径 24h 成交额 29,618,535
-  - 短周期波动 0.61%
-  - 4h 振幅 8.75%
+- DNA | 分数 40.00 | Alpha Trade 成交额 2075790.75 | 波动 0.36% | 4h 振幅 2.64% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,075,791，流动性 1,781,055
+  - Alpha 列表口径 24h 成交额 33,788,477
+  - 短周期波动 0.36%
+  - 4h 振幅 2.64%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- AGT / AGTUSDT | 24h 涨跌 198.67% | 资金费率 9.35 bps | 5m 持仓变化 0.09% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -10.47% | 资金费率 -28.04 bps | 5m 持仓变化 0.05% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 14.81% | 资金费率 -22.42 bps | 5m 持仓变化 0.17% | 建议通知
-- KGEN / KGENUSDT | 24h 涨跌 24.70% | 资金费率 0.79 bps | 5m 持仓变化 0.62% | 建议通知
-- PLAY / PLAYUSDT | 24h 涨跌 -19.24% | 资金费率 7.78 bps | 5m 持仓变化 -0.13% | 建议通知
-- PLAY / PLAYUSDT | 24h 涨跌 -19.24% | 资金费率 7.78 bps | 5m 持仓变化 -0.13% | 建议通知
-- BARD / BARDUSDT | 24h 涨跌 -6.04% | 资金费率 -19.10 bps | 5m 持仓变化 0.12% | 建议通知
-- H / HUSDT | 24h 涨跌 -24.04% | 资金费率 0.50 bps | 5m 持仓变化 -0.09% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -7.29% | 资金费率 -37.91 bps | 5m 持仓变化 -0.09% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 -38.37% | 资金费率 6.93 bps | 5m 持仓变化 -0.05% | 建议通知
+- ERA / ERAUSDT | 24h 涨跌 18.36% | 资金费率 -14.58 bps | 5m 持仓变化 2.11% | 建议通知
+- ARIA / ARIAUSDT | 24h 涨跌 -32.58% | 资金费率 0.50 bps | 5m 持仓变化 0.10% | 建议通知
+- PRL / PRLUSDT | 24h 涨跌 5.56% | 资金费率 -26.55 bps | 5m 持仓变化 -0.44% | 建议通知
+- AGT / AGTUSDT | 24h 涨跌 23.71% | 资金费率 3.22 bps | 5m 持仓变化 0.05% | 建议通知
+- BOT / BOTUSDT | 24h 涨跌 -1.29% | 资金费率 -25.18 bps | 5m 持仓变化 0.05% | 继续观察
+- H / HUSDT | 24h 涨跌 -22.18% | 资金费率 0.50 bps | 5m 持仓变化 -0.07% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-12)
-- Latest Binance News：Binance Convert and Buy/Sell Now Support Fiat Purchases of bStocks
-- Latest Activities：Fund Your First Recurring Buy - Deposit USD and Earn Rewards
+- Latest Binance News：Notice on ADR Fees for US Stocks on Binance Stock Trading - October 2026
+- Latest Activities：Binance Lite Loan Promotion Extended: Enjoy Simple Borrowing with 50% Off Service Fee! (2026-11-13)
 
 ### 最近 Alpha 上线
 
@@ -59,18 +59,18 @@
 
 ### Latest Binance News
 
-- [Binance Convert and Buy/Sell Now Support Fiat Purchases of bStocks](https://www.binance.com/en/support/announcement/detail/99ee5d4197904f45a5337987ea72c22b)
-  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; bStocks are Tokenized Securities issued by BTech Holdings Limited…
-- [Binance Earn Yield Arena: Earn Up to 20% APR With This Week’s New Limited-Time Offers! (2026-11-11)](https://www.binance.com/en/support/announcement/detail/ab1d0c86a83e4e7bbb89be0acd517106)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
-- [Binance Will Support Sandisk Corporation (SNDK) 8-for-1 Forward Stock Split via bStocks](https://www.binance.com/en/support/announcement/detail/ec32e6657ae341b3b57f1b154c330c6d)
-  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
+- [Notice on ADR Fees for US Stocks on Binance Stock Trading - October 2026](https://www.binance.com/en/support/announcement/detail/a6de0a8d9ec047ee9615833bfad239e7)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance would like to inform users of the appl…
+- [Binance Earn: Dual Investment Supports HYPE](https://www.binance.com/en/support/announcement/detail/de935623913744e2810fab1a8e3446e5)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is ex…
+- [Binance Updates Commodity Options Settlement Price Rule](https://www.binance.com/en/support/announcement/detail/d3b61e5d603e4d0d8ec716496345765a)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the settlement price rule for Co…
 
 ### Latest Activities
 
+- [Binance Lite Loan Promotion Extended: Enjoy Simple Borrowing with 50% Off Service Fee! (2026-11-13)](https://www.binance.com/en/support/announcement/detail/d55c2b2278034806ae44967fa7a2e62c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to ex…
+- [Binance Button Game: Play to Win $30,000 in Anthropic bStocks or USDC!](https://www.binance.com/en/support/announcement/detail/4506f63bdfed49c2bac60cbe4e1e8eff)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, We are introducing…
 - [Fund Your First Recurring Buy - Deposit USD and Earn Rewards](https://www.binance.com/en/support/announcement/detail/252d3a2cb7a847428699458241796399)
   - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to la…
-- [Binance Academy Bitcoin Page: Complete Quiz to Earn BTC Rewards This November 2026!](https://www.binance.com/en/support/announcement/detail/6b80fb6b884e4f5bb60be4ec475d6190)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Academy is pleased to announce that the Bitc…
-- [Binance Launches Limited-Time Futures Taker Program Promotion (2026-11-10)](https://www.binance.com/en/support/announcement/detail/62c8e6f2b4d748ffa8bdb536b798d516)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, As Binance conducts regu…
