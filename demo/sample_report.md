@@ -1,49 +1,65 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-12T10:03:25.723779+00:00
-- 四倍分代币数：3
-- 四倍分 24h 总成交额：946076937.43
+- 生成时间：2026-11-12T18:12:18.037846+00:00
+- 四倍分代币数：7
+- 四倍分 24h 总成交额：975096297.47
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：115375（按 8200 / 人）
+- 估算参与人数：118914（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 943706933.71 | 列表口径 789619.06 | 涨跌 5.41% | 振幅 12.78% | 估算人数 115086
-- DNA | Alpha Trade 成交额 2075790.75 | 列表口径 33788476.68 | 涨跌 1.74% | 振幅 8.90% | 估算人数 253
-- UP | Alpha Trade 成交额 294212.98 | 列表口径 19669072.76 | 涨跌 18.51% | 振幅 35.61% | 估算人数 36
+- CT | Alpha Trade 成交额 969619179.00 | 列表口径 1192063.67 | 涨跌 -4.01% | 振幅 9.29% | 估算人数 118246
+- DNA | Alpha Trade 成交额 2051221.89 | 列表口径 31466865.22 | 涨跌 -0.09% | 振幅 8.90% | 估算人数 250
+- KGEN | Alpha Trade 成交额 1961654.88 | 列表口径 12399862.59 | 涨跌 -11.87% | 振幅 58.53% | 估算人数 239
+- B2 | Alpha Trade 成交额 861058.59 | 列表口径 2969633.97 | 涨跌 -10.71% | 振幅 15.43% | 估算人数 105
+- UP | Alpha Trade 成交额 306490.64 | 列表口径 23251348.02 | 涨跌 5.17% | 振幅 29.15% | 估算人数 37
+- VELVET | Alpha Trade 成交额 228145.76 | 列表口径 15945.00 | 涨跌 -0.08% | 振幅 11.20% | 估算人数 28
+- VELO | Alpha Trade 成交额 68546.71 | 列表口径 179554.10 | 涨跌 -3.23% | 振幅 5.43% | 估算人数 8
 
 ## 稳定刷分推荐
 
-- CT | 分数 70.00 | Alpha Trade 成交额 943706933.71 | 波动 0.30% | 4h 振幅 3.42% | 审计 LOW
-  - Alpha Trade 24h 成交额 943,706,934，流动性 1,015,783
-  - Alpha 列表口径 24h 成交额 789,619
-  - 短周期波动 0.30%
-  - 4h 振幅 3.42%
+- CT | 分数 76.00 | Alpha Trade 成交额 969619179.00 | 波动 0.42% | 4h 振幅 4.00% | 审计 LOW
+  - Alpha Trade 24h 成交额 969,619,179，流动性 1,007,080
+  - Alpha 列表口径 24h 成交额 1,192,064
+  - 短周期波动 0.42%
+  - 4h 振幅 4.00%
   - 审计风险 LOW
-- DNA | 分数 40.00 | Alpha Trade 成交额 2075790.75 | 波动 0.36% | 4h 振幅 2.64% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,075,791，流动性 1,781,055
-  - Alpha 列表口径 24h 成交额 33,788,477
-  - 短周期波动 0.36%
-  - 4h 振幅 2.64%
+- DNA | 分数 59.91 | Alpha Trade 成交额 2051221.89 | 波动 0.43% | 4h 振幅 2.97% | 审计 LOW
+  - Alpha Trade 24h 成交额 2,051,222，流动性 1,771,929
+  - Alpha 列表口径 24h 成交额 31,466,865
+  - 短周期波动 0.43%
+  - 4h 振幅 2.97%
+  - 审计风险 LOW
+- B2 | 分数 53.60 | Alpha Trade 成交额 861058.59 | 波动 0.47% | 4h 振幅 4.26% | 审计 LOW
+  - Alpha Trade 24h 成交额 861,059，流动性 707,699
+  - Alpha 列表口径 24h 成交额 2,969,634
+  - 短周期波动 0.47%
+  - 4h 振幅 4.26%
+  - 审计风险 LOW
+- KGEN | 分数 17.42 | Alpha Trade 成交额 1961654.88 | 波动 1.01% | 4h 振幅 12.75% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,961,655，流动性 610,851
+  - Alpha 列表口径 24h 成交额 12,399,863
+  - 短周期波动 1.01%
+  - 4h 振幅 12.75%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- BTW / BTWUSDT | 24h 涨跌 -7.29% | 资金费率 -37.91 bps | 5m 持仓变化 -0.09% | 建议通知
-- JCT / JCTUSDT | 24h 涨跌 -38.37% | 资金费率 6.93 bps | 5m 持仓变化 -0.05% | 建议通知
-- ERA / ERAUSDT | 24h 涨跌 18.36% | 资金费率 -14.58 bps | 5m 持仓变化 2.11% | 建议通知
-- ARIA / ARIAUSDT | 24h 涨跌 -32.58% | 资金费率 0.50 bps | 5m 持仓变化 0.10% | 建议通知
-- PRL / PRLUSDT | 24h 涨跌 5.56% | 资金费率 -26.55 bps | 5m 持仓变化 -0.44% | 建议通知
-- AGT / AGTUSDT | 24h 涨跌 23.71% | 资金费率 3.22 bps | 5m 持仓变化 0.05% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 -1.29% | 资金费率 -25.18 bps | 5m 持仓变化 0.05% | 继续观察
-- H / HUSDT | 24h 涨跌 -22.18% | 资金费率 0.50 bps | 5m 持仓变化 -0.07% | 建议通知
+- BARD / BARDUSDT | 24h 涨跌 47.08% | 资金费率 -129.05 bps | 5m 持仓变化 0.88% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -10.56% | 资金费率 -72.47 bps | 5m 持仓变化 -0.07% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 -55.03% | 资金费率 0.31 bps | 5m 持仓变化 -0.10% | 建议通知
+- ARIA / ARIAUSDT | 24h 涨跌 -32.00% | 资金费率 0.50 bps | 5m 持仓变化 0.18% | 建议通知
+- MAGMA / MAGMAUSDT | 24h 涨跌 25.21% | 资金费率 1.94 bps | 5m 持仓变化 -0.13% | 建议通知
+- AIN / AINUSDT | 24h 涨跌 -23.60% | 资金费率 0.50 bps | 5m 持仓变化 0.05% | 建议通知
+- PLAY / PLAYUSDT | 24h 涨跌 20.43% | 资金费率 2.94 bps | 5m 持仓变化 0.08% | 建议通知
+- PLAY / PLAYUSDT | 24h 涨跌 20.43% | 资金费率 2.94 bps | 5m 持仓变化 0.08% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-12)
-- Latest Binance News：Notice on ADR Fees for US Stocks on Binance Stock Trading - October 2026
-- Latest Activities：Binance Lite Loan Promotion Extended: Enjoy Simple Borrowing with 50% Off Service Fee! (2026-11-13)
+- Latest Binance News：Binance Completes Coverage of Assets Impacted in Security Incident; New Proof of Reserves Published
+- Latest Activities：Binance Stocks University: Trade bStocks to Share 2,000 USDC!
 
 ### 最近 Alpha 上线
 
@@ -59,18 +75,25 @@
 
 ### Latest Binance News
 
+- [Binance Completes Coverage of Assets Impacted in Security Incident; New Proof of Reserves Published](https://www.binance.com/en/support/announcement/detail/0729ad59cde74700b4eaa96c33441e71)
+  - Fellow Binancians, Binance has completed coverage of assets impacted in the security incident. Reflecting its ongoing commitment to transparency, Binance has also published a new…
+- [Introducing Binance Square Leaderboards: Discover Top Traders and Share Your Achievements](https://www.binance.com/en/support/announcement/detail/ab1542773b3b4b28b3722fc4299cd12c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is excited…
 - [Notice on ADR Fees for US Stocks on Binance Stock Trading - October 2026](https://www.binance.com/en/support/announcement/detail/a6de0a8d9ec047ee9615833bfad239e7)
   - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, Binance would like to inform users of the appl…
-- [Binance Earn: Dual Investment Supports HYPE](https://www.binance.com/en/support/announcement/detail/de935623913744e2810fab1a8e3446e5)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is ex…
-- [Binance Updates Commodity Options Settlement Price Rule](https://www.binance.com/en/support/announcement/detail/d3b61e5d603e4d0d8ec716496345765a)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the settlement price rule for Co…
 
 ### Latest Activities
 
+- [Binance Stocks University: Trade bStocks to Share 2,000 USDC!](https://www.binance.com/en/support/announcement/detail/5635d4502cc840c39b3b6e2d2f28a1ca)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Class is in sessio…
+- [Binance Alpha Trading Competition: Trade LAB (LAB) and Share $200K Worth of Rewards (2026-11-12)](https://www.binance.com/en/support/announcement/detail/0b9fd090904a41e2800da18af924b376)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
 - [Binance Lite Loan Promotion Extended: Enjoy Simple Borrowing with 50% Off Service Fee! (2026-11-13)](https://www.binance.com/en/support/announcement/detail/d55c2b2278034806ae44967fa7a2e62c)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Binance is excited to ex…
-- [Binance Button Game: Play to Win $30,000 in Anthropic bStocks or USDC!](https://www.binance.com/en/support/announcement/detail/4506f63bdfed49c2bac60cbe4e1e8eff)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, We are introducing…
-- [Fund Your First Recurring Buy - Deposit USD and Earn Rewards](https://www.binance.com/en/support/announcement/detail/252d3a2cb7a847428699458241796399)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to la…
+
+## Warnings
+
+- alpha_ticker:ALPHA_267U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_414U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_162U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
+- alpha_ticker:ALPHA_229U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
