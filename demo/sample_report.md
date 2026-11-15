@@ -1,46 +1,46 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-15T09:28:24.618746+00:00
+- 生成时间：2026-11-15T16:31:40.480990+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1007341665.34
+- 四倍分 24h 总成交额：1047556992.69
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：122847（按 8200 / 人）
+- 估算参与人数：127751（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 1006277136.76 | 列表口径 1651590.83 | 涨跌 0.21% | 振幅 15.11% | 估算人数 122717
-- KGEN | Alpha Trade 成交额 272822.09 | 列表口径 2554290.64 | 涨跌 -2.78% | 振幅 14.11% | 估算人数 33
-- UP | Alpha Trade 成交额 235223.13 | 列表口径 32627228.67 | 涨跌 14.23% | 振幅 34.81% | 估算人数 29
-- B2 | Alpha Trade 成交额 211357.24 | 列表口径 1523379.61 | 涨跌 -0.46% | 振幅 8.88% | 估算人数 26
-- RAVE | Alpha Trade 成交额 168646.62 | 列表口径 1476711.55 | 涨跌 -7.37% | 振幅 17.20% | 估算人数 21
-- VELVET | Alpha Trade 成交额 144588.98 | 列表口径 23176.56 | 涨跌 0.71% | 振幅 20.54% | 估算人数 18
-- VELO | Alpha Trade 成交额 31890.51 | 列表口径 420083.75 | 涨跌 -0.23% | 振幅 10.48% | 估算人数 4
+- CT | Alpha Trade 成交额 1046521440.26 | 列表口径 2175297.39 | 涨跌 4.50% | 振幅 15.32% | 估算人数 127625
+- UP | Alpha Trade 成交额 388491.55 | 列表口径 30174926.90 | 涨跌 8.45% | 振幅 50.31% | 估算人数 47
+- KGEN | Alpha Trade 成交额 202650.53 | 列表口径 2121120.81 | 涨跌 2.44% | 振幅 10.59% | 估算人数 25
+- B2 | Alpha Trade 成交额 163744.08 | 列表口径 1281563.21 | 涨跌 1.36% | 振幅 6.41% | 估算人数 20
+- VELVET | Alpha Trade 成交额 147981.08 | 列表口径 24075.56 | 涨跌 6.18% | 振幅 20.54% | 估算人数 18
+- RAVE | Alpha Trade 成交额 108289.18 | 列表口径 1278429.15 | 涨跌 -2.76% | 振幅 10.48% | 估算人数 13
+- VELO | Alpha Trade 成交额 24396.01 | 列表口径 337489.46 | 涨跌 -0.09% | 振幅 10.48% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- CT | 分数 55.00 | Alpha Trade 成交额 1006277136.76 | 波动 0.28% | 4h 振幅 3.67% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,006,277,137，流动性 1,016,802
-  - Alpha 列表口径 24h 成交额 1,651,591
-  - 短周期波动 0.28%
-  - 4h 振幅 3.67%
+- CT | 分数 55.00 | Alpha Trade 成交额 1046521440.26 | 波动 0.33% | 4h 振幅 4.23% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,046,521,440，流动性 1,028,005
+  - Alpha 列表口径 24h 成交额 2,175,297
+  - 短周期波动 0.33%
+  - 4h 振幅 4.23%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- SOPH / SOPHUSDT | 24h 涨跌 -15.83% | 资金费率 -200.00 bps | 5m 持仓变化 0.89% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 93.56% | 资金费率 2.76 bps | 5m 持仓变化 -0.11% | 建议通知
-- ASTER / ASTERUSDT | 24h 涨跌 -16.50% | 资金费率 0.50 bps | 5m 持仓变化 0.15% | 建议通知
-- MAGMA / MAGMAUSDT | 24h 涨跌 -9.88% | 资金费率 -8.96 bps | 5m 持仓变化 -0.16% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 1.45% | 资金费率 15.18 bps | 5m 持仓变化 0.04% | 建议通知
-- SHELL / SHELLUSDT | 24h 涨跌 -16.93% | 资金费率 -0.09 bps | 5m 持仓变化 0.22% | 建议通知
-- BARD / BARDUSDT | 24h 涨跌 -9.05% | 资金费率 -7.65 bps | 5m 持仓变化 -0.13% | 建议通知
-- BMT / BMTUSDT | 24h 涨跌 -6.18% | 资金费率 -11.33 bps | 5m 持仓变化 -0.01% | 建议通知
+- SOPH / SOPHUSDT | 24h 涨跌 -39.99% | 资金费率 -29.16 bps | 5m 持仓变化 0.51% | 建议通知
+- EVAA / EVAAUSDT | 24h 涨跌 34.92% | 资金费率 6.73 bps | 5m 持仓变化 0.15% | 建议通知
+- ARIA / ARIAUSDT | 24h 涨跌 34.25% | 资金费率 1.61 bps | 5m 持仓变化 0.16% | 建议通知
+- JCT / JCTUSDT | 24h 涨跌 17.91% | 资金费率 3.71 bps | 5m 持仓变化 0.41% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 -10.61% | 资金费率 -8.47 bps | 5m 持仓变化 0.07% | 建议通知
+- BARD / BARDUSDT | 24h 涨跌 -11.07% | 资金费率 -10.03 bps | 5m 持仓变化 0.22% | 建议通知
+- TAC / TACUSDT | 24h 涨跌 14.14% | 资金费率 7.25 bps | 5m 持仓变化 -0.15% | 建议通知
+- TAC / TACUSDT | 24h 涨跌 14.14% | 资金费率 7.25 bps | 5m 持仓变化 -0.15% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-12)
-- Latest Binance News：Recovery Update: Withdrawals Reopened for More Networks (2026-11-14)
+- Latest Binance News：Binance Futures Will Adjust The Contract Size of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and Rename The Ticker to USDⓈ-Margined ANTUSDT Pre-IPO Perp (2026-11-17)
 - Latest Activities：Binance Alpha Trading Competition: Trade Collect on Fanable (COLLECT) and Share $200K Worth of Rewards (2026-11-13)
 
 ### 最近 Alpha 上线
@@ -57,12 +57,12 @@
 
 ### Latest Binance News
 
+- [Binance Futures Will Adjust The Contract Size of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and Rename The Ticker to USDⓈ-Margined ANTUSDT Pre-IPO Perp (2026-11-17)](https://www.binance.com/en/support/announcement/detail/0dc9c6bdb729413ba54ba68ca83403e1)
+  - Fellow Binancians, Binance Futures will adjust the Contract Size of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and rename the ticker to USDⓈ-Margined ANTUSDT Pre-IPO Perp commencing…
 - [Recovery Update: Withdrawals Reopened for More Networks (2026-11-14)](https://www.binance.com/en/support/announcement/detail/432646a7f7c34c2a85b69db99af32c16)
   - Fellow Binancians,&nbsp; This week, Binance has reopened withdrawals for 87 networks: APT, HYPE, 0G, BERA, CELO, CHZ2, EGLD, ETC, ETHW, FRAXTAL, SEIEVM, ZKSYNCERA, LTC, NEAR, ARK,…
 - [Notice on Share Count Basis of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp](https://www.binance.com/en/support/announcement/detail/d5d3474a9b054f23a1867aff5cdece3f)
   - Fellow Binancians, ANTHROPICUSDT Pre-IPO Perp is currently quoted on an estimated share count of 1 billion shares (as specified in the Contract Specifications published on 2026-06…
-- [Binance Completes Coverage of Assets Impacted in Security Incident; New Proof of Reserves Published](https://www.binance.com/en/support/announcement/detail/0729ad59cde74700b4eaa96c33441e71)
-  - Fellow Binancians, Binance has completed coverage of assets impacted in the security incident. Reflecting its ongoing commitment to transparency, Binance has also published a new…
 
 ### Latest Activities
 
