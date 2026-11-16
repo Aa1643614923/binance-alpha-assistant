@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-16T07:56:39.441431+00:00
+- 生成时间：2026-11-16T18:15:43.346796+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：1049535050.05
+- 四倍分 24h 总成交额：1006416322.90
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：127992（按 8200 / 人）
+- 估算参与人数：122734（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 1048751109.35 | 列表口径 2153515.88 | 涨跌 0.61% | 振幅 6.93% | 估算人数 127896
-- UP | Alpha Trade 成交额 423474.65 | 列表口径 23902208.72 | 涨跌 -1.83% | 振幅 37.64% | 估算人数 52
-- KGEN | Alpha Trade 成交额 117111.58 | 列表口径 1420256.84 | 涨跌 4.16% | 振幅 8.94% | 估算人数 14
-- VELVET | Alpha Trade 成交额 95279.07 | 列表口径 17183.22 | 涨跌 -1.38% | 振幅 19.11% | 估算人数 12
-- B2 | Alpha Trade 成交额 87965.87 | 列表口径 609148.27 | 涨跌 0.11% | 振幅 4.06% | 估算人数 11
-- RAVE | Alpha Trade 成交额 33992.10 | 列表口径 600643.58 | 涨跌 -2.32% | 振幅 5.62% | 估算人数 4
-- VELO | Alpha Trade 成交额 26117.43 | 列表口径 254916.00 | 涨跌 2.68% | 振幅 9.41% | 估算人数 3
+- CT | Alpha Trade 成交额 1005712759.12 | 列表口径 1297286.93 | 涨跌 0.77% | 振幅 5.87% | 估算人数 122648
+- UP | Alpha Trade 成交额 323538.68 | 列表口径 13612024.12 | 涨跌 11.68% | 振幅 1695.33% | 估算人数 39
+- KGEN | Alpha Trade 成交额 124226.62 | 列表口径 1646291.13 | 涨跌 5.41% | 振幅 10.23% | 估算人数 15
+- VELVET | Alpha Trade 成交额 119844.48 | 列表口径 21851.78 | 涨跌 10.31% | 振幅 17.72% | 估算人数 15
+- B2 | Alpha Trade 成交额 86758.92 | 列表口径 678344.35 | 涨跌 -5.81% | 振幅 7.94% | 估算人数 11
+- RAVE | Alpha Trade 成交额 27734.91 | 列表口径 694904.71 | 涨跌 0.05% | 振幅 5.52% | 估算人数 3
+- VELO | Alpha Trade 成交额 21460.18 | 列表口径 217535.38 | 涨跌 -3.55% | 振幅 8.15% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- CT | 分数 55.00 | Alpha Trade 成交额 1048751109.35 | 波动 0.25% | 4h 振幅 2.55% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,048,751,109，流动性 1,015,510
-  - Alpha 列表口径 24h 成交额 2,153,516
-  - 短周期波动 0.25%
-  - 4h 振幅 2.55%
+- CT | 分数 55.00 | Alpha Trade 成交额 1005712759.12 | 波动 0.34% | 4h 振幅 3.60% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,005,712,759，流动性 1,018,005
+  - Alpha 列表口径 24h 成交额 1,297,287
+  - 短周期波动 0.34%
+  - 4h 振幅 3.60%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- SKR / SKRUSDT | 24h 涨跌 29.37% | 资金费率 -135.70 bps | 5m 持仓变化 -0.40% | 建议通知
-- BIRB / BIRBUSDT | 24h 涨跌 14.45% | 资金费率 -51.77 bps | 5m 持仓变化 -0.39% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 56.70% | 资金费率 6.64 bps | 5m 持仓变化 0.33% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 -55.62% | 资金费率 0.50 bps | 5m 持仓变化 -0.05% | 建议通知
-- SOPH / SOPHUSDT | 24h 涨跌 -46.69% | 资金费率 -3.59 bps | 5m 持仓变化 0.41% | 建议通知
-- TAC / TACUSDT | 24h 涨跌 28.52% | 资金费率 3.06 bps | 5m 持仓变化 0.19% | 建议通知
-- TAC / TACUSDT | 24h 涨跌 28.52% | 资金费率 3.06 bps | 5m 持仓变化 0.19% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 -30.82% | 资金费率 0.50 bps | 5m 持仓变化 0.24% | 建议通知
+- BLESS / BLESSUSDT | 24h 涨跌 113.12% | 资金费率 7.56 bps | 5m 持仓变化 1.01% | 建议通知
+- SKR / SKRUSDT | 24h 涨跌 16.52% | 资金费率 -57.45 bps | 5m 持仓变化 -0.22% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 -44.21% | 资金费率 3.31 bps | 5m 持仓变化 -0.01% | 建议通知
+- AIOT / AIOTUSDT | 24h 涨跌 -44.42% | 资金费率 -3.21 bps | 5m 持仓变化 -0.12% | 建议通知
+- HUMA / HUMAUSDT | 24h 涨跌 26.09% | 资金费率 -12.40 bps | 5m 持仓变化 -0.27% | 建议通知
+- SPACE / SPACEUSDT | 24h 涨跌 39.67% | 资金费率 0.50 bps | 5m 持仓变化 -0.17% | 建议通知
+- EVAA / EVAAUSDT | 24h 涨跌 30.91% | 资金费率 4.31 bps | 5m 持仓变化 -0.03% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 -28.26% | 资金费率 0.50 bps | 5m 持仓变化 0.33% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-12)
-- Latest Binance News：Binance Will Support the Microsoft Corporation (MSFT) and Applied Materials, Inc. (AMAT) Cash Dividend Distribution via bStocks
-- Latest Activities：Binance x Pick n Pay: From Black Friday to New Year, Earn 20% Cashback in USDC!
+- Latest Binance News：Introducing Binance Pay Later: Spend Without Selling Your Crypto and Enjoy 0% Interest Until the First of Next Month
+- Latest Activities：Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!
 
 ### 最近 Alpha 上线
 
@@ -57,21 +57,21 @@
 
 ### Latest Binance News
 
+- [Introducing Binance Pay Later: Spend Without Selling Your Crypto and Enjoy 0% Interest Until the First of Next Month](https://www.binance.com/en/support/announcement/detail/5f041987d1ca4252a3c59ad27eff3e28)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [Binance Will Support the Microsoft Corporation (MSFT) and Applied Materials, Inc. (AMAT) Cash Dividend Distribution via bStocks](https://www.binance.com/en/support/announcement/detail/d1bc1b9ca8ab4bb9800b205162964aea)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Futures Will Adjust The Contract Size of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and Rename The Ticker to USDⓈ-Margined ANTUSDT Pre-IPO Perp (2026-11-17)](https://www.binance.com/en/support/announcement/detail/0dc9c6bdb729413ba54ba68ca83403e1)
   - Fellow Binancians, Binance Futures will adjust the Contract Size of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and rename the ticker to USDⓈ-Margined ANTUSDT Pre-IPO Perp commencing…
-- [Recovery Update: Withdrawals Reopened for More Networks (2026-11-14)](https://www.binance.com/en/support/announcement/detail/432646a7f7c34c2a85b69db99af32c16)
-  - Fellow Binancians,&nbsp; This week, Binance has reopened withdrawals for 87 networks: APT, HYPE, 0G, BERA, CELO, CHZ2, EGLD, ETC, ETHW, FRAXTAL, SEIEVM, ZKSYNCERA, LTC, NEAR, ARK,…
 
 ### Latest Activities
 
+- [Trade Futures & Win: Complete Tasks to Share 200 BNB in Rewards!](https://www.binance.com/en/support/announcement/detail/846cac318e224304af0bcb4364305220)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Futures is launching a new promotion for all…
 - [Binance x Pick n Pay: From Black Friday to New Year, Earn 20% Cashback in USDC!](https://www.binance.com/en/support/announcement/detail/56549e5045354813bbf8234d34fe8959)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to announce that Binance Pay now…
 - [Word of the Day: Test Your Knowledge on “Stock Options Got Better” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/e1416125fa44407f92af70b594b215a3)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Disclaimer: This is not available for…
-- [Africa Mobile Money Buy Crypto: Unlock a 20% Bonus Tiered APR on USDC Simple Earn Flexible](https://www.binance.com/en/support/announcement/detail/3de1570577714ebea0ef67ab4aad554a)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is launching a t…
 
 ## Warnings
 
