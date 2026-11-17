@@ -1,47 +1,47 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-17T10:13:29.179556+00:00
+- 生成时间：2026-11-17T19:13:09.993774+00:00
 - 四倍分代币数：7
-- 四倍分 24h 总成交额：991364663.06
+- 四倍分 24h 总成交额：1001689522.56
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：120898（按 8200 / 人）
+- 估算参与人数：122157（按 8200 / 人）
 
 ## 四倍分代币
 
-- CT | Alpha Trade 成交额 990585439.23 | 列表口径 765298.90 | 涨跌 7.57% | 振幅 11.61% | 估算人数 120803
-- UP | Alpha Trade 成交额 291968.21 | 列表口径 6637899.36 | 涨跌 4.05% | 振幅 1562.19% | 估算人数 36
-- VELVET | Alpha Trade 成交额 164789.63 | 列表口径 25660.49 | 涨跌 6.67% | 振幅 14.29% | 估算人数 20
-- B2 | Alpha Trade 成交额 140869.06 | 列表口径 845839.43 | 涨跌 -4.56% | 振幅 6.51% | 估算人数 17
-- KGEN | Alpha Trade 成交额 132765.31 | 列表口径 1462926.31 | 涨跌 -0.51% | 振幅 26.58% | 估算人数 16
-- RAVE | Alpha Trade 成交额 33675.12 | 列表口径 596552.41 | 涨跌 0.27% | 振幅 5.25% | 估算人数 4
-- VELO | Alpha Trade 成交额 15156.52 | 列表口径 240854.78 | 涨跌 -2.83% | 振幅 9.54% | 估算人数 2
+- CT | Alpha Trade 成交额 1000754377.86 | 列表口径 900194.19 | 涨跌 4.41% | 振幅 15.32% | 估算人数 122043
+- UP | Alpha Trade 成交额 404267.74 | 列表口径 20446696.32 | 涨跌 4.88% | 振幅 46.35% | 估算人数 49
+- B2 | Alpha Trade 成交额 181324.57 | 列表口径 843248.27 | 涨跌 -3.86% | 振幅 7.11% | 估算人数 22
+- KGEN | Alpha Trade 成交额 149663.65 | 列表口径 1253898.48 | 涨跌 4.02% | 振幅 26.58% | 估算人数 18
+- VELVET | Alpha Trade 成交额 149521.53 | 列表口径 18766.09 | 涨跌 3.27% | 振幅 10.73% | 估算人数 18
+- RAVE | Alpha Trade 成交额 34798.70 | 列表口径 615991.29 | 涨跌 -2.80% | 振幅 6.21% | 估算人数 4
+- VELO | Alpha Trade 成交额 15568.51 | 列表口径 189570.45 | 涨跌 -6.06% | 振幅 11.97% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- CT | 分数 55.00 | Alpha Trade 成交额 990585439.23 | 波动 0.40% | 4h 振幅 3.28% | 审计 LOW
-  - Alpha Trade 24h 成交额 990,585,439，流动性 1,037,099
-  - Alpha 列表口径 24h 成交额 765,299
-  - 短周期波动 0.40%
-  - 4h 振幅 3.28%
+- CT | 分数 55.00 | Alpha Trade 成交额 1000754377.86 | 波动 0.53% | 4h 振幅 5.42% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,000,754,378，流动性 1,029,763
+  - Alpha 列表口径 24h 成交额 900,194
+  - 短周期波动 0.53%
+  - 4h 振幅 5.42%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- AIOT / AIOTUSDT | 24h 涨跌 -38.39% | 资金费率 -2.39 bps | 5m 持仓变化 0.19% | 建议通知
-- HUMA / HUMAUSDT | 24h 涨跌 25.43% | 资金费率 -9.26 bps | 5m 持仓变化 0.72% | 建议通知
-- 龙虾 / 龙虾USDT | 24h 涨跌 18.37% | 资金费率 1.47 bps | 5m 持仓变化 0.19% | 建议通知
-- SKR / SKRUSDT | 24h 涨跌 -3.05% | 资金费率 -14.33 bps | 5m 持仓变化 -0.47% | 建议通知
-- SOPH / SOPHUSDT | 24h 涨跌 9.44% | 资金费率 -7.12 bps | 5m 持仓变化 0.12% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 13.00% | 资金费率 0.86 bps | 5m 持仓变化 -0.08% | 建议通知
-- CROSS / CROSSUSDT | 24h 涨跌 16.14% | 资金费率 0.50 bps | 5m 持仓变化 -0.10% | 建议通知
-- ESPORTS / ESPORTSUSDT | 24h 涨跌 -8.19% | 资金费率 8.85 bps | 5m 持仓变化 0.02% | 建议通知
+- BREV / BREVUSDT | 24h 涨跌 70.59% | 资金费率 -32.59 bps | 5m 持仓变化 1.51% | 建议通知
+- BLESS / BLESSUSDT | 24h 涨跌 -43.88% | 资金费率 0.50 bps | 5m 持仓变化 0.05% | 建议通知
+- MMT / MMTUSDT | 24h 涨跌 31.50% | 资金费率 -0.78 bps | 5m 持仓变化 0.15% | 建议通知
+- ARIA / ARIAUSDT | 24h 涨跌 26.34% | 资金费率 0.50 bps | 5m 持仓变化 -0.17% | 建议通知
+- SPACE / SPACEUSDT | 24h 涨跌 -22.71% | 资金费率 0.50 bps | 5m 持仓变化 0.01% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 -19.55% | 资金费率 -1.70 bps | 5m 持仓变化 -0.10% | 建议通知
+- MAGMA / MAGMAUSDT | 24h 涨跌 -17.74% | 资金费率 -2.45 bps | 5m 持仓变化 0.09% | 建议通知
+- SOPH / SOPHUSDT | 24h 涨跌 -9.08% | 资金费率 -6.82 bps | 5m 持仓变化 0.17% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-12)
-- Latest Binance News：Binance Margin Will Initiate Routine Cleanup of Small-Asset Accounts (2026-11-30)
-- Latest Activities：ANT & NVDA Perps Carnival: Trade Selected TradFi Perps and Share Up to 200,000 USDC in rewards!
+- Latest Binance News：Early Completion of Contract Size Adjustment on USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and Rename to USDⓈ-Margined ANTUSDT Pre-IPO Perp (2026-11-17)
+- Latest Activities：Region Exclusive: Join the Affiliate Referral Festival and Refer for Rewards
 
 ### 最近 Alpha 上线
 
@@ -57,21 +57,21 @@
 
 ### Latest Binance News
 
+- [Early Completion of Contract Size Adjustment on USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and Rename to USDⓈ-Margined ANTUSDT Pre-IPO Perp (2026-11-17)](https://www.binance.com/en/support/announcement/detail/3d3ab9f06baf40b993c45a115dcf576e)
+  - Fellow Binancians, Binance Futures will complete the contract size adjustment of USDⓈ-Margined ANTHROPICUSDT Pre-IPO Perp and rename the ticker to USDⓈ-Margined ANTUSDT Pre-IPO Pe…
 - [Binance Margin Will Initiate Routine Cleanup of Small-Asset Accounts (2026-11-30)](https://www.binance.com/en/support/announcement/detail/693bb3ed50e2420dad614ba78a22e9ea)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance Margin will initiate a routine cleanup of Cr…
 - [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-18)](https://www.binance.com/en/support/announcement/detail/77a8571f886c4f1ea665420330b96f58)
   - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
-- [Introducing Binance Pay Later: Spend Without Selling Your Crypto and Enjoy 0% Interest Until the First of Next Month](https://www.binance.com/en/support/announcement/detail/5f041987d1ca4252a3c59ad27eff3e28)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 
 ### Latest Activities
 
+- [Region Exclusive: Join the Affiliate Referral Festival and Refer for Rewards](https://www.binance.com/en/support/announcement/detail/fb40667e3c714d7f8aa2f1bac2b82aa9)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancia…
 - [ANT & NVDA Perps Carnival: Trade Selected TradFi Perps and Share Up to 200,000 USDC in rewards!](https://www.binance.com/en/support/announcement/detail/51ee8ac34c9f4603b514965aa291b668)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to launch the ANT &amp; NVDA Perp…
 - [Binance P2P LATAM Exclusive: Earn Up to 25% APR on USDC!](https://www.binance.com/en/support/announcement/detail/dd87c69ba67c4695bdd9836bca73ebb9)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is launching a new promotion for new P2P LAT…
-- [Binance Earn Launches BTC Yield APR Boost Promotion with Up to an Additional 2% APR for VIP Users](https://www.binance.com/en/support/announcement/detail/662d66d79a774e18b34d84ab525f563e)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Earn is ru…
 
 ## Warnings
 
