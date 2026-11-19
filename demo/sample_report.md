@@ -1,51 +1,51 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-19T00:17:58.742818+00:00
+- 生成时间：2026-11-19T07:40:08.572194+00:00
 - 四倍分代币数：6
-- 四倍分 24h 总成交额：787653346.74
+- 四倍分 24h 总成交额：812723245.18
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：96055（按 8200 / 人）
+- 估算参与人数：99113（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 785798639.33 | 列表口径 19259243.03 | 涨跌 11.49% | 振幅 1594.93% | 估算人数 95829
-- VELVET | Alpha Trade 成交额 770300.73 | 列表口径 167985.34 | 涨跌 34.85% | 振幅 118.74% | 估算人数 94
-- KGEN | Alpha Trade 成交额 395105.05 | 列表口径 967393.88 | 涨跌 -0.53% | 振幅 6.86% | 估算人数 48
-- RAVE | Alpha Trade 成交额 332547.26 | 列表口径 1214964.53 | 涨跌 6.94% | 振幅 13.48% | 估算人数 41
-- B2 | Alpha Trade 成交额 311666.93 | 列表口径 791296.32 | 涨跌 3.01% | 振幅 7.98% | 估算人数 38
-- VELO | Alpha Trade 成交额 45087.44 | 列表口径 279958.32 | 涨跌 -4.63% | 振幅 15.89% | 估算人数 5
+- UP | Alpha Trade 成交额 810586165.73 | 列表口径 9162989.94 | 涨跌 -8.40% | 振幅 1585.53% | 估算人数 98852
+- VELVET | Alpha Trade 成交额 1164745.99 | 列表口径 266897.79 | 涨跌 30.89% | 振幅 117.49% | 估算人数 142
+- RAVE | Alpha Trade 成交额 363497.30 | 列表口径 1453598.04 | 涨跌 6.75% | 振幅 12.03% | 估算人数 44
+- KGEN | Alpha Trade 成交额 309995.11 | 列表口径 866532.50 | 涨跌 0.34% | 振幅 6.81% | 估算人数 38
+- B2 | Alpha Trade 成交额 266635.67 | 列表口径 804934.48 | 涨跌 -0.98% | 振幅 6.07% | 估算人数 33
+- VELO | Alpha Trade 成交额 32205.38 | 列表口径 244363.68 | 涨跌 -2.87% | 振幅 15.89% | 估算人数 4
 
 ## 稳定刷分推荐
 
-- UP | 分数 81.00 | Alpha Trade 成交额 785798639.33 | 波动 0.80% | 4h 振幅 6.34% | 审计 MID
-  - Alpha Trade 24h 成交额 785,798,639，流动性 1,325,493
-  - Alpha 列表口径 24h 成交额 19,259,243
-  - 短周期波动 0.80%
-  - 4h 振幅 6.34%
+- UP | 分数 81.00 | Alpha Trade 成交额 810586165.73 | 波动 0.87% | 4h 振幅 9.28% | 审计 MID
+  - Alpha Trade 24h 成交额 810,586,166，流动性 1,344,466
+  - Alpha 列表口径 24h 成交额 9,162,990
+  - 短周期波动 0.87%
+  - 4h 振幅 9.28%
   - 审计风险 MID
-- VELVET | 分数 25.00 | Alpha Trade 成交额 770300.73 | 波动 1.80% | 4h 振幅 20.01% | 审计 LOW
-  - Alpha Trade 24h 成交额 770,301，流动性 528,550
-  - Alpha 列表口径 24h 成交额 167,985
-  - 短周期波动 1.80%
-  - 4h 振幅 20.01%
+- VELVET | 分数 25.00 | Alpha Trade 成交额 1164745.99 | 波动 1.23% | 4h 振幅 9.89% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,164,746，流动性 530,583
+  - Alpha 列表口径 24h 成交额 266,898
+  - 短周期波动 1.23%
+  - 4h 振幅 9.89%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- ZKC / ZKCUSDT | 24h 涨跌 33.42% | 资金费率 -71.78 bps | 5m 持仓变化 -2.64% | 建议通知
-- ZKP / ZKPUSDT | 24h 涨跌 7.79% | 资金费率 -80.56 bps | 5m 持仓变化 2.81% | 建议通知
-- PIEVERSE / PIEVERSEUSDT | 24h 涨跌 69.00% | 资金费率 3.67 bps | 5m 持仓变化 0.04% | 建议通知
-- MMT / MMTUSDT | 24h 涨跌 58.22% | 资金费率 0.32 bps | 5m 持仓变化 0.06% | 建议通知
-- IRYS / IRYSUSDT | 24h 涨跌 22.77% | 资金费率 -29.44 bps | 5m 持仓变化 1.64% | 建议通知
-- BREV / BREVUSDT | 24h 涨跌 -28.20% | 资金费率 -12.16 bps | 5m 持仓变化 0.04% | 建议通知
-- PHAROS / PHAROSUSDT | 24h 涨跌 27.05% | 资金费率 9.69 bps | 5m 持仓变化 0.19% | 建议通知
-- VELVET / VELVETUSDT | 24h 涨跌 35.54% | 资金费率 0.79 bps | 5m 持仓变化 1.02% | 建议通知
+- IRYS / IRYSUSDT | 24h 涨跌 53.75% | 资金费率 -81.58 bps | 5m 持仓变化 0.04% | 建议通知
+- ZKC / ZKCUSDT | 24h 涨跌 5.46% | 资金费率 -42.29 bps | 5m 持仓变化 0.39% | 建议通知
+- BREV / BREVUSDT | 24h 涨跌 -24.47% | 资金费率 -13.02 bps | 5m 持仓变化 -0.05% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 37.51% | 资金费率 0.50 bps | 5m 持仓变化 -0.81% | 建议通知
+- ZKP / ZKPUSDT | 24h 涨跌 -16.56% | 资金费率 -17.42 bps | 5m 持仓变化 -0.17% | 建议通知
+- VELVET / VELVETUSDT | 24h 涨跌 31.02% | 资金费率 2.88 bps | 5m 持仓变化 -0.25% | 建议通知
+- SENT / SENTUSDT | 24h 涨跌 21.05% | 资金费率 -8.50 bps | 5m 持仓变化 -0.23% | 建议通知
+- PIEVERSE / PIEVERSEUSDT | 24h 涨跌 20.58% | 资金费率 0.50 bps | 5m 持仓变化 -0.13% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-18)
-- Latest Binance News：Binance Upgrades Spot Liquidity Provider Program (2026-11-16)
+- Latest Binance News：Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-20)
 - Latest Activities：Binance Alpha Trading Competition: Trade KiiChain (KII) and Share $200K Worth of Rewards (2026-11-18)
 
 ### 最近 Alpha 上线
@@ -62,12 +62,12 @@
 
 ### Latest Binance News
 
-- [Binance Upgrades Spot Liquidity Provider Program (2026-11-16)](https://www.binance.com/en/support/announcement/detail/fdf0711ce61345e697e3dbc067b32e40)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, As Binance conducts regu…
-- [Binance Stock Options Trading API Is Now Live](https://www.binance.com/en/support/announcement/detail/5812611327db4325ad1e9989add711f7)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is pleased to announce that API trading for…
-- [Binance Earn Yield Arena: Earn Up to 27% APR With This Week’s New Limited-Time Offers! (2026-11-18)](https://www.binance.com/en/support/announcement/detail/ea6f0f220adf4077948abbc28c15a9e8)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians,&nbsp; Binance Earn…
+- [Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-20)](https://www.binance.com/en/support/announcement/detail/0d3b1632cf474b61afa7c04956005887)
+  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region. Fellow Binancians, In order to increase market liquidity and…
+- [Notice on Anthropic (ANT) on Binance Stocks - 2026-11-19](https://www.binance.com/en/support/announcement/detail/eb785eda143c4f478d4bb897934b5474)
+  - This is a general announcement. Products and services referred to here may not be available in your region.&nbsp; Fellow Binancians, To expand the range of trading choices offered…
+- [Early Completion of Contract Size Adjustment on USDⓈ-Margined BITOUSDT Perpetual Contract (2026-11-19)](https://www.binance.com/en/support/announcement/detail/712f5b2f99eb4a59ba91b085f7eb124b)
+  - Fellow Binancians, Binance Futures will complete the contract size adjustment of USDⓈ-Margined BITOUSDT Perpetual Contract at 2026-11-19 02:10 (UTC) . There will be a cancel-only…
 
 ### Latest Activities
 
