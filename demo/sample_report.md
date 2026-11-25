@@ -1,78 +1,78 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-24T20:42:44.449638+00:00
+- 生成时间：2026-11-25T03:46:56.546951+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：809610656.58
+- 四倍分 24h 总成交额：822294006.40
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：98733（按 8200 / 人）
+- 估算参与人数：100280（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 806358313.17 | 列表口径 1544093.06 | 涨跌 2.95% | 振幅 40.74% | 估算人数 98336
-- ON | Alpha Trade 成交额 2356023.74 | 列表口径 10749486.31 | 涨跌 3.50% | 振幅 47.56% | 估算人数 287
-- RAVE | Alpha Trade 成交额 209091.76 | 列表口径 650162.00 | 涨跌 -4.71% | 振幅 7.95% | 估算人数 25
-- VELVET | Alpha Trade 成交额 192110.13 | 列表口径 37330.14 | 涨跌 0.66% | 振幅 12.86% | 估算人数 23
-- ZEST | Alpha Trade 成交额 154396.05 | 列表口径 544851.43 | 涨跌 -2.52% | 振幅 5.68% | 估算人数 19
-- KGEN | Alpha Trade 成交额 145156.46 | 列表口径 968600.25 | 涨跌 -3.02% | 振幅 7.59% | 估算人数 18
-- B2 | Alpha Trade 成交额 111130.71 | 列表口径 552271.44 | 涨跌 0.55% | 振幅 3.56% | 估算人数 14
-- STBL | Alpha Trade 成交额 71118.16 | 列表口径 1436883.21 | 涨跌 -9.46% | 振幅 13.05% | 估算人数 9
-- VELO | Alpha Trade 成交额 13316.41 | 列表口径 173752.91 | 涨跌 -1.13% | 振幅 6.38% | 估算人数 2
+- UP | Alpha Trade 成交额 820221453.64 | 列表口径 1565834.49 | 涨跌 -1.89% | 振幅 38.02% | 估算人数 100027
+- ON | Alpha Trade 成交额 1375481.46 | 列表口径 7058115.80 | 涨跌 -30.55% | 振幅 47.25% | 估算人数 168
+- RAVE | Alpha Trade 成交额 172258.69 | 列表口径 503882.92 | 涨跌 -4.61% | 振幅 9.79% | 估算人数 21
+- VELVET | Alpha Trade 成交额 151424.50 | 列表口径 36391.44 | 涨跌 4.40% | 振幅 12.86% | 估算人数 18
+- KGEN | Alpha Trade 成交额 116622.57 | 列表口径 844824.95 | 涨跌 -4.88% | 振幅 9.72% | 估算人数 14
+- ZEST | Alpha Trade 成交额 99590.34 | 列表口径 462743.14 | 涨跌 -4.19% | 振幅 7.30% | 估算人数 12
+- B2 | Alpha Trade 成交额 84691.27 | 列表口径 450009.67 | 涨跌 -0.51% | 振幅 3.61% | 估算人数 10
+- STBL | Alpha Trade 成交额 59206.60 | 列表口径 1784233.61 | 涨跌 -5.27% | 振幅 8.80% | 估算人数 7
+- VELO | Alpha Trade 成交额 13277.33 | 列表口径 167920.66 | 涨跌 1.40% | 振幅 6.38% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- UP | 分数 66.00 | Alpha Trade 成交额 806358313.17 | 波动 0.56% | 4h 振幅 5.37% | 审计 MID
-  - Alpha Trade 24h 成交额 806,358,313，流动性 1,218,872
-  - Alpha 列表口径 24h 成交额 1,544,093
-  - 短周期波动 0.56%
-  - 4h 振幅 5.37%
+- UP | 分数 96.00 | Alpha Trade 成交额 820221453.64 | 波动 0.35% | 4h 振幅 2.57% | 审计 MID
+  - Alpha Trade 24h 成交额 820,221,454，流动性 1,227,106
+  - Alpha 列表口径 24h 成交额 1,565,834
+  - 短周期波动 0.35%
+  - 4h 振幅 2.57%
   - 审计风险 MID
-- ON | 分数 40.00 | Alpha Trade 成交额 2356023.74 | 波动 0.51% | 4h 振幅 4.97% | 审计 LOW
-  - Alpha Trade 24h 成交额 2,356,024，流动性 627,323
-  - Alpha 列表口径 24h 成交额 10,749,486
-  - 短周期波动 0.51%
-  - 4h 振幅 4.97%
+- ON | 分数 10.00 | Alpha Trade 成交额 1375481.46 | 波动 1.37% | 4h 振幅 13.88% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,375,481，流动性 586,634
+  - Alpha 列表口径 24h 成交额 7,058,116
+  - 短周期波动 1.37%
+  - 4h 振幅 13.88%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- SAHARA / SAHARAUSDT | 24h 涨跌 12.59% | 资金费率 -51.18 bps | 5m 持仓变化 -0.33% | 建议通知
-- GUA / GUAUSDT | 24h 涨跌 41.80% | 资金费率 4.44 bps | 5m 持仓变化 0.39% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 11.82% | 资金费率 20.97 bps | 5m 持仓变化 0.07% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 -31.02% | 资金费率 0.50 bps | 5m 持仓变化 -0.30% | 建议通知
-- DOS / DOSUSDT | 24h 涨跌 -28.35% | 资金费率 0.50 bps | 5m 持仓变化 -0.87% | 建议通知
-- ELSA / ELSAUSDT | 24h 涨跌 -25.82% | 资金费率 0.50 bps | 5m 持仓变化 0.25% | 建议通知
-- BLESS / BLESSUSDT | 24h 涨跌 22.65% | 资金费率 0.50 bps | 5m 持仓变化 0.21% | 建议通知
-- AT / ATUSDT | 24h 涨跌 -21.45% | 资金费率 0.50 bps | 5m 持仓变化 0.04% | 建议通知
+- BOT / BOTUSDT | 24h 涨跌 -10.02% | 资金费率 -70.15 bps | 5m 持仓变化 -0.02% | 继续观察
+- BIGTIME / BIGTIMEUSDT | 24h 涨跌 13.68% | 资金费率 -58.93 bps | 5m 持仓变化 -2.53% | 建议通知
+- SAHARA / SAHARAUSDT | 24h 涨跌 -6.36% | 资金费率 -43.16 bps | 5m 持仓变化 0.11% | 建议通知
+- IRYS / IRYSUSDT | 24h 涨跌 6.92% | 资金费率 -41.60 bps | 5m 持仓变化 -0.06% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 24.79% | 资金费率 15.02 bps | 5m 持仓变化 0.51% | 建议通知
+- GUA / GUAUSDT | 24h 涨跌 38.21% | 资金费率 0.50 bps | 5m 持仓变化 0.18% | 建议通知
+- ON / ONUSDT | 24h 涨跌 -29.30% | 资金费率 0.50 bps | 5m 持仓变化 0.34% | 建议通知
+- AIOT / AIOTUSDT | 24h 涨跌 23.28% | 资金费率 0.67 bps | 5m 持仓变化 0.29% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
-- 官方最新上新关注：Binance Will Launch Stock Options on Anthropic (ANT)
-- Latest Binance News：Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-11-27)
+- 官方最新上新关注：Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-11-25
+- Latest Binance News：Introducing Lowered Binance U.S. Stock Trading Fees With VIP Tiers - 2026-11-25
 - Latest Activities：Binance Alpha Trading Competition: Trade River (RIVER) and Share $200K Worth of Rewards (2026-11-24)
 
 ### 最近 Alpha 上线
 
-- SHARE | 1x | 上线 2026-11-24T09:00:00+00:00 | 24h 成交额 3485545.94
+- SHARE | 1x | 上线 2026-11-24T09:00:00+00:00 | 24h 成交额 4339822.93
 
 ### New Cryptocurrency Listing
 
+- [Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-11-25](https://www.binance.com/en/support/announcement/detail/bbad3eb0d13f4a90954a38797b9077de)
+  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
+- [Binance Exchange Adds New bStocks Trading Pairs on Binance Spot/Convert and Extends Zero Maker Fee Promotion - 2026-11-25](https://www.binance.com/en/support/announcement/detail/94eb40096c2d44179a3e48fd4e5bf3d4)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, To expand the list…
 - [Binance Will Launch Stock Options on Anthropic (ANT)](https://www.binance.com/en/support/announcement/detail/b3eb06ad744b4398911a103d94d288c6)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will launch US stock options on Anthropic, P…
-- [Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-20)](https://www.binance.com/en/support/announcement/detail/5947f1c3a2904daab60fa896fe0fafea)
-  - This is a general Binance Exchange Notice and a Notice for the purposes of the Clearing Rules . Products and services referred to here may not be available in your region. Fellow…
-- [Binance Will Add Anthropic (ANTB) bStocks Tokenized Securities as Collateral Asset - 2026-11-19](https://www.binance.com/en/support/announcement/detail/c4a6afb79b32434a88e826b9632242c0)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region.&nbsp; Disclaimer: bStocks are offered throu…
 
 ### Latest Binance News
 
+- [Introducing Lowered Binance U.S. Stock Trading Fees With VIP Tiers - 2026-11-25](https://www.binance.com/en/support/announcement/detail/6c580eb861774e5aaf99d1736c8f582e)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, To further optimize the stock trading experience, Bi…
 - [Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-11-27)](https://www.binance.com/en/support/announcement/detail/78b6f0bed8de4ce7be1583ce1c27b7cf)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, Binance will update the Cross Margin Borrow and Tran…
 - [Binance Collaborates with Cboe to Bring Real-Time Market Benchmark Data to Users](https://www.binance.com/en/support/announcement/detail/2b1c265568194d4ebb1832002d818414)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, We're excited to announce that Binance has integrate…
-- [Binance Futures Will End Last Price Protected Period on USDⓈ-Margined SNDKUSDT Perpetual Contract (2026-11-20)](https://www.binance.com/en/support/announcement/detail/d3aa0084d3854c3592600ac2dbda0ad6)
-  - This is a general Binance Exchange Notice. Products and services referred to here may not be available in your region Fellow Binancians, Binance Futures will end Last Price Protec…
 
 ### Latest Activities
 
