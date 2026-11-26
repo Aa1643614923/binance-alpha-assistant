@@ -1,60 +1,60 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-26T14:21:43.791455+00:00
+- 生成时间：2026-11-26T23:09:01.238657+00:00
 - 四倍分代币数：9
-- 四倍分 24h 总成交额：812211571.06
+- 四倍分 24h 总成交额：786372314.43
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：99050（按 8200 / 人）
+- 估算参与人数：95899（按 8200 / 人）
 
 ## 四倍分代币
 
-- UP | Alpha Trade 成交额 810389663.22 | 列表口径 2457330.67 | 涨跌 18.14% | 振幅 66.62% | 估算人数 98828
-- B2 | Alpha Trade 成交额 1014473.46 | 列表口径 2530510.00 | 涨跌 8.75% | 振幅 15.23% | 估算人数 124
-- VELVET | Alpha Trade 成交额 269535.15 | 列表口径 38694.16 | 涨跌 1.55% | 振幅 14.16% | 估算人数 33
-- ON | Alpha Trade 成交额 237221.16 | 列表口径 1488282.83 | 涨跌 2.28% | 振幅 14.74% | 估算人数 29
-- ZEST | Alpha Trade 成交额 144891.19 | 列表口径 351599.77 | 涨跌 3.55% | 振幅 7.14% | 估算人数 18
-- RAVE | Alpha Trade 成交额 76565.81 | 列表口径 536797.35 | 涨跌 8.54% | 振幅 10.91% | 估算人数 9
-- KGEN | Alpha Trade 成交额 37310.62 | 列表口径 551587.30 | 涨跌 0.02% | 振幅 6.49% | 估算人数 5
-- STBL | Alpha Trade 成交额 27247.95 | 列表口径 1234585.73 | 涨跌 9.76% | 振幅 12.26% | 估算人数 3
-- VELO | Alpha Trade 成交额 14662.51 | 列表口径 164170.46 | 涨跌 11.92% | 振幅 13.47% | 估算人数 2
+- UP | Alpha Trade 成交额 784522076.88 | 列表口径 1764384.04 | 涨跌 11.30% | 振幅 66.29% | 估算人数 95673
+- B2 | Alpha Trade 成交额 1072686.78 | 列表口径 3050902.09 | 涨跌 9.15% | 振幅 15.23% | 估算人数 131
+- VELVET | Alpha Trade 成交额 321392.86 | 列表口径 44368.56 | 涨跌 7.86% | 振幅 14.26% | 估算人数 39
+- ON | Alpha Trade 成交额 159361.19 | 列表口径 976529.85 | 涨跌 -6.14% | 振幅 10.72% | 估算人数 19
+- ZEST | Alpha Trade 成交额 139799.76 | 列表口径 265775.20 | 涨跌 -1.17% | 振幅 5.64% | 估算人数 17
+- RAVE | Alpha Trade 成交额 67846.87 | 列表口径 335057.64 | 涨跌 -2.03% | 振幅 4.27% | 估算人数 8
+- STBL | Alpha Trade 成交额 36447.30 | 列表口径 2183019.12 | 涨跌 7.79% | 振幅 15.87% | 估算人数 4
+- KGEN | Alpha Trade 成交额 33653.35 | 列表口径 429487.89 | 涨跌 -0.12% | 振幅 6.62% | 估算人数 4
+- VELO | Alpha Trade 成交额 19049.43 | 列表口径 205737.24 | 涨跌 7.71% | 振幅 17.81% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- B2 | 分数 55.00 | Alpha Trade 成交额 1014473.46 | 波动 0.41% | 4h 振幅 3.33% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,014,473，流动性 693,593
-  - Alpha 列表口径 24h 成交额 2,530,510
-  - 短周期波动 0.41%
-  - 4h 振幅 3.33%
+- B2 | 分数 55.00 | Alpha Trade 成交额 1072686.78 | 波动 0.23% | 4h 振幅 2.35% | 审计 LOW
+  - Alpha Trade 24h 成交额 1,072,687，流动性 691,442
+  - Alpha 列表口径 24h 成交额 3,050,902
+  - 短周期波动 0.23%
+  - 4h 振幅 2.35%
   - 审计风险 LOW
-- UP | 分数 51.00 | Alpha Trade 成交额 810389663.22 | 波动 0.69% | 4h 振幅 9.92% | 审计 MID
-  - Alpha Trade 24h 成交额 810,389,663，流动性 1,242,473
-  - Alpha 列表口径 24h 成交额 2,457,331
-  - 短周期波动 0.69%
-  - 4h 振幅 9.92%
+- UP | 分数 51.00 | Alpha Trade 成交额 784522076.88 | 波动 0.58% | 4h 振幅 4.47% | 审计 MID
+  - Alpha Trade 24h 成交额 784,522,077，流动性 1,242,157
+  - Alpha 列表口径 24h 成交额 1,764,384
+  - 短周期波动 0.58%
+  - 4h 振幅 4.47%
   - 审计风险 MID
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- BULLA / BULLAUSDT | 24h 涨跌 104.95% | 资金费率 29.53 bps | 5m 持仓变化 -0.24% | 建议通知
-- BIGTIME / BIGTIMEUSDT | 24h 涨跌 -14.66% | 资金费率 -18.41 bps | 5m 持仓变化 0.24% | 建议通知
-- PIEVERSE / PIEVERSEUSDT | 24h 涨跌 25.39% | 资金费率 1.62 bps | 5m 持仓变化 0.13% | 建议通知
-- ELSA / ELSAUSDT | 24h 涨跌 23.55% | 资金费率 0.50 bps | 5m 持仓变化 -0.82% | 建议通知
-- AIOT / AIOTUSDT | 24h 涨跌 19.19% | 资金费率 3.98 bps | 5m 持仓变化 0.05% | 建议通知
-- MMT / MMTUSDT | 24h 涨跌 -18.07% | 资金费率 -2.02 bps | 5m 持仓变化 -0.18% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 17.51% | 资金费率 2.11 bps | 5m 持仓变化 0.05% | 建议通知
-- 牛来 / 牛来USDT | 24h 涨跌 19.12% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 57.12% | 资金费率 46.21 bps | 5m 持仓变化 0.23% | 建议通知
+- MMT / MMTUSDT | 24h 涨跌 -35.14% | 资金费率 -6.10 bps | 5m 持仓变化 -0.18% | 建议通知
+- BIGTIME / BIGTIMEUSDT | 24h 涨跌 -16.57% | 资金费率 -11.48 bps | 5m 持仓变化 0.42% | 建议通知
+- ELSA / ELSAUSDT | 24h 涨跌 23.84% | 资金费率 0.50 bps | 5m 持仓变化 -0.57% | 建议通知
+- AIOT / AIOTUSDT | 24h 涨跌 11.89% | 资金费率 3.80 bps | 5m 持仓变化 -0.18% | 建议通知
+- GUA / GUAUSDT | 24h 涨跌 -16.16% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
+- 2Z / 2ZUSDT | 24h 涨跌 6.87% | 资金费率 -8.51 bps | 5m 持仓变化 -0.04% | 建议通知
+- HUMA / HUMAUSDT | 24h 涨跌 -11.03% | 资金费率 -4.53 bps | 5m 持仓变化 0.16% | 建议通知
 
 ## Alpha 日报
 
 - 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-11-27)
-- Latest Binance News：Binance VIP Status Match: Match Your VIP Status, Arrive One Tier Higher on Binance
+- Latest Binance News：Service Recovery Update: Withdrawals Recovery Work Complete (2026-11-26)
 - Latest Activities：Africa Exclusive: Trade and Earn on Binance P2P
 
 ### 最近 Alpha 上线
 
-- SHARE | 1x | 上线 2026-11-24T09:00:00+00:00 | 24h 成交额 3957069.54
+- SHARE | 1x | 上线 2026-11-24T09:00:00+00:00 | 24h 成交额 4006076.65
 
 ### New Cryptocurrency Listing
 
@@ -67,12 +67,12 @@
 
 ### Latest Binance News
 
+- [Service Recovery Update: Withdrawals Recovery Work Complete (2026-11-26)](https://www.binance.com/en/support/announcement/detail/95c463396a034f1ab3994814225e6d69)
+  - Fellow Binancians, Our withdrawal recovery work is completed and the withdrawal suspension from the October security incident has been fully lifted. Thank you for your patience an…
 - [Binance VIP Status Match: Match Your VIP Status, Arrive One Tier Higher on Binance](https://www.binance.com/en/support/announcement/detail/f772e3f5f17d4c6894947614ff8b82ef)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Starting today, Binance…
 - [Important Updates on Dividend Adjustment Process of SKHYNIXUSDT and SKHYUSDT Perpetual Contracts](https://www.binance.com/en/support/announcement/detail/44edf62f435a45ebb5dbc890f827e156)
   - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, A dividend of 20,000 KRW per share has been declared…
-- [Introducing Gacha on Binance Wallet: Open Packs and Reveal Real, Graded Trading Cards](https://www.binance.com/en/support/announcement/detail/2b449d3743ee48e7b7a60d987a6a22d4)
-  - Disclaimer: This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbs…
 
 ### Latest Activities
 
