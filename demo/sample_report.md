@@ -1,53 +1,57 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-27T05:02:52.496652+00:00
+- 生成时间：2026-11-27T14:57:28.501984+00:00
 - 四倍分代币数：8
-- 四倍分 24h 总成交额：147779971.98
+- 四倍分 24h 总成交额：619113241.66
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：18022（按 8200 / 人）
+- 估算参与人数：75502（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 146757028.35 | 列表口径 3352521.67 | 涨跌 7.71% | 振幅 12.57% | 估算人数 17897
-- VELVET | Alpha Trade 成交额 392559.89 | 列表口径 58798.96 | 涨跌 8.35% | 振幅 16.37% | 估算人数 48
-- KGEN | Alpha Trade 成交额 191683.65 | 列表口径 901029.84 | 涨跌 4.66% | 振幅 22.71% | 估算人数 23
-- ON | Alpha Trade 成交额 178410.46 | 列表口径 918788.36 | 涨跌 -6.25% | 振幅 13.12% | 估算人数 22
-- ZEST | Alpha Trade 成交额 87101.99 | 列表口径 232897.80 | 涨跌 -2.81% | 振幅 5.37% | 估算人数 11
-- RAVE | Alpha Trade 成交额 85289.80 | 列表口径 352197.43 | 涨跌 -0.13% | 振幅 4.61% | 估算人数 10
-- STBL | Alpha Trade 成交额 66764.79 | 列表口径 1954732.39 | 涨跌 6.12% | 振幅 12.53% | 估算人数 8
-- VELO | Alpha Trade 成交额 21133.05 | 列表口径 211116.39 | 涨跌 5.39% | 振幅 12.42% | 估算人数 3
+- B2 | Alpha Trade 成交额 617882057.82 | 列表口径 2012316.66 | 涨跌 0.85% | 振幅 9.81% | 估算人数 75351
+- VELVET | Alpha Trade 成交额 556376.41 | 列表口径 261692.99 | 涨跌 11.13% | 振幅 123.38% | 估算人数 68
+- KGEN | Alpha Trade 成交额 239879.85 | 列表口径 1006887.31 | 涨跌 2.39% | 振幅 22.71% | 估算人数 29
+- ON | Alpha Trade 成交额 183870.52 | 列表口径 822697.31 | 涨跌 -8.73% | 振幅 11.01% | 估算人数 22
+- ZEST | Alpha Trade 成交额 85643.55 | 列表口径 267161.16 | 涨跌 -5.01% | 振幅 5.56% | 估算人数 10
+- STBL | Alpha Trade 成交额 82436.09 | 列表口径 1884585.52 | 涨跌 -1.78% | 振幅 7.10% | 估算人数 10
+- RAVE | Alpha Trade 成交额 68393.55 | 列表口径 313844.56 | 涨跌 -2.93% | 振幅 4.96% | 估算人数 8
+- VELO | Alpha Trade 成交额 14583.86 | 列表口径 152070.26 | 涨跌 -1.35% | 振幅 10.23% | 估算人数 2
 
 ## 稳定刷分推荐
 
-- B2 | 分数 55.00 | Alpha Trade 成交额 146757028.35 | 波动 0.35% | 4h 振幅 3.84% | 审计 LOW
-  - Alpha Trade 24h 成交额 146,757,028，流动性 698,339
-  - Alpha 列表口径 24h 成交额 3,352,522
-  - 短周期波动 0.35%
-  - 4h 振幅 3.84%
+- B2 | 分数 100.00 | Alpha Trade 成交额 617882057.82 | 波动 0.11% | 4h 振幅 2.12% | 审计 LOW
+  - Alpha Trade 24h 成交额 617,882,058，流动性 691,869
+  - Alpha 列表口径 24h 成交额 2,012,317
+  - 短周期波动 0.11%
+  - 4h 振幅 2.12%
+  - 审计风险 LOW
+- VELVET | 分数 10.00 | Alpha Trade 成交额 556376.41 | 波动 1.48% | 4h 振幅 15.55% | 审计 LOW
+  - Alpha Trade 24h 成交额 556,376，流动性 599,870
+  - Alpha 列表口径 24h 成交额 261,693
+  - 短周期波动 1.48%
+  - 4h 振幅 15.55%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- HAEDAL / HAEDALUSDT | 24h 涨跌 38.11% | 资金费率 -170.22 bps | 5m 持仓变化 3.73% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 78.17% | 资金费率 43.34 bps | 5m 持仓变化 -0.11% | 建议通知
-- MMT / MMTUSDT | 24h 涨跌 -28.01% | 资金费率 -16.99 bps | 5m 持仓变化 0.38% | 建议通知
-- BIGTIME / BIGTIMEUSDT | 24h 涨跌 14.10% | 资金费率 -13.91 bps | 5m 持仓变化 0.27% | 建议通知
-- AKE / AKEUSDT | 24h 涨跌 -24.88% | 资金费率 0.50 bps | 5m 持仓变化 2.42% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 -21.64% | 资金费率 0.50 bps | 5m 持仓变化 -0.08% | 建议通知
-- COLLECT / COLLECTUSDT | 24h 涨跌 22.31% | 资金费率 2.62 bps | 5m 持仓变化 0.22% | 建议通知
-- BOT / BOTUSDT | 24h 涨跌 5.39% | 资金费率 20.22 bps | 5m 持仓变化 0.33% | 继续观察
+- HAEDAL / HAEDALUSDT | 24h 涨跌 29.32% | 资金费率 -134.55 bps | 5m 持仓变化 -0.54% | 建议通知
+- MMT / MMTUSDT | 24h 涨跌 -21.96% | 资金费率 -66.45 bps | 5m 持仓变化 0.25% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 36.85% | 资金费率 27.51 bps | 5m 持仓变化 0.09% | 建议通知
+- EVAA / EVAAUSDT | 24h 涨跌 -50.67% | 资金费率 0.50 bps | 5m 持仓变化 0.09% | 建议通知
+- CFG / CFGUSDT | 24h 涨跌 11.27% | 资金费率 -33.74 bps | 5m 持仓变化 0.81% | 建议通知
+- AKE / AKEUSDT | 24h 涨跌 -26.30% | 资金费率 0.50 bps | 5m 持仓变化 0.26% | 建议通知
+- ACN / ACNUSDT | 24h 涨跌 0.96% | 资金费率 -25.19 bps | 5m 持仓变化 3.21% | 继续观察
+- SOPH / SOPHUSDT | 24h 涨跌 21.62% | 资金费率 -2.67 bps | 5m 持仓变化 -2.47% | 建议通知
 
 ## Alpha 日报
 
-- 过去 72 小时新增 Alpha 代币 1 个，其中四倍分 0 个。
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-11-27)
-- Latest Binance News：Binance Will Support the Cash Dividend Distribution of The Wendy's Company (WEN), NVIDIA Corporation (NVDA), Qualcomm Incorporated (QCOM), PayPal Holdings, Inc. (PYPL), and Western Digital Corporation (WDC) via bStocks
-- Latest Activities：Binance Blockchain Week: Share Your Experience and Celebrate Your Community Hero to Share 1,000 USDC!
+- Latest Binance News：Binance Will Support the Cash Dividend Distribution of SK hynix Inc. (SKHY), The Goldman Sachs Group, Inc (GS) and Zoom Communications, Inc. (ZM) via bStocks
+- Latest Activities：Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-11-27)
 
 ### 最近 Alpha 上线
 
-- SHARE | 1x | 上线 2026-11-24T09:00:00+00:00 | 24h 成交额 3771043.55
 
 ### New Cryptocurrency Listing
 
@@ -60,21 +64,21 @@
 
 ### Latest Binance News
 
+- [Binance Will Support the Cash Dividend Distribution of SK hynix Inc. (SKHY), The Goldman Sachs Group, Inc (GS) and Zoom Communications, Inc. (ZM) via bStocks](https://www.binance.com/en/support/announcement/detail/b3fb3864ae1743ce8a2c4eb3417e09f4)
+  - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Will Support the Cash Dividend Distribution of The Wendy's Company (WEN), NVIDIA Corporation (NVDA), Qualcomm Incorporated (QCOM), PayPal Holdings, Inc. (PYPL), and Western Digital Corporation (WDC) via bStocks](https://www.binance.com/en/support/announcement/detail/2125a821be8f480b99d46c7c82b12958)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Service Recovery Update: Withdrawals Recovery Work Complete (2026-11-26)](https://www.binance.com/en/support/announcement/detail/95c463396a034f1ab3994814225e6d69)
   - Fellow Binancians, Our withdrawal recovery work is completed and the withdrawal suspension from the October security incident has been fully lifted. Thank you for your patience an…
-- [Binance VIP Status Match: Match Your VIP Status, Arrive One Tier Higher on Binance](https://www.binance.com/en/support/announcement/detail/f772e3f5f17d4c6894947614ff8b82ef)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply. Fellow Binancians, Starting today, Binance…
 
 ### Latest Activities
 
+- [Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-11-27)](https://www.binance.com/en/support/announcement/detail/e6020e34cae84cb282b9e4dff1e0048c)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians,&nbsp; Binance Wall…
+- [Sub-Affiliate Program: Grow Your Team, Qualify For Up to 5,000 USDC Reward Vouchers](https://www.binance.com/en/support/announcement/detail/312acc8b0a4446fb88d4e7c074e3589d)
+  - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance is launchi…
 - [Binance Blockchain Week: Share Your Experience and Celebrate Your Community Hero to Share 1,000 USDC!](https://www.binance.com/en/support/announcement/detail/2bd181fe130a41868e054b959586cb40)
   - This is a general announcement. Products and services referred to here may not be available in your region. Terms and conditions apply.&nbsp; Fellow Binancians, Binance Blockchain…
-- [Africa Exclusive: Trade and Earn on Binance P2P](https://www.binance.com/en/support/announcement/detail/04011e0d153f456897322f70dea20a92)
-  - This is a general announcement and marketing communication. Products and services referred to here may not be available in your region. Fellow Binancians, Binance is excited to la…
-- [APAC-Exclusive: Buy Crypto with KHQR/Bank Transfers to Receive Binance Pay Vouchers](https://www.binance.com/en/support/announcement/detail/aa7c0612eea342c8ba65af4b56d31d6f)
-  - This is a general announcement. Products and services referred to here may not be available in your region. Fellow Binancians, The shopping holiday season is here — and Binance is…
 
 ## Warnings
 
