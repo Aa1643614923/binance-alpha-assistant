@@ -1,44 +1,44 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-28T04:48:14.200297+00:00
+- 生成时间：2026-11-28T13:43:18.474759+00:00
 - 四倍分代币数：5
-- 四倍分 24h 总成交额：827219561.85
+- 四倍分 24h 总成交额：817774767.90
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：100880（按 8200 / 人）
+- 估算参与人数：99729（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 826837444.60 | 列表口径 1125071.95 | 涨跌 0.80% | 振幅 2.92% | 估算人数 100834
-- ZEST | Alpha Trade 成交额 139267.10 | 列表口径 313192.09 | 涨跌 -2.13% | 振幅 10.24% | 估算人数 17
-- ON | Alpha Trade 成交额 126872.73 | 列表口径 661743.16 | 涨跌 -3.81% | 振幅 8.85% | 估算人数 15
-- RAVE | Alpha Trade 成交额 68112.81 | 列表口径 346194.75 | 涨跌 -5.93% | 振幅 7.87% | 估算人数 8
-- STBL | Alpha Trade 成交额 47864.60 | 列表口径 673471.72 | 涨跌 -1.62% | 振幅 4.44% | 估算人数 6
+- B2 | Alpha Trade 成交额 817384316.02 | 列表口径 1199111.02 | 涨跌 0.04% | 振幅 3.98% | 估算人数 99681
+- ON | Alpha Trade 成交额 145738.92 | 列表口径 816395.06 | 涨跌 -7.51% | 振幅 10.22% | 估算人数 18
+- ZEST | Alpha Trade 成交额 135349.66 | 列表口径 369561.44 | 涨跌 -5.02% | 振幅 8.17% | 估算人数 17
+- RAVE | Alpha Trade 成交额 81455.62 | 列表口径 400954.93 | 涨跌 -8.37% | 振幅 9.93% | 估算人数 10
+- STBL | Alpha Trade 成交额 27907.68 | 列表口径 721929.39 | 涨跌 -1.56% | 振幅 4.69% | 估算人数 3
 
 ## 稳定刷分推荐
 
-- B2 | 分数 55.00 | Alpha Trade 成交额 826837444.60 | 波动 0.18% | 4h 振幅 1.71% | 审计 LOW
-  - Alpha Trade 24h 成交额 826,837,445，流动性 698,590
-  - Alpha 列表口径 24h 成交额 1,125,072
-  - 短周期波动 0.18%
-  - 4h 振幅 1.71%
+- B2 | 分数 55.00 | Alpha Trade 成交额 817384316.02 | 波动 0.22% | 4h 振幅 1.77% | 审计 LOW
+  - Alpha Trade 24h 成交额 817,384,316，流动性 694,222
+  - Alpha 列表口径 24h 成交额 1,199,111
+  - 短周期波动 0.22%
+  - 4h 振幅 1.77%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- CFG / CFGUSDT | 24h 涨跌 29.41% | 资金费率 -161.63 bps | 5m 持仓变化 0.89% | 建议通知
-- HAEDAL / HAEDALUSDT | 24h 涨跌 -10.35% | 资金费率 -130.83 bps | 5m 持仓变化 0.69% | 建议通知
-- MMT / MMTUSDT | 24h 涨跌 -15.22% | 资金费率 -35.53 bps | 5m 持仓变化 0.51% | 建议通知
-- BIGTIME / BIGTIMEUSDT | 24h 涨跌 -20.38% | 资金费率 -12.20 bps | 5m 持仓变化 -0.94% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 -29.78% | 资金费率 0.50 bps | 5m 持仓变化 -0.10% | 建议通知
-- AIOT / AIOTUSDT | 24h 涨跌 -24.05% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
-- BTW / BTWUSDT | 24h 涨跌 19.99% | 资金费率 0.64 bps | 5m 持仓变化 0.17% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 -10.16% | 资金费率 8.25 bps | 5m 持仓变化 0.12% | 建议通知
+- CFG / CFGUSDT | 24h 涨跌 5.20% | 资金费率 -79.83 bps | 5m 持仓变化 -0.17% | 建议通知
+- MMT / MMTUSDT | 24h 涨跌 -15.56% | 资金费率 -24.58 bps | 5m 持仓变化 0.07% | 建议通知
+- HAEDAL / HAEDALUSDT | 24h 涨跌 -18.66% | 资金费率 -20.13 bps | 5m 持仓变化 0.06% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 38.07% | 资金费率 0.62 bps | 5m 持仓变化 0.25% | 建议通知
+- IDOL / IDOLUSDT | 24h 涨跌 35.72% | 资金费率 0.50 bps | 5m 持仓变化 0.01% | 建议通知
+- O / OUSDT | 24h 涨跌 29.41% | 资金费率 1.22 bps | 5m 持仓变化 0.54% | 建议通知
+- YB / YBUSDT | 24h 涨跌 5.30% | 资金费率 -23.91 bps | 5m 持仓变化 0.14% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 -18.05% | 资金费率 6.79 bps | 5m 持仓变化 0.05% | 建议通知
 
 ## Alpha 日报
 
 - 官方最新上新关注：Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-11-27)
-- Latest Binance News：Binance Will Support the Cash Dividend Distribution of SK hynix Inc. (SKHY), The Goldman Sachs Group, Inc (GS) and Zoom Communications, Inc. (ZM) via bStocks
+- Latest Binance News：SAFU Update: Adjusting Fund Holdings
 - Latest Activities：Binance Alpha Trading Competition: Trade Concrete (CT) and Share $200K Worth of Rewards (2026-11-27)
 
 ### 最近 Alpha 上线
@@ -55,12 +55,12 @@
 
 ### Latest Binance News
 
+- [SAFU Update: Adjusting Fund Holdings](https://www.binance.com/en/support/announcement/detail/33056fdf133147dd9bcae473ad6623cc)
+  - The Secure Asset Fund for Users (SAFU) is an emergency insurance fund that Binance established in July 2018 to protect users’ assets. The SAFU fund offers protection to Binance us…
 - [Binance Will Support the Cash Dividend Distribution of SK hynix Inc. (SKHY), The Goldman Sachs Group, Inc (GS) and Zoom Communications, Inc. (ZM) via bStocks](https://www.binance.com/en/support/announcement/detail/b3fb3864ae1743ce8a2c4eb3417e09f4)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
 - [Binance Will Support the Cash Dividend Distribution of The Wendy's Company (WEN), NVIDIA Corporation (NVDA), Qualcomm Incorporated (QCOM), PayPal Holdings, Inc. (PYPL), and Western Digital Corporation (WDC) via bStocks](https://www.binance.com/en/support/announcement/detail/2125a821be8f480b99d46c7c82b12958)
   - This is a general announcement. Products and services referred to here may not be available in your region. bStocks are offered through an Approved Prospectus in the ADGM and are…
-- [Service Recovery Update: Withdrawals Recovery Work Complete (2026-11-26)](https://www.binance.com/en/support/announcement/detail/95c463396a034f1ab3994814225e6d69)
-  - Fellow Binancians, Our withdrawal recovery work is completed and the withdrawal suspension from the October security incident has been fully lifted. Thank you for your patience an…
 
 ### Latest Activities
 
