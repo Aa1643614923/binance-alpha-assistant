@@ -1,48 +1,39 @@
 # 币安 Alpha 助手日报
 
-- 生成时间：2026-11-27T23:20:35.874442+00:00
-- 四倍分代币数：8
-- 四倍分 24h 总成交额：752420425.37
+- 生成时间：2026-11-28T04:48:14.200297+00:00
+- 四倍分代币数：5
+- 四倍分 24h 总成交额：827219561.85
 - 成交额口径：alpha_trade_quote_volume_sum
-- 估算参与人数：91759（按 8200 / 人）
+- 估算参与人数：100880（按 8200 / 人）
 
 ## 四倍分代币
 
-- B2 | Alpha Trade 成交额 750388372.28 | 列表口径 1626473.19 | 涨跌 2.06% | 振幅 3.88% | 估算人数 91511
-- VELVET | Alpha Trade 成交额 1260076.11 | 列表口径 442132.90 | 涨跌 22.06% | 振幅 108.96% | 估算人数 154
-- KGEN | Alpha Trade 成交额 273652.57 | 列表口径 1057127.22 | 涨跌 1.90% | 振幅 18.79% | 估算人数 33
-- ON | Alpha Trade 成交额 189683.89 | 列表口径 790596.22 | 涨跌 -5.71% | 振幅 9.62% | 估算人数 23
-- ZEST | Alpha Trade 成交额 132062.71 | 列表口径 321442.49 | 涨跌 -2.25% | 振幅 10.45% | 估算人数 16
-- RAVE | Alpha Trade 成交额 82780.76 | 列表口径 374298.77 | 涨跌 -2.57% | 振幅 6.29% | 估算人数 10
-- STBL | Alpha Trade 成交额 74147.13 | 列表口径 888870.11 | 涨跌 -1.10% | 振幅 5.47% | 估算人数 9
-- VELO | Alpha Trade 成交额 19649.92 | 列表口径 122898.00 | 涨跌 3.03% | 振幅 6.51% | 估算人数 2
+- B2 | Alpha Trade 成交额 826837444.60 | 列表口径 1125071.95 | 涨跌 0.80% | 振幅 2.92% | 估算人数 100834
+- ZEST | Alpha Trade 成交额 139267.10 | 列表口径 313192.09 | 涨跌 -2.13% | 振幅 10.24% | 估算人数 17
+- ON | Alpha Trade 成交额 126872.73 | 列表口径 661743.16 | 涨跌 -3.81% | 振幅 8.85% | 估算人数 15
+- RAVE | Alpha Trade 成交额 68112.81 | 列表口径 346194.75 | 涨跌 -5.93% | 振幅 7.87% | 估算人数 8
+- STBL | Alpha Trade 成交额 47864.60 | 列表口径 673471.72 | 涨跌 -1.62% | 振幅 4.44% | 估算人数 6
 
 ## 稳定刷分推荐
 
-- B2 | 分数 100.00 | Alpha Trade 成交额 750388372.28 | 波动 0.10% | 4h 振幅 2.07% | 审计 LOW
-  - Alpha Trade 24h 成交额 750,388,372，流动性 699,113
-  - Alpha 列表口径 24h 成交额 1,626,473
-  - 短周期波动 0.10%
-  - 4h 振幅 2.07%
-  - 审计风险 LOW
-- VELVET | 分数 10.00 | Alpha Trade 成交额 1260076.11 | 波动 0.96% | 4h 振幅 10.14% | 审计 LOW
-  - Alpha Trade 24h 成交额 1,260,076，流动性 676,551
-  - Alpha 列表口径 24h 成交额 442,133
-  - 短周期波动 0.96%
-  - 4h 振幅 10.14%
+- B2 | 分数 55.00 | Alpha Trade 成交额 826837444.60 | 波动 0.18% | 4h 振幅 1.71% | 审计 LOW
+  - Alpha Trade 24h 成交额 826,837,445，流动性 698,590
+  - Alpha 列表口径 24h 成交额 1,125,072
+  - 短周期波动 0.18%
+  - 4h 振幅 1.71%
   - 审计风险 LOW
 
 ## Alpha 合约异动
 
 - 可映射 U 本位合约数：230
-- HAEDAL / HAEDALUSDT | 24h 涨跌 28.48% | 资金费率 -105.04 bps | 5m 持仓变化 0.08% | 建议通知
-- MMT / MMTUSDT | 24h 涨跌 -20.01% | 资金费率 -35.45 bps | 5m 持仓变化 0.12% | 建议通知
-- EVAA / EVAAUSDT | 24h 涨跌 -47.02% | 资金费率 0.50 bps | 5m 持仓变化 -0.00% | 建议通知
-- CFG / CFGUSDT | 24h 涨跌 9.84% | 资金费率 -31.06 bps | 5m 持仓变化 0.06% | 建议通知
-- BULLA / BULLAUSDT | 24h 涨跌 11.55% | 资金费率 14.24 bps | 5m 持仓变化 -0.14% | 建议通知
-- AKE / AKEUSDT | 24h 涨跌 -28.18% | 资金费率 0.50 bps | 5m 持仓变化 -0.00% | 建议通知
-- AIOT / AIOTUSDT | 24h 涨跌 -23.50% | 资金费率 3.48 bps | 5m 持仓变化 -0.21% | 建议通知
-- VELVET / VELVETUSDT | 24h 涨跌 23.27% | 资金费率 3.10 bps | 5m 持仓变化 -0.03% | 建议通知
+- CFG / CFGUSDT | 24h 涨跌 29.41% | 资金费率 -161.63 bps | 5m 持仓变化 0.89% | 建议通知
+- HAEDAL / HAEDALUSDT | 24h 涨跌 -10.35% | 资金费率 -130.83 bps | 5m 持仓变化 0.69% | 建议通知
+- MMT / MMTUSDT | 24h 涨跌 -15.22% | 资金费率 -35.53 bps | 5m 持仓变化 0.51% | 建议通知
+- BIGTIME / BIGTIMEUSDT | 24h 涨跌 -20.38% | 资金费率 -12.20 bps | 5m 持仓变化 -0.94% | 建议通知
+- EVAA / EVAAUSDT | 24h 涨跌 -29.78% | 资金费率 0.50 bps | 5m 持仓变化 -0.10% | 建议通知
+- AIOT / AIOTUSDT | 24h 涨跌 -24.05% | 资金费率 0.50 bps | 5m 持仓变化 0.03% | 建议通知
+- BTW / BTWUSDT | 24h 涨跌 19.99% | 资金费率 0.64 bps | 5m 持仓变化 0.17% | 建议通知
+- BULLA / BULLAUSDT | 24h 涨跌 -10.16% | 资金费率 8.25 bps | 5m 持仓变化 0.12% | 建议通知
 
 ## Alpha 日报
 
@@ -82,10 +73,7 @@
 
 ## Warnings
 
-- alpha_ticker:ALPHA_267U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_414U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_497U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_162U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_444U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
 - alpha_ticker:ALPHA_376U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
-- alpha_ticker:ALPHA_229U: request failed code=-1121 url=https://www.binance.com/bapi/defi/v1/public/alpha-trade/ticker
